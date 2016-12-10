@@ -3,6 +3,7 @@ var fs = require('fs');
 
 
 var articles = maValise.SPIP.spip_articles;
+var breves = maValise.SPIP.spip_breves;
 
 function asString(string) {
   return string.replace(/["]/g, '\\"');
@@ -10,7 +11,9 @@ function asString(string) {
 
 function convUrl(string) {
   return string.replace(/\[([^-]*)->([^\]]*)\]/g, "[$1]($2)")
-    .replace(/\((\d*)\)/, "(../article_$1)");
+    .replace(/\((\d*)\)/g, "(../article_$1)")
+    .replace(/\(breve(\d*)\)/, "(../breve_$1)")
+    ;
 }
 
 articles.forEach(function(article) {
@@ -28,8 +31,6 @@ articles.forEach(function(article) {
   content.push(convUrl(article.texte));
 
   var fileName = "content/post/article_" + article.id_article+ ".md";
-//  console.log(fileName);
-//  console.log(content.join('\n'));
   fs.writeFile(fileName,
       content.join('\n'),
       {flag:"w"},
@@ -38,6 +39,30 @@ articles.forEach(function(article) {
           return console.log(err);
         }
 
-        console.log("Files were saved!");
-  }); 
+        console.log("article "+ article.id_article + " saved!");
+  });
+});
+
+breves.forEach(function(breve) {
+  var content = [];
+  content.push("+++");
+  content.push('id = ' + breve.id_breve);
+  content.push('title = "' + asString(breve.titre)+'"');
+  content.push('date = "' + breve.date_heure.replace(/ /, "T") + "+01:00" +'"');
+  content.push('rubrique = ' + breve.id_rubrique);
+  content.push("+++");
+  content.push("");
+  content.push(convUrl(breve.texte));
+
+  var fileName = "content/post/breve_" + breve.id_breve+ ".md";
+  fs.writeFile(fileName,
+      content.join('\n'),
+      {flag:"w"},
+      function(err) {
+        if(err) {
+          return console.log(err);
+        }
+
+        console.log("breve " + breve.id_breve + " saved!");
+  });
 });

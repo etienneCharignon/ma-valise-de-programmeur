@@ -29,7 +29,7 @@ Il existe bien dans la nature des lois de ce type. Dans notre métier d'informat
 
 Si on s'autorise la caricature, notre chaine est la suivante:
 
-Spec](Dev->Test
+Spec=>Dev=>Test
 
 En pratique le maillon le plus lent, c'est le dev, c'est pour cette raison qu'en général il y a plus de développeurs que de gens pour spécifier et tester. 
 
@@ -37,7 +37,7 @@ On remarque aussi un goulet d'étranglement à la taille du stock qui se trouve 
 
 Dans le cas de l'informatique, ce tas se matérialise par la taille des cahiers de charges ou des documents de spécification.
 
-Pour améliorer la vitesse de la chaine, il y a plusieurs point d'actions[[Merci à Pascal Van Cauwenberghe pour sa présentation sur ce sujet à la conférence XP-Days 2007 dont j'ai pratiquement recopié les mots.)]: 
+Pour améliorer la vitesse de la chaine, il y a plusieurs point d'actions[[Merci à Pascal Van Cauwenberghe pour sa présentation sur ce sujet à la conférence XP-Days 2007 dont j'ai pratiquement recopié les mots.]]: 
 
 1 - identifier le goulet d'étranglement
 

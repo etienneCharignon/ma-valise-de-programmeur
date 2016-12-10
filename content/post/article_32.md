@@ -88,7 +88,7 @@ Tout d'abord, une petite définition sur le vocabulaire que je vais utiliser pou
 
 {{test de recette}} : description "discrète" d'une fonctionnalité de l'application. (la méthode empirique)
 
-A supposer que ma fonctionnalité soit une fonction mathématique. La spécifier reviendrait par exemple à donner la formule mathématique (f(x) = x*x), alors que les tests se contenteraient de donner tous les points caractéristiques (f(../article_0) = 0, f(2) = 4...) et un nom explicite à f, ici, ça pourrait être "carré" ;-).
+A supposer que ma fonctionnalité soit une fonction mathématique. La spécifier reviendrait par exemple à donner la formule mathématique (f(x) = x*x), alors que les tests se contenteraient de donner tous les points caractéristiques (f(../article_0) = 0, f(../article_2) = 4...) et un nom explicite à f, ici, ça pourrait être "carré" ;-).
 
 A la question, est-ce que je préfère avoir un document de spécifications ou un document de tests, le développeur répond : les tests me suffisent amplement.
 

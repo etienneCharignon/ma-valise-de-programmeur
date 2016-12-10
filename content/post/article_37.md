@@ -20,17 +20,17 @@ public class LoopSpeedTest extends TestCase {
     private static final int NOMBRE_ITERATION_EXPERIENCE = 1000;
 
     public void testForLoopSpeed(../article_) throws Exception {
-        mesureTempsExperience("for", new Experience() {
-            public void run() {
+        mesureTempsExperience("for", new Experience(../article_) {
+            public void run(../article_) {
                 for (int i = 0; i < VERY_BIG_NUMBER; i++) {
                 }
             }
         });
     }
 
-    public void testWhileLoopSpeed() throws Exception {
-        mesureTempsExperience("while", new Experience() {
-            public void run() {
+    public void testWhileLoopSpeed(../article_) throws Exception {
+        mesureTempsExperience("while", new Experience(../article_) {
+            public void run(../article_) {
                 int i = 0;
                 while (i < VERY_BIG_NUMBER) {
                     i++;
@@ -43,11 +43,11 @@ public class LoopSpeedTest extends TestCase {
         List<Integer> resultats = new ArrayList<Integer>(NOMBRE_ITERATION_EXPERIENCE);
         int somme = 0;
         for (int indexExperience = 0; indexExperience < NOMBRE_ITERATION_EXPERIENCE; indexExperience++) {
-            Chronometer.start();
-            experience.run();
-            Chronometer.stop();
+            Chronometer.start(../article_);
+            experience.run(../article_);
+            Chronometer.stop(../article_);
 
-            int temps = Chronometer.time();
+            int temps = Chronometer.time(../article_);
             resultats.add(temps);
             somme += temps;
         }
@@ -69,7 +69,7 @@ Pas de polémique, ces deux structures sont exactement identiques en terme de pe
 
 Du coup, je ne vois vraiment aucune raison d'utiliser la boucle While.
 
-Dans le but d'améliorer la lisibilité d'un code, dans le cas d'une équipe pratiquant la "propriété collective du code" par exemple, il sera judicieux de limiter les structures itératives à une seule forme : le for (et à la rigueur le foreach en Java 1.5[[ exemple de foreach sur une liste d'entier:<code>List<Integer> resultats = new ArrayList<Integer>();
+Dans le but d'améliorer la lisibilité d'un code, dans le cas d'une équipe pratiquant la "propriété collective du code" par exemple, il sera judicieux de limiter les structures itératives à une seule forme : le for (et à la rigueur le foreach en Java 1.5[[ exemple de foreach sur une liste d'entier:<code>List<Integer> resultats = new ArrayList<Integer>(../article_);
 for (Integer integer : resultats) {}</code>]])
 
 Cette structure est plus lisible car elle regroupe sur une seule ligne l'initialisation, la condition et la modification de l'élément variable de la boucle. De plus, si cet élément variable est déclaré dans le for, comme par exemple "i" dans l'exemple ci dessous,
@@ -88,7 +88,7 @@ Ce qui indique clairement une boucle infinie.
 
 Si l'initialisation ou la modification de l'élément variable est inutile, la boucle for l'indiquera clairement par un espace vide à l'endroit réservé comme dans l'exemple suivant :
 <code>
-for (;estFinBoucle();) {
+for (;estFinBoucle(../article_);) {
 }
 </code>
 
