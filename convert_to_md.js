@@ -11,8 +11,8 @@ function asString(string) {
 
 function convUrl(string) {
   return string.replace(/\[([^-]*)->([^\]]*)\]/g, "[$1]($2)")
-    .replace(/\((\d*)\)/g, "(../article_$1)")
-    .replace(/\(breve(\d*)\)/, "(../breve_$1)")
+    .replace(/\((\d+)\)/g, "(../article_$1)")
+    .replace(/\(breve(\d+)\)/, "(../../breve/breve_$1)")
     ;
 }
 
@@ -54,7 +54,7 @@ breves.forEach(function(breve) {
   content.push("");
   content.push(convUrl(breve.texte));
 
-  var fileName = "content/post/breve_" + breve.id_breve+ ".md";
+  var fileName = "content/breve/breve_" + breve.id_breve+ ".md";
   fs.writeFile(fileName,
       content.join('\n'),
       {flag:"w"},
