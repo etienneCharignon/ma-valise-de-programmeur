@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = "Les méthodes agiles ne sont pas un produit sur étagère mais plutôt un système de valeurs d'une part et de pratiques à adapter d'autre part."
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Quand on se fait agent du changement vers des pratiques de développement agiles, on se fait rapidement traiter de fanatique et c'est effectivement ce que l'on a l'air d'être. 
 
 Je ne sais pas comment font les autres, mais personnellement j'utilise l'idéal comme une référence et une vision de l'objectif à atteindre. Il n'est pas si facile de garder le cap quand on est plongé dans la réalité.

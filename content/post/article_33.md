@@ -7,5 +7,5 @@ rubrique = 1
 descriptif = ""
 +++
 
-<h2>par A. Shalloway et J.R. Trott, edition Eyrolles</h2>
+<div class="chapo">par A. Shalloway et J.R. Trott, edition Eyrolles</div>
 Un bon livre sur les design patterns, avec une introduction sur la nouvelle façon de faire de la conception objet depuis l'introduction de ces dernières.

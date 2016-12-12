@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = "Quelle drôle de vie auront nos enfants qui ne connaissent pas la vie sans internet."
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 ­­­­­­­­­­­­– Tu fais quoi, Papa ?
 
 – Ecoute Marc, je suis fatigué ce soir, joue avec ton train...

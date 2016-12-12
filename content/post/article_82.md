@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 [<img25|center>](http://emmanuelchenu.blogspot.com/2008/09/equipe-versus-groupe.html)
 
 Est-il nécessaire d'ajouter quelque chose ?

@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = "La programmation pilotée par les tests est une manière d'arriver à la modélisation d'une application, sans nécessiter de construire un grand plan en phase amont."
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Lors de mes cours d'informatique, j'ai très tôt appris qu'il était indispensable de réfléchir avant de se lancer dans l'écriture d'un programme. Certains ont poussé ce principe à l'extrême et on inventé le MDA (Model Driven Architecture). Cette approche propose d'écrire en UML l'intégralité du modèle de l'application avant de commencer à travailler. Je n'ai personnellement jamais rencontré de projet informatique ayant réussi en appliquant cette méthode.
 
 Le problème de cette approche est qu'elle essaie de manger un mammouth en une seule bouchée. Mais pour manger un mammouth, tout le monde sait qu'il faut d'abord le découper en tranches puis manger chaque tranche par petite bouchée. C'est ce que propose le développement piloté par les tests (DPT).

@@ -7,7 +7,7 @@ rubrique = 14
 descriptif = "J’ai assisté aux rencontres agiles 2007 qui se sont déroulées de 9h00 à 12h00 mardi 18 décembre à Paris La Défense."
 +++
 
-<h2>J'ai assisté aux rencontres agiles 2007 qui se sont déroulées de 9h00 à 12h00 mardi 18 décembre à Paris La Défense.</h2>
+<div class="chapo">J'ai assisté aux rencontres agiles 2007 qui se sont déroulées de 9h00 à 12h00 mardi 18 décembre à Paris La Défense.</div>
 Pour commencer, une petite déception personnelle, en effet, cette conférence était plutôt orientée "newby" du fait de son format : des présentations nombreuses et courtes (20 minutes). 
 
 - Malheureusement, la présentation de Christophe Thibaut a sauté.

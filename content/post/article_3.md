@@ -7,7 +7,7 @@ rubrique = 1
 descriptif = ""
 +++
 
-<h2>par Geoffrey A. Moore. Edition HarperBusiness Essentials</h2>
+<div class="chapo">par Geoffrey A. Moore. Edition HarperBusiness Essentials</div>
 Je crois qu'on pourrait dire que XP[[Extreme Programming]] est une innovation discontinue (pardon si j'enfonce des portes ouvertes).
 
 La solution : trouver une niche, un segment de marché... Où est la niche ?

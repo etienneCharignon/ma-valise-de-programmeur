@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = "Mais pourquoi fait-on de l'intégration continue ? Parce que c'est plus efficace et parce que c'est la seule façon de s'en sortir."
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 En voyant ce titre, je suis sûr que certains vont s'attendre à ce que j'explique lequel d'Hudson ou d'un autre outil est le meilleur ! je vous le dis tout de suite, ces personnes peuvent passer à autre chose et augmenter le taux de rebond dans mes statistiques google analytics.
 
 Ce que je voudrais expliquer ici, c'est pourquoi il faut faire de l'intégration continue. A noter que l'intégration continue dont je parle ici n'est pas simplement une question informatique. C'est une notion qui s'applique à tout projet complexe où plusieurs sous-parties sont réalisés séparément puis assemblées pour former un tout.

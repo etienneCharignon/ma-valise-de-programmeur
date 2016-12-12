@@ -7,7 +7,7 @@ rubrique = 14
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 En ce moment, j'ai des trajets un peu long pour me rendre sur mon lieu de travail. J'ai découvert que pour combler l'ennui je pouvais écouter des podcast. A premier abord, je n'étais pas trop convaincu par cette idée. Je ne suis pas trop du genre à me coller devant la télé pendant des heures et quand j'avais essayé de d'en écouter quelques un le soir sur mon ordinateur portable, j'avais trouvé ça peu pratique et puis je ne parvenait pas à la tentation de faire autre chose en même temps, petit à petit mon attention se focalisais sur autre chose et finalement, je finissais par couper.
 
 Mais dans ma voiture c'est différent. J'ai entre 1 heure et 1 heure et demi de trajet alors les podcasts, plus ils sont long plus c'est bon.

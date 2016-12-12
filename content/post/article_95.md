@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 -- "Allons, un peu de bon sens ! Pour fabriquer une maison, il faut commencer par les fondations, puis faire les murs et ensuite seulement vous pouvez poser le toit. On ne peut pas commencer par le toit !"
 
 En effet, la force d'attraction gravitationnelle nous oblige à commencer par les fondations. Et il faut qu'elles soient bonnes puisque le reste de la maison va ensuite tenir en équilibre dessus.

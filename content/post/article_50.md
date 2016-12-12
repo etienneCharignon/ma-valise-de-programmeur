@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = "Descopage ! Voici \"l'insulte\" que l'on peut entendre parfois si on s'aventure à parler de contenu fonctionnel variable dans une réponse à appel d'offre... Cela est pourtant assez naturel."
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 J'ai eu l'occasion, il y a déjà quelque temps, de participer à une réunion avec un client. Il s'agissait de nous présenter le projet pour nous permettre de bâtir notre réponse à appel d'offre.
 
 Le client avait eu une expérience de projet réussi ayant utilisé la méthode Extreme Programming, et nous espérions pouvoir vendre notre capacité à monter ce nouveau projet en utilisant cette méthode.

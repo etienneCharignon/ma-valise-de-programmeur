@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = "Pas de polémique... Ex aequo !... S'en suis quelques remarques sur la lisibilité du code et l'utilisation des boucles \"for\"."
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Aujourd'hui, on m'a affirmé que les boucles While étaient plus rapides que les boucles For ! Cette affirmation m'a paru pour le moins étrange, et j'ai décidé de vérifier rapidement ce qu'il en était.
 
 J'ai fait ma petite expérience en Java.

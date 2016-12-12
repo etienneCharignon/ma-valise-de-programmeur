@@ -7,7 +7,7 @@ rubrique = 14
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Le Jeudi 8 Novembre 2012 aura lieu la grande conférence agile du CARA à Grenoble : [Agile Grenoble 2012](http://2012.agile-grenoble.org/).
 
 J'y présenterai une session :

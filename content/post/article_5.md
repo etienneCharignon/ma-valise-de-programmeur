@@ -7,5 +7,5 @@ rubrique = 1
 descriptif = ""
 +++
 
-<h2>Par Kent Beck, édition Addison-Wesley</h2>
+<div class="chapo">Par Kent Beck, édition Addison-Wesley</div>
 Incontournable pour qui veut apprendre à faire des tests unitaires de façon efficace et productive.

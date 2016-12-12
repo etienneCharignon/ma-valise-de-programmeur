@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = "Qu'est ce qui motive les entreprises a passer au binômage ? Quel intérêt peut-on y trouver ?"
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 De plus en plus d'entreprises éditrices de logiciels organisent leurs équipes de travail en binôme, c'est à dire que les développeurs écrivent des programmes informatiques en se mettant à deux par clavier. Qu'est-ce qui a pu motiver ces entreprises à changer ? Cette pratique est-elle le fait d'illuminés rêvant d'un monde meilleur où la moitié des employés se tournerait les pouces ? 
 
 Ce qui est étonnant, c'est que le binômage existe depuis plus de 20 ans, mais l'engouement pour ce mode de fonctionnement semble récent. Si on recherche des informations à propos du binômage dans la littérature d'il y a quelques années, certaines études [[Malheureusement, je n'arrive pas a retrouver la référence à ces études et même, comme l'explique Martin Fowler, il n'est pas possible de mesurer la productivité ! [CannotMeasureProductivity](http://martinfowler.com/bliki/CannotMeasureProductivity.html) Quoi qu'il en soit, les chiffres de 1,8, 2 ou 4 permettent de bien expliquer les idées de cette article et me semble correspondre à ce que je connais]]avaient montré que la productivité d'un binôme était de 1,8 par rapport à celle de deux personnes travaillant indépendamment (productivité de 2). En effet, la première constatation est qu'un binôme ne travaille pas deux fois moins vite que deux personnes séparées. Et pourtant ce résultat ne permet pas de justifier que des entreprises décident de choisir ce mode d'organisation. 

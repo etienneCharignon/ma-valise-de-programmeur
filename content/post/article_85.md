@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 -- Tiens salut Eric
 -- Eh ! salut Stéphane, comment vas-tu ?
 -- Ah ! je suis un peu déprimé en ce moment !

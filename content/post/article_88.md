@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Les informaticiens aiment communiquer. Ils n'ont pas les lunettes sales comme on l'entend dire parfois.
 
 Quand j'étais étudiant (en informatique), nous nous retrouvions par nécessité dans les salles informatique pour travailler. En effet il était difficile à l'époque de travailler chez soi car les ordinateurs étaient encore trop chers pour la plus part d'entre nous. C'était plaisant de partager notre peine (les solutions sont souvent abstraites et difficile à comprendre), nos peurs de l'échec et notre passion communes.

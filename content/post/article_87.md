@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Quand les enfants sont tout petit, leur premiers dessins sont des bonhomme tétard. 
 
 {image à trouver}

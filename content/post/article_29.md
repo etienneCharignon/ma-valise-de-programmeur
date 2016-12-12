@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Dans la littérature sur l’eXtreme Programming, on parle du rôle des membres d’un binôme en tant que “Pilote” et “Copilote”. Après trois ans de pratique je viens seulement de réaliser que ces termes font sans doute référence à une équipe de pilote de rallye. Dans la voiture, un des deux équipiers a le rôle du pilote et son travail est de “manipuler” la voiture le plus rapidement possible. Pour améliorer ses performances, il se décharge complètement de la gestion de l’itinéraire sur son coéquipier.
 Les deux membres de l’équipe ont un objectif commun (atteindre la ligne d’arrivée le plus vite possible) et chacun doit tenir son rôle pour y arriver.
 

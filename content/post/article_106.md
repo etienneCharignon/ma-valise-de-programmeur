@@ -7,7 +7,7 @@ rubrique = 14
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Youupi ! ma session pour Agile France 2011 a été retenue.
 
 Agile France est la conférence agile parisienne à ne pas manquer. Anciennement nommée XP-France, elle a été renommée pour représenter tous les courants de l'agilité.

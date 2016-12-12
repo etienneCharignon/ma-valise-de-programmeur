@@ -7,5 +7,5 @@ rubrique = 1
 descriptif = ""
 +++
 
-<h2>par Jean-Louis Bénard, Laurent Bossavit, Régis Médina, Dominic Williams, édition Eyrolles</h2>
+<div class="chapo">par Jean-Louis Bénard, Laurent Bossavit, Régis Médina, Dominic Williams, édition Eyrolles</div>
 Très complet, Le premier livre en français sur l'extreme programming.

@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 {{Anne}} : Ho non, l’ordinateur ne marche plus.
 
 {{Etienne}} {(depuis la salle de bain)} : qu’est ce qui ce passe ?

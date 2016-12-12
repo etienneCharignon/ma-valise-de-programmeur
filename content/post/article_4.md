@@ -7,5 +7,5 @@ rubrique = 1
 descriptif = ""
 +++
 
-<h2>par J.L. Deladrière, F. Le Bihan, P.Mongin et D. Rebaud. Edition Dunod</h2>
+<div class="chapo">par J.L. Deladrière, F. Le Bihan, P.Mongin et D. Rebaud. Edition Dunod</div>
 Très intéressant et facile à lire. Je vais sûrement utiliser longtemps ces cartes euristiques.

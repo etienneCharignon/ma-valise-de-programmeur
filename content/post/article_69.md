@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = "Est-il absolument indispensable de baser toute architecture logiciel systématiquement sur une base de données ?"
 +++
 
-<h2>Beaucoup d'applications développées de nos jours souffrent d'avoir été basées à priori sur une architecture avec une base de données. Cette décision systématique est la cause de grand maux.</h2>
+<div class="chapo">Beaucoup d'applications développées de nos jours souffrent d'avoir été basées à priori sur une architecture avec une base de données. Cette décision systématique est la cause de grand maux.</div>
 Cela faisait un moment que cette réflexion me démangeait, mais je n'arrivais pas à en sortir quelque chose. C'est parfois comme ça quand l'émotion occupe trop le champ. Comme cela m'énerve que les bases de données aient une telle "légitimité". 
 
 Et voila que je viens de lire le dernier poste de [Martin Fowler](../article_56). Quel plaisir et quel soulagement de voir, si bien exposé, ce sujet qui me travaille tant !

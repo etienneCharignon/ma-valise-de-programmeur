@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = "eXtreme Programming ? Il s'agit de pousser un certain nombres de pratiques à l'extrême. Mais n'est-il pas plus sage d'avoir une attitude modéré ? Non, il est plutôt question d'optimisation."
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Non ! Encore cette étiquette d’extrémistes !
 
 Comment Schumacher aurait-il pu gagner un championnat de formule 1 s’il n’appuyait pas au maximum sur l’accélérateur ? Voila l’idée de l’eXtreme Programming. Il ne s’agit pas d’aller trop loin, mais de rechercher la performance optimum des pratiques qui la constituent.

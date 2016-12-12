@@ -7,7 +7,7 @@ rubrique = 11
 descriptif = "Alors que les Valtech Days 2011 se dérouleront dans deux jours, je viens de retrouver un billet qui m'avait été inspiré par la version 2007 des Valtech Days et que je n'avais jamais publié. J'y présente les pratiques de l'extreme programming qui contribuent au travail de la modélisation."
 +++
 
-<h2>En fouillant la page administration de mon blog je viens de tomber sur un brouillon d'article écrit il y a déjà plus de 3 ans. Je me souviens avoir beaucoup hésité à publier cet article, n'étant pas complètement satisfait du contenu. En fin de compte j'ai trouvé ça intéressant. J'espère que vous aurez autant de plaisir que moi à le lire.</h2>
+<div class="chapo">En fouillant la page administration de mon blog je viens de tomber sur un brouillon d'article écrit il y a déjà plus de 3 ans. Je me souviens avoir beaucoup hésité à publier cet article, n'étant pas complètement satisfait du contenu. En fin de compte j'ai trouvé ça intéressant. J'espère que vous aurez autant de plaisir que moi à le lire.</div>
 Lors des conférences Valtech Days 2007[[Pour rappel, la version 2011 aura lieux dans 2 jours. Inscription gratuite : http://www.valtechdays.fr]], le sujet de la place de la modélisation dans les processus Agiles est revenu plusieurs fois. Je me permets de vous présenter ici quelques principes et pratiques de l'eXtreme Programming à ce sujet.
 
 ## You Ain't Gonna Need It

@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 J'ai rencontré récement une personne qui m'a posé cette question. En fait ce n'est pas la première fois qu'on me la pose. Mais je n'avais jusque là rien trouvé de très intéressant à répondre.
 
 Pourtant cette fois, j'ai l'impression d'avoir quelque chose à dire.

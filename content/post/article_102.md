@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = "Ceci est une participation à une conversation récente de la liste de discussion xp-france sur la place de l'architecture orientée composant dans l'agilité."
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Bonjour la liste[[http://fr.groups.yahoo.com/group/xp-france/message/8909]],
 
 "...{Le découpage en plusieurs équipes me semble avant tout une affaire de

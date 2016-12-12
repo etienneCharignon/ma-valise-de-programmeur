@@ -7,7 +7,7 @@ rubrique = 14
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Le jeudi 28 février à 19:00, je présenterai un retour d'expérience sur l'utilisation de l'outil [Fitnesse](http://www.fitnesse.org).
 
 Cette soirée sera l'occasion de montrer le résultat d'une utilisation avancée de FitNesse. Nous présenterons rapidement les concepts du développement piloté par les tests fonctionnels (ATTD : acceptance test driven development) ainsi que l'outil Fitnesse, que nous avons mis en place. Enfin, nous vous montrerons du "vrai", nos documents d'acceptations, et la mécanique qui est derrière.

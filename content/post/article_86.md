@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Il m'est souvent arrivé de parler sur ce blog d'automatisation des tests. Ces tests qui finissent par se rassembler par centaines constituent ce que l'on appelle la "suite de test".
 
 Au fur et à mesure que le projet grandit, cette suite devient de plus en plus longue à exécuter... En fait si on n'y prend pas garde, elle dépassera même rapidement les 10 minutes puis... 20... Mais en fait, des choses bien plus embêtantes seront apparues avant d'en arriver là. 

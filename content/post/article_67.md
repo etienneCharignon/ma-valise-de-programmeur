@@ -7,7 +7,7 @@ rubrique = 11
 descriptif = "Voici une liste d'idées pouvant servir lors de la phase de lancement d'un projet qu'on appel parfois l'itération zéro."
 +++
 
-<h2>Lors de la soirée OpenSpace des praticiens XP animé par Yannick Ameur le jeudi 3 avril 2008 dans les locaux de Valtech, nous avons fait une session "itération zéro".</h2>
+<div class="chapo">Lors de la soirée OpenSpace des praticiens XP animé par Yannick Ameur le jeudi 3 avril 2008 dans les locaux de Valtech, nous avons fait une session "itération zéro".</div>
 C'est Eric Mignot qui nous a proposé ce sujet. Il nous a proposé d'essayer de lister un ensemble de pratiques, techniques ou exercices pouvant trouver leur place spécifiquement pendant l'itération zéro.
 
 La première partie de la session a été consacré a discuter de ce qu'était en fait l'itération zéro.

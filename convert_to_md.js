@@ -28,7 +28,7 @@ articles.forEach(function(article) {
   content.push('descriptif = "' + asString(article.descriptif).replace(/\n/, "")  +'"');
   content.push("+++");
   content.push("");
-  content.push('<h2>' + article.chapo+'</h2>');
+  content.push('<div class="chapo">' + article.chapo+'</div>');
   content.push(spipToMd(article.texte));
 
   var fileName = "content/post/article_" + article.id_article+ ".md";

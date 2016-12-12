@@ -7,7 +7,7 @@ rubrique = 14
 descriptif = "Conférence d'une journée sur Ruby et Ruby on Rails"
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 <img12|center>
 
 ## Premières impressions

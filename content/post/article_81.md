@@ -7,7 +7,7 @@ rubrique = 14
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Ce week-end, mon grand fils de 5 ans a voulu sortir son vélo pour aller en faire au parc. Pour nous rendre jusqu'au parc, il nous faut environ 15 minutes à pied. C'est toujours un peu fatiguant quand il veut sortir son vélo parce que je sais qu'au retour il faudra que je le porte. Mon fils n'est pas encore très doué pour le vélo. Enfin, j'ai eu peur pour rien, car cette fois ci il ne me l'a pas fait porter. 
 
 Mais revenons sur ce fameux trajet de 15 minutes. Comme je vous le disais, mon fils n'est pas encore très doué. La dernière fois, il est tombé et du coup, cette fois il était excessivement prudent. Nous avons dû mettre au moins 20 minutes. 

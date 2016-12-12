@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = ""
 +++
 
-<h2>Des User stories estimées en point de complexité ? j'y comprends rien !</h2>
+<div class="chapo">Des User stories estimées en point de complexité ? j'y comprends rien !</div>
 ## Qu'est ce qu'une User Story
 Dans nos projets agiles, nous découpons nos besoins en petites fonctionnalité. Cette liste de fonctionnalié est appelée le Product Backlog (ou "carnet de produit" comme disent les Quebecois).
 

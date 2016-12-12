@@ -7,7 +7,7 @@ rubrique = 14
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Il reste encore quelques places pour assister à [la conférence XP-Day->http://www.xpday.fr/], la conférence agile sur les méthodes agiles, les 25 et 26 mai prochains à Paris.
 
 

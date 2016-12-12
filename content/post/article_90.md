@@ -7,5 +7,5 @@ rubrique = 1
 descriptif = ""
 +++
 
-<h2>par Dale Carnegie</h2>
+<div class="chapo">par Dale Carnegie</div>
 Ce livre est un des premiers, sinon le premier livre sur l'amélioration personnelle. Ne vous fiez pas trop au titre à la consonance un peu ringarde, ce livre est truffé d'idées simples pour mieux se comporter et devenir quelqu'un de "social".

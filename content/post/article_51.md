@@ -7,7 +7,7 @@ rubrique = 1
 descriptif = ""
 +++
 
-<h2>Par Gerald M. Weinberg, édition Dorset House Publishing</h2>
+<div class="chapo">Par Gerald M. Weinberg, édition Dorset House Publishing</div>
 <img7><img8><img9>
 
 Une série à mettre définitivement entre toutes les mains des développeurs désirant devenir un jour manager, mais aussi cherchant simplement a comprendre comment faire des logiciels de bonne qualité.

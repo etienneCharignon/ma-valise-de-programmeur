@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 J'ai discuté récemment avec quelques collègues de Valtech du modèle de préférence psychologique de Myers-Briggs [MBTI](http://16types.free.fr/index.html). Les 4 axes proposés qui conduisent à 16 profils différents donnent une palette subtile et riche de possibilités.
 
 Suite à une discussion avec mon cousin Laurent le week-end dernier, je me suis fait la réflexion suivante au sujet du premier axe : 

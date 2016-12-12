@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = "Qu'est-ce qu'on apprend en lisant du code ?"
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Qu'est-ce qu'on apprend en lisant du code ?
 
 Il existe 5 raisons qui font que le code est ce qu'il est :

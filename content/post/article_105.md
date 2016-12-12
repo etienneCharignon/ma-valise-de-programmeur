@@ -7,7 +7,7 @@ rubrique = 14
 descriptif = "Je suis allé, ce matin, assister à la [discussion sur l'agilité avec Alistair Cockburn->http://blog.valtech.fr/wordpress/2011/03/24/valtech-accueille-alistair-cockburn-le-28-mars-a-paris/]."
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Ce matin, Valtech accueillait Alistair Cockburn de passage à Paris. Nous avons pu discuter différents sujet, de manière très informelle, mais non moins organisée.
 
 Nous avons abordé les sujets suivants (et j'en oublie): 

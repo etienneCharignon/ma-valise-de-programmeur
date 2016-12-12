@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = "\"Une seule équipe pour un seul produit\". Voici la réalité qui se cache derrière la pratique de client sur site d'XP."
 +++
 
-<h2>Suite à la lecture du livre "Software Craftsmanship", je me suis fait quelques réflexions sur la pratique de "client sur site" proposé par XP.</h2>
+<div class="chapo">Suite à la lecture du livre "Software Craftsmanship", je me suis fait quelques réflexions sur la pratique de "client sur site" proposé par XP.</div>
 Le cycle en V connaît un défaut majeur : l'effet "téléphone arabe". L'idée de diviser le travail de développement logiciel par spécialisation spec/dev/test en donnant la responsabilité de chaque spécialité à des "chefs" distincts produit un effet de téléphone arabe.
 
 En effet la première équipe, chargée des spécification, explore l'"idée" du logiciel et imagine une solution permettant de répondre à tous les besoins du client.

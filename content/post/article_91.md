@@ -7,7 +7,7 @@ rubrique = 14
 descriptif = ""
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Le 15 Octobre, j'irai assister à la session parisienne de l'Agile Tour édition 2009. J'ai l'impression, à regarder [le programme](http://www.agiletour.org/fr/at2009_paris_programme.html), que l'agilité prend une sacrée tournure "main stream".
 
 Quelques exemples:

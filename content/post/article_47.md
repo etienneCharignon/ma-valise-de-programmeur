@@ -7,7 +7,7 @@ rubrique = 10
 descriptif = "Une métaphore des profils de développeurs."
 +++
 
-<h2></h2>
+<div class="chapo"></div>
 Il est amusant de constater qu'on peut faire correspondre différents profils de développeurs aux corps de métier du bâtiment. Des maçons, des plombiers et des peintres, voici des profils tout à fait distincts. Chacun peut être un jour l'un un jour l'autre, ou plusieurs corps en même temps. 
 
 Ce qui me fait toujours peur personnellement, c'est de me voir coller une étiquette et de ne plus pouvoir m'en défaire. j'entends déjà "Oh, lui, c'est un plombier !". 

@@ -7,5 +7,5 @@ rubrique = 1
 descriptif = ""
 +++
 
-<h2>Par Joshua Bloch, édition Vuibert</h2>
+<div class="chapo">Par Joshua Bloch, édition Vuibert</div>
 Ouvrage de référence, indispensable.
