@@ -12,17 +12,17 @@ J'ai rencontré récement une personne qui m'a posé cette question. En fait ce 
 
 Pourtant cette fois, j'ai l'impression d'avoir quelque chose à dire.
 
-{{{Définition}}}
+## Définition
 Je ne suis pas moi même très au fait de ce qu'est un analyste métier. On parle de business analyste, AMOA ou Assistance à Maitrise d'ouvrage. Certaine personne se voient comme "responsable des spécifications". D'autre comme "tout sauf le code" (sous entendu, spec et test). Je dois dire que cette dernière définition m'exaspère ! Est-ce que les analystes sont des parasites d'un projet de développement informatique, s'intéressant à tout ce qui concerne un projet, sauf sont objet principal ? Est-ce que des développeurs ne peuvent pas prendre en charge aussi l'analyse métier ? En fait, c'est souvent mon cas... Enfin je crois. Je suis développeur et pour faire mon métier correctement, il me semble indispensable de comprendre le besoin du client. Je prends souvent parts au discussion concernant le métier avec mes clients. Je les aides à définir leur besoins. Je leur donne des idées...
 
 Enfin bref. Ce qui m'intéresse dans ce billet c'est le cas des personnes qui veulent se mellé des affaires d'une équipe de développement informatique, mais sans savoir programmer.
 
-{{{La théorie des contraintes}}}
+## La théorie des contraintes
 
 Spec ---> Dev ---> Test
 
 Voici la suite d'étape d'un développement classique. 
-Avec l'ATDD (ou TDR, ou Spécifications automatisables, ou Spécification par l'exemple) on se retrouve plutôt avec le schéma suivant (mais mon discour reste valable aussi pour le schéma ci-dessus): 
+Avec l'ATDD (ou TDR, ou Spécifications automatisables, ou Spécification par l'exemple) on se retrouve plutôt avec le schéma suivant (mais mon discours reste valable aussi pour le schéma ci-dessus): 
 
 Spec/Test ---> Dev
 
@@ -44,7 +44,7 @@ Cela à deux conséquences :
 - Les analystes se sentent sous employés et mal à l'aise devant les développeurs qui eux trime sans ménagement.
 - Les développeurs se choque de voire que "certains ici ne semble pas se donner autant de mal que les autres" !
 
-{{{Les réactions maladroites du management}}}
+## Les réactions maladroites du management
 
 La situation la pire c'est quand le management prend conscience de la chose et décide "d'y remédier" !
 
@@ -60,7 +60,7 @@ Pour éviter ça, le développement vas devoir prendre en charge une partie de l
 
 On finira par trouver que l'analyste ne sert à rien.
 
-{{{La solution Agile : une équipe cross fonctionnelle auto-organisée}}}
+## La solution Agile : une équipe cross fonctionnelle auto-organisée
 
 Dans une équipe agile on ne se pose pas toutes ces questions. Nous sommes tous dans le même bateau, avec un objectif commun : satisfaire le client.
 

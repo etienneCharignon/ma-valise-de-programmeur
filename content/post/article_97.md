@@ -13,7 +13,7 @@ Quand on travaille sur des projets de développement informatique, on a en gén�
 
 Comme beaucoup d'autres sur place je n'ai pas l'impression d'avoir eu plusieurs sessions, mais plutôt une seule et unique grande discussion. Si le premier jour nous avions planifié sagement 3 [sessions](http://www.flickr.com/photos/72587798@N00/4312494058/) en parallèle réparties sur 2 créneaux le matin et 3 l'après midi, la suite du séminaire s'est terminée d'une manière beaucoup plus "auto organisée" avec des sessions à diner, le soir... et la nuit... et même hors du temps. Et pour résoudre les frustrations, nous avons fini par faire plusieurs sessions en même temps dans le salon "rétro-lounge", de loin la salle la plus agréable :-)
 
-{{{Estimations, kanban, métriques.}}}
+## Estimations, kanban, métriques.
 
 A quoi servent les estimations ? Faut-il faire une estimation détaillée ou "à la bignouse" ?
 N'est-il pas vrai que les développeurs Scrum souffrent de leurs estimations "à la tache", foireuses ? Il semble que Kanban résolve ça puisqu'elle arrête simplement d'en faire ! Nous avons fait un [comparatif des méthodes agiles](http://www.flickr.com/photos/72587798@N00/4311755705/) !
@@ -23,16 +23,16 @@ Quelles sont les bonnes métriques ? métriques logiciel ou même métriques de 
 Là je suis dans le RER A et je me demande si je vais vraiment finir par arriver un jour chez moi tellement ça n'avance pas !
 .....
 
-{{{Construction incrémentale}}}
+## Construction incrémentale
 
 C'est une discussion que j'ai initié dans le but de comprendre un peu mieux ce sujet qui me semble si naturel mais que j'ai tant de mal à comprendre... Je remercie beaucoup Perrick Penet pour son "insight" sur le sujet. Avec tout ce que j'ai collecté, j'espère pouvoir faire un sujet intéressant pour la prochaine conférence Agile France (anciennement XP-Days France).
 
-{{{La killer App 2010 :-)}}}
+## La killer App 2010 :-)
 
 Avec l'open source et wikipedia, nous sommes entrés dans l'ère du Capitalisme Collaboratif ! Dans cette esprit, quelle serait la killer app de l'année ?
 Moi, j'ai proposé une application de taxi collaboratif sur IPhone, une sorte de super auto-stop booster aux hormones de la mobilité... Après vérification, il en existe déjà 5 sur AppStore !
 
-{{{Cadavre Exquis}}}
+## Cadavre Exquis
 
 Ah ! le meilleur pour la fin. A l'initiative de Luc Mazardo et avec Pascal Grange nous avons démarré un [Cadavre Exquis](http://xp-france.net/cgi-bin/wiki.pl?CadavreExquis) sur du code. Un Cadavre Exquis ? Vous savez, ce jeux qui consiste à travailler chacun son tour sur une création en y ajoutant simplement sa touche personnelle (on a fait ça à table, un petit dessin qu'on fait tourner qui donne un truc à la fin...).
 Ici, il s'agit de faire un programme.

@@ -39,7 +39,7 @@ Nous n'avons pas obtenu le projet.
 Conclusion : Le client était peut-être prêt pour XP, mais pas nous. Quand on vend de l'XP, il n'y a pas de solution intermédiaire. On ne peut pas céder sur les fondamentaux. Si on veut vendre de l'Agile, il faut en comprendre l'essence.
 
 
-{{{Comment charger sa voiture pour les vacances}}}
+## Comment charger sa voiture pour les vacances
 
 Cette année, je suis parti en vacances au mois d'aout et il a fait un temps pourri, mais là n'est pas la question. Je suis parti en voyage une semaine avec ma petite famille (ma femme et mes deux enfants de 5 mois et 3 ans) dans ma Clio.
 

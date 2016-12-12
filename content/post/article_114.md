@@ -8,7 +8,7 @@ descriptif = ""
 +++
 
 <h2>Des User stories estimées en point de complexité ? j'y comprends rien !</h2>
-{{{Qu'est ce qu'une User Story}}}
+## Qu'est ce qu'une User Story
 Dans nos projets agiles, nous découpons nos besoins en petites fonctionnalité. Cette liste de fonctionnalié est appelée le Product Backlog (ou "carnet de produit" comme disent les Quebecois).
 
 Chaque fonctionnalié est appelée "User Story". En francais, on entend parfois "Histoire Utilisateur", mais comme tous le monde dit User Story, je vait resté là dessus. Une User Story est courte, elle peut être écrite sur une carte en utilisant le formalisme suivant. 
@@ -17,7 +17,7 @@ En tant que... J'ai besoins de... dans le but de...
 Par exemple : 
 En tant que client, j'ai besoins d'un reçu dans le but de tenir mes comptes.
 
-{{{Et la complexité alors ?}}}
+## Et la complexité alors ?
 
 Dans le but de permettre la planification de notre projet, nous avons besoins d'estimer la taille du travail à faire. En agile, on introduit une distinction importante. Nous faisons la différence entre la complexité et l'effort. C'est souvent là que la comprehéntion coince un peu. Quel est cette nuance et pourquoi en a-ton besoins ?
 
@@ -37,7 +37,7 @@ Au cours du déroulement de votre projet, les User Story que vous aviez estimé 
 
 L'estimation de complexité est une estimation relative, car c'est ce qu'il y a de plus facile à faire. Notre cerveau est une machine à comparer les choses deux à deux.
 
-{{{Comment je passe à la planification ?}}}
+## Comment je passe à la planification ?
 
 Pour pouvoir procédre à la planification, sur la base de vos estimations de points de complexité, il vous manque un moyen de rapprocher cette complexité de l'effort (c'est à dir le nombre de jour.homme qu'il faut pour faire un point).
 

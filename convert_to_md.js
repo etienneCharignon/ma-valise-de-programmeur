@@ -9,10 +9,11 @@ function asString(string) {
   return string.replace(/["]/g, '\\"');
 }
 
-function convUrl(string) {
+function spipToMd(string) {
   return string.replace(/\[([^-]*)->([^\]]*)\]/g, "[$1]($2)")
     .replace(/\((\d+)\)/g, "(../article_$1)")
     .replace(/\(breve(\d+)\)/, "(../../breve/breve_$1)")
+    .replace(/\{\{\{(.+)\}\}\}/g, "## $1")
     ;
 }
 
@@ -28,7 +29,7 @@ articles.forEach(function(article) {
   content.push("+++");
   content.push("");
   content.push('<h2>' + article.chapo+'</h2>');
-  content.push(convUrl(article.texte));
+  content.push(spipToMd(article.texte));
 
   var fileName = "content/post/article_" + article.id_article+ ".md";
   fs.writeFile(fileName,
@@ -52,7 +53,7 @@ breves.forEach(function(breve) {
   content.push('rubrique = ' + breve.id_rubrique);
   content.push("+++");
   content.push("");
-  content.push(convUrl(breve.texte));
+  content.push(spipToMd(breve.texte));
 
   var fileName = "content/breve/breve_" + breve.id_breve+ ".md";
   fs.writeFile(fileName,

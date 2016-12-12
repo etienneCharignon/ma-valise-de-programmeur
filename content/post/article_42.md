@@ -8,12 +8,12 @@ descriptif = ""
 +++
 
 <h2></h2>
-{{{Musique et Programmation}}}
+## Musique et Programmation
 Les spécifications sont à la programmation ce qu'une partition est à la musique. La véritable performance ne se réalise qu'à partir du moment où l'on arrive à s'en détacher.
 
 Avez-vous déjà demandé à un ordinateur de jouer une partition de musique ? J'ai essayé, ça ne fonctionne pas. Avec du bon matériel, on obtient un air juste, mais sans âme, sans émotion. Un logiciel informatique n'est pas seulement le produit d'une activité rationnelle, c'est pour cette raison que la génération automatique d'un logiciel à partir d'un modèle UML ne fonctionne pas.
 
-{{{Cuisine et Programmation}}}
+## Cuisine et Programmation
 Les spécifications sont à la programmation ce qu'une recette est à la cuisine. On dit souvent que pour faire un bon gâteau, il faut une bonne recette. 
 
 Premièrement, ce n'est pas suffisant. Si vous ne me croyez pas, venez manger une fois chez ma tante.

@@ -25,7 +25,7 @@ En effet, aussi surprenant que cela puisse paraître, les milliard d'étoiles qu
 
 Il existe bien dans la nature des lois de ce type. Dans notre métier d'informaticien il est une loi qui nous impacte beaucoup, c'est la loi des enchaînements et des aléas qui sous tend la théorie des contraintes.
 
-{{{Cette théorie dit que la vitesse d'une chaine de production est égale à la vitesse du maillon le plus faible.}}}
+## Cette théorie dit que la vitesse d'une chaine de production est égale à la vitesse du maillon le plus faible.
 
 Si on s'autorise la caricature, notre chaine est la suivante:
 
@@ -75,7 +75,7 @@ Parfois, il n'y a plus moyen d'améliorer le système. Alors il faut changer la 
  - "Ne touchez pas à ça ! vous allez tout casser !" - Pourquoi ?, Est-ce qu'on peut faire un petit essai ?...
  - "Vous ne comprenez pas!" - Pouvez-vous expliquer ?
 
-{{{L'influence de la loi des enchaînements et des aléas sur l'architecture orientée composant}}}
+## L'influence de la loi des enchaînements et des aléas sur l'architecture orientée composant
 
 La loi des enchaînements et des aléas fait que dans une chaine ou des choses sont produites en série, les aléas individuels ont un gros impact sur le rythme de production de la chaine complète, jusqu'à la rendre complètement chaotique[[Voir l'excelent roman "[Le But](../article_77)" de Eliyahu M. Goldratt sur le sujet]].
 
@@ -87,7 +87,7 @@ Certains composants sont dépendants d'autres composants et si c'est vraiment ma
 
 On rencontre particulièrement ce type d'architecture dans les entreprises qui n'ont pas la culture de l'erreur. C'est à dire des cultures où on suppose à priori que tout le monde est parfait. Ce type de culture ignore les aléas qui sinon rendraient évident l'impossibilité de faire tourner une telle machine.
 
-{{{La contre-proposition de l'agilité : les "feature teams"}}}
+## La contre-proposition de l'agilité : les "feature teams"
 
 Dans cette configuration, chaque équipe est en charge du développement d'une ou plusieurs exigences fonctionnelles ("features en anglais"). La distinction avec les composants ci-dessus est que ces exigences fonctionnelles sont définies par un client et non un technicien.
 

@@ -10,7 +10,7 @@ descriptif = "Alors que les Valtech Days 2011 se dérouleront dans deux jours, j
 <h2>En fouillant la page administration de mon blog je viens de tomber sur un brouillon d'article écrit il y a déjà plus de 3 ans. Je me souviens avoir beaucoup hésité à publier cet article, n'étant pas complètement satisfait du contenu. En fin de compte j'ai trouvé ça intéressant. J'espère que vous aurez autant de plaisir que moi à le lire.</h2>
 Lors des conférences Valtech Days 2007[[Pour rappel, la version 2011 aura lieux dans 2 jours. Inscription gratuite : http://www.valtechdays.fr]], le sujet de la place de la modélisation dans les processus Agiles est revenu plusieurs fois. Je me permets de vous présenter ici quelques principes et pratiques de l'eXtreme Programming à ce sujet.
 
-{{{You Ain't Gonna Need It}}}
+## You Ain't Gonna Need It
 Un des principes XP à ce sujet, connu sous l'acronyme YAGNI (You Ain't Gonna Need It) n'est qu'une façon d'insister sur la pratique de Conception Simple.
 
 Ici, on recherche la simplicité maximum (extrême). Pourquoi faire payer au client des développements inutiles. A chaque fin d'itération, le client reçoit l'application qui aura coûté le moins cher pour les scénarios qu'il a demandé. Aucune anticipation n'est effectuée (non plus au niveau abstraction, bien que malgré tout l'abstraction nécessaire est présente dans la solution... J'y reviens).
@@ -36,7 +36,7 @@ Cette dernière remarque fait partie de tous les bons manuels d'eXtreme Programm
 - ce comportement se retrouvera très probablement en travers du chemin de certains refactorings. Il complexifiera inutilement et surtout au mauvais moment le modèle en train d'émerger.
 L'idée ici est une sorte de "just in time feature". Comme on pourrait le lire dans un manuel Toyota : Pas de stock inutile. Le flux d'exigence est tiré, c'est comme ça que le processus de développement trouve son équilibre optimum. On commence par choisir une exigence, puis on développe un test qui va mettre en évidence l'absence de fonctionnement puis on développe le comportement.
 
-{{{Le Secret}}}
+## Le Secret
 Le secret de la conception simple de l'extreme programming repose sur trois principes : 
 - une conception juste nécessaire pour les scénarios choisis en début d'itération,
 - l'élimination de la duplication : Once and only Once (ou aussi DRY : Don't Repeate Yourself)
@@ -54,7 +54,7 @@ Un dernier point dont je n'ai pas encore parlé et que pourtant le bon sens aura
 Dans un projet récent, et bien que cela ai été pressenti par un architecte en phase amont du projet (avant que j'arrive, quoi), nous n'avons pas choisi d'introduire de base de données en début de projet, mais nous avons utilisé la sérialisation justement. Notre système était tout simplement primaire. Nous ré-écrivions toutes les données à chaque fois qu'on devait changer une valeur.
 Et bien, cette solution {{est resté jusqu'au bout}}. Nous n'avons jamais eu besoin de plus. Et nous pouvons nous féliciter de ne pas avoir perdu énormément de temps et d'effort à implémenter un module de gestion de base de données. Nous avons fini le projet juste à l'heure. Il est absolument évident que nous aurions été en retard sinon.
 
-{{{Métaphore}}}
+## Métaphore
 
 En effet, la conception simple a l'air de faire l'affaire. Mais ne manque-t-on pas d'un outil pour traiter de la question de la "big picture" ? Comment s'assurer que toutes ces petites actions de conception élémentaires puissent donner un ensemble cohérent. Comment faire pour guider la conception sur le long terme. 
 

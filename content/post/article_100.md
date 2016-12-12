@@ -14,7 +14,7 @@ Ce que je voudrais expliquer ici, c'est pourquoi il faut faire de l'intégration
 La réalisation d'un logiciel rentre dans cette catégorie, mais c'est aussi le cas d'une pièce de théâtre par exemple.
 
 -----
-{{{ {{La phase d'intégration n'est pas sous controle}} }}}
+##  {{La phase d'intégration n'est pas sous controle}} 
 
 En effet, première constatation, nous n'avons aucun contrôle direct sur la phase d'intégration. En effet, une fois que celle-ci est démarrée, il faut aller jusqu'au bout avant d'avoir quelque chose. Il n'est pas possible de s'arrêter à mi-chemin et espérer avoir un tout cohérent.
 
@@ -36,7 +36,7 @@ Plus la fréquence d'intégration est élevée moins la quantité de développem
 <img37|center>
 
 -----
-{{{ {{Les diagrammes d'effet[[voir le volume 1 de la série d'ouvrage de Gerald Weinberg: [Quality Software Management:Systems Thinking](../article_51)]]}} }}}
+##  {{Les diagrammes d'effet[[voir le volume 1 de la série d'ouvrage de Gerald Weinberg: [Quality Software Management:Systems Thinking](../article_51)]]}} 
 
 Un peu de théorie de modélisation. Les diagrammes d'effet permettent de représenter dans un système, la dynamique de variation d'une grandeur par rapport à une autre.
 
@@ -52,7 +52,7 @@ Si par contre Y diminue quand X augmente, on ajoute un rond sur la flèche:
 <img29|center>
 
 -----
-{{{ {{Un cercle vicieux : l'intégration}} }}}
+##  {{Un cercle vicieux : l'intégration}} 
 
 <img30|center>
 

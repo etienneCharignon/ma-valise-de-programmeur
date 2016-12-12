@@ -21,7 +21,7 @@ Avant de blablater plus avant je tiens à féliciter l'équipe organisatrice. Va
 Pour ma part, ces deux jours ont été curieusement centrés sur la question de la place de la conception logiciel dans les méthodes Agiles.
 
 Voici quel a été mon programme :
-{{{23 Octobre :}}}
+## 23 Octobre :
 
 [UML est-il soluble dans les méthodes agiles?->http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#uml]
 
@@ -47,7 +47,7 @@ Très belle démonstration de la part de David Gageot de la faisabilité de la c
 
 Woow, quelle énergie ! Assister à la fin d'une journée aussi intense à une présentation en anglais de Sadek Drobi nous a tous mis KO. Le sujet était en tout cas très intéressant et je comprends la passion de Sadek pour cette nouvelle évolution des langages de programmation vers plus d'expressivité. Les "Domain Specific Languages" sont un pas de plus vers la "dé-Geekisation" de l'activité de programmation.
 
-{{{24 Octobre : Forum Ouvert}}}
+## 24 Octobre : Forum Ouvert
 
 Je me rends compte qu'un des gros points forts de cette session Open Space Technologie est sa capacité à créer de l'émulation. C'est le bon endroit pour tisser des réseaux sociaux, pour connaitre et se faire connaitre. C'est l'occasion pour les participants d'exprimer leur point de vue, de présenter leur expérience, de poser des question, d'exercer leur talent de facilitateur...
 Tout ceci n'est pas si facile avec la forme habituelle des conférences où un expert vient présenter un sujet à un auditoire passif.

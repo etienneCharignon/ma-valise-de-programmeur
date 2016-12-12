@@ -10,7 +10,7 @@ descriptif = ""
 <h2></h2>
 Quelques liens au sujet d'un nouveau manifeste pour étendre le [manifeste agile](http://agilemanifesto.org/) : 
 
-{{{[Manifeste pour l'artisanat logiciel](http://manifesto.softwarecraftsmanship.org/)}}}
+## [Manifeste pour l'artisanat logiciel](http://manifesto.softwarecraftsmanship.org/)
 
 Quality is dead (James Bach)
 

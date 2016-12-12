@@ -8,7 +8,7 @@ descriptif = "Les documents de spécifications détaillés gagnent à être remp
 +++
 
 <h2></h2>
-{{{1. Quel est l'objectif de la documentation ?}}}
+## 1. Quel est l'objectif de la documentation ?
 Quand on travaille dans un labo de R&D, on ne côtoie que des cervelles en ébullition. Notre métier est de penser. Comme le dit Tom Demarco[[Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency, by Tom Demarco]] nous sommes des « Knowledge Worker ». A ce titre, nous pouvons prendre l'habitude de réfléchir sur la forme et l'utilité des différentes pratiques qui constituent notre « process » de travail.
 
 Pourquoi faisons-nous de la documentation ? Pour échanger des informations évidemment. Tout est une histoire de communication. Il peut être par exemple question pour la Moa de faire passer les informations suivantes à l'équipe de développement :
@@ -23,7 +23,7 @@ Dans la définition que je viens de donner, on remarquera que j'ai parlé d'éch
 
 On remarquera tout de suite que le mode de documentation actuel utilisant un logiciel de traitement de texte ne permet pas un retour aisé de l'information depuis l'équipe de développement vers la Moa.
 
-{{{2. Quel est le contenu d'une documentation de spécification ?}}}
+## 2. Quel est le contenu d'une documentation de spécification ?
 L'information à transmettre est de deux types :
 
 -la vue d'ensemble
@@ -35,7 +35,7 @@ En particulier, documenter les détails est un travail difficile très propice a
 
 Pour documenter la vue d'ensemble, la méthode courante, à l'aide d'un traitement de texte ou d'un logiciel tel que Power-Point, me parait tout à fait adaptée et ne réclame pas beaucoup plus de discussion. Voyons plutôt, ce que l'on peut dire des spécifications détaillées.
 
-{{{3. Quelles sont les qualités d'une bonne spécification détaillée ?}}}
+## 3. Quelles sont les qualités d'une bonne spécification détaillée ?
 {{Lisible}}
 
 Une documentation détaillée doit être facilement lisible pour éviter les erreurs d'inattention. Il faut qu'elle soit rapide à lire.
@@ -55,7 +55,7 @@ L'idéal est que cette vérification de conformitée soit automatique (de type �
 
 Une bonne documentation détaillée doit couvrir tous les détails. Il n'y a pas de demi-mesure possible. Dans le cas contraire, comment pourrions-nous identifier les régressions ? Une fonctionnalité de l'application qui ne serait pas spécifiée n'existe pas : elle peut être amenée à disparaître à tout moment.
 
-{{{4. Pourquoi Word est-il mal adapté pour documenter les détails ?}}}
+## 4. Pourquoi Word est-il mal adapté pour documenter les détails ?
 On remarque qu'un document Word, s'il rend une assez bonne lisibilité[[Nous avons déjà identifié un certain nombre de limitations à la lisibilité, notamment le fait qu'il ne soit pas facile de naviguer dans le document, ou encore, que la largeur des pages ne soit jamais suffisante pour pouvoir mettre en forme correctement des extraits d'algorithme.]] et permet de couvrir tous les détails, ne remplit pas correctement les points deux et trois (évolutions et vérifications).
 
 Les évolutions sont difficiles à introduire et à exploiter car facilement noyées dans la masse. Il faut parfois reprendre une grande quantité de texte.
@@ -65,7 +65,7 @@ Il est très lourd de réviser ces documents. Il faut se réunir plusieurs fois 
 Les informations contenues dans ces documents ne peuvent pas être vérifiées automatiquement car le format de fichier de Word est fermé. Il est très difficile de développer des programmes pour manipuler automatiquement le contenu de tels fichiers.
 Ces remarques concernent les traitements de texte en général. Il faut ajouter qu'en plus, Word contient de nombreux bugs et imperfections dans la gestion des références et liens internes qui ne permettent pas une navigation satisfaisante et qui parfois rendent l'impression du document impossible !
 
-{{{5. Pourquoi la description formelle est mal adaptée pour documenter les détails ?}}}
+## 5. Pourquoi la description formelle est mal adaptée pour documenter les détails ?
 On peut identifier deux façons de spécifier les détails d'une application logiciel :
 
 -Une description formelle
@@ -104,7 +104,7 @@ Et pour répondre à la remarque :
 
 En tout cas sur notre projet, c'est faisable, puisque c'est le cas depuis plus de deux ans.
 
-{{{6. Les avantages des tests de recette automatiques pour la question de la mise au point.}}}
+## 6. Les avantages des tests de recette automatiques pour la question de la mise au point.
 Une spécification détaillée nécessite une phase de mise au point pour s'assurer qu'elle est complète et qu'elle ne contient pas d'erreur. Cette phase est incontournable, il faut l'affronter de face, en utilisant toutes les ressources disponibles.
 
 Avec les documents formels, la mise au point passe par des réunions de revue, qui sont lentes et coûteuses (peu rentables). Il est obligatoire de figer une version avant le début du développement et de traquer les évolutions par des process compliqués (Par exemple, le suivit des fiches d'erreurs par un logiciel dédié, avec des personnes affecté à temps plein au suivit de ces fiches d'erreurs). Nous avons passé parfois une semaine entière à ne faire que relire des specs pour s'assurer que nos développements étaient en phase.
@@ -118,7 +118,7 @@ Formulé autrement, ce que je viens d'expliquer revient à dire qu'il vaut mieux
 Faire "passer les tests", c'est confronter le code qui est une description continue de la fonctionnalité avec la description discrète que sont les tests.
 La phase de mise au point des spécifications détaillées n'est plus un problème isolé, elle est mêlée à la phase de mise au point de l'application, les deux actions se compensant l'une l'autre.
 
-{{{7. Les tests de recette sont-il des tests unitaires ?}}}
+## 7. Les tests de recette sont-il des tests unitaires ?
 (Traduction du site [www.fitnesse.org](http://www.fitnesse.org/FitNesse.AcceptanceTests))
 
 {{Tests unitaires : produire un code bon}}
@@ -134,7 +134,7 @@ Ron Jeffries a défini la métrique ultime pour les projets logiciel, celle qui 
 
 Il m'ai arrivé de travailler pour une société qui mesurait à partir des tests unitaires le nombre de tests par features, mais ce que Ron Jeffries propose plutôt, c'est de mesurer le nombre de features produites qui fonctionnent, par unité de temps. De plus, il est important que cette mesure connaisse une croissance constante et linéaire tout au long du projet (depuis les premières semaines jusqu'à la fin). L'introduction de la pratique des tests de recette automatiques pourrait permettre de mettre en place correctement cette métrique.
 
-{{{8. Oui, mais tout ceci est-il vraiment réalisable ?}}}
+## 8. Oui, mais tout ceci est-il vraiment réalisable ?
 
 Comme je l'ai dit plus haut, quoi qu'il en soit, la spécification d'un logiciel doit contenir deux documents distincts : un pour la vue d'ensemble au format word par exemple et un autre pour la spécification des détails, que je propose de faire sous la forme de tests de recette.
 

@@ -10,7 +10,7 @@ descriptif = "Conférence d'une journée sur Ruby et Ruby on Rails"
 <h2></h2>
 <img12|center>
 
-{{{Premières impressions}}}
+## Premières impressions
 
 Je suis arrivé un peu en avance à la conférence et comme c'était la
 première fois que je me trouvais avec mon Mac Book près d'un HotSpot
@@ -39,7 +39,7 @@ suite lors de la présentation de Laurent Julliard, que d'après les
 sondages, la population utilisatrice de Ruby on Rails se répartit à
 parts égales entre Linux, Windows et Mac OS (1/3, 1/3, 1/3).
 
-{{{Le matin}}}
+## Le matin
 
 Les conférences de la matinée ont été très intéressantes, bien que
 j'ai trouvé un peu long de rester assis sans bouger de 8h45 à 12h30
@@ -57,7 +57,7 @@ productivité. J'ai retenu deux règles :
 - Eviter au maximum de mettre du code dans les templates et préférer
 l'utilisation de Helper et Presenter.
 
-{{{L'après midi}}}
+## L'après midi
 
 L'après midi a commencé sur les chapeaux de roues après une pause
 déjeuner avec mes (futurs) collègues de Valtech. A cause du service

@@ -14,7 +14,7 @@ Au départ de notre projet nous commençons par chercher un texte. Nous parcouro
 
 Supposons pour l'exemple que l'on ait trouvé une pièce en 2 actes de 3 scènes. Pour monter cette pièce, nous sommes une troupe d'amateurs qui se réunissent chaque semaine. Nous avons prévu de jouer le 2eme weekend du mois de mai. Nous avons déjà réservé la salle. Il nous reste 10 semaines, c'est à dire 10 soirées.
 
-{{{Pilotage du projet par la planification}}}
+## Pilotage du projet par la planification
 
 Dans ce mode, le texte définit exactement et complètement notre projet.
 
@@ -32,7 +32,7 @@ Nous avons fait l'hypothèse qu'il est possible de répéter chaque scène en un
 
 Nous ajusterons la qualité de notre réalisation pour que notre projet aboutisse. Nous sommes une troupe amateur et nous inviterons nos amis à venir "subir" notre pièce. Après tout, nous sommes là pour nous amuser. Si nous prenons plaisir à faire ce que nous faisons, nos amis seront contents !
 
-{{{Pilotage par la qualité}}}
+## Pilotage par la qualité
 
 Ce qui nous intéresse dans ce mode c'est avant tout la qualité de notre réalisation. Nous sommes des amateurs, mais nous ne voulons pas être ridicules devant nos amis ! :-)
 
@@ -48,7 +48,7 @@ Cette organisation de notre projet devrait nous permettre de montrer une pièce 
 
 A noter qu'avec ce mode de fonctionnement nous avons très rapidement une pièce prête à être présentée, bien avant la date de la représentation. Il y a par contre un travail de création bien plus important puisqu'il s'agit d'adapter les scènes déjà répétées pour leur permettre d'intégrer au fur et à mesure les nouvelles scènes.
 
-{{{Conclusion}}}
+## Conclusion
 
 Le pilotage par la qualité semblent faire plus de compromis au départ, mais comme il est plus efficace, on se retrouve au final avec un meilleur résultat.
 

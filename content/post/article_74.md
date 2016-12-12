@@ -16,7 +16,7 @@ En début d'itération, l'équipe définit les critères d'acceptation des "hist
 
 Cette explication que j'ai essayé de rendre synthétique est encore trop longue. Sans compter qu'elle est abstraite et évidemment incomplète. J'ai essayé récemment d'explorer une métaphore.
 
-{{{Un projet est comme le travail de déplacement d'un tas de cailloux initial vers un tas de cailloux final}}}
+## Un projet est comme le travail de déplacement d'un tas de cailloux initial vers un tas de cailloux final
 
 Un projet est un travail de déplacement d'un tas de cailloux initial : le product backlog, vers un tas de cailloux final : l'ensemble des fonctionnalités réalisées et testées, les fameux RTF (Running Tested Feature).
 

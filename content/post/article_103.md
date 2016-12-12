@@ -36,13 +36,13 @@ Dans le cycle en V, les équipes sont homogènes par construction, suivant le bo
 
 Avec l'agilité arrive la fin du cloisonnage et c'est pour moi une des révolutions majeures. Un projet de développement logiciel (depuis sa vision jusqu'à sa livraison concrète au client), n'est réalisé que par une seule équipe[[En fait ce n'est pas tout à fait exact, il est tout à fait possible de constituer plusieurs équipes, mais pour la simplicité de mon propos, disons pour l'instant qu'il n'y en a qu'une]].
 
-{{{Une équipe cross-fonctionnelle}}}
+## Une équipe cross-fonctionnelle
 
 Une équipe agile est le rassemblement de l'ensemble des compétences nécessaires pour mener à bien le projet. Elle réunit des personnes d'horizons différents avec des compétences variées. Une équipe agile est par définition très contrastée. Elle est le rassemblement d'individualités fortes plutôt que l'alignement d'une armée d'unités de production interchangeables. C'est une équipe qui a du caractère.
 
 L'équipe agile est jugée sur le produit fini. Il n'y a pas de livrable intermédiaire. Cela signifie que si des analystes fonctionnels sont présents dans l'équipe, ils seront eux aussi jugés sur le produit final et non sur la qualité de leur document de spécification (qui peut, par ailleurs, tout à fait exister dans un projet agile). Cela signifie qu'ils sont responsables du contenu fonctionnel de l'application, mais aussi de la bonne transmission de ce contenu fonctionnel aux développeurs et de la validation de la présence effective de ce contenu dans l'application. Entre parenthèse, on comprend mieux qu'ils doivent s'intéresser aux tests !
 
-{{{Scalabilité ?}}}
+## Scalabilité ?
 
 Si l'on en croit l'article [suivant](http://www.cesames.net/architecture-des-systemes/les-enjeux-de-larchitecture/une-complexite-de-plus-en-plus-envahissante), les grands projets ont encore moins de chance de réussir. Qui plus est, il est sans doute assez hasardeux de généraliser sur le sujet tant les expériences correspondantes sont spécifiques. Les grands projets de ce type trouvent des équilibres de fonctionnement très différents d'un cas à l'autre.
 
