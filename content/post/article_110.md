@@ -24,7 +24,7 @@ Spec ---> Dev ---> Test
 Voici la suite d'étape d'un développement classique. 
 Avec l'ATDD (ou TDR, ou Spécifications automatisables, ou Spécification par l'exemple) on se retrouve plutôt avec le schéma suivant (mais mon discour reste valable aussi pour le schéma ci-dessus): 
 
-Spec/Test ----> Dev
+Spec/Test ---> Dev
 
 Ou, autrement dit : 
 
