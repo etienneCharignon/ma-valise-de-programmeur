@@ -5,7 +5,6 @@ soustitre = ""
 date = "2006-09-10T21:57:31+01:00"
 rubrique = 10
 description = "Qu'est ce qui motive les entreprises a passer au binômage ? Quel intérêt peut-on y trouver ?"
-slug = ""
 +++
 
 <div class="chapo"></div>

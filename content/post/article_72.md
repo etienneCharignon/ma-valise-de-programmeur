@@ -5,7 +5,6 @@ soustitre = ""
 date = "2008-09-18T08:43:16+01:00"
 rubrique = 14
 description = "21-22 octobre / Paris La défense"
-slug = ""
 +++
 
 <div class="chapo"></div>

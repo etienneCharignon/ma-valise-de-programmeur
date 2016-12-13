@@ -5,7 +5,6 @@ soustitre = ""
 date = "2008-06-29T17:24:19+01:00"
 rubrique = 10
 description = "La programmation défensive n'est pas agile, elle suppose que le code écrit est terminé et immuable."
-slug = ""
 +++
 
 <div class="chapo"></div>

@@ -5,7 +5,6 @@ soustitre = "From Journeyman to Master"
 date = "2005-10-09T21:09:36+01:00"
 rubrique = 1
 description = ""
-slug = "par Andrew Hunt et David Thomas, edition Addison Wesley"
 +++
 
 <div class="chapo">par Andrew Hunt et David Thomas, edition Addison Wesley</div>

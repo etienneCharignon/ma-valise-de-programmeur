@@ -4,8 +4,7 @@ title = "Valtech accueille Alistair Cockburn"
 soustitre = ""
 date = "2011-03-28T18:25:55+01:00"
 rubrique = 14
-description = "Je suis allé, ce matin, assister à la [discussion sur l'agilité avec Alistair Cockburn](http://blog.valtech.fr/wordpress/2011/03/24/valtech-accueille-alistair-cockburn-le-28-mars-a-paris/)."
-slug = ""
+description = "Je suis allé, ce matin, assister à la discussion sur l'agilité avec Alistair Cockburn."
 +++
 
 <div class="chapo"></div>

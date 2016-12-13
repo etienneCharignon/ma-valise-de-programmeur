@@ -5,7 +5,6 @@ soustitre = ""
 date = "2010-09-14T21:50:45+01:00"
 rubrique = 10
 description = "Ceci est une participation à une conversation récente de la liste de discussion xp-france sur la place de l'architecture orientée composant dans l'agilité."
-slug = ""
 +++
 
 <div class="chapo"></div>

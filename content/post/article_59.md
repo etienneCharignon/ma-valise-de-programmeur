@@ -5,7 +5,6 @@ soustitre = "Ajax, Prototype, Scriptaculous XHTML/CSS, JavaScript, DOM"
 date = "2007-12-12T22:12:42+01:00"
 rubrique = 1
 description = ""
-slug = "Par Christophe Porteneuve, éditions Eyrolles"
 +++
 
 <div class="chapo">Par Christophe Porteneuve, éditions Eyrolles</div>

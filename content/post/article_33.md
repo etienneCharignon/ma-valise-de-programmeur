@@ -5,7 +5,6 @@ soustitre = ""
 date = "2005-09-19T22:11:07+01:00"
 rubrique = 1
 description = ""
-slug = "par A. Shalloway et J.R. Trott, edition Eyrolles"
 +++
 
 <div class="chapo">par A. Shalloway et J.R. Trott, edition Eyrolles</div>

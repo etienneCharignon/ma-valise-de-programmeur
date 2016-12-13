@@ -5,7 +5,6 @@ soustitre = ""
 date = "2013-04-23T11:54:46+01:00"
 rubrique = 10
 description = ""
-slug = "Des User stories estimées en point de complexité ? j'y comprends rien !"
 +++
 
 <div class="chapo">Des User stories estimées en point de complexité ? j'y comprends rien !</div>

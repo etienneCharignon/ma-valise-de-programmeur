@@ -5,7 +5,6 @@ soustitre = ""
 date = "2004-11-30T00:00:00+01:00"
 rubrique = 1
 description = ""
-slug = "par J.L. Deladrière, F. Le Bihan, P.Mongin et D. Rebaud. Edition Dunod"
 +++
 
 <div class="chapo">par J.L. Deladrière, F. Le Bihan, P.Mongin et D. Rebaud. Edition Dunod</div>

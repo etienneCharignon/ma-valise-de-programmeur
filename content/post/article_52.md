@@ -5,7 +5,6 @@ soustitre = ""
 date = "2011-03-15T22:20:03+01:00"
 rubrique = 11
 description = "Alors que les Valtech Days 2011 se dérouleront dans deux jours, je viens de retrouver un billet qui m'avait été inspiré par la version 2007 des Valtech Days et que je n'avais jamais publié. J'y présente les pratiques de l'extreme programming qui contribuent au travail de la modélisation."
-slug = "En fouillant la page administration de mon blog je viens de tomber sur un brouillon d'article écrit il y a déjà plus de 3 ans. Je me souviens avoir beaucoup hésité à publier cet article, n'étant pas complètement satisfait du contenu. En fin de compte j'ai trouvé ça intéressant. J'espère que vous aurez autant de plaisir que moi à le lire."
 +++
 
 <div class="chapo">En fouillant la page administration de mon blog je viens de tomber sur un brouillon d'article écrit il y a déjà plus de 3 ans. Je me souviens avoir beaucoup hésité à publier cet article, n'étant pas complètement satisfait du contenu. En fin de compte j'ai trouvé ça intéressant. J'espère que vous aurez autant de plaisir que moi à le lire.</div>

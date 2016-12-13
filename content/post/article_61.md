@@ -5,7 +5,6 @@ soustitre = ""
 date = "2008-02-14T21:54:34+01:00"
 rubrique = 10
 description = "La réponse est \"Oui\"... le moins possible !"
-slug = "Voici quelques remarques générales sur les commentaires de programme. Cet essai a été écrit suite à la lecture du poste de Christian Faure sur la [litterature de code](http://www.christian-faure.net/2008/01/07/litterature-de-code/). Comme le fait remarquer Christian Faure dans une réponse à ce message, il s'agit ici du point de vue d'un développeur professionnel."
 +++
 
 <div class="chapo">Voici quelques remarques générales sur les commentaires de programme. Cet essai a été écrit suite à la lecture du poste de Christian Faure sur la [litterature de code](http://www.christian-faure.net/2008/01/07/litterature-de-code/). Comme le fait remarquer Christian Faure dans une réponse à ce message, il s'agit ici du point de vue d'un développeur professionnel.</div>

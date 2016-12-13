@@ -5,7 +5,6 @@ soustitre = ""
 date = "2006-01-15T18:29:57+01:00"
 rubrique = 10
 description = ""
-slug = ""
 +++
 
 <div class="chapo"></div>

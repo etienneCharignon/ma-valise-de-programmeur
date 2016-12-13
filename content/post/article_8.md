@@ -5,7 +5,6 @@ soustitre = "Guide de programmation"
 date = "2005-01-11T00:00:00+01:00"
 rubrique = 1
 description = ""
-slug = "Par Joshua Bloch, édition Vuibert"
 +++
 
 <div class="chapo">Par Joshua Bloch, édition Vuibert</div>

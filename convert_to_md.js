@@ -9,7 +9,14 @@ function asString(string) {
   return string.replace(/["]/g, '\\"');
 }
 
-function convUrl(string) {
+function urlToHtml(string) {
+  return string.replace(/\[([^-]*)->([^\]]*)\]/g, "<a src=\"$2\">$1</a>")
+    .replace(/src=\"(\d+)\"/g, "src=\"post/article_$1\"")
+    .replace(/src=\"breve(\d+)\"/g, "src=\"breve/breve_$1\"")
+  ;
+}
+
+function urlToMd(string) {
   return string.replace(/\[([^-]*)->([^\]]*)\]/g, "[$1]($2)")
     .replace(/\((\d+)\)/g, "(../article_$1)")
     .replace(/\(breve(\d+)\)/, "(../../breve/breve_$1)")
@@ -17,8 +24,13 @@ function convUrl(string) {
 }
 
 function spipToMd(string) {
-  return convUrl(string).replace(/\{\{\{(.+)\}\}\}/g, "## $1")
+  return urlToMd(string).replace(/\{\{\{(.+)\}\}\}/g, "## $1")
     ;
+}
+
+function removeUrl(string) {
+  return string.replace(/\[([^-]*)->([^\]]*)\]/g, "$1")
+  ;
 }
 
 articles.forEach(function(article) {
@@ -29,11 +41,10 @@ articles.forEach(function(article) {
   content.push('soustitre = "' + asString(article.soustitre) +'"');
   content.push('date = "' + article.date.replace(/ /, "T") + "+01:00" +'"');
   content.push('rubrique = ' + article.id_rubrique);
-  content.push('description = "' + asString(convUrl(article.descriptif)).replace(/\n/, "")  +'"');
-  content.push('slug = "' + asString(convUrl(article.chapo)) + '"');
+  content.push('description = "' + asString(removeUrl(article.descriptif)).replace(/\n/, "")  +'"');
   content.push("+++");
   content.push("");
-  content.push('<div class="chapo">' + convUrl(article.chapo) +'</div>');
+  content.push('<div class="chapo">' + urlToMd(article.chapo) +'</div>');
   content.push(spipToMd(article.texte));
 
   var fileName = "content/post/article_" + article.id_article+ ".md";

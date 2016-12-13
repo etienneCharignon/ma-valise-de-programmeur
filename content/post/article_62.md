@@ -5,7 +5,6 @@ soustitre = ""
 date = "2008-03-03T10:13:56+01:00"
 rubrique = 10
 description = "Les méthodes agiles ne sont pas un produit sur étagère mais plutôt un système de valeurs d'une part et de pratiques à adapter d'autre part."
-slug = ""
 +++
 
 <div class="chapo"></div>

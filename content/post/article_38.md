@@ -5,7 +5,6 @@ soustitre = ""
 date = "2005-12-13T21:39:36+01:00"
 rubrique = 1
 description = ""
-slug = "Par Bruce A. Tate et Justin Gehtland, édition O'Reilly"
 +++
 
 <div class="chapo">Par Bruce A. Tate et Justin Gehtland, édition O'Reilly</div>
