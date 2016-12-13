@@ -4,11 +4,12 @@ title = "Comment traduire \"user story\" en français ?"
 soustitre = ""
 date = "2008-11-10T21:58:48+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>
-Qu'est-ce que c'est qu'une "user story" ? Dans les projets agiles, on ne commence pas par écrire un document de spécification dans une phase initiale qui serait ensuite suivie par une phase de réalisation et enfin de validation. Non. A la place, on initialise une liste de "user story", ou "histoires utilisateur". Dans la [stratégie SCRUM](http://strategiles.tumblr.com/post/58145081/strat-gies-agiles), cette liste s'appelle un "product backlog". Ces "histoires utilisateur" sont de petites descriptions très courtes d'un besoin utilisateur. On peut formaliser ces descriptions pour en faciliter l'écriture en suivant par exemple le schéma suivant : 
+Qu'est-ce que c'est qu'une "user story" ? Dans les projets agiles, on ne commence pas par écrire un document de spécification dans une phase initiale qui serait ensuite suivie par une phase de réalisation et enfin de validation. Non. A la place, on initialise une liste de "user story", ou "histoires utilisateur". Dans la [stratégie SCRUM](http://strategiles.tumblr.com/post/58145081/strat-gies-agiles), cette liste s'appelle un "product backlog". Ces "histoires utilisateur" sont de petites descriptions très courtes d'un besoin utilisateur. On peut formaliser ces descriptions pour en faciliter l'écriture en suivant par exemple le schéma suivant :
 
 Dans le but de ..., En tant que ..., J'ai besoin de ...
 

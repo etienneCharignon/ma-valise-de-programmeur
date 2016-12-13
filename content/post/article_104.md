@@ -4,7 +4,8 @@ title = "Meuhhh !"
 soustitre = "Retour d'expérience - Meuuh non, personne n'est ridicule!"
 date = "2010-12-16T22:19:00+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>
@@ -18,6 +19,6 @@ Bon! La proposition n'a pas été acceptée....
 
 A la réunion suivante, le sujet n'a pas manqué de diverger et nous partions encore dans une digression de la digression quand un membre de l'équipe a commencé à faire "meuh" avec la bouche ! Ça a bien plu à tout le monde. Quel soulagement d'avoir un moyen de nous recadrer sans être obligés de passer par un tas de justifications et d'explications.
 
-Et voila. Nous avons maintenant un nouvel outil à disposition: 
+Et voila. Nous avons maintenant un nouvel outil à disposition:
 ## Le meuh avec la bouche !
 <img41|center>

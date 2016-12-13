@@ -4,7 +4,8 @@ title = "Animer vos rétrospectives avec \"le conseil\""
 soustitre = ""
 date = "2015-08-05T22:47:22+01:00"
 rubrique = 14
-descriptif = "Session présenté à la conférence [Agile France 2015->http://2015.conference-agile.fr/]"
+description = "Session présenté à la conférence [Agile France 2015](http://2015.conference-agile.fr/)"
+slug = ""
 +++
 
 <div class="chapo"></div>

@@ -4,7 +4,8 @@ title = "Agile France 2011 - 26 et 27 mai 2011"
 soustitre = "Chalet de la Porte Jaune - Paris"
 date = "2011-05-11T23:06:44+01:00"
 rubrique = 14
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>

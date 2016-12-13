@@ -4,7 +4,8 @@ title = "Programmation délibérée"
 soustitre = ""
 date = "2005-11-11T17:11:00+01:00"
 rubrique = 10
-descriptif = "La programmation défensive est-elle une bonne façon de travailler ? Non, et à cette pratique s'oppose celle de la programmation délibérée."
+description = "La programmation défensive est-elle une bonne façon de travailler ? Non, et à cette pratique s'oppose celle de la programmation délibérée."
+slug = ""
 +++
 
 <div class="chapo"></div>

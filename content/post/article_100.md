@@ -4,7 +4,8 @@ title = "Intégration Continue"
 soustitre = ""
 date = "2010-04-06T16:19:11+01:00"
 rubrique = 10
-descriptif = "Mais pourquoi fait-on de l'intégration continue ? Parce que c'est plus efficace et parce que c'est la seule façon de s'en sortir."
+description = "Mais pourquoi fait-on de l'intégration continue ? Parce que c'est plus efficace et parce que c'est la seule façon de s'en sortir."
+slug = ""
 +++
 
 <div class="chapo"></div>
@@ -26,7 +27,7 @@ L'argument que l'on entend parfois est : "on n'a pas le temps". L'idée est simp
 
 <img36|center>
 
-Mais justement, c'est ce que je viens de dire, c'est une illusion. Cette phase n'est pas sous contrôle. Une fois le travail d'intégration commencé, il faudra aller jusqu'au bout. Ce qui donne en pratique le schéma suivant : 
+Mais justement, c'est ce que je viens de dire, c'est une illusion. Cette phase n'est pas sous contrôle. Une fois le travail d'intégration commencé, il faudra aller jusqu'au bout. Ce qui donne en pratique le schéma suivant :
 
 <img35|center>
 
@@ -42,7 +43,7 @@ Un peu de théorie de modélisation. Les diagrammes d'effet permettent de repré
 
 Soit par exemple un système à deux variable, X et Y. 
 
-On représente X et Y dans des nuages si ce sont des grandeurs non mesurables, ou dans un ovale si elles sont mesurables: 
+On représente X et Y dans des nuages si ce sont des grandeurs non mesurables, ou dans un ovale si elles sont mesurables:
 <img31|center>
 
 Si on veut représenter que Y augmente quand X augmente, on le fait tout simple avec une flèche:

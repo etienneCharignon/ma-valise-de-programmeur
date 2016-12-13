@@ -4,7 +4,8 @@ title = "Je suis analyste métier, quelle est ma place dans une équipe de déve
 soustitre = ""
 date = "2012-04-15T23:12:21+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>
@@ -22,15 +23,15 @@ Enfin bref. Ce qui m'intéresse dans ce billet c'est le cas des personnes qui ve
 Spec ---> Dev ---> Test
 
 Voici la suite d'étape d'un développement classique. 
-Avec l'ATDD (ou TDR, ou Spécifications automatisables, ou Spécification par l'exemple) on se retrouve plutôt avec le schéma suivant (mais mon discours reste valable aussi pour le schéma ci-dessus): 
+Avec l'ATDD (ou TDR, ou Spécifications automatisables, ou Spécification par l'exemple) on se retrouve plutôt avec le schéma suivant (mais mon discours reste valable aussi pour le schéma ci-dessus):
 
 Spec/Test ---> Dev
 
-Ou, autrement dit : 
+Ou, autrement dit :
 
 Analyste métier ---> Développeur
 
-La vitesse globale de cette chaine de production est égale à la vitesse du maillon le plus lent. On a donc deux schémas d'activité possibles : 
+La vitesse globale de cette chaine de production est égale à la vitesse du maillon le plus lent. On a donc deux schémas d'activité possibles :
 
 100% ---> 80%
 
@@ -40,7 +41,8 @@ ou
 
 En effet, du fait de la loie physique sur les enchainement et les aléas, il n'est pas possible que les deux posts de production travaillent à 100% en même temps. Par conséquent, vous aurez forcément un des deux postes qui n'est pas occupé à fond. En général on maximise l'usage des développeurs et on calibre l'équipe pour que les analystes puissent toujours fournir le travail a temps pour que le développement se fasse en continue. C'est un choix logique quand on regarde la proportion commune de 1 analyste pour 3 ou 4 développeurs.
 
-Cela à deux conséquences : 
+Cela à deux conséquences :
+
 - Les analystes se sentent sous employés et mal à l'aise devant les développeurs qui eux trime sans ménagement.
 - Les développeurs se choque de voire que "certains ici ne semble pas se donner autant de mal que les autres" !
 

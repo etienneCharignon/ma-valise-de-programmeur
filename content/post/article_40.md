@@ -4,7 +4,8 @@ title = "The psychology of computer programming"
 soustitre = ""
 date = "2006-01-01T13:04:13+01:00"
 rubrique = 1
-descriptif = ""
+description = ""
+slug = "Par Gerald M. Weinberg, éditions Dorset house publishing"
 +++
 
 <div class="chapo">Par Gerald M. Weinberg, éditions Dorset house publishing</div>

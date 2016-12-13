@@ -4,7 +4,8 @@ title = "Test Driven Development by example"
 soustitre = ""
 date = "2005-01-11T00:00:00+01:00"
 rubrique = 1
-descriptif = ""
+description = ""
+slug = "Par Kent Beck, édition Addison-Wesley"
 +++
 
 <div class="chapo">Par Kent Beck, édition Addison-Wesley</div>

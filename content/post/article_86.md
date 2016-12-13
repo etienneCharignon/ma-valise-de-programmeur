@@ -4,7 +4,8 @@ title = "Elle booste ma suite de tests ?"
 soustitre = ""
 date = "2009-06-24T22:55:34+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>

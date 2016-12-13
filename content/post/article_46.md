@@ -4,11 +4,11 @@ title = "Les 6 chapeaux de la pensée"
 soustitre = ""
 date = "2006-11-16T23:03:36+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = "Une bonne partie de cet article est issu du site [caplbm.typepad.com/personnelgestion.pdf](http://caplbm.typepad.com/personnelgestion.pdf)"
 +++
 
-<div class="chapo">Une bonne partie de cet article est issu du site
-[caplbm.typepad.com/personnelgestion.pdf->http://caplbm.typepad.com/personnelgestion.pdf]</div>
+<div class="chapo">Une bonne partie de cet article est issu du site [caplbm.typepad.com/personnelgestion.pdf](http://caplbm.typepad.com/personnelgestion.pdf)</div>
 Master en médecine, psychologie et philosophie, Edward de Bono est parti du constat que la pensée occidentale traditionnelle est entièrement basée sur l'analyse et l'argumentation. Or, l'analyse, si fine soit-elle, ne suscite  pas l'apparition de nouveaux concepts au contraire des pensées créative et constructive.
  
 Edward de Bono distingue trois formes de pensée

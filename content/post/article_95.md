@@ -4,7 +4,8 @@ title = "Un logiciel se construit par le toit"
 soustitre = ""
 date = "2009-12-20T23:19:21+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>

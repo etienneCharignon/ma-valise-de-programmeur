@@ -4,7 +4,8 @@ title = "Key note de Michel Serres à l'Université du SI"
 soustitre = ""
 date = "2009-10-01T23:03:26+01:00"
 rubrique = 14
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>

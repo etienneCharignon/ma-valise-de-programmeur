@@ -4,7 +4,8 @@ title = "Dans cette station de ski, les pistes rouges sont trop facile !"
 soustitre = ""
 date = "2013-04-23T11:54:46+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = "Des User stories estimées en point de complexité ? j'y comprends rien !"
 +++
 
 <div class="chapo">Des User stories estimées en point de complexité ? j'y comprends rien !</div>
@@ -14,7 +15,7 @@ Dans nos projets agiles, nous découpons nos besoins en petites fonctionnalité.
 Chaque fonctionnalié est appelée "User Story". En francais, on entend parfois "Histoire Utilisateur", mais comme tous le monde dit User Story, je vait resté là dessus. Une User Story est courte, elle peut être écrite sur une carte en utilisant le formalisme suivant. 
 En tant que... J'ai besoins de... dans le but de... 
 
-Par exemple : 
+Par exemple :
 En tant que client, j'ai besoins d'un reçu dans le but de tenir mes comptes.
 
 ## Et la complexité alors ?

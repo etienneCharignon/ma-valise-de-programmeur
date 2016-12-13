@@ -4,7 +4,8 @@ title = "Pourquoi faut-il faire des tests de recette automatiques ?"
 soustitre = ""
 date = "2005-01-10T14:57:00+01:00"
 rubrique = 11
-descriptif = "Les documents de spécifications détaillés gagnent à être remplacés par des tests de recette automatisé."
+description = "Les documents de spécifications détaillés gagnent à être remplacés par des tests de recette automatisé."
+slug = ""
 +++
 
 <div class="chapo"></div>

@@ -4,7 +4,8 @@ title = "Les métiers du bâtiment"
 soustitre = ""
 date = "2007-04-17T22:18:04+01:00"
 rubrique = 10
-descriptif = "Une métaphore des profils de développeurs."
+description = "Une métaphore des profils de développeurs."
+slug = ""
 +++
 
 <div class="chapo"></div>

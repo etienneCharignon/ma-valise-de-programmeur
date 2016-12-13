@@ -9,11 +9,15 @@ function asString(string) {
   return string.replace(/["]/g, '\\"');
 }
 
-function spipToMd(string) {
+function convUrl(string) {
   return string.replace(/\[([^-]*)->([^\]]*)\]/g, "[$1]($2)")
     .replace(/\((\d+)\)/g, "(../article_$1)")
     .replace(/\(breve(\d+)\)/, "(../../breve/breve_$1)")
-    .replace(/\{\{\{(.+)\}\}\}/g, "## $1")
+  ;
+}
+
+function spipToMd(string) {
+  return convUrl(string).replace(/\{\{\{(.+)\}\}\}/g, "## $1")
     ;
 }
 
@@ -25,10 +29,11 @@ articles.forEach(function(article) {
   content.push('soustitre = "' + asString(article.soustitre) +'"');
   content.push('date = "' + article.date.replace(/ /, "T") + "+01:00" +'"');
   content.push('rubrique = ' + article.id_rubrique);
-  content.push('descriptif = "' + asString(article.descriptif).replace(/\n/, "")  +'"');
+  content.push('description = "' + asString(convUrl(article.descriptif)).replace(/\n/, "")  +'"');
+  content.push('slug = "' + asString(convUrl(article.chapo)) + '"');
   content.push("+++");
   content.push("");
-  content.push('<div class="chapo">' + article.chapo+'</div>');
+  content.push('<div class="chapo">' + convUrl(article.chapo) +'</div>');
   content.push(spipToMd(article.texte));
 
   var fileName = "content/post/article_" + article.id_article+ ".md";

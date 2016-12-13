@@ -4,7 +4,8 @@ title = "Comment se faire des amis"
 soustitre = ""
 date = "2009-10-14T22:31:58+01:00"
 rubrique = 1
-descriptif = ""
+description = ""
+slug = "par Dale Carnegie"
 +++
 
 <div class="chapo">par Dale Carnegie</div>

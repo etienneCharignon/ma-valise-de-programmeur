@@ -4,7 +4,8 @@ title = "La programmation defensive n'est pas agile"
 soustitre = ""
 date = "2008-06-29T17:24:19+01:00"
 rubrique = 10
-descriptif = "La programmation défensive n'est pas agile, elle suppose que le code écrit est terminé et immuable."
+description = "La programmation défensive n'est pas agile, elle suppose que le code écrit est terminé et immuable."
+slug = ""
 +++
 
 <div class="chapo"></div>
@@ -22,7 +23,8 @@ Deux tactiques sont possibles ici:
 -** J'écris un test unitaire pour vérifier que ma méthode affiche bien a et b dans le cas où ils sont tous les deux non nuls
 -** J'ajoute immédiatement dans le corps de ma fonction, au début, quelques lignes de code pour retourner une exception si l'un des deux paramètres est nul[[voir aussi mon poste précédent sur la programmation par [coïncidence](../article_36) ]].
 
--* Programmation délibérée: 
+-* Programmation délibérée:
+
 -** J'écris un test unitaire pour vérifier que ma méthode affiche bien a et b dans le cas où ils sont tous les deux non nuls.
 -** rien d'autre. Je laisse le cas où les paramètres sont nuls comme indéterminé (il n'y a pas de test).
 

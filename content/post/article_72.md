@@ -4,7 +4,8 @@ title = "Un coding dojo aux Valtech Days 2008"
 soustitre = ""
 date = "2008-09-18T08:43:16+01:00"
 rubrique = 14
-descriptif = "21-22 octobre / Paris La défense"
+description = "21-22 octobre / Paris La défense"
+slug = ""
 +++
 
 <div class="chapo"></div>

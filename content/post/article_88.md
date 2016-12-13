@@ -4,7 +4,8 @@ title = "Programmer est une activité sociale"
 soustitre = "Programming is a social activity."
 date = "2010-12-15T16:48:15+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>
@@ -20,7 +21,8 @@ La difference des équipes agiles est qu'elle recherche cette activité sociale.
 
 La première choses est qu'il faut des gens qui s'entendent. Ce n'est pourtant pas si compliqué non ?
 
-Quelques petits trucs qui ont marchés parfois : 
+Quelques petits trucs qui ont marchés parfois :
+
 - Toute l'équipe dans le même bureau
 - Du travail en binôme
 - Pas de pression excessive

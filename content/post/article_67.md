@@ -4,7 +4,8 @@ title = "Itération Zéro"
 soustitre = ""
 date = "2008-05-07T16:14:06+01:00"
 rubrique = 11
-descriptif = "Voici une liste d'idées pouvant servir lors de la phase de lancement d'un projet qu'on appel parfois l'itération zéro."
+description = "Voici une liste d'idées pouvant servir lors de la phase de lancement d'un projet qu'on appel parfois l'itération zéro."
+slug = "Lors de la soirée OpenSpace des praticiens XP animé par Yannick Ameur le jeudi 3 avril 2008 dans les locaux de Valtech, nous avons fait une session \"itération zéro\"."
 +++
 
 <div class="chapo">Lors de la soirée OpenSpace des praticiens XP animé par Yannick Ameur le jeudi 3 avril 2008 dans les locaux de Valtech, nous avons fait une session "itération zéro".</div>

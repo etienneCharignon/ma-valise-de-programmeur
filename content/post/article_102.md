@@ -4,7 +4,8 @@ title = "RT @Galilée la terre tourne autour du soleil"
 soustitre = ""
 date = "2010-09-14T21:50:45+01:00"
 rubrique = 10
-descriptif = "Ceci est une participation à une conversation récente de la liste de discussion xp-france sur la place de l'architecture orientée composant dans l'agilité."
+description = "Ceci est une participation à une conversation récente de la liste de discussion xp-france sur la place de l'architecture orientée composant dans l'agilité."
+slug = ""
 +++
 
 <div class="chapo"></div>
@@ -37,11 +38,11 @@ On remarque aussi un goulet d'étranglement à la taille du stock qui se trouve 
 
 Dans le cas de l'informatique, ce tas se matérialise par la taille des cahiers de charges ou des documents de spécification.
 
-Pour améliorer la vitesse de la chaine, il y a plusieurs point d'actions[[Merci à Pascal Van Cauwenberghe pour sa présentation sur ce sujet à la conférence XP-Days 2007 dont j'ai pratiquement recopié les mots.]]: 
+Pour améliorer la vitesse de la chaine, il y a plusieurs point d'actions[[Merci à Pascal Van Cauwenberghe pour sa présentation sur ce sujet à la conférence XP-Days 2007 dont j'ai pratiquement recopié les mots.]]:
 
 1 - identifier le goulet d'étranglement
 
-les points que j'ai mentionnés ci-dessus : 
+les points que j'ai mentionnés ci-dessus :
  - ressources stressées, surmenées
  - travail en cours qui s'empile devant le goulet (stock)
  - ressources derrière le goulet qui attendent du travail.
@@ -70,7 +71,7 @@ les points que j'ai mentionnés ci-dessus :
 
 6 - Changer le système
 
-Parfois, il n'y a plus moyen d'améliorer le système. Alors il faut changer la structure du système. C'est beaucoup plus difficile. On rencontre des objections : 
+Parfois, il n'y a plus moyen d'améliorer le système. Alors il faut changer la structure du système. C'est beaucoup plus difficile. On rencontre des objections :
  - Des règles cachées : "mais on a toujours fait les choses comme ça !"
  - "Ne touchez pas à ça ! vous allez tout casser !" - Pourquoi ?, Est-ce qu'on peut faire un petit essai ?...
  - "Vous ne comprenez pas!" - Pouvez-vous expliquer ?

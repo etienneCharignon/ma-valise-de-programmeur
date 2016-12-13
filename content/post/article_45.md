@@ -4,7 +4,8 @@ title = "Un courrier"
 soustitre = ""
 date = "2006-11-16T23:16:17+01:00"
 rubrique = 10
-descriptif = "Quelle drôle de vie auront nos enfants qui ne connaissent pas la vie sans internet."
+description = "Quelle drôle de vie auront nos enfants qui ne connaissent pas la vie sans internet."
+slug = ""
 +++
 
 <div class="chapo"></div>

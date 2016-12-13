@@ -4,7 +4,8 @@ title = "XP-Day 2009 Paris"
 soustitre = ""
 date = "2009-05-16T16:56:55+01:00"
 rubrique = 14
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>

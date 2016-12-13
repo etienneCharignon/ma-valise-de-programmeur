@@ -4,7 +4,8 @@ title = "Le développeur fonctionnaire"
 soustitre = ""
 date = "2005-06-27T15:43:00+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>

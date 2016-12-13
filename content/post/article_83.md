@@ -4,7 +4,8 @@ title = "CITCON Europe 2009 in Paris, France. 18 et 19 septembre."
 soustitre = ""
 date = "2009-09-14T22:56:35+01:00"
 rubrique = 14
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>

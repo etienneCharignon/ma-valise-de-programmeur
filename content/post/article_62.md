@@ -4,7 +4,8 @@ title = "I'm not an agile zealot"
 soustitre = ""
 date = "2008-03-03T10:13:56+01:00"
 rubrique = 10
-descriptif = "Les méthodes agiles ne sont pas un produit sur étagère mais plutôt un système de valeurs d'une part et de pratiques à adapter d'autre part."
+description = "Les méthodes agiles ne sont pas un produit sur étagère mais plutôt un système de valeurs d'une part et de pratiques à adapter d'autre part."
+slug = ""
 +++
 
 <div class="chapo"></div>
@@ -12,7 +13,7 @@ Quand on se fait agent du changement vers des pratiques de développement agiles
 
 Je ne sais pas comment font les autres, mais personnellement j'utilise l'idéal comme une référence et une vision de l'objectif à atteindre. Il n'est pas si facile de garder le cap quand on est plongé dans la réalité.
 
-Voici ce qu'un client a pu dire de moi dernièrement : 
+Voici ce qu'un client a pu dire de moi dernièrement :
 
 «{Oui j’ai été pleinement satisfait de l’accompagnement avec Etienne. La rigueur de son raisonnement lui a permis de garder un cap cohérent malgré notre situation un peu hors norme et notre nécessité de « challenger » ses idées avec nos contraintes, et cela sans devenir rigide et défensif.}»
 

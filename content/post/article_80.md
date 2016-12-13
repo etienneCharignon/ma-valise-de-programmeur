@@ -4,11 +4,12 @@ title = "Software Craftsmanship"
 soustitre = ""
 date = "2009-03-10T23:23:28+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>
-Quelques liens au sujet d'un nouveau manifeste pour étendre le [manifeste agile](http://agilemanifesto.org/) : 
+Quelques liens au sujet d'un nouveau manifeste pour étendre le [manifeste agile](http://agilemanifesto.org/) :
 
 ## [Manifeste pour l'artisanat logiciel](http://manifesto.softwarecraftsmanship.org/)
 

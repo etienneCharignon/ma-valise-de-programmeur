@@ -4,7 +4,8 @@ title = "La culture des Design Patterns"
 soustitre = ""
 date = "2005-06-19T15:38:00+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>

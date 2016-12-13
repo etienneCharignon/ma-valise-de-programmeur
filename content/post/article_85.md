@@ -4,7 +4,8 @@ title = "L'agilité ? Est-ce vraiment si efficace qu'on le dit ?"
 soustitre = "J'aime à nouveau mon métier de programmeur"
 date = "2009-06-04T23:06:37+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>
@@ -21,7 +22,7 @@ Ce que je trouve particulièrement motivant ? Enfin, j'ai pu rencontrer mon clie
 
 Ce que je viens d'écrire ci-dessus est de la science-fiction. Toute ressemblance avec des événements ou des personnes ayant existé est tout à fait fortuite. En effet, ce n'est que ma peur qui m'inspire. 
 
-On m'a très récemment posé la question suivante : 
+On m'a très récemment posé la question suivante :
 "Mais comment prouver que les méthodes agiles vont améliorer notre système de production ?"
 
 Si j'étais directeur en position de prendre ce genre de décision voilà comment je m'y prendrais. Je choisirais dans mon entreprise des personnes en lesquelles j'ai confiance. C'est à dire des personnes que je connais pour avoir déjà réussi de belles choses et au jugement desquelles je peux me fier. Je leur ferais ensuite réaliser un projet en mode agile. Pour juger, je leur demanderais simplement ensuite si c'était mieux comme ça.

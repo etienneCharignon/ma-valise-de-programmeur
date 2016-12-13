@@ -4,7 +4,8 @@ title = "Cuisine et Programmation"
 soustitre = ""
 date = "2006-01-15T18:29:57+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>

@@ -4,7 +4,8 @@ title = "Retour d'expérience : Forfait Agile"
 soustitre = ""
 date = "2013-04-09T10:36:57+01:00"
 rubrique = 14
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>

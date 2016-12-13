@@ -4,7 +4,8 @@ title = "Valtech Days 2007"
 soustitre = ""
 date = "2007-11-03T22:59:29+01:00"
 rubrique = 14
-descriptif = "Je reviens à peine de la conférence Valtech Days 2007 qui s'est déroulée les 23 et 24 octobre..."
+description = "Je reviens à peine de la conférence Valtech Days 2007 qui s'est déroulée les 23 et 24 octobre..."
+slug = ""
 +++
 
 <div class="chapo"></div>

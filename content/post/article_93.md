@@ -4,7 +4,8 @@ title = "Becoming a Technical Leader: An Organic Problem-Solving Approach"
 soustitre = ""
 date = "2009-11-08T22:49:02+01:00"
 rubrique = 1
-descriptif = ""
+description = ""
+slug = "par Gerald M. Weinberg, edition Dorset House"
 +++
 
 <div class="chapo">par Gerald M. Weinberg, edition Dorset House</div>

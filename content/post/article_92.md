@@ -4,11 +4,12 @@ title = "Scrum + XP ?"
 soustitre = ""
 date = "2009-10-22T22:30:22+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>
-Connaissez-vous la problématique théologique suivante: 
+Connaissez-vous la problématique théologique suivante:
 Dieu reconnaît-il les hommes sur leurs actes ou les aime-t-il pour ce qu'ils sont ? En d'autres termes, les hommes ont-ils une âme ?
 
 En fait, je ne suis pas sûr que même les prêtres puissent répondre. Il me semble que cela dépend des religions, certaines ayant choisi de ne juger que sur les actes, d'autres défendant au contraire l'existence de l'âme.

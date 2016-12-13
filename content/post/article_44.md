@@ -4,7 +4,8 @@ title = "Binômer ? on est pas là pour s'amuser !"
 soustitre = ""
 date = "2006-09-10T21:57:31+01:00"
 rubrique = 10
-descriptif = "Qu'est ce qui motive les entreprises a passer au binômage ? Quel intérêt peut-on y trouver ?"
+description = "Qu'est ce qui motive les entreprises a passer au binômage ? Quel intérêt peut-on y trouver ?"
+slug = ""
 +++
 
 <div class="chapo"></div>

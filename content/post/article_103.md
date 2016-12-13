@@ -4,7 +4,8 @@ title = "Une équipe agile, une équipe avec du caractère."
 soustitre = ""
 date = "2010-11-01T22:17:04+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>
@@ -24,7 +25,7 @@ Non, sans doute pas très longtemps.
 
 <quote>En tant qu'analyste métier, quelle est ma place ?</quote>
 
-Et on entend parfois des responsables fonctionnels dire des choses comme: 
+Et on entend parfois des responsables fonctionnels dire des choses comme:
 <quote> "De toute façon, notre référence sera toujours le document de spec !"</quote>
 
 Il est apparemment assez difficile de comprendre ce qu'est une équipe agile pour les praticiens du cycle en V. 

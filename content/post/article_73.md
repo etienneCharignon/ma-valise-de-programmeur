@@ -4,7 +4,8 @@ title = "Lire du code"
 soustitre = ""
 date = "2008-10-02T21:54:47+01:00"
 rubrique = 10
-descriptif = "Qu'est-ce qu'on apprend en lisant du code ?"
+description = "Qu'est-ce qu'on apprend en lisant du code ?"
+slug = ""
 +++
 
 <div class="chapo"></div>

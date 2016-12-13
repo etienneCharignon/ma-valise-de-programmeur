@@ -4,12 +4,11 @@ title = "Faut-il commenter son code ?"
 soustitre = ""
 date = "2008-02-14T21:54:34+01:00"
 rubrique = 10
-descriptif = "La réponse est \"Oui\"... le moins possible !"
+description = "La réponse est \"Oui\"... le moins possible !"
+slug = "Voici quelques remarques générales sur les commentaires de programme. Cet essai a été écrit suite à la lecture du poste de Christian Faure sur la [litterature de code](http://www.christian-faure.net/2008/01/07/litterature-de-code/). Comme le fait remarquer Christian Faure dans une réponse à ce message, il s'agit ici du point de vue d'un développeur professionnel."
 +++
 
-<div class="chapo">Voici quelques remarques générales sur les commentaires de programme. Cet essai a été écrit suite à la lecture du poste de Christian Faure sur la [litterature de code->http://www.christian-faure.net/2008/01/07/litterature-de-code/].
-
-Comme le fait remarquer Christian Faure dans une réponse à ce message, il s'agit ici du point de vue d'un développeur professionnel.</div>
+<div class="chapo">Voici quelques remarques générales sur les commentaires de programme. Cet essai a été écrit suite à la lecture du poste de Christian Faure sur la [litterature de code](http://www.christian-faure.net/2008/01/07/litterature-de-code/). Comme le fait remarquer Christian Faure dans une réponse à ce message, il s'agit ici du point de vue d'un développeur professionnel.</div>
 D’une manière générale, je réduis les commentaires au minimum car ils constituent une forme de duplication d’avec le code écrit juste à coté. Et l’on sait pour l’avoir vu très souvent que quand le code devient plus gros, cette duplication dérive beaucoup (quand j’arrive sur un projet, je commence par enlever les commentaires faux et il n’en reste souvent plus beaucoup après).
 
 Les commentaires sont parfois utilisés pour aider à la compréhension du code. Cette pratique est pour moi héritée de l’enseignement. En effet, dans les livres et les cours de programmation, les commentaires sont très pratiques pour expliquer justement le code. Mais dans un code professionnel, les développeurs sont sensés connaitre un minimum. Ils peuvent apprendre évidement, mais cela ne justifie pas pour moi l’usage des commentaires. D’une manière générale, je préfère essayer d’écrire du code directement lisible. Demander au développeur d’écrire des commentaires, c’est faire passer le message “le code n’est pas lisible par un humain, ajoutez des explications” alors que le message devrait être “faites du code lisible”. Comme vous le dites, on a tord de penser que le code est écrit pour une machine. Pour ce qui est d’introduire un langage parlé, je comprends l’argument, mais je ressens ce discours parlé comme du bruit. Les langages structurés sont un relativement (ça dépend des langages) bon moyen d’exprimer les concepts et abstractions que l’on essaie de capturer.

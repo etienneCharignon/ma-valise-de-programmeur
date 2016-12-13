@@ -4,7 +4,8 @@ title = "Agile Open France 2010"
 soustitre = ""
 date = "2010-01-19T15:15:22+01:00"
 rubrique = 14
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>

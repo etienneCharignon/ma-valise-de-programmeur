@@ -4,7 +4,8 @@ title = "Dans la vie, on peut parler de ce qu'on ressent."
 soustitre = ""
 date = "2008-05-06T23:14:34+01:00"
 rubrique = 10
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>

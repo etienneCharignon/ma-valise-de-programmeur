@@ -4,7 +4,8 @@ title = "XP Days 2007 France"
 soustitre = ""
 date = "2007-05-10T00:00:00+01:00"
 rubrique = 14
-descriptif = "Retour sur les conférences sur l'extreme programming et l'Agilité qui se sont déroulées à Paris les 2 et 3 mai 2007."
+description = "Retour sur les conférences sur l'extreme programming et l'Agilité qui se sont déroulées à Paris les 2 et 3 mai 2007."
+slug = ""
 +++
 
 <div class="chapo"></div>

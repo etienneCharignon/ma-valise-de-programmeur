@@ -4,7 +4,8 @@ title = "Une image du travail d'équipe"
 soustitre = ""
 date = "2013-04-09T10:33:30+01:00"
 rubrique = 10
-descriptif = "Qu'est-ce que cela représente de prendre part à une équipe pour réaliser un projet ? Voici un petite réflexion sur cette question que l'on se pose pas assez."
+description = "Qu'est-ce que cela représente de prendre part à une équipe pour réaliser un projet ? Voici un petite réflexion sur cette question que l'on se pose pas assez."
+slug = ""
 +++
 
 <div class="chapo"></div>
@@ -30,15 +31,17 @@ Seulement voilà. Le plus souvent, pour des questions de délai, il n'est pas po
 
 On en arrive tout naturellement à vouloir constituer des équipes.
 
-Comment est-il possible que des équipes d'informaticiens talentueux, compétent et créatif, conduisent à des logiciels qui ressemble plutôt à ça : 
+Comment est-il possible que des équipes d'informaticiens talentueux, compétent et créatif, conduisent à des logiciels qui ressemble plutôt à ça :
 <doc51>
 
-Ce dessin illustre bien les enjeux du travail collectif : 
+Ce dessin illustre bien les enjeux du travail collectif :
+
 - Garantir l'intégrité conceptuelle
 - Créer l’alignement des personnes vers un objectif commun.
 - le travail collectif : cela s'apprend (sinon on fera un dessin de débutant)
 
-Mais aussi : 
+Mais aussi :
+
 - accepter que la production de l'équipe n'a rien de commun avec ce qu'aurai produit un talent seul avec beaucoup de temps.
 
 Plusieurs personnes doivent accepter cela : les managers évidement, mais aussi les développeurs.

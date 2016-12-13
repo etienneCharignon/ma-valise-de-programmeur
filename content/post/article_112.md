@@ -4,7 +4,8 @@ title = "Retour d'expérience : Comment on a utilisé FitNesse et comment ça a 
 soustitre = ""
 date = "2013-02-26T13:54:37+01:00"
 rubrique = 14
-descriptif = ""
+description = ""
+slug = ""
 +++
 
 <div class="chapo"></div>

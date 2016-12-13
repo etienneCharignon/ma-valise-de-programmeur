@@ -4,7 +4,8 @@ title = "Databases overkill !"
 soustitre = ""
 date = "2008-12-01T23:29:48+01:00"
 rubrique = 10
-descriptif = "Est-il absolument indispensable de baser toute architecture logiciel systématiquement sur une base de données ?"
+description = "Est-il absolument indispensable de baser toute architecture logiciel systématiquement sur une base de données ?"
+slug = "Beaucoup d'applications développées de nos jours souffrent d'avoir été basées à priori sur une architecture avec une base de données. Cette décision systématique est la cause de grand maux."
 +++
 
 <div class="chapo">Beaucoup d'applications développées de nos jours souffrent d'avoir été basées à priori sur une architecture avec une base de données. Cette décision systématique est la cause de grand maux.</div>
