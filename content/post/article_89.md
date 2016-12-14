@@ -13,7 +13,7 @@ En ce moment, j'ai des trajets un peu long pour me rendre sur mon lieu de travai
 
 Mais dans ma voiture c'est différent. J'ai entre 1 heure et 1 heure et demi de trajet alors les podcasts, plus ils sont long plus c'est bon.
 
-Récemment, j'ai découvert que je pouvais me faire toutes les sessions de l'université du SI pour par un rond. Les sessions sont assez inégale, mais certaines sont très bonne. J'ai retenu en particulier "Vaincre le plouf" de Guillaume Duquesnay, mais surtout et c'est ce qui à motivé en particulier ce post : le {{[mot d'introduction (key note) de Michel Serres](http://usi2008.universite-du-si.com/Speakers.aspx#Michel_Serres)}}. Je vous recommande chaleureusement d'aller l'écouter. Même si vous n'êtes pas particulièrement branché podcast.
+Récemment, j'ai découvert que je pouvais me faire toutes les sessions de l'université du SI pour par un rond. Les sessions sont assez inégale, mais certaines sont très bonne. J'ai retenu en particulier "Vaincre le plouf" de Guillaume Duquesnay, mais surtout et c'est ce qui à motivé en particulier ce post : le **[mot d'introduction (key note) de Michel Serres](http://usi2008.universite-du-si.com/Speakers.aspx#Michel_Serres)**. Je vous recommande chaleureusement d'aller l'écouter. Même si vous n'êtes pas particulièrement branché podcast.
 
 - Pour le trouver, le seulement moyen que j'ai identifié c'est d'installer ITune, et de rechercher sur ITune store "Universitée du SI" puis de sélectionner "Michel Serres" dans la liste.
 

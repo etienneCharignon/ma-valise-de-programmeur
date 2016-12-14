@@ -19,7 +19,7 @@ Je proposerais bien la définition suivante : Période de temps "timeboxée" de 
 
 
 Voici la liste des idées que nous avons identifié :
-|{{Idée}}|{{Sujet qu'elle permet de travailler}}|
+|**Idée}}|{{Sujet qu'elle permet de travailler**|
 |Scrum 59'|Méthode|
 |XP Game|Méthode|
 |[Is/IsNot](http://creatingminds.org/tools/is-is_not.htm)|Vision|

@@ -53,7 +53,7 @@ A noter qu'avec ce mode de fonctionnement nous avons très rapidement une pièce
 
 Le pilotage par la qualité semblent faire plus de compromis au départ, mais comme il est plus efficace, on se retrouve au final avec un meilleur résultat.
 
-{{Il faut lâcher prise pour obtenir plus !}}
+**Il faut lâcher prise pour obtenir plus !**
 
 Avertissement:
 Mon analogie avec le théâtre n'est pas une preuve en soi. Ce pilotage par la qualité que je décris est parfaitement adapté pour le développement logiciel --je le sais pour l'avoir expérimenté déjà plusieurs fois-- mais, je ne sais absolument pas si cela fonctionnerait vraiment pour préparer une pièce de théâtre.

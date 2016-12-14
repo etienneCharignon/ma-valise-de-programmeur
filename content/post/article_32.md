@@ -37,22 +37,22 @@ En particulier, documenter les détails est un travail difficile très propice a
 Pour documenter la vue d'ensemble, la méthode courante, à l'aide d'un traitement de texte ou d'un logiciel tel que Power-Point, me parait tout à fait adaptée et ne réclame pas beaucoup plus de discussion. Voyons plutôt, ce que l'on peut dire des spécifications détaillées.
 
 ## 3. Quelles sont les qualités d'une bonne spécification détaillée ?
-{{Lisible}}
+**Lisible**
 
 Une documentation détaillée doit être facilement lisible pour éviter les erreurs d'inattention. Il faut qu'elle soit rapide à lire.
 
-{{Évolutive/révisable}}
+**Évolutive/révisable**
 
 Les détails sont par définition des informations difficiles à capturer. Le rédacteur sera amené à hésiter beaucoup, à se tromper, à changer d'avis. Il faut que le document soit facile à modifier et à corriger. C'est une des raisons qui nous font traquer la duplication jusque dans ses plus secrets retranchements.
 
-{{Vérifiable}}
+**Vérifiable**
 
 -Il faut qu'il soit facile de vérifier que les détails spécifiés sont pertinents (on rejoint ici le besoin de lisibilité).
 -Il faut un moyen de vérifier facilement que le développement réalisé est conforme au détails spécifiés.
 
 L'idéal est que cette vérification de conformitée soit automatique (de type « presse-bouton »).
 
-{{Complète}}
+**Complète**
 
 Une bonne documentation détaillée doit couvrir tous les détails. Il n'y a pas de demi-mesure possible. Dans le cas contraire, comment pourrions-nous identifier les régressions ? Une fonctionnalité de l'application qui ne serait pas spécifiée n'existe pas : elle peut être amenée à disparaître à tout moment.
 
@@ -85,9 +85,9 @@ En tant que développeur, un de mes objectifs est de produire un programme qui m
 
 Tout d'abord, une petite définition sur le vocabulaire que je vais utiliser pour la fin de ce chapitre.
 
-{{spécification}} : description "continue" d'une fonctionnalité de l'application. (méthode formelle)
+**spécification** : description "continue" d'une fonctionnalité de l'application. (méthode formelle)
 
-{{test de recette}} : description "discrète" d'une fonctionnalité de l'application. (la méthode empirique)
+**test de recette** : description "discrète" d'une fonctionnalité de l'application. (la méthode empirique)
 
 A supposer que ma fonctionnalité soit une fonction mathématique. La spécifier reviendrait par exemple à donner la formule mathématique (f(x) = x*x), alors que les tests se contenteraient de donner tous les points caractéristiques (f(../article_0) = 0, f(../article_2) = 4...) et un nom explicite à f, ici, ça pourrait être "carré" ;-).
 
@@ -122,16 +122,16 @@ La phase de mise au point des spécifications détaillées n'est plus un problè
 ## 7. Les tests de recette sont-il des tests unitaires ?
 (Traduction du site [www.fitnesse.org](http://www.fitnesse.org/FitNesse.AcceptanceTests))
 
-{{Tests unitaires : produire un code bon}}
+**Tests unitaires : produire un code bon**
 Les tests unitaires automatiques (ou « tests programmeurs », comme on le dit de plus en plus), sont des tests en « boite-blanches » qui décrivent et vérifient les comportement de très bas niveaux. En particulier, quand ils travaillent en « test-first », les programmeurs se reposent beaucoup sur ces tests pour s'assurer que leur conception est pertinente, et qu'il n'y a pas de défaut. De tels tests sont construits et largement utilisés par les programmeurs, et peuvent être indépendants des fonctionnalités.
 
-{{Tests de recette : produire le bon code}}
+**Tests de recette : produire le bon code**
 
 Avec les tests de recette il est tout d'abord question de produire le bon code : le code avec le plus de valeur métier. Bien que des programmeurs puissent être impliqués dans l'écriture de ce type de tests, ces derniers ne sont pas seulement pour eux. Les tests automatiques de recette sont surtout destinés aux clients, analyseurs métiers, testeurs professionnels, équipes de support, à la direction et à tout autre investisseur ayant besoin de savoir que le projet est bien en train produire un solide retour sur investissement.
 
-{{« Running, Tested Features »}}
+**« Running, Tested Features »**
 
-Ron Jeffries a défini la métrique ultime pour les projets logiciel, celle qui est la plus proche du ROI, le RTF ([RunningTestedFeatures](http://www.xprogramming.com/xpmag/jatRtsMetric.htm)). Combien de RTF ont été livrés lors de la dernière itération, lors du dernier mois ou lors de la dernière livraison ? {{C'est aux tests de recette automatique de le dire}}.
+Ron Jeffries a défini la métrique ultime pour les projets logiciel, celle qui est la plus proche du ROI, le RTF ([RunningTestedFeatures](http://www.xprogramming.com/xpmag/jatRtsMetric.htm)). Combien de RTF ont été livrés lors de la dernière itération, lors du dernier mois ou lors de la dernière livraison ? **C'est aux tests de recette automatique de le dire**.
 
 Il m'ai arrivé de travailler pour une société qui mesurait à partir des tests unitaires le nombre de tests par features, mais ce que Ron Jeffries propose plutôt, c'est de mesurer le nombre de features produites qui fonctionnent, par unité de temps. De plus, il est important que cette mesure connaisse une croissance constante et linéaire tout au long du projet (depuis les premières semaines jusqu'à la fin). L'introduction de la pratique des tests de recette automatiques pourrait permettre de mettre en place correctement cette métrique.
 

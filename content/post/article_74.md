@@ -23,7 +23,7 @@ Un projet est un travail de déplacement d'un tas de cailloux initial : le produ
 
 Les cailloux sont les {user stories}. Nous en avons de différentes tailles. 
 
-Pour transporter ces cailloux, nous avons une {{bassine}} dont la capacité correspond à {la vélocité}, c'est à dire la capacité de l'équipe à transporter les cailloux depuis le tas initial vers le tas final.
+Pour transporter ces cailloux, nous avons une **bassine** dont la capacité correspond à {la vélocité}, c'est à dire la capacité de l'équipe à transporter les cailloux depuis le tas initial vers le tas final.
 
 Chaque voyage de la bassine est une {itération}.
 

@@ -21,7 +21,7 @@ Comme le fait remarquer Martin Fowler, cela pose un grave problème d'encapsulat
 
 Pour Martin Fowler l'espoir est dans l'"intégration par le web", avec comme langage : HTML.
 
-Bien que le message de Martin Fowler traite en particulier des bases de données {{relationnelles}}, je m'intéresse plus particulièrement à l'usage des base de données en général.
+Bien que le message de Martin Fowler traite en particulier des bases de données **relationnelles**, je m'intéresse plus particulièrement à l'usage des base de données en général.
 
 A votre avis, quelle est la relation entre un wiki, un blog et Outlook ? Ce sont toutes des applications qui n'ont absolument pas besoin d'une base de données ! 
 
@@ -42,4 +42,4 @@ Il est parfois plus judicieux de s'orienter vers une solution à base de fichier
 Qu'en pensez vous ?
 
 Pour partager nos réflexions sur ce sujet, je vous propose une carte euristique sur [mindmeister](http://www.mindmeister.com/11844280)
-(Vous pouvez éditer, mot de passe : {{overkill}})
+(Vous pouvez éditer, mot de passe : **overkill**)

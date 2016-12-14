@@ -92,7 +92,7 @@ On rencontre particulièrement ce type d'architecture dans les entreprises qui n
 
 Dans cette configuration, chaque équipe est en charge du développement d'une ou plusieurs exigences fonctionnelles ("features en anglais"). La distinction avec les composants ci-dessus est que ces exigences fonctionnelles sont définies par un client et non un technicien.
 
-Les équipes intègrent {{en continu}} leur travail dans la solution globale. Chaque équipe peut ainsi gérer indépendamment son rythme de livraison.
+Les équipes intègrent **en continu** leur travail dans la solution globale. Chaque équipe peut ainsi gérer indépendamment son rythme de livraison.
 
 Chaque équipe rend compte de son avancement c'est à dire surtout de son rythme auprès du client. Bien sûr les équipes ont des interactions, mais chaque équipe est responsable de ses features vis-à-vis de la personne qui tire de la valeur ajoutée de leurs réalisations.
 

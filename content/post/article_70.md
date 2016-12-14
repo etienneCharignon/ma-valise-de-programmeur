@@ -17,4 +17,4 @@ comments = true
 - backing bean
 - ...
 
-Ça y est, j'ai une métaphore pour mon application : c'est un {{cassoulet}} !
+Ça y est, j'ai une métaphore pour mon application : c'est un **cassoulet** !

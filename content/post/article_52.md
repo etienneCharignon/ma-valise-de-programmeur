@@ -22,7 +22,7 @@ En fait, non, ce n'est pas le bon sens qui guide ce choix ici, mais une réflexi
 Je m'explique :
 Au cours du Planning Game, le client et l'équipe ont établi une liste de scénarios classés en fonction de leur valeur (priorité client) et de leur complexité (priorité développeur). Faire de l'anticipation sur des scénarios à venir, c'est ignorer le résultat du travail du Planning Game. C'est renoncer à faire de l'extreme programming, c'est échouer à faire de l'Agilité. 
 
-Ensuite, le bon sens auquel on fait référence ici trouve ses racines dans le modèle mental des intervenants. Les Agilistes savent que l'ensemble des techniques qu'ils appliquent pour faire du développement logiciel leur permet de {{ne pas}} avoir un coût du changement exponentiel par rapport au temps. Il ne sera pas vraiment beaucoup plus cher d'introduire Hibernate plus tard, quand cela deviendra nécessaire... 
+Ensuite, le bon sens auquel on fait référence ici trouve ses racines dans le modèle mental des intervenants. Les Agilistes savent que l'ensemble des techniques qu'ils appliquent pour faire du développement logiciel leur permet de **ne pas** avoir un coût du changement exponentiel par rapport au temps. Il ne sera pas vraiment beaucoup plus cher d'introduire Hibernate plus tard, quand cela deviendra nécessaire... 
 
 "A bon, mais c'est un peu difficile à croire..."
 
@@ -54,7 +54,7 @@ Plus tard, l'introduction de Hibernate sera possible à un coût raisonnable, du
 Un dernier point dont je n'ai pas encore parlé et que pourtant le bon sens aurait du me faire citer en premier. Respecter le principe YAGNI est particulièrement efficace quand l'anticipation pressentie se révèle finalement inutile.
 
 Dans un projet récent, et bien que cela ai été pressenti par un architecte en phase amont du projet (avant que j'arrive, quoi), nous n'avons pas choisi d'introduire de base de données en début de projet, mais nous avons utilisé la sérialisation justement. Notre système était tout simplement primaire. Nous ré-écrivions toutes les données à chaque fois qu'on devait changer une valeur.
-Et bien, cette solution {{est resté jusqu'au bout}}. Nous n'avons jamais eu besoin de plus. Et nous pouvons nous féliciter de ne pas avoir perdu énormément de temps et d'effort à implémenter un module de gestion de base de données. Nous avons fini le projet juste à l'heure. Il est absolument évident que nous aurions été en retard sinon.
+Et bien, cette solution **est resté jusqu'au bout**. Nous n'avons jamais eu besoin de plus. Et nous pouvons nous féliciter de ne pas avoir perdu énormément de temps et d'effort à implémenter un module de gestion de base de données. Nous avons fini le projet juste à l'heure. Il est absolument évident que nous aurions été en retard sinon.
 
 ## Métaphore
 
@@ -68,5 +68,5 @@ la métaphore [[Definition issue du wiki [XP-France->http://xp-france.net/cgi-bi
 
 La métaphore à plusieurs objectifs :
 - effectuer un travail de modélisation du domaine métier à travers la recherche de cette métaphore,
-- donner une {{vision}} de l'architecture tout en restant suffisamment vague au sujet des détails,
+- donner une **vision** de l'architecture tout en restant suffisamment vague au sujet des détails,
 - fournir un support de communication sympathique de cette vision, qui soit accessible à tous les membres de l'équipe, clients, développeurs, testeurs...
