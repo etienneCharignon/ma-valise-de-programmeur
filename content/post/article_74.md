@@ -21,11 +21,11 @@ Cette explication que j'ai essayé de rendre synthétique est encore trop longue
 
 Un projet est un travail de déplacement d'un tas de cailloux initial : le product backlog, vers un tas de cailloux final : l'ensemble des fonctionnalités réalisées et testées, les fameux RTF (Running Tested Feature).
 
-Les cailloux sont les {user stories}. Nous en avons de différentes tailles. 
+Les cailloux sont les _user stories_. Nous en avons de différentes tailles. 
 
-Pour transporter ces cailloux, nous avons une **bassine** dont la capacité correspond à {la vélocité}, c'est à dire la capacité de l'équipe à transporter les cailloux depuis le tas initial vers le tas final.
+Pour transporter ces cailloux, nous avons une **bassine** dont la capacité correspond à _la vélocité_, c'est à dire la capacité de l'équipe à transporter les cailloux depuis le tas initial vers le tas final.
 
-Chaque voyage de la bassine est une {itération}.
+Chaque voyage de la bassine est une _itération_.
 
 En début d'itération, il faut remplir la bassine au plus juste en choisissant les cailloux en fonction de leur taille, mais aussi de leur valeur. Si les cailloux sont trop gros, il faudra les casser en morceaux plus petits.
 

@@ -38,7 +38,7 @@ Ces patterns peuvent très bien s'appliquer dans le cas d'un projet non informat
 
 Prenons un exemple :
 
-- "[Coding standards](http://www.extremeprogramming.org/rules/standards.html)" : {Code must be formatted to **agreed** coding standards. Coding standards keep the code consistent and easy for the entire team to read and refactor. Code that looks the same encourages collective ownership.}
+- "[Coding standards](http://www.extremeprogramming.org/rules/standards.html)" : _Code must be formatted to **agreed** coding standards. Coding standards keep the code consistent and easy for the entire team to read and refactor. Code that looks the same encourages collective ownership._
 
 Sur un projet non informatique cette pratique n'a pas de sens direct...
 Mais quelle est l'âme qui se cache derrière la pratique ? Il s'agit de normaliser notre travail sur la base d'un accord consensuel, de manière a améliorer notre productivité collective. Ceci est tout à fait applicable à toutes sortes de projets.

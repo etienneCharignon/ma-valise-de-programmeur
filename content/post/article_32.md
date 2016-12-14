@@ -101,7 +101,7 @@ Au vu de cette remarque, si l'on désire améliorer le rendement du développeme
 
 Et pour répondre à la remarque :
 
-{>Mais je pense que je ne sais en général pas donner tous les points caractéristiques.}
+_>Mais je pense que je ne sais en général pas donner tous les points caractéristiques._
 
 En tout cas sur notre projet, c'est faisable, puisque c'est le cas depuis plus de deux ans.
 

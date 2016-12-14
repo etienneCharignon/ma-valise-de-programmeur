@@ -34,7 +34,7 @@ Ah ! donc Agile et Offshore c'est possible. Tout n'est pas rose évidement, mais
 
 [Agilité: à monter soi-même...->http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#agilite_en_kit] 
 
-Ah, merci Laurent Bossavit, d'avoir remis à sa place MDA et cycle en V, c'est à dire à la poubelle. Au passage, j'ai noté une référence pour mes prochaines lectures : "The logic of Failure" by {Diertrich Dörner }
+Ah, merci Laurent Bossavit, d'avoir remis à sa place MDA et cycle en V, c'est à dire à la poubelle. Au passage, j'ai noté une référence pour mes prochaines lectures : "The logic of Failure" by _Diertrich Dörner_
 
 [From “Fragile to Agile”](http://www.valtech.fr/fr/index/valtech_days/24seminaires/Industrialisation.html#agitar)
 

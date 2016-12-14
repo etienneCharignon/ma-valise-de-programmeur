@@ -11,17 +11,17 @@ comments = true
 <div class="chapo"></div>
 **Anne** : Ho non, l’ordinateur ne marche plus.
 
-**Etienne** {(depuis la salle de bain)} : qu’est ce qui ce passe ?
+**Etienne** _(depuis la salle de bain)_ : qu’est ce qui ce passe&nbsp;?
 
 **Anne** : y plus rien qui marche.
 
-**Etienne** {(depuis la salle de bain)} : qu’est ce qui ce passe, vraaaiment?
+**Etienne** _(depuis la salle de bain)_ : qu’est ce qui ce passe, vraaaiment&nbsp;?
 
 **Anne** : Can’t reach P.O.P.3 server, contact your administrator…
 
-**Etienne** {(Depuis la salle de bain, rassuré de savoir que l’ordinateur démarre en fait)} : J’arrive, mais apparemment, ce n’est pas de ma faute pour une fois. C’est sans doute le serveur Noos qui ne répond pas.
+**Etienne** _(Depuis la salle de bain, rassuré de savoir que l’ordinateur démarre en fait)_ : J’arrive, mais apparemment, ce n’est pas de ma faute pour une fois. C’est sans doute le serveur Noos qui ne répond pas.
 
-**Etienne** {(devant l’ordinateur, click sur “relever courrier”)} : … Et voila, ça a marché cette fois ! C’était bien de la faute de Noos !
+**Etienne** _(devant l’ordinateur, click sur “relever courrier”)_ : … Et voila, ça a marché cette fois&nbsp;! C’était bien de la faute de Noos&nbsp;!
 
 **Anne** : Merci mon chéri. Tu es merveilleux smack smack smack
 

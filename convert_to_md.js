@@ -26,6 +26,7 @@ function urlToMd(string) {
 function spipToMd(string) {
   return urlToMd(string).replace(/\{\{\{(.+)\}\}\}/g, "## $1")
     .replace(/\{\{(.+)\}\}/g, "**$1**")
+    .replace(/\{(.+)\}/g, "_$1_")
     ;
 }
 
