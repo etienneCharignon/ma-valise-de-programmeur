@@ -5,6 +5,7 @@ soustitre = ""
 date = "2005-01-10T14:57:00+01:00"
 rubrique = 11
 description = "Les documents de spécifications détaillés gagnent à être remplacés par des tests de recette automatisé."
+comments = true
 +++
 
 <div class="chapo"></div>

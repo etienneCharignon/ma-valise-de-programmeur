@@ -5,6 +5,7 @@ soustitre = ""
 date = "2013-04-23T11:54:46+01:00"
 rubrique = 10
 description = ""
+comments = true
 +++
 
 <div class="chapo">Des User stories estimées en point de complexité ? j'y comprends rien !</div>

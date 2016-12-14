@@ -5,6 +5,7 @@ soustitre = ""
 date = "2005-09-05T14:35:04+01:00"
 rubrique = 10
 description = "\"Une seule équipe pour un seul produit\". Voici la réalité qui se cache derrière la pratique de client sur site d'XP."
+comments = true
 +++
 
 <div class="chapo">Suite à la lecture du livre "Software Craftsmanship", je me suis fait quelques réflexions sur la pratique de "client sur site" proposé par XP.</div>

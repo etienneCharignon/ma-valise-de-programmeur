@@ -5,6 +5,7 @@ soustitre = ""
 date = "2008-01-17T13:19:10+01:00"
 rubrique = 10
 description = "eXtreme Programming ? Il s'agit de pousser un certain nombres de pratiques à l'extrême. Mais n'est-il pas plus sage d'avoir une attitude modéré ? Non, il est plutôt question d'optimisation."
+comments = true
 +++
 
 <div class="chapo"></div>

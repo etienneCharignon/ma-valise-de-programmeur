@@ -5,6 +5,7 @@ soustitre = ""
 date = "2011-03-28T18:25:55+01:00"
 rubrique = 14
 description = "Je suis allé, ce matin, assister à la discussion sur l'agilité avec Alistair Cockburn."
+comments = true
 +++
 
 <div class="chapo"></div>

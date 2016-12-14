@@ -5,6 +5,7 @@ soustitre = ""
 date = "2013-04-09T10:33:30+01:00"
 rubrique = 10
 description = "Qu'est-ce que cela représente de prendre part à une équipe pour réaliser un projet ? Voici un petite réflexion sur cette question que l'on se pose pas assez."
+comments = true
 +++
 
 <div class="chapo"></div>

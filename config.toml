@@ -1,3 +1,6 @@
 baseurl = "http://etienne.charignon.github.io/"
 title = "Ma valise de programmeur"
 languageCode = "fr-FR"
+[Params]
+  Author = "Étienne Charignon"
+  disqusShortName = "ma-valise"

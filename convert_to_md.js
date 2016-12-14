@@ -42,6 +42,7 @@ articles.forEach(function(article) {
   content.push('date = "' + article.date.replace(/ /, "T") + "+01:00" +'"');
   content.push('rubrique = ' + article.id_rubrique);
   content.push('description = "' + asString(removeUrl(article.descriptif)).replace(/\n/, "")  +'"');
+  content.push('comments = true');
   content.push("+++");
   content.push("");
   content.push('<div class="chapo">' + urlToMd(article.chapo) +'</div>');

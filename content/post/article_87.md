@@ -5,6 +5,7 @@ soustitre = ""
 date = "2009-07-16T08:28:08+01:00"
 rubrique = 10
 description = ""
+comments = true
 +++
 
 <div class="chapo"></div>

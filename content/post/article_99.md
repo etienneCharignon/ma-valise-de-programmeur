@@ -5,6 +5,7 @@ soustitre = ""
 date = "2010-02-18T22:53:25+01:00"
 rubrique = 10
 description = "En informatique, une bonne documentation, c'est avant tout \"des exemples qui marchent\".Le code d'une application qui marche est une très bonne documentation."
+comments = true
 +++
 
 <div class="chapo"></div>

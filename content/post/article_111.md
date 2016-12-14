@@ -5,6 +5,7 @@ soustitre = "Retour d’expérience : Agile contre Cycle en V : Le match"
 date = "2012-09-19T10:56:13+01:00"
 rubrique = 14
 description = ""
+comments = true
 +++
 
 <div class="chapo"></div>

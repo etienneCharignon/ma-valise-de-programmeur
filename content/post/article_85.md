@@ -5,6 +5,7 @@ soustitre = "J'aime à nouveau mon métier de programmeur"
 date = "2009-06-04T23:06:37+01:00"
 rubrique = 10
 description = ""
+comments = true
 +++
 
 <div class="chapo"></div>

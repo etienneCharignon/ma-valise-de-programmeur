@@ -5,6 +5,7 @@ soustitre = ""
 date = "2005-01-10T00:00:00+01:00"
 rubrique = 1
 description = ""
+comments = true
 +++
 
 <div class="chapo">Par Tom Demarco, édition Hardcover</div>

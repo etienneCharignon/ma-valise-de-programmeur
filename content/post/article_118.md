@@ -5,6 +5,7 @@ soustitre = ""
 date = "2015-08-05T22:47:22+01:00"
 rubrique = 14
 description = "Session présenté à la conférence Agile France 2015"
+comments = true
 +++
 
 <div class="chapo"></div>

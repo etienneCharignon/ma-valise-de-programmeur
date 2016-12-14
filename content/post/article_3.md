@@ -5,6 +5,7 @@ soustitre = "Marketing and selling disruptive products to mainstream customers"
 date = "2005-06-16T00:00:00+01:00"
 rubrique = 1
 description = ""
+comments = true
 +++
 
 <div class="chapo">par Geoffrey A. Moore. Edition HarperBusiness Essentials</div>

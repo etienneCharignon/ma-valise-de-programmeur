@@ -5,6 +5,7 @@ soustitre = "Retour d'expérience - Meuuh non, personne n'est ridicule!"
 date = "2010-12-16T22:19:00+01:00"
 rubrique = 10
 description = ""
+comments = true
 +++
 
 <div class="chapo"></div>

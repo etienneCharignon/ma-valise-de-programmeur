@@ -5,6 +5,7 @@ soustitre = "Chalet de la Porte Jaune - Paris"
 date = "2011-05-11T23:06:44+01:00"
 rubrique = 14
 description = ""
+comments = true
 +++
 
 <div class="chapo"></div>

@@ -5,6 +5,7 @@ soustitre = ""
 date = "2010-04-06T16:19:11+01:00"
 rubrique = 10
 description = "Mais pourquoi fait-on de l'intégration continue ? Parce que c'est plus efficace et parce que c'est la seule façon de s'en sortir."
+comments = true
 +++
 
 <div class="chapo"></div>

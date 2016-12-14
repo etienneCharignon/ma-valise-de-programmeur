@@ -5,6 +5,7 @@ soustitre = ""
 date = "2007-04-17T22:18:04+01:00"
 rubrique = 10
 description = "Une métaphore des profils de développeurs."
+comments = true
 +++
 
 <div class="chapo"></div>

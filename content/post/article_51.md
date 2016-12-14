@@ -5,6 +5,7 @@ soustitre = "4 volumes : System Thinking, First-Order Measurement,  Congruent Ac
 date = "2007-08-29T09:25:14+01:00"
 rubrique = 1
 description = ""
+comments = true
 +++
 
 <div class="chapo">Par Gerald M. Weinberg, édition Dorset House Publishing</div>
