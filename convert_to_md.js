@@ -76,6 +76,9 @@ function removeUrl(string) {
 }
 
 articles.forEach(function(article) {
+  if (article.statut != "publie") {
+    return;
+  }
   var content = [];
   content.push("+++");
   content.push('id = ' + article.id_article);
