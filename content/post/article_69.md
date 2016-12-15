@@ -6,6 +6,7 @@ date = "2008-12-01T23:29:48+01:00"
 rubrique = 10
 description = "Est-il absolument indispensable de baser toute architecture logiciel systématiquement sur une base de données ?"
 comments = true
+image = "/images/arton69.undefined"
 +++
 
 <div class="chapo">Beaucoup d'applications développées de nos jours souffrent d'avoir été basées à priori sur une architecture avec une base de données. Cette décision systématique est la cause de grand maux.</div>

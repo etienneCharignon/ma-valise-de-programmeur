@@ -6,6 +6,7 @@ date = "2005-11-11T17:11:00+01:00"
 rubrique = 10
 description = "La programmation défensive est-elle une bonne façon de travailler ? Non, et à cette pratique s'oppose celle de la programmation délibérée."
 comments = true
+image = "/images/arton36.undefined"
 +++
 
 <div class="chapo"></div>

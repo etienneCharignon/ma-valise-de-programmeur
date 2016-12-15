@@ -6,6 +6,7 @@ date = "2009-04-05T22:01:45+01:00"
 rubrique = 14
 description = ""
 comments = true
+image = "/images/arton81.jpg"
 +++
 
 <div class="chapo"></div>
@@ -15,7 +16,7 @@ Mais revenons sur ce fameux trajet de 15 minutes. Comme je vous le disais, mon f
 
 Son petit frère de 2 ans s'impatientait et courait devant pendant que "le grand" peinait prudemment sur son vélo.
 
-<img24|center>
+<img src="/images/png/planning_oriente_planning.png"/>
 
 Mais vous ne croyez tout de même pas que je vous raconte ma vie ? Cette anecdote m'a fait penser à une remarque de Guillaume Bodet, lors de sa présentation "vendre scrum" de jeudi 19 mars à la soirée SUG. 
 

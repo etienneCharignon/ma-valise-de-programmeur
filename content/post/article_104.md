@@ -6,6 +6,7 @@ date = "2010-12-16T22:19:00+01:00"
 rubrique = 10
 description = ""
 comments = true
+image = "/images/arton104.jpg"
 +++
 
 <div class="chapo"></div>
@@ -21,4 +22,4 @@ A la réunion suivante, le sujet n'a pas manqué de diverger et nous partions en
 
 Et voila. Nous avons maintenant un nouvel outil à disposition:
 ## Le meuh avec la bouche !
-<img41|center>
+<img src="/images/png/planning_oriente_planning.png"/>

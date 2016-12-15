@@ -6,6 +6,7 @@ date = "2006-11-16T23:03:36+01:00"
 rubrique = 10
 description = ""
 comments = true
+image = "/images/arton46.undefined"
 +++
 
 <div class="chapo">Une bonne partie de cet article est issu du site [caplbm.typepad.com/personnelgestion.pdf](http://caplbm.typepad.com/personnelgestion.pdf)</div>

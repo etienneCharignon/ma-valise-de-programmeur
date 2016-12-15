@@ -6,11 +6,12 @@ date = "2008-05-06T23:14:34+01:00"
 rubrique = 10
 description = ""
 comments = true
+image = "/images/arton66.undefined"
 +++
 
 <div class="chapo"></div>
 Ce soir, je lisais un livre très intéressant à mon petit bonhomme : "Tous différents" par [Todd Parr](http://www.toddparr.com/todd/index.html). Je me suis en particulier arrêté sur la page suivante:
-<img19|center>
+<img src="/images/png/planning_oriente_planning.png"/>
 
 Voila quelque chose qu'on oublie trop facilement dans les projets professionnels. Par exemple, que penser d'un chef de projet qui insisterait pour être vouvoyé ? Ne serait-ce pas le meilleur moyen de fermer ce type de communication ? Quel est l'intérêt d'entretenir cette distance ? 
 

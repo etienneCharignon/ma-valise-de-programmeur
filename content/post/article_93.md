@@ -6,6 +6,7 @@ date = "2009-11-08T22:49:02+01:00"
 rubrique = 1
 description = ""
 comments = true
+image = "/images/arton93.jpg"
 +++
 
 <div class="chapo">par Gerald M. Weinberg, edition Dorset House</div>

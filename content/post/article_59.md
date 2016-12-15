@@ -6,6 +6,7 @@ date = "2007-12-12T22:12:42+01:00"
 rubrique = 1
 description = ""
 comments = true
+image = "/images/arton59.jpg"
 +++
 
 <div class="chapo">Par Christophe Porteneuve, éditions Eyrolles</div>

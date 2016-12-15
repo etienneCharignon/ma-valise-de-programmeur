@@ -6,6 +6,7 @@ date = "2009-07-16T08:28:08+01:00"
 rubrique = 10
 description = ""
 comments = true
+image = "/images/arton87.undefined"
 +++
 
 <div class="chapo"></div>

@@ -6,6 +6,7 @@ date = "2008-01-03T21:37:00+01:00"
 rubrique = 14
 description = "J’ai assisté aux rencontres agiles 2007 qui se sont déroulées de 9h00 à 12h00 mardi 18 décembre à Paris La Défense."
 comments = true
+image = "/images/arton58.png"
 +++
 
 <div class="chapo">J'ai assisté aux rencontres agiles 2007 qui se sont déroulées de 9h00 à 12h00 mardi 18 décembre à Paris La Défense.</div>

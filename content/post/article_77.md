@@ -6,6 +6,7 @@ date = "2009-02-25T22:27:24+01:00"
 rubrique = 1
 description = ""
 comments = true
+image = "/images/arton77.gif"
 +++
 
 <div class="chapo">par Eliyahu M. Goldratt, J. Cox, édition Afnor</div>

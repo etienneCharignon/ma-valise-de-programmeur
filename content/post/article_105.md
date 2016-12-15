@@ -6,6 +6,7 @@ date = "2011-03-28T18:25:55+01:00"
 rubrique = 14
 description = "Je suis allé, ce matin, assister à la discussion sur l'agilité avec Alistair Cockburn."
 comments = true
+image = "/images/arton105.undefined"
 +++
 
 <div class="chapo"></div>
@@ -35,5 +36,5 @@ J'ai noté la description de ce qu'est le cœur de Scrum :
 Et notamment il n'est pas fait mention de user story ou de burndown chart.
 
 Enfin pour finir, une idée:
-<img42|center>
+<img src="/images/png/planning_oriente_planning.png"/>
 Plutôt que d'utiliser le graphique classique "évolution de la valeur ajoutée par rapport au temps", utiliser l'"évolution de la connaissance acquise par rapport au temps".

@@ -6,6 +6,7 @@ date = "2008-10-02T21:54:47+01:00"
 rubrique = 10
 description = "Qu'est-ce qu'on apprend en lisant du code ?"
 comments = true
+image = "/images/arton73.undefined"
 +++
 
 <div class="chapo"></div>
