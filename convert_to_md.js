@@ -110,6 +110,9 @@ articles.forEach(function(article) {
 });
 
 breves.forEach(function(breve) {
+  if (breve.statut != "publie") {
+    return;
+  }
   var content = [];
   content.push("+++");
   content.push('id = ' + breve.id_breve);
