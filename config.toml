@@ -3,5 +3,6 @@ title = "Ma valise de programmeur"
 languageCode = "fr-FR"
 
 [Params]
+  logo = "/images/siteon0.jpg"
   Author = "Étienne Charignon"
   disqusShortName = "ma-valise"
