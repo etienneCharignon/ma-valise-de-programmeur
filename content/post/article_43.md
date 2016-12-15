@@ -6,7 +6,6 @@ date = "2006-05-29T22:19:44+01:00"
 rubrique = 10
 description = "La programmation pilotée par les tests est une manière d'arriver à la modélisation d'une application, sans nécessiter de construire un grand plan en phase amont."
 comments = true
-image = "/images/arton43.undefined"
 +++
 
 <div class="chapo"></div>

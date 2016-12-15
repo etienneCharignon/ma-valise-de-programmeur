@@ -6,7 +6,6 @@ date = "2008-04-10T11:21:32+01:00"
 rubrique = 10
 description = "Le cycle en V fonctionne, mais à quel prix? Pourquoi utiliser un processus si complexe quand on peut arriver au même résultat avec une méthode agile?"
 comments = true
-image = "/images/arton65.undefined"
 +++
 
 <div class="chapo">L'agilité à ses balbutiements, avant même que le manifeste agile ne soit écrit, c'est à dire avant que le terme "agile" ne soit inventé, était identifiée par l'intitulé "processus légers" (lightweight processes) par opposition aux processus classiques de type cascade ou cycle en V qui se trouvaient de fait qualifié de "lourd"[[ [the founding of the agile alliance](http://blog.objectmentor.com/articles/2007/07/10/the-founding-of-the-agile-alliance) ]].</div>

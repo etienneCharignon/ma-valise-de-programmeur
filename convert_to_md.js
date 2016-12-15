@@ -90,7 +90,9 @@ articles.forEach(function(article) {
   content.push('comments = true');
   var nomImage = 'arton' + article.id_article;
 
-  content.push('image = "/images/' + nomImage + '.' + extensions[nomImage] + '"');
+  if(extensions[nomImage]) {
+    content.push('image = "/images/' + nomImage + '.' + extensions[nomImage] + '"');
+  }
   content.push("+++");
   content.push("");
   content.push('<div class="chapo">' + urlToMd(article.chapo) +'</div>');

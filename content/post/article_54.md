@@ -6,7 +6,6 @@ date = "2006-05-02T10:05:00+01:00"
 rubrique = 14
 description = "Retour sur les conférences dédiées à l'extreme programming et à l'Agilité qui ont eu lieu à Paris les 23 & 24 mars 2006."
 comments = true
-image = "/images/arton54.undefined"
 +++
 
 <div class="chapo"></div>

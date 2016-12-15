@@ -6,7 +6,6 @@ date = "2007-09-18T09:38:23+01:00"
 rubrique = 10
 description = "Descopage ! Voici \"l'insulte\" que l'on peut entendre parfois si on s'aventure à parler de contenu fonctionnel variable dans une réponse à appel d'offre... Cela est pourtant assez naturel."
 comments = true
-image = "/images/arton50.undefined"
 +++
 
 <div class="chapo"></div>

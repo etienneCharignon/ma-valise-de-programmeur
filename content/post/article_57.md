@@ -6,7 +6,6 @@ date = "2007-12-12T21:58:49+01:00"
 rubrique = 14
 description = "Conférence d'une journée sur Ruby et Ruby on Rails"
 comments = true
-image = "/images/arton57.undefined"
 +++
 
 <div class="chapo"></div>

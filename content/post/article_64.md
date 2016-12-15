@@ -6,7 +6,6 @@ date = "2008-03-20T22:28:24+01:00"
 rubrique = 14
 description = "Un retour sur la conférence \"Agile Open France\"."
 comments = true
-image = "/images/arton64.undefined"
 +++
 
 <div class="chapo"></div>

@@ -6,7 +6,6 @@ date = "2005-11-04T23:00:39+01:00"
 rubrique = 10
 description = "Pas de polémique... Ex aequo !... S'en suis quelques remarques sur la lisibilité du code et l'utilisation des boucles \"for\"."
 comments = true
-image = "/images/arton37.undefined"
 +++
 
 <div class="chapo"></div>
