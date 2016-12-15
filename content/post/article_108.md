@@ -44,7 +44,7 @@ Voici comment nous allons planifier notre projet… En effet, ce mode de pilotag
 Parmi les 6 scènes, nous en avons identifié 3 qui sont essentielles et qui tiennent à elles seules l'intrigue principale. Nous allons travailler en priorité ces 3 scènes. Le premier soir nous travaillerons la première de ces 3 scènes. La deuxième semaine, nous travaillerons la 2eme de ces scènes, mais en l'enchaînant à la première. A la fin de cette deuxième soirée, nous devrons être capables de jouer les 2 premières scènes, comme une sorte de mini pièce. Si tout va bien, nous travaillerons les 3 scènes lors de la troisième semaine, mais si c'est nécessaire nous travaillerons encore la scène 1 et 2 ensemble pendant une soirée…
 
 Viendront ensuite s'ajouter les scènes supplémentaires pouvant ajouter de la valeur à notre pièce sans pour autant faire partie du cœur de notre projet.
-<img src="/images/png/planning_oriente_planning.png"/>
+<img src="/images/png/planning_oriente_qualite.png"/>
 Cette organisation de notre projet devrait nous permettre de montrer une pièce bien préparée et dont la qualité nous satisferait.
 
 A noter qu'avec ce mode de fonctionnement nous avons très rapidement une pièce prête à être présentée, bien avant la date de la représentation. Il y a par contre un travail de création bien plus important puisqu'il s'agit d'adapter les scènes déjà répétées pour leur permettre d'intégrer au fur et à mesure les nouvelles scènes.

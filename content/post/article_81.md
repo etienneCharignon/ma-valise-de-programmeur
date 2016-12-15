@@ -16,7 +16,7 @@ Mais revenons sur ce fameux trajet de 15 minutes. Comme je vous le disais, mon f
 
 Son petit frère de 2 ans s'impatientait et courait devant pendant que "le grand" peinait prudemment sur son vélo.
 
-<img src="/images/png/planning_oriente_planning.png"/>
+<img src="/images/png/velo_enfantsvg-2.png"/>
 
 Mais vous ne croyez tout de même pas que je vous raconte ma vie ? Cette anecdote m'a fait penser à une remarque de Guillaume Bodet, lors de sa présentation "vendre scrum" de jeudi 19 mars à la soirée SUG. 
 

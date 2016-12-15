@@ -9,7 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
-<img src="/images/png/planning_oriente_planning.png"/>
+<img src="/images/jpg/Paris_On_Rails.jpg"/>
 
 ## Premières impressions
 

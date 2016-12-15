@@ -9,7 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
-[<img src="/images/png/planning_oriente_planning.png"/>](http://emmanuelchenu.blogspot.com/2008/09/equipe-versus-groupe.html)
+[<img src="/images/jpg/equipe_petit.jpg"/>](http://emmanuelchenu.blogspot.com/2008/09/equipe-versus-groupe.html)
 
 Est-il nécessaire d'ajouter quelque chose ?
 

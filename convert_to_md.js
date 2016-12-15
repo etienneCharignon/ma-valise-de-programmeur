@@ -59,15 +59,29 @@ function urlToMd(string) {
   return string.replace(/\[([^-]*)->([^\]]*)\]/g, "[$1]($2)")
     .replace(/\((\d+)\)/g, "(../article_$1)")
     .replace(/\(breve(\d+)\)/, "(../../breve/breve_$1)")
-    .replace(/<img(\d+)\|center>/g, '<img src="/images/' + docs[34].fichier + '"/>')
   ;
 }
 
+function getDoc(docs, id) {
+  return docs.find(function (doc){
+    return doc.id_document == id;
+  });
+}
+
 function spipToMd(string) {
-  return urlToMd(string).replace(/\{\{\{(.+)\}\}\}/g, "## $1")
+  var md =  urlToMd(string).replace(/\{\{\{(.+)\}\}\}/g, "## $1")
     .replace(/\{\{(.+)\}\}/g, "**$1**")
     .replace(/\{(.+)\}/g, "_$1_")
     ;
+  var imageRegexp = /<img(\d+)(\|center)?>/;
+  var match;
+  while(match = md.match(imageRegexp)) {
+    var docId = match[1];
+    console.log("docId = " + docId + " doc = ");
+    console.log(getDoc(docs,docId));
+    md = md.replace(imageRegexp, '<img src="/images/' + getDoc(docs, docId).fichier + '"/>')
+  }
+  return md;
 }
 
 function removeUrl(string) {
