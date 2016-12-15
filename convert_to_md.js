@@ -56,7 +56,7 @@ function urlToHtml(string) {
 }
 
 function urlToMd(string) {
-  return string.replace(/\[([^-]*)->([^\]]*)\]/g, "[$1]($2)")
+  return string.replace(/\[([^\]]*)->([^\]]*)\]/g, "[$1]($2)")
     .replace(/\((\d+)\)/g, "(../article_$1)")
     .replace(/\(breve(\d+)\)/, "(../../breve/breve_$1)")
   ;

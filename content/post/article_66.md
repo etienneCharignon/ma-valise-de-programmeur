@@ -16,4 +16,4 @@ Voila quelque chose qu'on oublie trop facilement dans les projets professionnels
 
 Bon, il est vrai que le vouvoiement peut être une simple question d'éducation et être très bien vécu. 
 
-Quoi qu'il en soit, pour inciter les membres d'un projet à s'ouvrir et instaurer la confiance, il est possible d'utiliser la technique du check-in[[un des protocoles de Software for Your Head]] qui a été discuté récemment sur la liste [XP-france->http://fr.groups.yahoo.com/group/xp-france/message/7201]
+Quoi qu'il en soit, pour inciter les membres d'un projet à s'ouvrir et instaurer la confiance, il est possible d'utiliser la technique du check-in[[un des protocoles de Software for Your Head]] qui a été discuté récemment sur la liste [XP-france](http://fr.groups.yahoo.com/group/xp-france/message/7201)

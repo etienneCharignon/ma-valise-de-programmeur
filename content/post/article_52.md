@@ -65,7 +65,7 @@ En effet, lorsqu'on fait de la conception à longueur de temps, on a tendance à
 
 C'est ici qu'intervient la pratique de la métaphore.
 
-la métaphore [[Definition issue du wiki [XP-France->http://xp-france.net/cgi-bin/wiki.pl?TreizePratiques] ]] : Une analogie utilisée comme modèle conceptuel du système en cours de développement
+la métaphore [[Definition issue du wiki [XP-France](http://xp-france.net/cgi-bin/wiki.pl?TreizePratiques) ]] : Une analogie utilisée comme modèle conceptuel du système en cours de développement
 
 La métaphore à plusieurs objectifs :
 - effectuer un travail de modélisation du domaine métier à travers la recherche de cette métaphore,

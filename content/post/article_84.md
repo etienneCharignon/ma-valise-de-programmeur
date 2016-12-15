@@ -10,7 +10,7 @@ image = "/images/arton84.png"
 +++
 
 <div class="chapo"></div>
-Il reste encore quelques places pour assister à [la conférence XP-Day->http://www.xpday.fr/], la conférence agile sur les méthodes agiles, les 25 et 26 mai prochains à Paris.
+Il reste encore quelques places pour assister à [la conférence XP-Day](http://www.xpday.fr/), la conférence agile sur les méthodes agiles, les 25 et 26 mai prochains à Paris.
 
 
 J'y présenterai un retour d'expérience d'un projet que nous avons mené en 2008 avec la méthode SCRUM.

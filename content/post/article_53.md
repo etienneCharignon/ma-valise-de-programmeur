@@ -24,7 +24,7 @@ Pour ma part, ces deux jours ont été curieusement centrés sur la question de 
 Voici quel a été mon programme :
 ## 23 Octobre :
 
-[UML est-il soluble dans les méthodes agiles?->http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#uml]
+[UML est-il soluble dans les méthodes agiles?](http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#uml)
 
 Dommage que Pascal Roques n'ai consacré que le dernier quart d'heure à nous parler d'Agile Modeling, cela aurait été plus intéressant que de constater que UML n'est pas synonyme de MDA (Model Driven Architecture).
 
@@ -32,7 +32,7 @@ Dommage que Pascal Roques n'ai consacré que le dernier quart d'heure à nous pa
 
 Ah ! donc Agile et Offshore c'est possible. Tout n'est pas rose évidement, mais on voit bien que l'esprit Agile apporte aussi beaucoup dans cette situation. Par exemple, même dans ce contexte, parler de rapprochement du client et des développeurs ça veut dire quelque chose. 
 
-[Agilité: à monter soi-même...->http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#agilite_en_kit] 
+[Agilité: à monter soi-même...](http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#agilite_en_kit) 
 
 Ah, merci Laurent Bossavit, d'avoir remis à sa place MDA et cycle en V, c'est à dire à la poubelle. Au passage, j'ai noté une référence pour mes prochaines lectures : "The logic of Failure" by _Diertrich Dörner_
 
