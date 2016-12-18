@@ -73,10 +73,10 @@ function spipToMd(string) {
     .replace(/\{\{(.+)\}\}/g, "**$1**")
     .replace(/\{(.+)\}/g, "_$1_")
     ;
-  var imageRegexp = /<img(\d+)(\|center)?>/;
+  var imageRegexp = /<(img|doc)(\d+)(\|center)?>/;
   var match;
   while(match = md.match(imageRegexp)) {
-    var docId = match[1];
+    var docId = match[2];
     console.log("docId = " + docId + " doc = ");
     console.log(getDoc(docs,docId));
     md = md.replace(imageRegexp, '<img src="/images/' + getDoc(docs, docId).fichier + '"/>')

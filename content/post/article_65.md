@@ -15,10 +15,10 @@ Voici comment cela m'avait été présenté "à l'époque" :
 Galilée ne voulant pas froisser la susceptibilité de l'Église, mais aussi dans le but de garder la tête sur les épaules (au sens propre) avait choisi de formuler les choses de cette manière :
 "Votre modèle géocentrique de l'univers (avec la terre au milieu) n'est pas faux, mais il est plus compliqué que le mien qui est héliocentrique. Votre modèle fonctionne, il permet tout à fait de représenter complètement le mouvement des planètes, cependant nous avons beaucoup à gagner à utiliser mon modèle pour le travail scientifique car il est plus simple."
 
-[<doc16|center>](http://fr.wikipedia.org/wiki/Geocentrisme)
+[<img src="/images/png/Geocentrisme-2.png"/>](http://fr.wikipedia.org/wiki/Geocentrisme)
 
 
-[<doc17|center>](http://fr.wikipedia.org/wiki/Heliocentrisme)
+[<img src="/images/png/CopernicSystem.png"/>](http://fr.wikipedia.org/wiki/Heliocentrisme)
 
 Bien que cette explication soit une version simpliste de l'histoire, elle illustre bien une stratégie de contournement destiné à lutter contre une (fausse-) vérité culturelle et historique (et dogmatique).
 
