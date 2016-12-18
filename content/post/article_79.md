@@ -14,6 +14,6 @@ Emmanuel Gaillot vient de mettre en ligne la feuille de route du kata Mastermind
 
 Merci beaucoup Manu.
 
-<img22|left>[Kata Mastermind](http://sites.google.com/site/emmanuelgaillot/katas/) ([licence](http://creativecommons.org/licenses/by-nc-sa/2.0/fr/))
+{{% img src="images/gif/icon_pdf.gif" class="left" %}}[Kata Mastermind](http://sites.google.com/site/emmanuelgaillot/katas/) ([licence](http://creativecommons.org/licenses/by-nc-sa/2.0/fr/)){{% clear %}}
 
 N'hésitez pas à la télécharger pour vous entraîner à le faire, c'est un bon exercice pour apprendre le TDD[[Tests Driven Development : développement piloté par les tests]] ;-)

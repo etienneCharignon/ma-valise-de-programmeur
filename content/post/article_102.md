@@ -100,7 +100,7 @@ La coordination opérationnelle des équipes peut être prise en charge par un p
 
 L'exemple type d'une architecture orientée composants est une organisation qui constituerait des équipes par couche technique: une équipe IHM, une équipe "service métier" et une équipe "accès base de donnée".
 
-<img src="/images/jpg/architecture_orientee_composants.jpg"/>
+{{% img src="images/jpg/architecture_orientee_composants.jpg" class="center" caption="Architecture orientée composants" %}}
 
 Le même exemple organisé en feature teams:
-<img src="/images/jpg/Feature_Teams.jpg"/>
+{{% img src="images/jpg/Feature_Teams.jpg" class="center" caption="Feature Teams" %}}

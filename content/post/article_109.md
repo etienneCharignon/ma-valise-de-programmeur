@@ -16,12 +16,12 @@ Est-ce que vous connaissez cette expérience qui a été mené par IndustrialLog
 Cette expérience consiste à mettre en lumière la différence entre le travail individuel et le travail en pair, par la création d'un dessin.
 
 Voici les deux premiers dessins mis en avant sur le site :
-<img src="/images/gif/soloFred.gif"/><img src="/images/gif/pairBarb.gif"/>
+{{% img src="images/gif/soloFred.gif" class="center" caption="Solo Drawing" %}}{{% img src="images/gif/pairBarb.gif" class="center" caption="Pair Drawing" %}}
 
 Par cette comparaison il apparait clairement qu'un travail à deux est beaucoup plus riche qu'un travail en solo.
 
 Pourtant, les dessins suivants m'inspirent d'autres conclusions:
-<img src="/images/gif/soloChad.gif"/>
+{{% img src="images/gif/soloChad.gif" class="center" caption="Beau dessin en solo" %}}
 
 Nous somme face ici à une personne qui sait dessiner. Si on la laisse faire seule, on obtient un beau résultat. La personne est créative. Le dessin est intègre et cohérent.
 
@@ -32,7 +32,7 @@ Seulement voilà. Le plus souvent, pour des questions de délai, il n'est pas po
 On en arrive tout naturellement à vouloir constituer des équipes.
 
 Comment est-il possible que des équipes d'informaticiens talentueux, compétent et créatif, conduisent à des logiciels qui ressemble plutôt à ça :
-<img src="/images/gif/pairRalph.gif"/>
+{{% img src="images/gif/pairRalph.gif" class="center" caption="L'image d'un projet informatique réalisé en équipe" %}}
 
 Ce dessin illustre bien les enjeux du travail collectif :
 

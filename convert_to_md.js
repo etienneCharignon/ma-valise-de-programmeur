@@ -72,14 +72,21 @@ function spipToMd(string) {
   var md =  urlToMd(string).replace(/\{\{\{(.+)\}\}\}/g, "## $1")
     .replace(/\{\{(.+)\}\}/g, "**$1**")
     .replace(/\{(.+)\}/g, "_$1_")
+    .replace(/##CLEAR##/, "{{% clear %}}")
     ;
-  var imageRegexp = /<(img|doc)(\d+)(\|center)?>/;
+  var imageRegexp = /<(img|doc)(\d+)\|?(center|left)?>/;
   var match;
   while(match = md.match(imageRegexp)) {
     var docId = match[2];
-    console.log("docId = " + docId + " doc = ");
-    console.log(getDoc(docs,docId));
-    md = md.replace(imageRegexp, '<img src="/images/' + getDoc(docs, docId).fichier + '"/>')
+    var doc= getDoc(docs, docId);
+    var attrs ="";
+    if(match[3]) {
+      attrs = ' class="' + match[3] + '"';
+    }
+    if(doc.titre) {
+      attrs += ' caption="' + doc.titre + '"';
+    }
+    md = md.replace(imageRegexp, '{{% img src="images/' + doc.fichier + '"' + attrs + ' %}}')
   }
   return md;
 }

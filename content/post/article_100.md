@@ -21,20 +21,20 @@ En effet, première constatation, nous n'avons aucun contrôle direct sur la pha
 
 Voici le schéma que propose l'intégration continue :
  
-<img src="/images/png/Image_2.png"/>
+{{% img src="images/png/Image_2.png" class="center" %}}
 
 L'argument que l'on entend parfois est : "on n'a pas le temps". L'idée est simple, pour optimiser le travail d'intégration, on propose alors de le reporter à la fin. En faisant une phase spécialisée, on peut optimiser cette phase.
 
-<img src="/images/png/lateIntegration1.png"/>
+{{% img src="images/png/lateIntegration1.png" class="center" %}}
 
 Mais justement, c'est ce que je viens de dire, c'est une illusion. Cette phase n'est pas sous contrôle. Une fois le travail d'intégration commencé, il faudra aller jusqu'au bout. Ce qui donne en pratique le schéma suivant :
 
-<img src="/images/png/Image_3.png"/>
+{{% img src="images/png/Image_3.png" class="center" %}}
 
 La seule façon de réduire la durée de la phase d'intégration est de réduire la quantité de travail à intégrer et donc de réduire la taille de la phase de réalisation. Mais comment savoir à l'avance quelle est la bonne longueur de cette phase de réalisation ? Je vous le donne Émile : il faut faire de l'intégration continue (voir premier schéma).
 Plus la fréquence d'intégration est élevée moins la quantité de développement non intégrée sera faible le jour de l'échéance.
 
-<img src="/images/png/Image_2-2.png"/>
+{{% img src="images/png/Image_2-2.png" class="center" %}}
 
 -----
 ## Les diagrammes d'effet[[voir le volume 1 de la série d'ouvrage de Gerald Weinberg: [Quality Software Management:Systems Thinking](../article_51)]]
@@ -44,28 +44,28 @@ Un peu de théorie de modélisation. Les diagrammes d'effet permettent de repré
 Soit par exemple un système à deux variable, X et Y. 
 
 On représente X et Y dans des nuages si ce sont des grandeurs non mesurables, ou dans un ovale si elles sont mesurables:
-<img src="/images/png/Capture_d_ecran_2010-04-04_a_01.56.50.png"/>
+{{% img src="images/png/Capture_d_ecran_2010-04-04_a_01.56.50.png" class="center" %}}
 
 Si on veut représenter que Y augmente quand X augmente, on le fait tout simple avec une flèche:
-<img src="/images/png/Capture_d_ecran_2010-04-04_a_01.25.25.png"/>
+{{% img src="images/png/Capture_d_ecran_2010-04-04_a_01.25.25.png" class="center" %}}
 
 Si par contre Y diminue quand X augmente, on ajoute un rond sur la flèche:
-<img src="/images/png/Capture_d_ecran_2010-04-04_a_01.26.22.png"/>
+{{% img src="images/png/Capture_d_ecran_2010-04-04_a_01.26.22.png" class="center" %}}
 
 -----
 ## Un cercle vicieux : l'intégration
 
-<img src="/images/png/Capture_d_ecran_2010-04-04_a_01.53.19.png"/>
+{{% img src="images/png/Capture_d_ecran_2010-04-04_a_01.53.19.png" class="center" %}}
 
 Les diagrammes d'effet sont très pratiques pour modéliser les cercles vicieux. Ils permettent aussi de modéliser la solution.
 
 Il existe deux types de relation entre X et Y. 
 - Des relations dictées par la nature. Par exemple, dans le schéma ci-dessus. Quand le temps entre deux intégrations augmente, la complexité du travail d'intégration augmente de manière inexorable. Le monde est comme ça. Personne n'y peut rien. C'est une loi de la nature. 
 - Des relations non dictées par la nature. Ces dernières sont représentés par un carré. Il est possible de choisir si Y va augmenter ou diminuer quand on va augmenter X. C'est à nous de prendre la décision.
-<img src="/images/png/Capture_d_ecran_2010-04-04_a_02.05.02.png"/>
+{{% img src="images/png/Capture_d_ecran_2010-04-04_a_02.05.02.png" class="center" %}}
 
 Et voilà ce que devient le schéma de notre système:
-<img src="/images/png/Capture_d_ecran_2010-04-04_a_02.07.40.png"/>
+{{% img src="images/png/Capture_d_ecran_2010-04-04_a_02.07.40.png" class="center" %}}
 
 Si vous décidez d'espacer encore plus les intégrations, vous alimentez le cercle vicieux. Si vous décidez de les rapprocher... vous cassez le cercle infernal. 
 

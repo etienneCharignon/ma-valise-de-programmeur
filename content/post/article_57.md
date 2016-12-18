@@ -9,7 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
-<img src="/images/jpg/Paris_On_Rails.jpg"/>
+{{% img src="images/jpg/Paris_On_Rails.jpg" class="center" %}}
 
 ## Premières impressions
 

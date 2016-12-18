@@ -22,4 +22,4 @@ A la réunion suivante, le sujet n'a pas manqué de diverger et nous partions en
 
 Et voila. Nous avons maintenant un nouvel outil à disposition:
 ## Le meuh avec la bouche !
-<img src="/images/jpg/racheumeuneu-meuh.jpg"/>
+{{% img src="images/jpg/racheumeuneu-meuh.jpg" class="center" caption="Le meuh avec la bouche !" %}}

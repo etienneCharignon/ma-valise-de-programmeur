@@ -35,5 +35,5 @@ J'ai noté la description de ce qu'est le cœur de Scrum :
 Et notamment il n'est pas fait mention de user story ou de burndown chart.
 
 Enfin pour finir, une idée:
-<img src="/images/png/ConnaissanceAcquise.png"/>
+{{% img src="images/png/ConnaissanceAcquise.png" class="center" %}}
 Plutôt que d'utiliser le graphique classique "évolution de la valeur ajoutée par rapport au temps", utiliser l'"évolution de la connaissance acquise par rapport au temps".
