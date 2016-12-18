@@ -6,7 +6,7 @@ date = "2008-09-18T08:43:16+01:00"
 rubrique = 14
 description = "21-22 octobre / Paris La défense"
 comments = true
-image = "/images/arton72.gif"
+thumbnail = "/images/arton72.gif"
 +++
 
 <div class="chapo"></div>

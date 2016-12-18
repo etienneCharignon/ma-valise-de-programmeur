@@ -6,7 +6,7 @@ date = "2005-01-10T00:00:00+01:00"
 rubrique = 1
 description = ""
 comments = true
-image = "/images/arton6.gif"
+thumbnail = "/images/arton6.gif"
 +++
 
 <div class="chapo">Par Tom Demarco, édition Hardcover</div>

@@ -105,7 +105,7 @@ articles.forEach(function(article) {
   var nomImage = 'arton' + article.id_article;
 
   if(extensions[nomImage]) {
-    content.push('image = "/images/' + nomImage + '.' + extensions[nomImage] + '"');
+    content.push('thumbnail = "/images/' + nomImage + '.' + extensions[nomImage] + '"');
   }
   content.push("+++");
   content.push("");

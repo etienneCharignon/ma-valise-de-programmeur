@@ -6,7 +6,7 @@ date = "2005-06-16T00:00:00+01:00"
 rubrique = 1
 description = ""
 comments = true
-image = "/images/arton2.jpg"
+thumbnail = "/images/arton2.jpg"
 +++
 
 <div class="chapo">par Tom DeMarco et Timothy Lister. Edition Dorset House</div>

@@ -1,8 +1,9 @@
 baseurl = "http://etienne.charignon.github.io/"
 title = "Ma valise de programmeur"
 languageCode = "fr-FR"
+disqusShortName = "ma-valise"
 
 [Params]
+  dateformat = "02/01/2006"
   logo = "/images/siteon0.jpg"
   Author = "Étienne Charignon"
-  disqusShortName = "ma-valise"

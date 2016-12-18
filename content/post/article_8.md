@@ -6,7 +6,7 @@ date = "2005-01-11T00:00:00+01:00"
 rubrique = 1
 description = ""
 comments = true
-image = "/images/arton8.jpg"
+thumbnail = "/images/arton8.jpg"
 +++
 
 <div class="chapo">Par Joshua Bloch, édition Vuibert</div>
