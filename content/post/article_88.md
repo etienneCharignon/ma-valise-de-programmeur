@@ -3,7 +3,7 @@ id = 88
 title = "Programmer est une activité sociale"
 soustitre = "Programming is a social activity."
 date = "2010-12-15T16:48:15+01:00"
-rubrique = 10
+categories = [ "Essais" ]
 description = ""
 comments = true
 +++

@@ -3,7 +3,7 @@ id = 52
 title = "Modélisation Agile"
 soustitre = ""
 date = "2011-03-15T22:20:03+01:00"
-rubrique = 11
+categories = [ "Dossiers" ]
 description = "Alors que les Valtech Days 2011 se dérouleront dans deux jours, je viens de retrouver un billet qui m'avait été inspiré par la version 2007 des Valtech Days et que je n'avais jamais publié. J'y présente les pratiques de l'extreme programming qui contribuent au travail de la modélisation."
 comments = true
 thumbnail = "/images/arton52.gif"
@@ -68,6 +68,7 @@ C'est ici qu'intervient la pratique de la métaphore.
 la métaphore [[Definition issue du wiki [XP-France](http://xp-france.net/cgi-bin/wiki.pl?TreizePratiques) ]] : Une analogie utilisée comme modèle conceptuel du système en cours de développement
 
 La métaphore à plusieurs objectifs :
+
 - effectuer un travail de modélisation du domaine métier à travers la recherche de cette métaphore,
 - donner une **vision** de l'architecture tout en restant suffisamment vague au sujet des détails,
 - fournir un support de communication sympathique de cette vision, qui soit accessible à tous les membres de l'équipe, clients, développeurs, testeurs...

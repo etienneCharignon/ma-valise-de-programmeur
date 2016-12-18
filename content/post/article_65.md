@@ -3,7 +3,7 @@ id = 65
 title = "Ne pas tapper sur le cycle en V! Ça fonctionne."
 soustitre = ""
 date = "2008-04-10T11:21:32+01:00"
-rubrique = 10
+categories = [ "Essais" ]
 description = "Le cycle en V fonctionne, mais à quel prix? Pourquoi utiliser un processus si complexe quand on peut arriver au même résultat avec une méthode agile?"
 comments = true
 +++

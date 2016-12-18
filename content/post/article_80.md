@@ -3,7 +3,7 @@ id = 80
 title = "Software Craftsmanship"
 soustitre = ""
 date = "2009-03-10T23:23:28+01:00"
-rubrique = 10
+categories = [ "Essais" ]
 description = ""
 comments = true
 +++

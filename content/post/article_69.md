@@ -3,7 +3,7 @@ id = 69
 title = "Databases overkill !"
 soustitre = ""
 date = "2008-12-01T23:29:48+01:00"
-rubrique = 10
+categories = [ "Essais" ]
 description = "Est-il absolument indispensable de baser toute architecture logiciel systématiquement sur une base de données ?"
 comments = true
 +++

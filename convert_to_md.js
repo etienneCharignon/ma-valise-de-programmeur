@@ -5,6 +5,7 @@ var fs = require('fs');
 var articles = maValise.SPIP.spip_articles;
 var breves = maValise.SPIP.spip_breves;
 var docs = maValise.SPIP.spip_documents;
+var rubriques = maValise.SPIP.spip_rubriques;
 var extensions = {
   "arton1" : "jpg",
   "arton101" : "png",
@@ -62,9 +63,15 @@ function urlToMd(string) {
   ;
 }
 
-function getDoc(docs, id) {
+function getDoc(id) {
   return docs.find(function (doc){
     return doc.id_document == id;
+  });
+}
+
+function getRubrique(id) {
+  return rubriques.find(function (rubrique){
+    return rubrique.id_rubrique == id;
   });
 }
 
@@ -78,7 +85,7 @@ function spipToMd(string) {
   var match;
   while(match = md.match(imageRegexp)) {
     var docId = match[2];
-    var doc= getDoc(docs, docId);
+    var doc= getDoc(docId);
     var attrs ="";
     if(match[3]) {
       attrs = ' class="' + match[3] + '"';
@@ -106,7 +113,7 @@ articles.forEach(function(article) {
   content.push('title = "' + asString(article.titre)+'"');
   content.push('soustitre = "' + asString(article.soustitre) +'"');
   content.push('date = "' + article.date.replace(/ /, "T") + "+01:00" +'"');
-  content.push('rubrique = ' + article.id_rubrique);
+  content.push('categories = [ "' +getRubrique(article.id_rubrique).titre+ '" ]');
   content.push('description = "' + asString(removeUrl(article.descriptif)).replace(/\n/, "")  +'"');
   content.push('comments = true');
   var nomImage = 'arton' + article.id_article;

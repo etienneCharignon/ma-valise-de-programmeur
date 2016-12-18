@@ -3,7 +3,7 @@ id = 61
 title = "Faut-il commenter son code ?"
 soustitre = ""
 date = "2008-02-14T21:54:34+01:00"
-rubrique = 10
+categories = [ "Essais" ]
 description = "La réponse est \"Oui\"... le moins possible !"
 comments = true
 +++

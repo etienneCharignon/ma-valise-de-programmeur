@@ -3,7 +3,7 @@ id = 70
 title = "Developpement Web en Java !"
 soustitre = ""
 date = "2008-08-24T23:14:26+01:00"
-rubrique = 10
+categories = [ "Essais" ]
 description = ""
 comments = true
 +++

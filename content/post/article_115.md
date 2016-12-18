@@ -3,7 +3,7 @@ id = 115
 title = "Dans cette station de ski, les pistes rouges sont trop faciles !"
 soustitre = ""
 date = "2013-05-20T22:55:10+01:00"
-rubrique = 10
+categories = [ "Essais" ]
 description = ""
 comments = true
 +++
