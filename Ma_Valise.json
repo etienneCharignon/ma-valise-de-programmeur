@@ -1424,7 +1424,7 @@
         "id_rubrique": "1",
         "descriptif": "",
         "chapo": "Par Gerald M. Weinberg, édition Dorset House Publishing",
-        "texte": "<img7><img8><img9>\n\nUne série à mettre définitivement entre toutes les mains des développeurs désirant devenir un jour manager, mais aussi cherchant simplement a comprendre comment faire des logiciels de bonne qualité.",
+        "texte": "<img10|left><img7|left><img8|left><img9|left>##CLEAR##\n\nUne série à mettre définitivement entre toutes les mains des développeurs désirant devenir un jour manager, mais aussi cherchant simplement a comprendre comment faire des logiciels de bonne qualité.",
         "ps": "",
         "date": "2007-08-29 09:25:14",
         "statut": "publie",
