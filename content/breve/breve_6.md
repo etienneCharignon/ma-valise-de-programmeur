@@ -2,7 +2,7 @@
 id = 6
 title = "L'effet des commentaires sur l'interprétation d'un code contenant des erreurs"
 date = "2008-02-14T22:27:07+01:00"
-rubrique = 15
+categories = [ "Cahier du jour" ]
 +++
 
 ## L'effet des commentaires sur l'interprétation d'un code contenant des erreurs
