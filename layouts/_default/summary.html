@@ -1,6 +1,6 @@
 <article class="single">
 
-  <a href="{{ .Permalink }}" class="thumb"{{ with .Params.thumbnail }} style="background-image: url({{ $.Site.BaseURL }}{{ . }});"{{ end }}></a>
+  <a href="{{ .Permalink }}" class="thumb"{{ with .Params.thumbnail }} style="display: block; background-image: url({{ $.Site.BaseURL }}{{ . }});"{{ end }}></a>
   <div class="content-inner">
     <h1 class="title">{{ .Title }}</h1>
 

@@ -1,5 +1,5 @@
 <article class="li">
-  <a href="{{ .Permalink }}" class="thumb"{{ with .Params.thumbnail }} style="background-image: url({{ $.Site.BaseURL }}{{ . }}); background-size: contain; background-repeat: no-repeat"{{ end }}></a>
+  <a href="{{ .Permalink }}" class="thumb"{{ with .Params.thumbnail }} style="display: block; background-image: url({{ $.Site.BaseURL }}{{ . }});"{{ end }}></a>
   <div class="content-inner thin">
     <h2 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
 

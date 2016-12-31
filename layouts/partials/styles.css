@@ -261,10 +261,10 @@ article .title a {
 }
 
 article .thumb {
-  display: block;
-  background-image: url({{ .Site.BaseURL }}images/default.jpg);
+  display: none;
   background-position: center;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 article .summary {
