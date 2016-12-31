@@ -3,7 +3,7 @@ id = 103
 title = "Une équipe agile, une équipe avec du caractère."
 soustitre = ""
 date = "2010-11-01T22:17:04+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = ""
 comments = true
 +++

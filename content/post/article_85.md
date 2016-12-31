@@ -3,7 +3,7 @@ id = 85
 title = "L'agilité ? Est-ce vraiment si efficace qu'on le dit ?"
 soustitre = "J'aime à nouveau mon métier de programmeur"
 date = "2009-06-04T23:06:37+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = ""
 comments = true
 +++

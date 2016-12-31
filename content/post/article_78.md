@@ -3,7 +3,7 @@ id = 78
 title = "Grenouille ou blaireau ?"
 soustitre = ""
 date = "2009-03-21T21:34:22+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = ""
 comments = true
 +++

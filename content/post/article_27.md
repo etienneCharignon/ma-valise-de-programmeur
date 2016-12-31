@@ -3,7 +3,7 @@ id = 27
 title = "La culture des Design Patterns"
 soustitre = ""
 date = "2005-06-19T15:38:00+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = ""
 comments = true
 +++

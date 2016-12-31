@@ -3,7 +3,7 @@ id = 57
 title = "Paris on Rails 2007"
 soustitre = ""
 date = "2007-12-12T21:58:49+01:00"
-categories = [ "Conférences" ]
+catégories = [ "Conférences" ]
 description = "Conférence d'une journée sur Ruby et Ruby on Rails"
 comments = true
 +++

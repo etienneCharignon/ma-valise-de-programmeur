@@ -3,7 +3,7 @@ id = 107
 title = "Référentiel des concepts, pratiques et compétences agiles"
 soustitre = "Le référentiel de l'Institut Agile"
 date = "2011-06-12T23:41:45+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = ""
 comments = true
 +++

@@ -3,7 +3,7 @@ id = 30
 title = "Le solide dos de l’informatique"
 soustitre = ""
 date = "2005-06-02T11:53:00+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = ""
 comments = true
 +++

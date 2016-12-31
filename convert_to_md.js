@@ -113,7 +113,7 @@ articles.forEach(function(article) {
   content.push('title = "' + asString(article.titre)+'"');
   content.push('soustitre = "' + asString(article.soustitre) +'"');
   content.push('date = "' + article.date.replace(/ /, "T") + "+01:00" +'"');
-  content.push('categories = [ "' +getRubrique(article.id_rubrique).titre+ '" ]');
+  content.push('catégories = [ "' +getRubrique(article.id_rubrique).titre+ '" ]');
   content.push('description = "' + asString(removeUrl(article.descriptif)).replace(/\n/, "")  +'"');
   content.push('comments = true');
   var nomImage = 'arton' + article.id_article;
@@ -148,7 +148,7 @@ breves.forEach(function(breve) {
   content.push('id = ' + breve.id_breve);
   content.push('title = "' + asString(breve.titre)+'"');
   content.push('date = "' + breve.date_heure.replace(/ /, "T") + "+01:00" +'"');
-  content.push('categories = [ "' +getRubrique(breve.id_rubrique).titre+ '" ]');
+  content.push('catégories = [ "' +getRubrique(breve.id_rubrique).titre+ '" ]');
   content.push("+++");
   content.push("");
   content.push(spipToMd(breve.texte));

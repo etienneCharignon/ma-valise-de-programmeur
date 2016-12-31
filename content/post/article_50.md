@@ -3,7 +3,7 @@ id = 50
 title = "Descopage !"
 soustitre = "Comment charger sa voiture pour les vacances"
 date = "2007-09-18T09:38:23+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = "Descopage ! Voici \"l'insulte\" que l'on peut entendre parfois si on s'aventure à parler de contenu fonctionnel variable dans une réponse à appel d'offre... Cela est pourtant assez naturel."
 comments = true
 +++

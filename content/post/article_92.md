@@ -3,7 +3,7 @@ id = 92
 title = "Scrum + XP ?"
 soustitre = ""
 date = "2009-10-22T22:30:22+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = ""
 comments = true
 +++

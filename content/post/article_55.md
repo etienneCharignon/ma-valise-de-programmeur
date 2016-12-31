@@ -3,7 +3,7 @@ id = 55
 title = "XP Days 2007 France"
 soustitre = ""
 date = "2007-05-10T00:00:00+01:00"
-categories = [ "Conférences" ]
+catégories = [ "Conférences" ]
 description = "Retour sur les conférences sur l'extreme programming et l'Agilité qui se sont déroulées à Paris les 2 et 3 mai 2007."
 comments = true
 +++

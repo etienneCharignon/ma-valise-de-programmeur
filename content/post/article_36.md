@@ -3,7 +3,7 @@ id = 36
 title = "Programmation délibérée"
 soustitre = ""
 date = "2005-11-11T17:11:00+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = "La programmation défensive est-elle une bonne façon de travailler ? Non, et à cette pratique s'oppose celle de la programmation délibérée."
 comments = true
 +++

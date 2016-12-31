@@ -3,7 +3,7 @@ id = 102
 title = "RT @Galilée la terre tourne autour du soleil"
 soustitre = ""
 date = "2010-09-14T21:50:45+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = "Ceci est une participation à une conversation récente de la liste de discussion xp-france sur la place de l'architecture orientée composant dans l'agilité."
 comments = true
 +++

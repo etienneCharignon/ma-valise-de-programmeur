@@ -3,7 +3,7 @@ id = 47
 title = "Les métiers du bâtiment"
 soustitre = ""
 date = "2007-04-17T22:18:04+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = "Une métaphore des profils de développeurs."
 comments = true
 +++

@@ -3,7 +3,7 @@ id = 44
 title = "Binômer ? on est pas là pour s'amuser !"
 soustitre = ""
 date = "2006-09-10T21:57:31+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = "Qu'est ce qui motive les entreprises a passer au binômage ? Quel intérêt peut-on y trouver ?"
 comments = true
 +++

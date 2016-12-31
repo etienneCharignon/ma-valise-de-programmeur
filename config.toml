@@ -9,4 +9,5 @@ disqusShortName = "ma-valise"
   Author = "Étienne Charignon"
 
 [taxonomies]
-  category = "categories"
+  tag = "tags"
+  category = "catégories"

@@ -3,7 +3,7 @@ id = 43
 title = "Laissez la modélisation venir à vous..."
 soustitre = "Les forces de la programmation pilotée par les tests"
 date = "2006-05-29T22:19:44+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = "La programmation pilotée par les tests est une manière d'arriver à la modélisation d'une application, sans nécessiter de construire un grand plan en phase amont."
 comments = true
 +++

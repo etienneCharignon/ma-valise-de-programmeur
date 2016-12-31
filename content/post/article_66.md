@@ -3,7 +3,7 @@ id = 66
 title = "Dans la vie, on peut parler de ce qu'on ressent."
 soustitre = ""
 date = "2008-05-06T23:14:34+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = ""
 comments = true
 +++

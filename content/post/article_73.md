@@ -3,7 +3,7 @@ id = 73
 title = "Lire du code"
 soustitre = ""
 date = "2008-10-02T21:54:47+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = "Qu'est-ce qu'on apprend en lisant du code ?"
 comments = true
 +++

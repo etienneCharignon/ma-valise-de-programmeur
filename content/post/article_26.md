@@ -3,7 +3,7 @@ id = 26
 title = "La peur au ventre"
 soustitre = ""
 date = "2005-06-02T15:33:00+01:00"
-categories = [ "Essais" ]
+catégories = [ "Essais" ]
 description = ""
 comments = true
 +++
