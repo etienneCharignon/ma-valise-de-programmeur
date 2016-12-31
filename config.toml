@@ -7,3 +7,6 @@ disqusShortName = "ma-valise"
   dateformat = "02/01/2006"
   logo = "/images/siteon0.jpg"
   Author = "Étienne Charignon"
+
+[taxonomies]
+  category = "categories"
