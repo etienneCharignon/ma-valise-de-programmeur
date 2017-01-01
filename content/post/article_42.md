@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 ## Musique et Programmation
 Les spécifications sont à la programmation ce qu'une partition est à la musique. La véritable performance ne se réalise qu'à partir du moment où l'on arrive à s'en détacher.
 

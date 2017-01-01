@@ -10,4 +10,5 @@ thumbnail = "/images/arton8.jpg"
 +++
 
 <div class="chapo">Par Joshua Bloch, édition Vuibert</div>
+
 Ouvrage de référence, indispensable.

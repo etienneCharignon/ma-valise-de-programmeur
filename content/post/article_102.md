@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Bonjour la liste[[http://fr.groups.yahoo.com/group/xp-france/message/8909]],
 
 "...{Le découpage en plusieurs équipes me semble avant tout une affaire de

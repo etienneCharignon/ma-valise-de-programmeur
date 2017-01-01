@@ -10,6 +10,7 @@ thumbnail = "/images/arton101.png"
 +++
 
 <div class="chapo"></div>
+
 Les 31 mai et 1 er juin 2010, j'assisterai à la nouvelle conférence [Agile France](http://conf.agile-france.org/) (qui vient remplacer la conférence annuelle XP-France).
 
 Cette conférence est vraiment le rendez-vous annuel des agilistes français. Elle se déroulera à Paris (enfin presque), au [chalet de la porte jaune](http://conf.agile-france.org/site/).

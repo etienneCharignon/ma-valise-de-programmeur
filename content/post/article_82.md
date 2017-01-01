@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 [{{% img src="images/jpg/equipe_petit.jpg" class="center" caption="EQUIPE VERSUS GROUPE" %}}](http://emmanuelchenu.blogspot.com/2008/09/equipe-versus-groupe.html)
 
 Est-il nécessaire d'ajouter quelque chose ?

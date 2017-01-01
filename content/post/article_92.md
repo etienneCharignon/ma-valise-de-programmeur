@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Connaissez-vous la problématique théologique suivante:
 Dieu reconnaît-il les hommes sur leurs actes ou les aime-t-il pour ce qu'ils sont ? En d'autres termes, les hommes ont-ils une âme ?
 

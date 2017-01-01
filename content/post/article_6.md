@@ -10,4 +10,5 @@ thumbnail = "/images/arton6.gif"
 +++
 
 <div class="chapo">Par Tom Demarco, édition Hardcover</div>
+
 DeMarco étudie les grands défis que rencontre la plus part des entreprises qui produisent du logiciel : aggressive schedules, expected overtime, change management, motivating employees, et risk management...

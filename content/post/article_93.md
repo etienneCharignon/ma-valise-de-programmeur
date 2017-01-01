@@ -10,4 +10,5 @@ thumbnail = "/images/arton93.jpg"
 +++
 
 <div class="chapo">par Gerald M. Weinberg, edition Dorset House</div>
+
 Qu'est-ce qui distingue un leader technique "naturel" d'un leader technique "designé". Comment devenir un bon leader technique. Ce livre ne vous donnera pas une recette toute faite évidement, mais il contient de nombreux modèles (MOI, Myers-Briggs, ...), un certain nombre de pistes de reflexions ainsi que des exercices.

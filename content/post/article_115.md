@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo">Des User stories estimées en point de complexité ? Qui n'y comprend rien ?</div>
+
 ## Qu'est ce qu'une User Story
 Dans nos projets agiles, nous découpons nos besoins en petites fonctionnalités. Cette liste de fonctionnalités est appelée le Product Backlog (ou "carnet de produit" comme disent les Quebecois).
 

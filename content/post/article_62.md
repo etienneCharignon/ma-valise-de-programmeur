@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Quand on se fait agent du changement vers des pratiques de développement agiles, on se fait rapidement traiter de fanatique et c'est effectivement ce que l'on a l'air d'être. 
 
 Je ne sais pas comment font les autres, mais personnellement j'utilise l'idéal comme une référence et une vision de l'objectif à atteindre. Il n'est pas si facile de garder le cap quand on est plongé dans la réalité.

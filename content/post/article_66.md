@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Ce soir, je lisais un livre très intéressant à mon petit bonhomme : "Tous différents" par [Todd Parr](http://www.toddparr.com/todd/index.html). Je me suis en particulier arrêté sur la page suivante:
 {{% img src="images/png/Todd_reduit_.png" class="center" caption="On peut parler de ce qu'on ressent" %}}
 

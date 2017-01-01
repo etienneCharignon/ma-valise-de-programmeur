@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Aujourd'hui, on m'a affirmé que les boucles While étaient plus rapides que les boucles For ! Cette affirmation m'a paru pour le moins étrange, et j'ai décidé de vérifier rapidement ce qu'il en était.
 
 J'ai fait ma petite expérience en Java.

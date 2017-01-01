@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 J'écris ce message pour répondre à l'inconnu qui a commenté mon [cahier du jour](../../breve/breve_4)
 
 Ce que j’écris dans mon cahier du jour n’est pas vraiment à destination du public. C'est plutôt une réflexion personnelle. C'est pourquoi les messages peuvent être assez succins.

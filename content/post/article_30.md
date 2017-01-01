@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 _Anne_ : Ho non, l’ordinateur ne marche plus.
 
 _Etienne (depuis la salle de bain)_ : qu’est ce qui ce passe&nbsp;?

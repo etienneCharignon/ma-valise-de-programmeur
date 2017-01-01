@@ -10,6 +10,7 @@ thumbnail = "/images/arton104.jpg"
 +++
 
 <div class="chapo"></div>
+
 Je viens d'intégrer depuis peu une équipe toute jeune qui a bien du mal à conduire ses réunions. En particulier, sous le feu de la passion, les discussions avaient tendance à partir dans toutes les directions. 
 
 En bon consultant agile, j'ai proposé d'utiliser une boite à meuh ! 

@@ -124,7 +124,7 @@ articles.forEach(function(article) {
   }
   content.push("+++");
   content.push("");
-  content.push('<div class="chapo">' + urlToMd(article.chapo) +'</div>');
+  content.push('<div class="chapo">' + urlToMd(article.chapo) +'</div>\n');
   content.push(spipToMd(article.texte));
 
   var fileName = "content/post/article_" + article.id_article+ ".md";

@@ -10,6 +10,7 @@ thumbnail = "/images/arton72.gif"
 +++
 
 <div class="chapo"></div>
+
 Avez-vous déjà observé un dessinateur en action ? Avez-vous déjà ressenti la fascination de voir apparaître quelques traits qui ne semblent avoir aucun sens puis finalement, de voir le dessin surgir comme par magie.
 
 Étant le fils d'une dessinatrice de bandes dessinées, j'ai souvent observé ce phénomène. Je l'ai remarqué aussi en voyant par exemple Cabu dessiner quelques Grand Duduche en direct à la télévision.

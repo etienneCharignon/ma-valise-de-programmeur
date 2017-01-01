@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Quel est le mode d'organisation le plus efficace ? Centralisation ou distribution ? Face a la complexité du monde dans lequel nous vivons deux comportements sont possibles, quand il s'agit de choisir un mode d'organisation. Que ce soit pour classer des documents, concevoir une architecture logicielle, organiser une grande quantité de données, organiser un travail collectif, organiser une entreprise, ou que sais-je, on peut choisir de mettre en place un point de référence centrale ou pas.
 
 Supposez que vous deviez organiser la gestion documentaire d'une entreprise. Vous pouvez tout naturellement décider de mettre en place dans votre système d'information un serveur central sur lequel tous les documents devront être déposés et où ils pourront facilement être retrouvés. Ainsi vous êtes sûr qu'il y a bien une version de référence permettant de s'y retrouver parmi les innombrables versions qui ne manqueront pas de se multiplier sur les ordinateurs des différents collaborateurs. 

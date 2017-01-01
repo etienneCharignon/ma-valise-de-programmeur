@@ -10,6 +10,7 @@ thumbnail = "/images/arton79.gif"
 +++
 
 <div class="chapo"></div>
+
 Emmanuel Gaillot vient de mettre en ligne la feuille de route du kata Mastermind en Ruby que nous avons présenté ensemble aux Valtech Days 2008.
 
 Merci beaucoup Manu.

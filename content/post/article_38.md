@@ -10,4 +10,5 @@ thumbnail = "/images/arton38.gif"
 +++
 
 <div class="chapo">Par Bruce A. Tate et Justin Gehtland, édition O'Reilly</div>
+
 Un ouvrage pour aprendre à lutter contre les "big bloats". La sur-ingénierie nous guette à tout les instants dans la création d'une application informatique. La simplicité est une valeur essentiel et indispensable.

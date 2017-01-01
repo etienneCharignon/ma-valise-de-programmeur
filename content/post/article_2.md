@@ -10,4 +10,5 @@ thumbnail = "/images/arton2.jpg"
 +++
 
 <div class="chapo">par Tom DeMarco et Timothy Lister. Edition Dorset House</div>
+
 Reflexions trés interessantes sur la productivité des équipes de développement logiciel.

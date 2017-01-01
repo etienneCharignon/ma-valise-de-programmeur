@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Voici quelques interrogations que l'on entend parfois à propos des équipes agiles. 
 
 <quote>Est-ce qu'il n'y a pas malgré tout un chef ?</quote> 

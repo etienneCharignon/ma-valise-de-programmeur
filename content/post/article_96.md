@@ -10,6 +10,7 @@ thumbnail = "/images/arton96.jpg"
 +++
 
 <div class="chapo"></div>
+
 Les 20-21-22 janvier 2010 je serais à la conférence [Agile Open France](http://www.agileopen.net/node/407) en Alsace.
 
 Agile Open est une conférence sur le mode [Open Space](http://www.openspaceworld.org/french/index.html) dont le contenu des sessions n'est pas définit à l'avance mais pendant la conférence, par les participants.

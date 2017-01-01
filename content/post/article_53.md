@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Je reviens à peine de la conférence Valtech Days 2007 qui s’est déroulée les 23 et 24 octobre et j'ai eu beaucoup de plaisir à participer à cette conférence à plusieurs titres.
 
 Premièrement, un des sujets principaux de cette conférence était l'agilité et je n'aurais pas pu rater un évènement pareil sur Paris (deux jours de discussions passionnantes avec une foule de gens ouverts et très souvent prêts à "y aller" ou ayant déjà fait le pas.)

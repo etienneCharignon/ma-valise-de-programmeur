@@ -10,4 +10,5 @@ thumbnail = "/images/arton77.gif"
 +++
 
 <div class="chapo">par Eliyahu M. Goldratt, J. Cox, édition Afnor</div>
+
 Célèbre roman permettant d'apprendre de façon ludique la théorie des contraintes et le processus progressif d'optimisation d'une chaîne de production.

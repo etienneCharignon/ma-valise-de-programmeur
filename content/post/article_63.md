@@ -10,6 +10,7 @@ thumbnail = "/images/arton63.jpg"
 +++
 
 <div class="chapo"></div>
+
 Mercredi, jeudi et vendredi, je serais à [AgileOpen France](http://www.agileopen.net/fr/node), une conférence au format OpenSpace Technologie (en français [Forum ouvert](http://www.openspaceworld.org/french/index.html)) sur le thème des méthodes de développement logiciel agiles.
 
 Cette conférence sans orateur identifié, ni programme préétabli, réunira très certainement de nombreuses personnalités de l'agilité francophone. Cela promet d'être passionnant.

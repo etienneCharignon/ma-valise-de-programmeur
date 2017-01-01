@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Je pourrais vous parler de gestion de projet informatique mais j'ai eu récemment, pendant une sieste, l'envie d'utiliser une autre sorte de projet: une pièce de théâtre[[La vision que je vous présente d'un tel projet est très simplifiée dans le but d'illustrer mon explication. Je m'excuse pour les acteurs qui pourraient me lire et ne pas se reconnaitre. Je ne tiens pas compte, notamment, du travail de création des costumes et des décors]].
 
 Au départ de notre projet nous commençons par chercher un texte. Nous parcourons les bibliothèques publiques ou les étagères de nos logements, voire internet pour trouver le texte d'une pièce qui nous plaise.

@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Ca y est, j'ai enfin fait l'effort d'installer sur mon blog le [souligneur de l'institut agile](http://referentiel.institut-agile.fr/outils.html).
 
 A partir de maintenant, pour tous les messages écrit et à venir, s'ils contiennent un mot au répertoire du référentielle de pratiques, il sera automatiquement souligné et une définition de référence en sera donnée.

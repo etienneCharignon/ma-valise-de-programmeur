@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Encore hier, j'ai passé un temps fou pour trouver la solution à un problème de configuration du mapping de ma base de données avec Hibernate !
 
 Dans les forums on trouve des tas de solutions toutes plus erronées ou inutiles les unes que les autres.

@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Ce matin, Valtech accueillait Alistair Cockburn de passage à Paris. Nous avons pu discuter différents sujet, de manière très informelle, mais non moins organisée.
 
 Nous avons abordé les sujets suivants (et j'en oublie):

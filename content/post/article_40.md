@@ -10,6 +10,7 @@ thumbnail = "/images/arton40.jpg"
 +++
 
 <div class="chapo">Par Gerald M. Weinberg, éditions Dorset house publishing</div>
+
 Il s'agit ici de la version "Silver anniversary". Apprenez comment il y a 25 ans, Gerald Weimberg formalisait l'"egoless programming".
 
 Dans un monde où les technologies naissent et meurent en quelques années, on s'aperçoit que les règles psychologiques qui régissent l'activité de programmation sont bien toujours les mêmes. 

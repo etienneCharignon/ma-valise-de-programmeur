@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Extraordinaire ! Voila mon sentiment général au retour de cette conférence de 2 jours et demi.
 
 Il s'est passé quelque chose pendant ces quelques jours. malheureusement, pour les lecteurs qui aimeraient bien comprendre, je n'ai pas d'autre réponse à donner que "il fallait venir". Ce type d'évènement apporte directement aux participants "là où ça les chatouille". C'est la magie de l'auto-organisation qui a opéré, magie en partie due à l'extraordinaire largeur de la bande passante d'une communication orale et spontanée entre personnes passionnées par le même sujet. 

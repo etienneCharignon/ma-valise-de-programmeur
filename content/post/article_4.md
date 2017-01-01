@@ -10,4 +10,5 @@ thumbnail = "/images/arton4.jpg"
 +++
 
 <div class="chapo">par J.L. Deladrière, F. Le Bihan, P.Mongin et D. Rebaud. Edition Dunod</div>
+
 Très intéressant et facile à lire. Je vais sûrement utiliser longtemps ces cartes euristiques.

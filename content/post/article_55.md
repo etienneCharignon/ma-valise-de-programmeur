@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Comme l'année passée, la passion était au rendez-vous. 
 
 Ce qui est le plus frustrant dans ce type d'événement, c'est d'être obligé de choisir parmi plusieurs sessions. Mais c'est aussi cela qui nous donne envie de revenir l'année suivante. Et puis, la vie est comme ça ! On ne peut pas tout apprendre d'un coup, il faut du temps.

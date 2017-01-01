@@ -10,6 +10,7 @@ thumbnail = "/images/arton118.png"
 +++
 
 <div class="chapo"></div>
+
 Vous rappelez-vous de la dernière fois où vous avez dit à vos collègues que vous les aimiez ?
 
 - Si vos rétrospectives ronronnent, si vous avez l'impression que ça n'apporte pas grand-chose, 

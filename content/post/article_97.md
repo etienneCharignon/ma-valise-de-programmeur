@@ -10,6 +10,7 @@ thumbnail = "/images/arton97.jpg"
 +++
 
 <div class="chapo"></div>
+
 Je dois dire que j'y ai vraiment trouvé mon compte dans cette édition de Agile Open France 2010. Je suis venu pour trouver des réponses et j'en ai eu un grand nombre. 
 Quand on travaille sur des projets de développement informatique, on a en général la "tête dans le guidon". Il y a bien les rétrospectives pour relever un peu la tête, mais ce n'est rien en comparaison d'aller passer 3 jours de séminaire dans un hôtel tranquille à une demi-journée de Paris.
 

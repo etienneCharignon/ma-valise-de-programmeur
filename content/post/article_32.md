@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 ## 1. Quel est l'objectif de la documentation ?
 Quand on travaille dans un labo de R&D, on ne côtoie que des cervelles en ébullition. Notre métier est de penser. Comme le dit Tom Demarco[[Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency, by Tom Demarco]] nous sommes des « Knowledge Worker ». A ce titre, nous pouvons prendre l'habitude de réfléchir sur la forme et l'utilité des différentes pratiques qui constituent notre « process » de travail.
 

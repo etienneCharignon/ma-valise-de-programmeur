@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 Avez-vous déjà vu un code où **toutes** les fonctions commenceraient par tester tous les paramètres reçus et qui retourneraient null si l'un des paramètres est null ? Ce type de code existe sûrement (Il est étonnant de constater que tout ce que l'on peut imaginer de plus horrible existe déjà), mais je ne l'ai jamais rencontré. J'ai par contre souvent lu du code où cette intention était présente. Cette pratique s'appelle de la programmation défensive.
 
 J'avoue avoir moi-même tenté de programmer de cette façon à mes débuts. Pourtant à bien y réfléchir, cette pratique n'apporte pas beaucoup de protection et ajoute par contre beaucoup de travail idiot.

@@ -9,6 +9,7 @@ comments = true
 +++
 
 <div class="chapo"></div>
+
 A votre avis, qui est le plus agile ? Le chevalier avec ses 90 kg d'armure ou le paladin en tunique avec sa hache ?
 
 Supposons qu'au cours de l'écriture de mon programme je rencontre soudainement le besoin d'une fonction d'affichage.
