@@ -16,4 +16,4 @@ Il reste encore quelques places pour assister à [la conférence XP-Day](http://
 
 J'y présenterai un retour d'expérience d'un projet que nous avons mené en 2008 avec la méthode SCRUM.
 
-Le titre exact de ma présentation est : "[Pour ceux qui pensent que agile rime avec absence de spécification](http://xpday.fr/programme#PourCeuxQuiPensentQueAgileRimeAvecAbsenceDeSpecification)."
+Le titre exact de ma présentation est&nbsp;: "[Pour ceux qui pensent que agile rime avec absence de spécification](http://xpday.fr/programme#PourCeuxQuiPensentQueAgileRimeAvecAbsenceDeSpecification)."

@@ -14,7 +14,7 @@ Ca y est, j'ai enfin fait l'effort d'installer sur mon blog le [souligneur de l'
 
 A partir de maintenant, pour tous les messages écrit et à venir, s'ils contiennent un mot au répertoire du référentielle de pratiques, il sera automatiquement souligné et une définition de référence en sera donnée.
 
-Par exemple : Programmation en binômes
+Par exemple&nbsp;: Programmation en binômes
 
  Pour installer cet outil, rien de plus simple. Il suffit d'ajouter le javascript suivant dans toutes les pages de votre site.
 

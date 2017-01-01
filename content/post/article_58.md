@@ -11,7 +11,7 @@ thumbnail = "/images/arton58.png"
 
 <div class="chapo">J'ai assisté aux rencontres agiles 2007 qui se sont déroulées de 9h00 à 12h00 mardi 18 décembre à Paris La Défense.</div>
 
-Pour commencer, une petite déception personnelle, en effet, cette conférence était plutôt orientée "newby" du fait de son format : des présentations nombreuses et courtes (20 minutes). 
+Pour commencer, une petite déception personnelle, en effet, cette conférence était plutôt orientée "newby" du fait de son format&nbsp;: des présentations nombreuses et courtes (20 minutes). 
 
 - Malheureusement, la présentation de Christophe Thibaut a sauté.
 
@@ -21,7 +21,7 @@ Pour commencer, une petite déception personnelle, en effet, cette conférence �
 
 - La présentation de Eric Mignot était très interactive (il nous a fait choisir nos sujets).
 
-- J'ai été content de revoir la présentation de Laurent Bossavit : _agilité à monter soi même_, que j'avais déjà vue au [Valtech Days 2007](../article_53). Je l'ai vue de manière complètement différente. A la question "faut-t-il adopter l'agilité intégralement telle que décrite dans les livres ?" Laurent répond: Commencez par modéliser votre processus actuel puis adoptez les pratiques agiles qui concernent les points qui vous font le plus mal. 
+- J'ai été content de revoir la présentation de Laurent Bossavit&nbsp;: _agilité à monter soi même_, que j'avais déjà vue au [Valtech Days 2007](../article_53). Je l'ai vue de manière complètement différente. A la question "faut-t-il adopter l'agilité intégralement telle que décrite dans les livres&nbsp;?" Laurent répond: Commencez par modéliser votre processus actuel puis adoptez les pratiques agiles qui concernent les points qui vous font le plus mal. 
 
 - La présentation de Régis Medina, que j'avais déjà plus ou moins vue, était très intéressante mais, encore une fois, trop rapide. J'avais préféré la version longue.
 

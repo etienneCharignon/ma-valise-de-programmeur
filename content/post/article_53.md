@@ -22,20 +22,20 @@ Avant de blablater plus avant je tiens à féliciter l'équipe organisatrice. Va
 
 Pour ma part, ces deux jours ont été curieusement centrés sur la question de la place de la conception logiciel dans les méthodes Agiles.
 
-Voici quel a été mon programme :
-## 23 Octobre :
+Voici quel a été mon programme&nbsp;:
+## 23 Octobre&nbsp;:
 
 [UML est-il soluble dans les méthodes agiles?](http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#uml)
 
 Dommage que Pascal Roques n'ai consacré que le dernier quart d'heure à nous parler d'Agile Modeling, cela aurait été plus intéressant que de constater que UML n'est pas synonyme de MDA (Model Driven Architecture).
 
-[Agile & Offshore : Rétrospective d'un projet à 1 million d'euros](http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#agile_1million)
+[Agile & Offshore&nbsp;: Rétrospective d'un projet à 1 million d'euros](http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#agile_1million)
 
-Ah ! donc Agile et Offshore c'est possible. Tout n'est pas rose évidement, mais on voit bien que l'esprit Agile apporte aussi beaucoup dans cette situation. Par exemple, même dans ce contexte, parler de rapprochement du client et des développeurs ça veut dire quelque chose. 
+Ah&nbsp;! donc Agile et Offshore c'est possible. Tout n'est pas rose évidement, mais on voit bien que l'esprit Agile apporte aussi beaucoup dans cette situation. Par exemple, même dans ce contexte, parler de rapprochement du client et des développeurs ça veut dire quelque chose. 
 
 [Agilité: à monter soi-même...](http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#agilite_en_kit) 
 
-Ah, merci Laurent Bossavit, d'avoir remis à sa place MDA et cycle en V, c'est à dire à la poubelle. Au passage, j'ai noté une référence pour mes prochaines lectures : "The logic of Failure" by _Diertrich Dörner_
+Ah, merci Laurent Bossavit, d'avoir remis à sa place MDA et cycle en V, c'est à dire à la poubelle. Au passage, j'ai noté une référence pour mes prochaines lectures&nbsp;: "The logic of Failure" by _Diertrich Dörner_
 
 [From “Fragile to Agile”](http://www.valtech.fr/fr/index/valtech_days/24seminaires/Industrialisation.html#agitar)
 
@@ -47,14 +47,14 @@ Très belle démonstration de la part de David Gageot de la faisabilité de la c
 
 [Language Oriented Programming: Using DSLs as a new Agile abstraction and modeling mechanism](http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#dsl)
 
-Woow, quelle énergie ! Assister à la fin d'une journée aussi intense à une présentation en anglais de Sadek Drobi nous a tous mis KO. Le sujet était en tout cas très intéressant et je comprends la passion de Sadek pour cette nouvelle évolution des langages de programmation vers plus d'expressivité. Les "Domain Specific Languages" sont un pas de plus vers la "dé-Geekisation" de l'activité de programmation.
+Woow, quelle énergie&nbsp;! Assister à la fin d'une journée aussi intense à une présentation en anglais de Sadek Drobi nous a tous mis KO. Le sujet était en tout cas très intéressant et je comprends la passion de Sadek pour cette nouvelle évolution des langages de programmation vers plus d'expressivité. Les "Domain Specific Languages" sont un pas de plus vers la "dé-Geekisation" de l'activité de programmation.
 
-## 24 Octobre : Forum Ouvert
+## 24 Octobre&nbsp;: Forum Ouvert
 
 Je me rends compte qu'un des gros points forts de cette session Open Space Technologie est sa capacité à créer de l'émulation. C'est le bon endroit pour tisser des réseaux sociaux, pour connaitre et se faire connaitre. C'est l'occasion pour les participants d'exprimer leur point de vue, de présenter leur expérience, de poser des question, d'exercer leur talent de facilitateur...
 Tout ceci n'est pas si facile avec la forme habituelle des conférences où un expert vient présenter un sujet à un auditoire passif.
 
-Voici les sessions auxquelles j'ai participé :
+Voici les sessions auxquelles j'ai participé&nbsp;:
 
 [Agilité, Qualité](http://valtechdays.pbwiki.com/M%C3%A9thodes+Agiles+et+Qualit%C3%A9)
 

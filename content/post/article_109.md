@@ -16,7 +16,7 @@ Est-ce que vous connaissez cette expérience qui a été mené par IndustrialLog
 
 Cette expérience consiste à mettre en lumière la différence entre le travail individuel et le travail en pair, par la création d'un dessin.
 
-Voici les deux premiers dessins mis en avant sur le site :
+Voici les deux premiers dessins mis en avant sur le site&nbsp;:
 {{% img src="images/gif/soloFred.gif" class="center" caption="Solo Drawing" %}}{{% img src="images/gif/pairBarb.gif" class="center" caption="Pair Drawing" %}}
 
 Par cette comparaison il apparait clairement qu'un travail à deux est beaucoup plus riche qu'un travail en solo.
@@ -32,17 +32,17 @@ Seulement voilà. Le plus souvent, pour des questions de délai, il n'est pas po
 
 On en arrive tout naturellement à vouloir constituer des équipes.
 
-Comment est-il possible que des équipes d'informaticiens talentueux, compétent et créatif, conduisent à des logiciels qui ressemble plutôt à ça :
+Comment est-il possible que des équipes d'informaticiens talentueux, compétent et créatif, conduisent à des logiciels qui ressemble plutôt à ça&nbsp;:
 {{% img src="images/gif/pairRalph.gif" class="center" caption="L'image d'un projet informatique réalisé en équipe" %}}
 
-Ce dessin illustre bien les enjeux du travail collectif :
+Ce dessin illustre bien les enjeux du travail collectif&nbsp;:
 
 - Garantir l'intégrité conceptuelle
 - Créer l’alignement des personnes vers un objectif commun.
-- le travail collectif : cela s'apprend (sinon on fera un dessin de débutant)
+- le travail collectif&nbsp;: cela s'apprend (sinon on fera un dessin de débutant)
 
-Mais aussi :
+Mais aussi&nbsp;:
 
 - accepter que la production de l'équipe n'a rien de commun avec ce qu'aurai produit un talent seul avec beaucoup de temps.
 
-Plusieurs personnes doivent accepter cela : les managers évidement, mais aussi les développeurs.
+Plusieurs personnes doivent accepter cela&nbsp;: les managers évidement, mais aussi les développeurs.

@@ -19,4 +19,4 @@ Le titre semble indiquer que ce livre va vous permettre d'améliorer le design d
 
 Ensuite, la véritable innovation de cette technique est d'avoir donnée naissance à des outils concrets dans les environnements de développement java tel que IntelliJ permettant d'automatiser ces Refactorings (renommer une class, une variables, extraire une méthode, la remettre en ligne toutes ces actions ne prennent qu'une fraction de secondes...)
 
-C'est dans ce livre qu'on trouve la définition de ce qu'est un "code smell", ou, comment identifier des motifs de design pouvant probablement bénéficier d'une remaniement... Je vous laisse lire !
+C'est dans ce livre qu'on trouve la définition de ce qu'est un "code smell", ou, comment identifier des motifs de design pouvant probablement bénéficier d'une remaniement... Je vous laisse lire&nbsp;!

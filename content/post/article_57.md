@@ -18,7 +18,7 @@ Je suis arrivé un peu en avance à la conférence et comme c'était la
 première fois que je me trouvais avec mon Mac Book près d'un HotSpot
 gratuit (à la Cité des sciences), je me suis dépêché de l'ouvrir pour
 voir. En quelques clics et après avoir donné mon adresse e-mail, je
-pouvais surfer sur internet et consulter mes mails. Cool ! Plusieurs
+pouvais surfer sur internet et consulter mes mails. Cool&nbsp;! Plusieurs
 participants ont utilisé cette technologie au cours de la journée, pour
 consulter en direct certaines informations sur les sites web des
 orateurs ou pour travailler (apparemment, puisque du coin de l'oeil,
@@ -27,13 +27,13 @@ trouvé très confortable (tout le monde pouvant regarder par dessus mon
 épaule, l'écran lumineux étant très lisible dans la pénombre de la
 salle), ni très utile de garder mon ordinateur allumé et je l'ai
 refermé définitivement pour la journée. Et puis cela ne manque-t-il
-pas un peu de courtoisie vis à vis des orateurs ?
+pas un peu de courtoisie vis à vis des orateurs&nbsp;?
 
 Pendant ce temps là, la salle a commencé à se remplir. L'audience
 était presque exclusivement constituée de jeunes cadres dynamiques
 masculins entre 25 et 35 ans. Je crois avoir compté 4 femmes en tout.
 Ça et là, les ordinateurs portables s'ouvrent... en majorité des
-Macs... Et aussi quelques IPhones (déjà) !. Je commençais à me
+Macs... Et aussi quelques IPhones (déjà)&nbsp;!. Je commençais à me
 demander si le programmeur ruby on rails ne serait pas un peu
 "branchouille". Il faut croire que cela était surtout représentatif de
 la population attirée par ce type de conférence. On apprendra par la
@@ -54,7 +54,7 @@ pour remplir deux jours de conférence.
 Parmi les sujets présentés, j'ai en particulier retenu la
 présentation de Nicolas Mérouze sur HAML et SASS. J'ai bien aimé son
 approche pragmatique de la programmation, à travers la recherche de la
-productivité. J'ai retenu deux règles :
+productivité. J'ai retenu deux règles&nbsp;:
 - Utiliser HAML plutôt que ERB comme templates de vue.
 - Eviter au maximum de mettre du code dans les templates et préférer
 l'utilisation de Helper et Presenter.
@@ -79,7 +79,7 @@ organisateurs de la conférence (Laurent Julliard, Richard
 Piacentini...), je confirme que la communauté Ruby et Ruby on Rails
 n'usurpe pas sa réputation de gentillesse et d'accueil. C'est peut
 être parce qu'elle a déjà son bouc émissaire par l'intermédiaire
-d'Internet Exploreur :-).
+d'Internet Exploreur&nbsp;:-).
 
 La journée s'est terminée par la très intéressante présentation de
 Jean-Michel Garnier sur RSpec. Ce framework n'est pas réservé à Ruby

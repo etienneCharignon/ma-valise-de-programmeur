@@ -18,7 +18,7 @@ Quoi qu'on pourrait penser, cette pratique ne remet pas en cause le fait de réf
 
 Certains diront qu'il est dangereux de travailler comme ça car on ne pourra pas faire facilement évoluer le code qui aura été écrit au début. 
 
-Alors, aucune méthode n'est-elle efficace ?
+Alors, aucune méthode n'est-elle efficace&nbsp;?
 
 Vous l'aurez deviné, je ne crois pas à ce dernier argument. Nous, les développeurs de logiciel savons que le code est une matière malléable que l'on peut modifier à volonté... Mais des années de pratique du cycle en V ont dû obscurcir plus d'un esprit. Ils ont oublié.
 
@@ -30,4 +30,4 @@ Le développement piloté par les tests conduit à écrire une application avec 
 
 C'est bien la force du DPT de permettre de choisir le modèle de l'application... et d'en changer si nécessaire. Ce que ne permet pas la méthode MDA qui, puisqu'elle base tout sur le choix d'un modèle à priori, ne permet pas ensuite de basculer sur un autre plus approprié.
 
-Car enfin c'est bien le choix d'une architecture qui dicte la qualité de l'application finale. Si l'on s'aperçoit que la concurrence réussit mieux que nous, ne serait-il pas intéressant de pouvoir virer rapidement pour tenter de la rattraper ?
+Car enfin c'est bien le choix d'une architecture qui dicte la qualité de l'application finale. Si l'on s'aperçoit que la concurrence réussit mieux que nous, ne serait-il pas intéressant de pouvoir virer rapidement pour tenter de la rattraper&nbsp;?

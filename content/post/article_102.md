@@ -15,13 +15,13 @@ Bonjour la liste[[http://fr.groups.yahoo.com/group/xp-france/message/8909]],
 "...{Le découpage en plusieurs équipes me semble avant tout une affaire de
 contexte}..."[[Olivier, si tu lis ce message, pardonne moi d'avoir repris ta phrase pour illustrer mon propos. Il ne s'agit pas d'un message personnel. Cette idée de contexte a fait nettement consensus sur la liste]]
 
-Si Galilée avait posté sur cette liste que la terre tourne autour du soleil, nous lui aurions sans doute répondu : "ça dépend du contexte mon cher Galilée" (enfin on aurait parlé italien évidement).
+Si Galilée avait posté sur cette liste que la terre tourne autour du soleil, nous lui aurions sans doute répondu&nbsp;: "ça dépend du contexte mon cher Galilée" (enfin on aurait parlé italien évidement).
 
 Et ce n'est pas faux, tout est relatif et dans un système composé uniquement d'une terre et d'un soleil, bien malin celui qui pourra dire qui tourne autour de qui.
 
 Mais pourtant, la science nous apporte quelques certitudes. Prenons par exemple Newton, avant d'être un parent éloigné de l'iPhone, c'était un scientifique qui nous a donné la loi de la gravitation universelle.
 
-Cette loi est universelle ?
+Cette loi est universelle&nbsp;?
 
 En effet, aussi surprenant que cela puisse paraître, les milliard d'étoiles qui composent l'univers obéissent à cette simple loi qui peut être expliquée sans difficulté à un lycéen.
 
@@ -43,12 +43,12 @@ Pour améliorer la vitesse de la chaine, il y a plusieurs point d'actions[[Merci
 
 1 - identifier le goulet d'étranglement
 
-les points que j'ai mentionnés ci-dessus :
+les points que j'ai mentionnés ci-dessus&nbsp;:
  - ressources stressées, surmenées
  - travail en cours qui s'empile devant le goulet (stock)
  - ressources derrière le goulet qui attendent du travail.
 
-2 - exploiter le goulet :
+2 - exploiter le goulet&nbsp;:
 
  - enlever toutes les tâches non productives
  - alimenter le goulet (pas de rupture en terme d'alimentation du travail à faire)
@@ -64,18 +64,18 @@ les points que j'ai mentionnés ci-dessus :
 
 4 - Elevez le goulet (arrive après 3)
 
- - investir des ressources et du temps pour améliorer la performance du goulet : training, relaxation, bonne ambiance, meilleurs outils, plus de gens (ce qui ralentit au début), ...
+ - investir des ressources et du temps pour améliorer la performance du goulet&nbsp;: training, relaxation, bonne ambiance, meilleurs outils, plus de gens (ce qui ralentit au début), ...
 
-5 - Et recommencer en 1 : ne pas laisser l'inertie devenir un goulet
+5 - Et recommencer en 1&nbsp;: ne pas laisser l'inertie devenir un goulet
 
- - Il y a toujours un goulet d'étranglement ! on peut toujours faire mieux. retourner toujours aux étapes 0 et 1 : est-ce que notre but est toujours valable ? Est-ce que le goulet s'est déplacé ? "Quand on élimine le problème 1, le problème 2 reçoit une promotion"
+ - Il y a toujours un goulet d'étranglement&nbsp;! on peut toujours faire mieux. retourner toujours aux étapes 0 et 1&nbsp;: est-ce que notre but est toujours valable&nbsp;? Est-ce que le goulet s'est déplacé&nbsp;? "Quand on élimine le problème 1, le problème 2 reçoit une promotion"
 
 6 - Changer le système
 
-Parfois, il n'y a plus moyen d'améliorer le système. Alors il faut changer la structure du système. C'est beaucoup plus difficile. On rencontre des objections :
- - Des règles cachées : "mais on a toujours fait les choses comme ça !"
- - "Ne touchez pas à ça ! vous allez tout casser !" - Pourquoi ?, Est-ce qu'on peut faire un petit essai ?...
- - "Vous ne comprenez pas!" - Pouvez-vous expliquer ?
+Parfois, il n'y a plus moyen d'améliorer le système. Alors il faut changer la structure du système. C'est beaucoup plus difficile. On rencontre des objections&nbsp;:
+ - Des règles cachées&nbsp;: "mais on a toujours fait les choses comme ça&nbsp;!"
+ - "Ne touchez pas à ça&nbsp;! vous allez tout casser&nbsp;!" - Pourquoi&nbsp;?, Est-ce qu'on peut faire un petit essai&nbsp;?...
+ - "Vous ne comprenez pas!" - Pouvez-vous expliquer&nbsp;?
 
 ## L'influence de la loi des enchaînements et des aléas sur l'architecture orientée composant
 
@@ -85,11 +85,11 @@ C'est cette loi qui rend les architectures orientées composant si difficile à 
 
 Ce type d'architecture suppose qu'on peut faire travailler individuellement des équipes sur différents composants qui seront ensuite assemblés pour former un tout cohérent. Dans ce type d'architecture, nos esprits rationnels s'autorisent toutes les combinaisons à priori. On espère qu'on pourra ajuster tardivement le produit total en assemblant les composants de différentes manières (par exemple, jouer sur les versions, pour assembler A en version v1 avec B en version v2)
 
-Certains composants sont dépendants d'autres composants et si c'est vraiment mal fait, on peut même avoir des cycles !
+Certains composants sont dépendants d'autres composants et si c'est vraiment mal fait, on peut même avoir des cycles&nbsp;!
 
 On rencontre particulièrement ce type d'architecture dans les entreprises qui n'ont pas la culture de l'erreur. C'est à dire des cultures où on suppose à priori que tout le monde est parfait. Ce type de culture ignore les aléas qui sinon rendraient évident l'impossibilité de faire tourner une telle machine.
 
-## La contre-proposition de l'agilité : les "feature teams"
+## La contre-proposition de l'agilité&nbsp;: les "feature teams"
 
 Dans cette configuration, chaque équipe est en charge du développement d'une ou plusieurs exigences fonctionnelles ("features en anglais"). La distinction avec les composants ci-dessus est que ces exigences fonctionnelles sont définies par un client et non un technicien.
 

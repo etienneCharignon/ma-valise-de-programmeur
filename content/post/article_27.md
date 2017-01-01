@@ -10,20 +10,20 @@ comments = true
 
 <div class="chapo"></div>
 
-- Jean-Pierre : Dans quel arrondissement de Paris se trouve le Parthenon ?
-- Joueur : 5 ème
-- Jean-Pierre : C’est votre dernier mot ?
+- Jean-Pierre&nbsp;: Dans quel arrondissement de Paris se trouve le Parthenon&nbsp;?
+- Joueur&nbsp;: 5 ème
+- Jean-Pierre&nbsp;: C’est votre dernier mot&nbsp;?
 
 La culture, c’est comme ça, quand on ne connaît pas la réponse, la question parait très difficile, alors que si l’on sait, elle parait évidente. C’est ce qu’on pourrait appeler l’”effet contraste”.
-Mais avant de continuer, voyons un peu les différentes réponses que le joueur aurait pu donner :
-- comme ici, il a pu choisir un arrondissement au hasard (mais il doit pour cela connaître le nombre d’arrondissements parisiens, pour ne pas répondre 32 ème !)
-- s’il est complexé par son incompétence, il peut tenter une réponse astucieuse comme par exemple “A quoi bon connaître l’arrondissement, du moment qu’on sait qu’il se trouve à Paris !”. Le joueur tentant ainsi de relativiser son inculture en prétendant connaître un minimum de choses… Évidemment, ce n’est pas possible, soit on sait soit on ne sait pas.
-- la moins ridicule des réponses n’est-elle pas simplement d’avouer quand on ne connaît pas la réponse ?
+Mais avant de continuer, voyons un peu les différentes réponses que le joueur aurait pu donner&nbsp;:
+- comme ici, il a pu choisir un arrondissement au hasard (mais il doit pour cela connaître le nombre d’arrondissements parisiens, pour ne pas répondre 32 ème&nbsp;!)
+- s’il est complexé par son incompétence, il peut tenter une réponse astucieuse comme par exemple “A quoi bon connaître l’arrondissement, du moment qu’on sait qu’il se trouve à Paris&nbsp;!”. Le joueur tentant ainsi de relativiser son inculture en prétendant connaître un minimum de choses… Évidemment, ce n’est pas possible, soit on sait soit on ne sait pas.
+- la moins ridicule des réponses n’est-elle pas simplement d’avouer quand on ne connaît pas la réponse&nbsp;?
 
 Enfin, il peut donner la bonne réponse
 - Le Parthenon ne se trouve pas à Paris.
 
-Mais pourquoi parler de réponse ridicule ?
+Mais pourquoi parler de réponse ridicule&nbsp;?
 
 C’est le contraste entre la bonne réponse et toutes les réponses fausses qui nous fait parfois porter un jugement incorrect sur la bêtise de nos interlocuteurs. Il est facile et rapide de porter un jugement méprisant envers quelqu’un n’ayant pas les mêmes références culturelles que nous. Et il est même amusant de remarquer que ce mépris est souvent réciproque, chacun mesurant la bêtise de l’autre avec son propre référentiel.
 

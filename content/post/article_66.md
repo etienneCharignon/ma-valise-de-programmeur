@@ -10,10 +10,10 @@ comments = true
 
 <div class="chapo"></div>
 
-Ce soir, je lisais un livre très intéressant à mon petit bonhomme : "Tous différents" par [Todd Parr](http://www.toddparr.com/todd/index.html). Je me suis en particulier arrêté sur la page suivante:
+Ce soir, je lisais un livre très intéressant à mon petit bonhomme&nbsp;: "Tous différents" par [Todd Parr](http://www.toddparr.com/todd/index.html). Je me suis en particulier arrêté sur la page suivante:
 {{% img src="images/png/Todd_reduit_.png" class="center" caption="On peut parler de ce qu'on ressent" %}}
 
-Voila quelque chose qu'on oublie trop facilement dans les projets professionnels. Par exemple, que penser d'un chef de projet qui insisterait pour être vouvoyé ? Ne serait-ce pas le meilleur moyen de fermer ce type de communication ? Quel est l'intérêt d'entretenir cette distance ? 
+Voila quelque chose qu'on oublie trop facilement dans les projets professionnels. Par exemple, que penser d'un chef de projet qui insisterait pour être vouvoyé&nbsp;? Ne serait-ce pas le meilleur moyen de fermer ce type de communication&nbsp;? Quel est l'intérêt d'entretenir cette distance&nbsp;? 
 
 Bon, il est vrai que le vouvoiement peut être une simple question d'éducation et être très bien vécu. 
 

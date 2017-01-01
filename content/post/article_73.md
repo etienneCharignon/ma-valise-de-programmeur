@@ -10,9 +10,9 @@ comments = true
 
 <div class="chapo"></div>
 
-Qu'est-ce qu'on apprend en lisant du code ?
+Qu'est-ce qu'on apprend en lisant du code&nbsp;?
 
-Il existe 5 raisons qui font que le code est ce qu'il est :
+Il existe 5 raisons qui font que le code est ce qu'il est&nbsp;:
 - limitation de la machine
 - limitation du langage
 - limitation du programmeur

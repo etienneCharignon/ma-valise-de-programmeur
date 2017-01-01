@@ -11,7 +11,7 @@ thumbnail = "/images/arton118.png"
 
 <div class="chapo"></div>
 
-Vous rappelez-vous de la dernière fois où vous avez dit à vos collègues que vous les aimiez ?
+Vous rappelez-vous de la dernière fois où vous avez dit à vos collègues que vous les aimiez&nbsp;?
 
 - Si vos rétrospectives ronronnent, si vous avez l'impression que ça n'apporte pas grand-chose, 
 - si vous pensez que l'humain est au coeur du processus agile, 

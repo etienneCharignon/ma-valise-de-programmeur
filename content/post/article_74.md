@@ -10,7 +10,7 @@ comments = true
 
 <div class="chapo"></div>
 
-Qu'est-ce que c'est qu'une "user story" ? Dans les projets agiles, on ne commence pas par écrire un document de spécification dans une phase initiale qui serait ensuite suivie par une phase de réalisation et enfin de validation. Non. A la place, on initialise une liste de "user story", ou "histoires utilisateur". Dans la [stratégie SCRUM](http://strategiles.tumblr.com/post/58145081/strat-gies-agiles), cette liste s'appelle un "product backlog". Ces "histoires utilisateur" sont de petites descriptions très courtes d'un besoin utilisateur. On peut formaliser ces descriptions pour en faciliter l'écriture en suivant par exemple le schéma suivant :
+Qu'est-ce que c'est qu'une "user story"&nbsp;? Dans les projets agiles, on ne commence pas par écrire un document de spécification dans une phase initiale qui serait ensuite suivie par une phase de réalisation et enfin de validation. Non. A la place, on initialise une liste de "user story", ou "histoires utilisateur". Dans la [stratégie SCRUM](http://strategiles.tumblr.com/post/58145081/strat-gies-agiles), cette liste s'appelle un "product backlog". Ces "histoires utilisateur" sont de petites descriptions très courtes d'un besoin utilisateur. On peut formaliser ces descriptions pour en faciliter l'écriture en suivant par exemple le schéma suivant&nbsp;:
 
 Dans le but de ..., En tant que ..., J'ai besoin de ...
 
@@ -20,7 +20,7 @@ Cette explication que j'ai essayé de rendre synthétique est encore trop longue
 
 ## Un projet est comme le travail de déplacement d'un tas de cailloux initial vers un tas de cailloux final
 
-Un projet est un travail de déplacement d'un tas de cailloux initial : le product backlog, vers un tas de cailloux final : l'ensemble des fonctionnalités réalisées et testées, les fameux RTF (Running Tested Feature).
+Un projet est un travail de déplacement d'un tas de cailloux initial&nbsp;: le product backlog, vers un tas de cailloux final&nbsp;: l'ensemble des fonctionnalités réalisées et testées, les fameux RTF (Running Tested Feature).
 
 Les cailloux sont les _user stories_. Nous en avons de différentes tailles. 
 

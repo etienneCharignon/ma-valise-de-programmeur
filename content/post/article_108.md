@@ -26,17 +26,17 @@ Nous avons 10 soirées.  Nous prévoyons de travailler une scène par soirée pe
 
 {{% img src="images/png/planning_oriente_planning.png" class="center" %}}
 
-L'avantage : on est sûr d'avoir fini de répéter au moins une fois toutes les scènes. Nous aurons ensuite du temps pour faire "l'intégration", c'est à dire les répétitions enchainant les scènes.
+L'avantage&nbsp;: on est sûr d'avoir fini de répéter au moins une fois toutes les scènes. Nous aurons ensuite du temps pour faire "l'intégration", c'est à dire les répétitions enchainant les scènes.
 
 A la fin de ce projet nous jouerons la pièce exactement telle qu'elle est décrite dans le texte que nous avons trouvé.
 
 Nous avons fait l'hypothèse qu'il est possible de répéter chaque scène en une soirée. En fait, cette hypothèse n'est pas formulée de cette façon. Ce que nous faisons implicitement, c'est que nous ajustons la qualité au temps que nous avons. Nous préparerons quelque chose chaque soir. Si la soirée est trop courte la scène sera moins bien préparée, si nous avons trop de temps ce qui n'arrive jamais comme chacun sait, ce sera du temps perdu (nous travaillerons plus mollement ces soirées-là). Au final certaines scènes seront mieux préparées que d'autres. 
 
-Nous ajusterons la qualité de notre réalisation pour que notre projet aboutisse. Nous sommes une troupe amateur et nous inviterons nos amis à venir "subir" notre pièce. Après tout, nous sommes là pour nous amuser. Si nous prenons plaisir à faire ce que nous faisons, nos amis seront contents !
+Nous ajusterons la qualité de notre réalisation pour que notre projet aboutisse. Nous sommes une troupe amateur et nous inviterons nos amis à venir "subir" notre pièce. Après tout, nous sommes là pour nous amuser. Si nous prenons plaisir à faire ce que nous faisons, nos amis seront contents&nbsp;!
 
 ## Pilotage par la qualité
 
-Ce qui nous intéresse dans ce mode c'est avant tout la qualité de notre réalisation. Nous sommes des amateurs, mais nous ne voulons pas être ridicules devant nos amis ! :-)
+Ce qui nous intéresse dans ce mode c'est avant tout la qualité de notre réalisation. Nous sommes des amateurs, mais nous ne voulons pas être ridicules devant nos amis&nbsp;!&nbsp;:-)
 
 Après tout, le texte que nous avons trouvé n'est peut-être pas le texte original. Et puis quand bien même, ce texte n'est peut-être pas le meilleur. On pourrait sans doute l'améliorer pour que ce soit plus drôle… y ajouter des références contemporaines...
 
@@ -54,7 +54,7 @@ A noter qu'avec ce mode de fonctionnement nous avons très rapidement une pièce
 
 Le pilotage par la qualité semblent faire plus de compromis au départ, mais comme il est plus efficace, on se retrouve au final avec un meilleur résultat.
 
-**Il faut lâcher prise pour obtenir plus !**
+**Il faut lâcher prise pour obtenir plus&nbsp;!**
 
 Avertissement:
 Mon analogie avec le théâtre n'est pas une preuve en soi. Ce pilotage par la qualité que je décris est parfaitement adapté pour le développement logiciel --je le sais pour l'avoir expérimenté déjà plusieurs fois-- mais, je ne sais absolument pas si cela fonctionnerait vraiment pour préparer une pièce de théâtre.

@@ -16,14 +16,14 @@ Dans nos projets agiles, nous découpons nos besoins en petites fonctionnalités
 Chaque fonctionnalité est appelée "User Story". En francais, on entend parfois "Histoire Utilisateur", mais comme tout le monde dit User Story, je vais rester là dessus. Une User Story est courte, elle peut être écrite sur une carte en utilisant le formalisme suivant. 
 En tant que... J'ai besoin de... dans le but de... 
 
-Par exemple :
+Par exemple&nbsp;:
 En tant que client, j'ai besoin d'un reçu dans le but de tenir mes comptes.
 
-## Et la complexité alors ?
+## Et la complexité alors&nbsp;?
 
-Dans le but de permettre la planification de notre projet, nous avons besoin d'estimer la taille du travail à faire. En agile, on introduit une distinction importante. Nous faisons la différence entre la complexité et l'effort. C'est souvent là que la compréhension coince un peu. Quelle est cette nuance et pourquoi en a-t-on besoin ?
+Dans le but de permettre la planification de notre projet, nous avons besoin d'estimer la taille du travail à faire. En agile, on introduit une distinction importante. Nous faisons la différence entre la complexité et l'effort. C'est souvent là que la compréhension coince un peu. Quelle est cette nuance et pourquoi en a-t-on besoin&nbsp;?
 
-Pourquoi est-ce si important que ces points soient "abstraits", personne n'est à l'aise avec les abstractions... Pourtant, je peux vous donner plusieurs exemples dans la vie de tous les jours où nous utilisons une échelle de mesure abstraite. C'est le cas de la pointure de vos chaussures qui s'exprime en point. Mais rentrons dans le détail avec une autre analogie :
+Pourquoi est-ce si important que ces points soient "abstraits", personne n'est à l'aise avec les abstractions... Pourtant, je peux vous donner plusieurs exemples dans la vie de tous les jours où nous utilisons une échelle de mesure abstraite. C'est le cas de la pointure de vos chaussures qui s'exprime en point. Mais rentrons dans le détail avec une autre analogie&nbsp;:
 
 Quand vous allez aux sports d'hiver, la difficulté des pistes est exprimée avec des couleurs. Vous avez les pistes vertes qui sont faciles, les pistes bleues, un peu plus difficiles, puis les pistes rouges encore au dessus et enfin les pistes noires qui sont les plus difficiles. 
 
@@ -39,7 +39,7 @@ Au cours du déroulement de votre projet, les User Story que vous aviez estimée
 
 L'estimation de complexité est une estimation relative, car c'est ce qu'il y a de plus facile à faire. Notre cerveau est une machine à comparer les choses deux à deux.
 
-## Comment je passe à la planification ?
+## Comment je passe à la planification&nbsp;?
 
 Pour pouvoir procéder à la planification, sur la base de vos estimations de points de complexité, il vous manque un moyen de rapprocher cette complexité de l'effort (c'est à dire le nombre de jour.homme qu'il faut pour faire un point).
 

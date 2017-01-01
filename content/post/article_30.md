@@ -10,20 +10,20 @@ comments = true
 
 <div class="chapo"></div>
 
-_Anne_ : Ho non, l’ordinateur ne marche plus.
+_Anne_&nbsp;: Ho non, l’ordinateur ne marche plus.
 
-_Etienne (depuis la salle de bain)_ : qu’est ce qui ce passe&nbsp;?
+_Etienne (depuis la salle de bain)_&nbsp;: qu’est ce qui ce passe&nbsp;?
 
-_Anne_ : y plus rien qui marche.
+_Anne_&nbsp;: y plus rien qui marche.
 
-_Etienne (depuis la salle de bain)_ : qu’est ce qui ce passe, vraaaiment&nbsp;?
+_Etienne (depuis la salle de bain)_&nbsp;: qu’est ce qui ce passe, vraaaiment&nbsp;?
 
-_Anne_ : Can’t reach P.O.P.3 server, contact your administrator…
+_Anne_&nbsp;: Can’t reach P.O.P.3 server, contact your administrator…
 
-_Etienne (Depuis la salle de bain, rassuré de savoir que l’ordinateur démarre en fait)_ : J’arrive, mais apparemment, ce n’est pas de ma faute pour une fois. C’est sans doute le serveur Noos qui ne répond pas.
+_Etienne (Depuis la salle de bain, rassuré de savoir que l’ordinateur démarre en fait)_&nbsp;: J’arrive, mais apparemment, ce n’est pas de ma faute pour une fois. C’est sans doute le serveur Noos qui ne répond pas.
 
-_Etienne (devant l’ordinateur, click sur “relever courrier”)_ : … Et voila, ça a marché cette fois&nbsp;! C’était bien de la faute de Noos&nbsp;!
+_Etienne (devant l’ordinateur, click sur “relever courrier”)_&nbsp;: … Et voila, ça a marché cette fois&nbsp;! C’était bien de la faute de Noos&nbsp;!
 
-_Anne_ : Merci mon chéri. Tu es merveilleux smack smack smack
+_Anne_&nbsp;: Merci mon chéri. Tu es merveilleux smack smack smack
 
-_Etienne_ : :-) Si ça pouvait être toujours aussi facile.
+_Etienne_&nbsp;:&nbsp;:-) Si ça pouvait être toujours aussi facile.

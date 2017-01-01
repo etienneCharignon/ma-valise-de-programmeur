@@ -14,7 +14,7 @@ Quand on se fait agent du changement vers des pratiques de développement agiles
 
 Je ne sais pas comment font les autres, mais personnellement j'utilise l'idéal comme une référence et une vision de l'objectif à atteindre. Il n'est pas si facile de garder le cap quand on est plongé dans la réalité.
 
-Voici ce qu'un client a pu dire de moi dernièrement :
+Voici ce qu'un client a pu dire de moi dernièrement&nbsp;:
 
 «_Oui j’ai été pleinement satisfait de l’accompagnement avec Etienne. La rigueur de son raisonnement lui a permis de garder un cap cohérent malgré notre situation un peu hors norme et notre nécessité de « challenger » ses idées avec nos contraintes, et cela sans devenir rigide et défensif._»
 
@@ -28,7 +28,7 @@ Christopher Alexander[[Christopher Alexander, Sara Ishikawa, Murray Silverstein,
 
 Il est dès lors de la responsabilité de chacun de se [construire son agilité](http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#agilite_en_kit), et il est de la responsabilité du coach d'aider à cette construction.
 
-Prenons par exemple la pratique du binômage. Elle est le résultat du constat que "programmer, c'est passer plus de temps à réfléchir qu'a effectivement rentrer le code dans l'ordinateur". Le binômage répond [extrêmement](../article_60) bien à cette problématique, mais si vous trouvez une autre réponse mieux adaptée à votre contexte... faites le ! Vous pourrez tout à fait légitimement estimer que vous aurez appliqué le modèle. 
+Prenons par exemple la pratique du binômage. Elle est le résultat du constat que "programmer, c'est passer plus de temps à réfléchir qu'a effectivement rentrer le code dans l'ordinateur". Le binômage répond [extrêmement](../article_60) bien à cette problématique, mais si vous trouvez une autre réponse mieux adaptée à votre contexte... faites le&nbsp;! Vous pourrez tout à fait légitimement estimer que vous aurez appliqué le modèle. 
 
 Les modèles XP se renforcent les uns les autres et c'est pour cette raison qu'il est généralement recommandé de les appliquer tous pour obtenir un résultat optimal. 
 

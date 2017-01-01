@@ -14,8 +14,8 @@ Ce matin, Valtech accueillait Alistair Cockburn de passage à Paris. Nous avons 
 
 Nous avons abordé les sujets suivants (et j'en oublie):
 
--  Crystal, qu'est-ce que c'est ?
-- Que pense Alistrair de l'auto-organisation ?
+-  Crystal, qu'est-ce que c'est&nbsp;?
+- Que pense Alistrair de l'auto-organisation&nbsp;?
 - [Advanced Agile](http://alistair.cockburn.us/Advanced+Agile+class)
 - 10th agile manifesto anniversary
 - Construction incrémentale
@@ -27,7 +27,7 @@ J'ai été très intéressé par toutes ces discussions qu'Alistair Cockburn a c
 
 Je retiens en particulier les idées au sujet de la formation (Advanced Agile) qui est, si j'ai bien compris, le nouveau défi de l'agilité. Le but de la formation n'est pas d'apposer un tampon certifiant, mais de permettre à chacun de se situer dans son propre parcours professionnel, en terme de compétences acquises, et de pouvoir identifier les formations permettant de le compléter au plus juste, avec des compétences à la fois accessibles et pertinentes (opportunes).
 
-J'ai noté la description de ce qu'est le cœur de Scrum :
+J'ai noté la description de ce qu'est le cœur de Scrum&nbsp;:
 
 - Livraison à chaque itération
 - Auto organisation

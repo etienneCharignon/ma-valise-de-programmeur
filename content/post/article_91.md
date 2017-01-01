@@ -15,7 +15,7 @@ Le 15 Octobre, j'irai assister à la session parisienne de l'Agile Tour édition
 
 Quelques exemples:
 - Illusions et Désillusions. 
-- Rétrospective: l’amélioration continue apprivoisée !
+- Rétrospective: l’amélioration continue apprivoisée&nbsp;!
 - Planification Agile par la pratique
 - L’Agilité s’impose dans toute l’entreprise.
 - Organizational transition to Agile to improve development performances.

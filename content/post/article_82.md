@@ -12,7 +12,7 @@ comments = true
 
 [{{% img src="images/jpg/equipe_petit.jpg" class="center" caption="EQUIPE VERSUS GROUPE" %}}](http://emmanuelchenu.blogspot.com/2008/09/equipe-versus-groupe.html)
 
-Est-il nécessaire d'ajouter quelque chose ?
+Est-il nécessaire d'ajouter quelque chose&nbsp;?
 
 Ce dessin d'[Emmanuel Chenu](http://emmanuelchenu.blogspot.com) était sans doute destiné à en dire bien plus, mais je l'ai trouvé parfait pour illustrer une fois de plus la question du binômage.
 Celui-ci est une façon de souder une équipe. Il crée l'alignement des personnes pour qu'elles travaillent de manière unifiée vers un même but.

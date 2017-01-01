@@ -11,7 +11,7 @@ thumbnail = "/images/arton52.gif"
 
 <div class="chapo">En fouillant la page administration de mon blog je viens de tomber sur un brouillon d'article écrit il y a déjà plus de 3 ans. Je me souviens avoir beaucoup hésité à publier cet article, n'étant pas complètement satisfait du contenu. En fin de compte j'ai trouvé ça intéressant. J'espère que vous aurez autant de plaisir que moi à le lire.</div>
 
-Lors des conférences Valtech Days 2007[[Pour rappel, la version 2011 aura lieux dans 2 jours. Inscription gratuite : http://www.valtechdays.fr]], le sujet de la place de la modélisation dans les processus Agiles est revenu plusieurs fois. Je me permets de vous présenter ici quelques principes et pratiques de l'eXtreme Programming à ce sujet.
+Lors des conférences Valtech Days 2007[[Pour rappel, la version 2011 aura lieux dans 2 jours. Inscription gratuite&nbsp;: http://www.valtechdays.fr]], le sujet de la place de la modélisation dans les processus Agiles est revenu plusieurs fois. Je me permets de vous présenter ici quelques principes et pratiques de l'eXtreme Programming à ce sujet.
 
 ## You Ain't Gonna Need It
 Un des principes XP à ce sujet, connu sous l'acronyme YAGNI (You Ain't Gonna Need It) n'est qu'une façon d'insister sur la pratique de Conception Simple.
@@ -21,7 +21,7 @@ Ici, on recherche la simplicité maximum (extrême). Pourquoi faire payer au cli
 - " Mais introduire certaines briques de base comme par exemple un framework de persistance, c'est une question de bon sens".
 
 En fait, non, ce n'est pas le bon sens qui guide ce choix ici, mais une réflexion pragmatique par rapport au résultat du jeux de la planification.
-Je m'explique :
+Je m'explique&nbsp;:
 Au cours du Planning Game, le client et l'équipe ont établi une liste de scénarios classés en fonction de leur valeur (priorité client) et de leur complexité (priorité développeur). Faire de l'anticipation sur des scénarios à venir, c'est ignorer le résultat du travail du Planning Game. C'est renoncer à faire de l'extreme programming, c'est échouer à faire de l'Agilité. 
 
 Ensuite, le bon sens auquel on fait référence ici trouve ses racines dans le modèle mental des intervenants. Les Agilistes savent que l'ensemble des techniques qu'ils appliquent pour faire du développement logiciel leur permet de **ne pas** avoir un coût du changement exponentiel par rapport au temps. Il ne sera pas vraiment beaucoup plus cher d'introduire Hibernate plus tard, quand cela deviendra nécessaire... 
@@ -37,13 +37,13 @@ Cette dernière remarque fait partie de tous les bons manuels d'eXtreme Programm
 - il faudra écrire les tests unitaires correspondant à ce comportement
 - ce comportement ne sera pas clairement défini (il s'agit seulement d'un sentiment du développeur, d'un feeling, mais il n'a pas une vision claire des exigences fonctionnelles puisque ça n'a pas été discuté avec le client)
 - ce comportement se retrouvera très probablement en travers du chemin de certains refactorings. Il complexifiera inutilement et surtout au mauvais moment le modèle en train d'émerger.
-L'idée ici est une sorte de "just in time feature". Comme on pourrait le lire dans un manuel Toyota : Pas de stock inutile. Le flux d'exigence est tiré, c'est comme ça que le processus de développement trouve son équilibre optimum. On commence par choisir une exigence, puis on développe un test qui va mettre en évidence l'absence de fonctionnement puis on développe le comportement.
+L'idée ici est une sorte de "just in time feature". Comme on pourrait le lire dans un manuel Toyota&nbsp;: Pas de stock inutile. Le flux d'exigence est tiré, c'est comme ça que le processus de développement trouve son équilibre optimum. On commence par choisir une exigence, puis on développe un test qui va mettre en évidence l'absence de fonctionnement puis on développe le comportement.
 
 ## Le Secret
-Le secret de la conception simple de l'extreme programming repose sur trois principes :
+Le secret de la conception simple de l'extreme programming repose sur trois principes&nbsp;:
 
 - une conception juste nécessaire pour les scénarios choisis en début d'itération,
-- l'élimination de la duplication : Once and only Once (ou aussi DRY : Don't Repeate Yourself)
+- l'élimination de la duplication&nbsp;: Once and only Once (ou aussi DRY&nbsp;: Don't Repeate Yourself)
 - le code le plus expressif possible.
 
 
@@ -60,15 +60,15 @@ Et bien, cette solution **est resté jusqu'au bout**. Nous n'avons jamais eu bes
 
 ## Métaphore
 
-En effet, la conception simple a l'air de faire l'affaire. Mais ne manque-t-on pas d'un outil pour traiter de la question de la "big picture" ? Comment s'assurer que toutes ces petites actions de conception élémentaires puissent donner un ensemble cohérent. Comment faire pour guider la conception sur le long terme. 
+En effet, la conception simple a l'air de faire l'affaire. Mais ne manque-t-on pas d'un outil pour traiter de la question de la "big picture"&nbsp;? Comment s'assurer que toutes ces petites actions de conception élémentaires puissent donner un ensemble cohérent. Comment faire pour guider la conception sur le long terme. 
 
 En effet, lorsqu'on fait de la conception à longueur de temps, on a tendance à oublier ce qui a été fait jusque là et le risque de prendre des décisions de conception qui viendraient rompre l'intégrité conceptuelle de l'application est important. 
 
 C'est ici qu'intervient la pratique de la métaphore.
 
-la métaphore [[Definition issue du wiki [XP-France](http://xp-france.net/cgi-bin/wiki.pl?TreizePratiques) ]] : Une analogie utilisée comme modèle conceptuel du système en cours de développement
+la métaphore [[Definition issue du wiki [XP-France](http://xp-france.net/cgi-bin/wiki.pl?TreizePratiques) ]]&nbsp;: Une analogie utilisée comme modèle conceptuel du système en cours de développement
 
-La métaphore à plusieurs objectifs :
+La métaphore à plusieurs objectifs&nbsp;:
 
 - effectuer un travail de modélisation du domaine métier à travers la recherche de cette métaphore,
 - donner une **vision** de l'architecture tout en restant suffisamment vague au sujet des détails,

@@ -10,15 +10,15 @@ comments = true
 
 <div class="chapo"></div>
 
--- "Allons, un peu de bon sens ! Pour fabriquer une maison, il faut commencer par les fondations, puis faire les murs et ensuite seulement vous pouvez poser le toit. On ne peut pas commencer par le toit !"
+-- "Allons, un peu de bon sens&nbsp;! Pour fabriquer une maison, il faut commencer par les fondations, puis faire les murs et ensuite seulement vous pouvez poser le toit. On ne peut pas commencer par le toit&nbsp;!"
 
 En effet, la force d'attraction gravitationnelle nous oblige à commencer par les fondations. Et il faut qu'elles soient bonnes puisque le reste de la maison va ensuite tenir en équilibre dessus.
 
-Le problème, c'est que quand on applique cette métaphore au développement logiciel, il n'y a pas de force d'attraction gravitationnelle !
+Le problème, c'est que quand on applique cette métaphore au développement logiciel, il n'y a pas de force d'attraction gravitationnelle&nbsp;!
 
 Un grand nombre de logiciels sont construits en suivant ce qu'on appelle un modèle en couche. C'est le cas en particulier de la majorité des applications web. Pour faire simple, dans un modèle à trois couches, vous avez une couche d'accès à la base de données, aussi appelée couche basse, une couche de service métier -- couche intermédiaire --, puis une couche de présentation -- aussi dite couche haute.
 
-Et voilà, c'est la catastrophe, puisque la couche d'accès à la base de donnée est dite basse, on se sent obligé de commencer par elle !!!
+Et voilà, c'est la catastrophe, puisque la couche d'accès à la base de donnée est dite basse, on se sent obligé de commencer par elle&nbsp;!!!
 
 Non, dans ce type d'architecture en couche, il faut commencer par l'interface utilisateur et donc la couche haute. Il faut commencer par le toit.
 
