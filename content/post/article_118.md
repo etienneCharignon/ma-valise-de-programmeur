@@ -6,6 +6,7 @@ date = "2015-08-05T22:47:22+01:00"
 catégories = [ "Conférences" ]
 description = "Session présenté à la conférence Agile France 2015"
 comments = true
+thumbnail = "/images/arton118.png"
 +++
 
 <div class="chapo"></div>

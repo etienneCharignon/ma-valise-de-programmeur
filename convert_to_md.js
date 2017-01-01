@@ -14,6 +14,7 @@ var extensions = {
   "arton111" : "png",
   "arton112" : "png",
   "arton113" : "jpg",
+  "arton118" : "png",
   "arton2" : "jpg",
   "arton3" : "jpg",
   "arton33" : "jpg",
