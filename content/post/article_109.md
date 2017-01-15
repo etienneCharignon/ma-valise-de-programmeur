@@ -10,7 +10,9 @@ comments = true
 
 <div class="chapo"></div>
 
-Est-ce que vous connaissez cette expérience qui a été mené par IndustrialLogic pour promouvoir la programmation en binôme[[pair programming en anglais]]?
+Est-ce que vous connaissez cette expérience qui a été mené par IndustrialLogic pour promouvoir la programmation en binôme[^1]&nbsp;?
+
+[^1]: pair programming en anglais
 
 [Pair Drawing](http://industriallogic.com/games/pairdraw.html)
 
