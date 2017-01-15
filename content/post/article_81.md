@@ -21,7 +21,9 @@ Son petit frère de 2 ans s'impatientait et courait devant pendant que "le grand
 
 Mais vous ne croyez tout de même pas que je vous raconte ma vie&nbsp;? Cette anecdote m'a fait penser à une remarque de Guillaume Bodet, lors de sa présentation "vendre scrum" de jeudi 19 mars à la soirée SUG. 
 
-Quand une équipe agile met en place l'agilité, elle ne tient pas immédiatement toutes les promesses de performance et de réduction des coûts. Il faut un temps d'adaptation. Ceci est bien illustré par la courbe du changement de Virginia Satir [[[Conduire le changement](http://www.google.fr/url?sa=t&source=web&ct=res&cd=1&url=http%3A%2F%2Fwww.adeli.org%2Fvoirdoc.php%3Fdest%3Dlalettre%2Fl40p12.pdf&ei=Ww7ZSZ2xLYuO_QavpdDcDQ&usg=AFQjCNHP0AG2gmbflsQErrgE-n6PDItxaQ&sig2=OA7A4vLDTK_sA3FvwhaifQ)]]. 
+Quand une équipe agile met en place l'agilité, elle ne tient pas immédiatement toutes les promesses de performance et de réduction des coûts. Il faut un temps d'adaptation. Ceci est bien illustré par la courbe du changement de Virginia Satir [^1]. 
+
+[^1]: [Conduire le changement](http://www.google.fr/url?sa=t&source=web&ct=res&cd=1&url=http%3A%2F%2Fwww.adeli.org%2Fvoirdoc.php%3Fdest%3Dlalettre%2Fl40p12.pdf&ei=Ww7ZSZ2xLYuO_QavpdDcDQ&usg=AFQjCNHP0AG2gmbflsQErrgE-n6PDItxaQ&sig2=OA7A4vLDTK_sA3FvwhaifQ)
 
 Pourtant tout le monde sait qu'avec un vélo on va plus vite qu'à pied, non&nbsp;?
 

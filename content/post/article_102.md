@@ -10,10 +10,14 @@ comments = true
 
 <div class="chapo"></div>
 
-Bonjour la liste[[http://fr.groups.yahoo.com/group/xp-france/message/8909]],
+Bonjour la liste[^1],
+
+[^1]: http://fr.groups.yahoo.com/group/xp-france/message/8909
 
 "...{Le découpage en plusieurs équipes me semble avant tout une affaire de
-contexte}..."[[Olivier, si tu lis ce message, pardonne moi d'avoir repris ta phrase pour illustrer mon propos. Il ne s'agit pas d'un message personnel. Cette idée de contexte a fait nettement consensus sur la liste]]
+contexte}..."[^2]
+
+[^2]: Olivier, si tu lis ce message, pardonne moi d'avoir repris ta phrase pour illustrer mon propos. Il ne s'agit pas d'un message personnel. Cette idée de contexte a fait nettement consensus sur la liste
 
 Si Galilée avait posté sur cette liste que la terre tourne autour du soleil, nous lui aurions sans doute répondu&nbsp;: "ça dépend du contexte mon cher Galilée" (enfin on aurait parlé italien évidement).
 
@@ -39,7 +43,9 @@ On remarque aussi un goulet d'étranglement à la taille du stock qui se trouve 
 
 Dans le cas de l'informatique, ce tas se matérialise par la taille des cahiers de charges ou des documents de spécification.
 
-Pour améliorer la vitesse de la chaine, il y a plusieurs point d'actions[[Merci à Pascal Van Cauwenberghe pour sa présentation sur ce sujet à la conférence XP-Days 2007 dont j'ai pratiquement recopié les mots.]]:
+Pour améliorer la vitesse de la chaine, il y a plusieurs point d'actions[^3]:
+
+[^3]: Merci à Pascal Van Cauwenberghe pour sa présentation sur ce sujet à la conférence XP-Days 2007 dont j'ai pratiquement recopié les mots.
 
 1 - identifier le goulet d'étranglement
 
@@ -79,7 +85,9 @@ Parfois, il n'y a plus moyen d'améliorer le système. Alors il faut changer la 
 
 ## L'influence de la loi des enchaînements et des aléas sur l'architecture orientée composant
 
-La loi des enchaînements et des aléas fait que dans une chaine ou des choses sont produites en série, les aléas individuels ont un gros impact sur le rythme de production de la chaine complète, jusqu'à la rendre complètement chaotique[[Voir l'excelent roman "[Le But](../article_77)" de Eliyahu M. Goldratt sur le sujet]].
+La loi des enchaînements et des aléas fait que dans une chaine ou des choses sont produites en série, les aléas individuels ont un gros impact sur le rythme de production de la chaine complète, jusqu'à la rendre complètement chaotique[^4].
+
+[^4]: Voir l'excelent roman "[Le But](../article_77)" de Eliyahu M. Goldratt sur le sujet
 
 C'est cette loi qui rend les architectures orientées composant si difficile à gérer.
 

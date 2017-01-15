@@ -30,7 +30,9 @@ client&nbsp;: - la norme définit clairement et intégralement le contenu foncti
 
 fournisseur&nbsp;: - Mais comment pourrons-nous savoir ce qui importe le plus, ou le moins dans ce protocole.
 
-client&nbsp;: - Ah, vous faites référence à cette pratique de descopage [["descopage", ce mot est utilisé ici comme un [MotArme](http://www.xpday.net/Xpday2005/ToolWordsWeaponWords.html) ]]&nbsp;!
+client&nbsp;: - Ah, vous faites référence à cette pratique de descopage [^1]&nbsp;!
+
+[^1]: "descopage", ce mot est utilisé ici comme un [MotArme](http://www.xpday.net/Xpday2005/ToolWordsWeaponWords.html) 
 
 fournisseur&nbsp;:&nbsp;!!!
 

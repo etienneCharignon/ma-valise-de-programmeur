@@ -38,7 +38,9 @@ Plus la fréquence d'intégration est élevée moins la quantité de développem
 {{% img src="images/png/Image_2-2.png" class="center" %}}
 
 -----
-## Les diagrammes d'effet[[voir le volume 1 de la série d'ouvrage de Gerald Weinberg: [Quality Software Management:Systems Thinking](../article_51)]]
+## Les diagrammes d'effet[^1]
+
+[^1]: voir le volume 1 de la série d'ouvrage de Gerald Weinberg: [Quality Software Management:Systems Thinking](../article_51)
 
 Un peu de théorie de modélisation. Les diagrammes d'effet permettent de représenter dans un système, la dynamique de variation d'une grandeur par rapport à une autre.
 

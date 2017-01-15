@@ -26,14 +26,18 @@ N'entend-on pas parfois parler de "l'esprit de la méthode"? Est-ce que les vale
 **XP et Scrum sont-elles complémentaires?**
 
 De plus en plus, on entend parler d'entreprises pratiquant "Scrum+XP" avec la définition suivante&nbsp;: "Scrum complémentée des pratiques d'ingénierie d'XP".
-En effet, contrairement à Scrum, XP propose des pratiques spécifiques au développement logiciel tel que le binomage ou le TDD[[Test Driven Development ou en français, Développement Piloté par les Test]] par exemple.
+En effet, contrairement à Scrum, XP propose des pratiques spécifiques au développement logiciel tel que le binomage ou le TDD[^1] par exemple.
+
+[^1]: Test Driven Development ou en français, Développement Piloté par les Test
 
 Pourquoi pas. Ayant découvert XP en premier, cette méthode garde une place particulière dans mon coeur et je dirais qu'elle se suffit à elle même du point de vue des pratiques puisqu'elle contient toutes celles de scrum (cycle court, client sur site, coach agile, ...).
 
 **XP pourrait-elle s'appliquer à un projet non informatique?**
 Aussi étonnant que cela puisse paraître, et c'est une découverte récente pour moi, la réponse est oui.
 
-XP est une méthode formalisée au travers de l'expression de "pattern[[la traduction française de pattern est motif, patron ou gabarit]]" de gestion de projet, au même sens que l'on parle de pattern de conception en programmation.
+XP est une méthode formalisée au travers de l'expression de "pattern[^2]" de gestion de projet, au même sens que l'on parle de pattern de conception en programmation.
+
+[^2]: la traduction française de pattern est motif, patron ou gabarit
 
 Ces patterns peuvent très bien s'appliquer dans le cas d'un projet non informatique. 
 

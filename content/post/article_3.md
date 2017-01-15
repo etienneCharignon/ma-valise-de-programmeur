@@ -11,7 +11,9 @@ thumbnail = "/images/arton3.jpg"
 
 <div class="chapo">par Geoffrey A. Moore. Edition HarperBusiness Essentials</div>
 
-Je crois qu'on pourrait dire que XP[[Extreme Programming]] est une innovation discontinue (pardon si j'enfonce des portes ouvertes).
+Je crois qu'on pourrait dire que XP[^1] est une innovation discontinue (pardon si j'enfonce des portes ouvertes).
+
+[^1]: Extreme Programming
 
 La solution&nbsp;: trouver une niche, un segment de marché... Où est la niche&nbsp;?
 

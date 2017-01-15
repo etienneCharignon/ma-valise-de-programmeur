@@ -76,6 +76,17 @@ function getRubrique(id) {
   });
 }
 
+function spipNoteToMdNote(text) {
+  var noteRegexp = /\[\[(.*)\]\]([^\n]*\n)/;
+  var match;
+  var indexNote = 1;
+  while(match = text.match(noteRegexp)) {
+    text = text.replace(noteRegexp, "[^" + indexNote + "]$2\n[^" + indexNote + "]: $1\n");
+    indexNote += 1;
+  }
+  return text;
+}
+
 function spipToMd(string) {
   var md =  urlToMd(string).replace(/\{\{\{(.+)\}\}\}/g, "## $1")
     .replace(/\{\{(.+)\}\}/g, "**$1**")
@@ -97,6 +108,8 @@ function spipToMd(string) {
     }
     md = md.replace(imageRegexp, '{{% img src="images/' + doc.fichier + '"' + attrs + ' %}}')
   }
+
+  md = spipNoteToMdNote(md);
   return md;
 }
 

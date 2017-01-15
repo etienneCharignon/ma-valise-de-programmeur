@@ -36,7 +36,9 @@ Dans le cycle en V, les équipes sont cloisonnées. Les personnes sont regroupé
 
 Dans le cycle en V, les équipes sont homogènes par construction, suivant le bon vieil adage&nbsp;: "qui se ressemble s'assemble".
 
-Avec l'agilité arrive la fin du cloisonnage et c'est pour moi une des révolutions majeures. Un projet de développement logiciel (depuis sa vision jusqu'à sa livraison concrète au client), n'est réalisé que par une seule équipe[[En fait ce n'est pas tout à fait exact, il est tout à fait possible de constituer plusieurs équipes, mais pour la simplicité de mon propos, disons pour l'instant qu'il n'y en a qu'une]].
+Avec l'agilité arrive la fin du cloisonnage et c'est pour moi une des révolutions majeures. Un projet de développement logiciel (depuis sa vision jusqu'à sa livraison concrète au client), n'est réalisé que par une seule équipe[^1].
+
+[^1]: En fait ce n'est pas tout à fait exact, il est tout à fait possible de constituer plusieurs équipes, mais pour la simplicité de mon propos, disons pour l'instant qu'il n'y en a qu'une
 
 ## Une équipe cross-fonctionnelle
 

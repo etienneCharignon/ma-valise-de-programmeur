@@ -11,7 +11,9 @@ comments = true
 <div class="chapo"></div>
 
 ## 1. Quel est l'objectif de la documentation&nbsp;?
-Quand on travaille dans un labo de R&D, on ne côtoie que des cervelles en ébullition. Notre métier est de penser. Comme le dit Tom Demarco[[Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency, by Tom Demarco]] nous sommes des « Knowledge Worker ». A ce titre, nous pouvons prendre l'habitude de réfléchir sur la forme et l'utilité des différentes pratiques qui constituent notre « process » de travail.
+Quand on travaille dans un labo de R&D, on ne côtoie que des cervelles en ébullition. Notre métier est de penser. Comme le dit Tom Demarco[^1] nous sommes des « Knowledge Worker ». A ce titre, nous pouvons prendre l'habitude de réfléchir sur la forme et l'utilité des différentes pratiques qui constituent notre « process » de travail.
+
+[^1]: Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency, by Tom Demarco
 
 Pourquoi faisons-nous de la documentation&nbsp;? Pour échanger des informations évidemment. Tout est une histoire de communication. Il peut être par exemple question pour la Moa de faire passer les informations suivantes à l'équipe de développement&nbsp;:
 
@@ -58,7 +60,9 @@ L'idéal est que cette vérification de conformitée soit automatique (de type �
 Une bonne documentation détaillée doit couvrir tous les détails. Il n'y a pas de demi-mesure possible. Dans le cas contraire, comment pourrions-nous identifier les régressions&nbsp;? Une fonctionnalité de l'application qui ne serait pas spécifiée n'existe pas&nbsp;: elle peut être amenée à disparaître à tout moment.
 
 ## 4. Pourquoi Word est-il mal adapté pour documenter les détails&nbsp;?
-On remarque qu'un document Word, s'il rend une assez bonne lisibilité[[Nous avons déjà identifié un certain nombre de limitations à la lisibilité, notamment le fait qu'il ne soit pas facile de naviguer dans le document, ou encore, que la largeur des pages ne soit jamais suffisante pour pouvoir mettre en forme correctement des extraits d'algorithme.]] et permet de couvrir tous les détails, ne remplit pas correctement les points deux et trois (évolutions et vérifications).
+On remarque qu'un document Word, s'il rend une assez bonne lisibilité[^2] et permet de couvrir tous les détails, ne remplit pas correctement les points deux et trois (évolutions et vérifications).
+
+[^2]: Nous avons déjà identifié un certain nombre de limitations à la lisibilité, notamment le fait qu'il ne soit pas facile de naviguer dans le document, ou encore, que la largeur des pages ne soit jamais suffisante pour pouvoir mettre en forme correctement des extraits d'algorithme.
 
 Les évolutions sont difficiles à introduire et à exploiter car facilement noyées dans la masse. Il faut parfois reprendre une grande quantité de texte.
 

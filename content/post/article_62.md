@@ -22,9 +22,15 @@ L'agilité n'est pas un tout que l'on peut prendre et appliquer de manière stan
 
 Si la méthode SCRUM présente un processus linéaire constitué d'étapes a effectuer dans un ordre donné, XP, qui rappelons le est inspiré par SCRUM et en reprend tout les principes, présente les choses de manière plus technique.
 
-XP est aux méthodes de développement logiciel, ce que les _designs patterns_ sont à la programmation objet. XP peut être vue comme un ensemble de modèles de gestion de projet[[ [Filliation XP - Design Patterns](http://fr.groups.yahoo.com/group/xp-france/message/6231) ]][[ [Fiche de lecture](http://fr.groups.yahoo.com/group/xp-france/message/6237) de Christopher Alexander par Laurent Bossavit]][[[Christopher Alexander still matters](http://growingcode.net/2008/04/christopher-alexander-still-matters) ]]. 
+XP est aux méthodes de développement logiciel, ce que les _designs patterns_ sont à la programmation objet. XP peut être vue comme un ensemble de modèles de gestion de projet[^1]. 
 
-Christopher Alexander[[Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King et Shlomo Angel. A _Pattern Language}. Oxford University Press, New York, 1977.]] dit que "{chaque modèle décrit un problème qui se manifeste constamment dans notre environnement, et donc décrit le coeur de la solution de ce problème, d'une façon telle que l'on peut réutiliser cette solution des millions de fois, sans jamais le faire deux fois de la même manière._"
+[^1]:  [Filliation XP - Design Patterns](http://fr.groups.yahoo.com/group/xp-france/message/6231) ]][^2][[[Christopher Alexander still matters](http://growingcode.net/2008/04/christopher-alexander-still-matters) 
+
+[^2]:  [Fiche de lecture](http://fr.groups.yahoo.com/group/xp-france/message/6237) de Christopher Alexander par Laurent Bossavit
+
+Christopher Alexander[^3] dit que "{chaque modèle décrit un problème qui se manifeste constamment dans notre environnement, et donc décrit le coeur de la solution de ce problème, d'une façon telle que l'on peut réutiliser cette solution des millions de fois, sans jamais le faire deux fois de la même manière._"
+
+[^3]: Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King et Shlomo Angel. A _Pattern Language}. Oxford University Press, New York, 1977.
 
 Il est dès lors de la responsabilité de chacun de se [construire son agilité](http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#agilite_en_kit), et il est de la responsabilité du coach d'aider à cette construction.
 

@@ -11,7 +11,9 @@ thumbnail = "/images/arton52.gif"
 
 <div class="chapo">En fouillant la page administration de mon blog je viens de tomber sur un brouillon d'article écrit il y a déjà plus de 3 ans. Je me souviens avoir beaucoup hésité à publier cet article, n'étant pas complètement satisfait du contenu. En fin de compte j'ai trouvé ça intéressant. J'espère que vous aurez autant de plaisir que moi à le lire.</div>
 
-Lors des conférences Valtech Days 2007[[Pour rappel, la version 2011 aura lieux dans 2 jours. Inscription gratuite&nbsp;: http://www.valtechdays.fr]], le sujet de la place de la modélisation dans les processus Agiles est revenu plusieurs fois. Je me permets de vous présenter ici quelques principes et pratiques de l'eXtreme Programming à ce sujet.
+Lors des conférences Valtech Days 2007[^1], le sujet de la place de la modélisation dans les processus Agiles est revenu plusieurs fois. Je me permets de vous présenter ici quelques principes et pratiques de l'eXtreme Programming à ce sujet.
+
+[^1]: Pour rappel, la version 2011 aura lieux dans 2 jours. Inscription gratuite&nbsp;: http://www.valtechdays.fr
 
 ## You Ain't Gonna Need It
 Un des principes XP à ce sujet, connu sous l'acronyme YAGNI (You Ain't Gonna Need It) n'est qu'une façon d'insister sur la pratique de Conception Simple.
@@ -66,7 +68,9 @@ En effet, lorsqu'on fait de la conception à longueur de temps, on a tendance à
 
 C'est ici qu'intervient la pratique de la métaphore.
 
-la métaphore [[Definition issue du wiki [XP-France](http://xp-france.net/cgi-bin/wiki.pl?TreizePratiques) ]]&nbsp;: Une analogie utilisée comme modèle conceptuel du système en cours de développement
+la métaphore [^2]&nbsp;: Une analogie utilisée comme modèle conceptuel du système en cours de développement
+
+[^2]: Definition issue du wiki [XP-France](http://xp-france.net/cgi-bin/wiki.pl?TreizePratiques) 
 
 La métaphore à plusieurs objectifs&nbsp;:
 

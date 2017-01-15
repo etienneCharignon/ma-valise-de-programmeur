@@ -22,7 +22,9 @@ Deux tactiques sont possibles ici:
 
 -* Programmation défensive:
 -** J'écris un test unitaire pour vérifier que ma méthode affiche bien a et b dans le cas où ils sont tous les deux non nuls
--** J'ajoute immédiatement dans le corps de ma fonction, au début, quelques lignes de code pour retourner une exception si l'un des deux paramètres est nul[[voir aussi mon poste précédent sur la programmation par [coïncidence](../article_36) ]].
+-** J'ajoute immédiatement dans le corps de ma fonction, au début, quelques lignes de code pour retourner une exception si l'un des deux paramètres est nul[^1].
+
+[^1]: voir aussi mon poste précédent sur la programmation par [coïncidence](../article_36) 
 
 -* Programmation délibérée:
 
