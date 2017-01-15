@@ -28,7 +28,7 @@ Pourtant, les dessins suivants m'inspirent d'autres conclusions:
 
 Nous somme face ici à une personne qui sait dessiner. Si on la laisse faire seule, on obtient un beau résultat. La personne est créative. Le dessin est intègre et cohérent.
 
-N'est-ce pas justement une situation que l'on rencontre souvent en informatique? Des gens passionnés qui travaillent le soir pour perfectionner leur connaissances. Qui s'entraine seul sur des petits programmes qui les amusent.
+N'est-ce pas justement une situation que l'on rencontre souvent en informatique&nbsp;? Des gens passionnés qui travaillent le soir pour perfectionner leur connaissances. Qui s'entraine seul sur des petits programmes qui les amusent.
 
 Seulement voilà. Le plus souvent, pour des questions de délai, il n'est pas possible de confier la réalisation d'un logiciel à une personne seule (quand bien même elle serait extraordinairement productive).
 

@@ -50,6 +50,7 @@ Pour améliorer la vitesse de la chaine, il y a plusieurs point d'actions[^3]:
 1 - identifier le goulet d'étranglement
 
 les points que j'ai mentionnés ci-dessus&nbsp;:
+
  - ressources stressées, surmenées
  - travail en cours qui s'empile devant le goulet (stock)
  - ressources derrière le goulet qui attendent du travail.
@@ -79,9 +80,10 @@ les points que j'ai mentionnés ci-dessus&nbsp;:
 6 - Changer le système
 
 Parfois, il n'y a plus moyen d'améliorer le système. Alors il faut changer la structure du système. C'est beaucoup plus difficile. On rencontre des objections&nbsp;:
+
  - Des règles cachées&nbsp;: "mais on a toujours fait les choses comme ça&nbsp;!"
- - "Ne touchez pas à ça&nbsp;! vous allez tout casser&nbsp;!" - Pourquoi&nbsp;?, Est-ce qu'on peut faire un petit essai&nbsp;?...
- - "Vous ne comprenez pas!" - Pouvez-vous expliquer&nbsp;?
+ - "Ne touchez pas à ça&nbsp;! vous allez tout casser&nbsp;!" -> Pourquoi&nbsp;?, Est-ce qu'on peut faire un petit essai&nbsp;?...
+ - "Vous ne comprenez pas!" -> Pouvez-vous expliquer&nbsp;?
 
 ## L'influence de la loi des enchaînements et des aléas sur l'architecture orientée composant
 
