@@ -93,6 +93,7 @@ function spipToMd(string) {
     .replace(/\{(.+)\}/g, "_$1_")
     .replace(/##CLEAR##/, "{{% clear %}}")
     .replace(/ ([?!:;])/g, "&nbsp;$1")
+    .replace(/<\/?code>/g, "```")
     ;
   var imageRegexp = /<(img|doc)(\d+)\|?(center|left)?>/;
   var match;

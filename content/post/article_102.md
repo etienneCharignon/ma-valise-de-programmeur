@@ -89,7 +89,7 @@ Parfois, il n'y a plus moyen d'améliorer le système. Alors il faut changer la 
 
 La loi des enchaînements et des aléas fait que dans une chaine ou des choses sont produites en série, les aléas individuels ont un gros impact sur le rythme de production de la chaine complète, jusqu'à la rendre complètement chaotique[^4].
 
-[^4]: Voir l'excelent roman "[Le But](../article_77)" de Eliyahu M. Goldratt sur le sujet
+[^4]: Voir l'excellent roman "[Le But](../article_77)" de Eliyahu M. Goldratt sur le sujet
 
 C'est cette loi qui rend les architectures orientées composant si difficile à gérer.
 

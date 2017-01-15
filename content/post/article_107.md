@@ -18,4 +18,4 @@ Par exemple&nbsp;: Programmation en binômes
 
  Pour installer cet outil, rien de plus simple. Il suffit d'ajouter le javascript suivant dans toutes les pages de votre site.
 
-<code><script type="text/javascript" src="http://referentiel.institut-agile.fr/souligneur.js"></script></code>
+```<script type="text/javascript" src="http://referentiel.institut-agile.fr/souligneur.js"></script>```
