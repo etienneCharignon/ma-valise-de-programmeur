@@ -17,13 +17,13 @@ En fait, je ne suis pas sûr que même les prêtres puissent répondre. Il me se
 
 Je me rend compte qu'il existe un parallelle en ce qui concerne les méthodes de travail. On retrouve le même modèle, et pour filer la métaphore, on pourrait se poser la question suivante:
 
-**les méthodes agiles Scrum et XP ont-elles une âme?&nbsp;:-)**
+**les méthodes agiles Scrum et XP ont-elles une âme&nbsp;?&nbsp;:-)**
 
-Doit-on juger de la qualité d'une méthode sur ses pratiques, est-ce que l'ensemble des pratiques "représentent" la méthode ou y a-t-il quelque chose de plus "derrière"?
+Doit-on juger de la qualité d'une méthode sur ses pratiques, est-ce que l'ensemble des pratiques "représentent" la méthode ou y a-t-il quelque chose de plus "derrière"&nbsp;?
 
-N'entend-on pas parfois parler de "l'esprit de la méthode"? Est-ce que les valeurs agiles seraient cette âme?
+N'entend-on pas parfois parler de "l'esprit de la méthode"&nbsp;? Est-ce que les valeurs agiles seraient cette âme&nbsp;?
 
-**XP et Scrum sont-elles complémentaires?**
+**XP et Scrum sont-elles complémentaires&nbsp;?**
 
 De plus en plus, on entend parler d'entreprises pratiquant "Scrum+XP" avec la définition suivante&nbsp;: "Scrum complémentée des pratiques d'ingénierie d'XP".
 En effet, contrairement à Scrum, XP propose des pratiques spécifiques au développement logiciel tel que le binomage ou le TDD[^1] par exemple.
@@ -32,7 +32,7 @@ En effet, contrairement à Scrum, XP propose des pratiques spécifiques au déve
 
 Pourquoi pas. Ayant découvert XP en premier, cette méthode garde une place particulière dans mon coeur et je dirais qu'elle se suffit à elle même du point de vue des pratiques puisqu'elle contient toutes celles de scrum (cycle court, client sur site, coach agile, ...).
 
-**XP pourrait-elle s'appliquer à un projet non informatique?**
+**XP pourrait-elle s'appliquer à un projet non informatique&nbsp;?**
 Aussi étonnant que cela puisse paraître, et c'est une découverte récente pour moi, la réponse est oui.
 
 XP est une méthode formalisée au travers de l'expression de "pattern[^2]" de gestion de projet, au même sens que l'on parle de pattern de conception en programmation.

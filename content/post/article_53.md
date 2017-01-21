@@ -25,7 +25,7 @@ Pour ma part, ces deux jours ont été curieusement centrés sur la question de 
 Voici quel a été mon programme&nbsp;:
 ## 23 Octobre&nbsp;:
 
-[UML est-il soluble dans les méthodes agiles?](http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#uml)
+[UML est-il soluble dans les méthodes agiles&nbsp;?](http://www.valtech.fr/fr/index/valtech_days/24seminaires/Agilite.html#uml)
 
 Dommage que Pascal Roques n'ai consacré que le dernier quart d'heure à nous parler d'Agile Modeling, cela aurait été plus intéressant que de constater que UML n'est pas synonyme de MDA (Model Driven Architecture).
 

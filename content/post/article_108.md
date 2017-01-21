@@ -22,7 +22,7 @@ Supposons pour l'exemple que l'on ait trouvé une pièce en 2 actes de 3 scènes
 
 Dans ce mode, le texte définit exactement et complètement notre projet.
 
-Comment s'y prend-on pour monter notre pièce? On fait le plan!:
+Comment s'y prend-on pour monter notre pièce&nbsp;? On fait le plan!:
 
 Nous avons 10 soirées.  Nous prévoyons de travailler une scène par soirée pendant 6 semaines. Nous ferons ensuite la répétition de l'acte 1 en entier puis la semaine suivante l'acte 2 en entier. Et pour finir la Générale sans les décors puis la Générale avec les décors.
 

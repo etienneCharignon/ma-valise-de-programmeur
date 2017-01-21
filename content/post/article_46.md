@@ -23,7 +23,7 @@ Il se concentre sur la pensée créative qui constitue une nécessité absolue d
  
 L'alternative proposée par de Bono est « la pensée parallèle ». Il explique ce concept selon la métaphore suivante&nbsp;: "Lorsque trois personnes se placent autour d'un bâtiment, chacune le voit à partir d'un certain point de vue et pense avoir le 'bon' point de vue. Ce n'est qu'en échangeant mutuellement de place qu'elles comprendront qu'il existe d'autres points de vue." C'est pour appliquer ce principe qu'Edward de Bono a développé la Méthode des Six Chapeaux (Six Thinking Hats). A chaque chapeau son mode de réflexion
  
--        Le chapeau blanc est synonyme d'information&nbsp;: quelles informations sont disponibles, lesquelles sont nécessaires et lesquelles font défaut?
+-        Le chapeau blanc est synonyme d'information&nbsp;: quelles informations sont disponibles, lesquelles sont nécessaires et lesquelles font défaut&nbsp;?
 -        Le chapeau rouge représente les sentiments et l'intuition, tout le monde peut laisser libre cours à ses sentiments.
 -        Le chapeau noir requiert la prudence et la circonspection, l'esprit critique.
 -        Le chapeau jaune représente la facette logique et positive, les avantages et la valeur.

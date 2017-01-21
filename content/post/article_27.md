@@ -36,6 +36,6 @@ On retrouve effectivement cet “effet contraste” en développement logiciel, 
 
 Les Design Patterns divisent le monde en deux “clans” qui ont bien du mal à travailler ensemble sur le même code.
 
-Faut-il en conclure que nous serions plus heureux sans les Design Pattern?
+Faut-il en conclure que nous serions plus heureux sans les Design Pattern&nbsp;?
 
-Serions-nous plus heureux sans l’orthographe ou l’Histoire-Géo? Non évidemment. La culture est une marque de qualité individuelle et ne pas maîtriser certains domaines est une forme d’imbécilité (sans jugement de valeur).
+Serions-nous plus heureux sans l’orthographe ou l’Histoire-Géo&nbsp;? Non évidemment. La culture est une marque de qualité individuelle et ne pas maîtriser certains domaines est une forme d’imbécilité (sans jugement de valeur).
