@@ -10,14 +10,14 @@ comments = true
 
 <div class="chapo"></div>
 
--- Tiens salut Eric
--- Eh&nbsp;! salut Stéphane, comment vas-tu&nbsp;?
--- Ah&nbsp;! je suis un peu déprimé en ce moment&nbsp;!
--- Ah bon&nbsp;? C'est à cause de la crise&nbsp;?
--- La crise&nbsp;? non&nbsp;! Du travail j'en ai, et j'en suis même très content. En fait je viens de terminer une expérience passionnante. Nous avons expérimenté les méthodes agiles dans mon entreprise. C'est **extraordinaire**! J'aime à nouveau mon métier de programmeur. J'ai enfin un cadre valorisant pour faire le métier que j'aime. Je me sens efficace et le client est content du produit.
-Ce que je trouve particulièrement motivant&nbsp;? Enfin, j'ai pu rencontrer mon client et lui montrer ce que je sais faire. Ca n'a pas été toujours facile. Nous avons dû apprendre à nous connaître, mais le jeu en a valu la chandelle. Maintenant je comprends facilement ses enjeux et je sais qu'il connaît mes contraintes. Notre relation de travail est une relation d'adultes qui cherchent ensemble à réaliser une belle chose, un beau programme, utile et pratique. 
--- Mais pourquoi es-tu déprimé&nbsp;!
--- ... Oh... après tant d'enthousiasme, je me sens vraiment con. La direction a décidé que notre projet était un échec&nbsp;!
+-- Tiens salut Eric  
+-- Eh&nbsp;! salut Stéphane, comment vas-tu&nbsp;?  
+-- Ah&nbsp;! je suis un peu déprimé en ce moment&nbsp;!  
+-- Ah bon&nbsp;? C'est à cause de la crise&nbsp;?  
+-- La crise&nbsp;? non&nbsp;! Du travail j'en ai, et j'en suis même très content. En fait je viens de terminer une expérience passionnante. Nous avons expérimenté les méthodes agiles dans mon entreprise. C'est **extraordinaire**&nbsp;! J'aime à nouveau mon métier de programmeur. J'ai enfin un cadre valorisant pour faire le métier que j'aime. Je me sens efficace et le client est content du produit.
+Ce que je trouve particulièrement motivant&nbsp;! Enfin, j'ai pu rencontrer mon client et lui montrer ce que je sais faire. Ca n'a pas été toujours facile. Nous avons dû apprendre à nous connaître, mais le jeu en a valu la chandelle. Maintenant je comprends facilement ses enjeux et je sais qu'il connaît mes contraintes. Notre relation de travail est une relation d'adultes qui cherchent ensemble à réaliser une belle chose, un beau programme, utile et pratique.  
+-- Mais pourquoi es-tu déprimé&nbsp;?  
+-- ... Oh... après tant d'enthousiasme, je me sens vraiment con. La direction a décidé que notre projet était un échec&nbsp;!  
 
 ----
 
