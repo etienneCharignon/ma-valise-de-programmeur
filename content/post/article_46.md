@@ -8,7 +8,7 @@ description = ""
 comments = true
 +++
 
-<div class="chapo">Une bonne partie de cet article est issu du site [caplbm.typepad.com/personnelgestion.pdf](http://caplbm.typepad.com/personnelgestion.pdf)</div>
+<div class="chapo">Une bonne partie de cet article est issu du site <a href="http://caplbm.typepad.com/personnelgestion.pdf">caplbm.typepad.com/personnelgestion.pdf</a></div>
 
 Master en médecine, psychologie et philosophie, Edward de Bono est parti du constat que la pensée occidentale traditionnelle est entièrement basée sur l'analyse et l'argumentation. Or, l'analyse, si fine soit-elle, ne suscite  pas l'apparition de nouveaux concepts au contraire des pensées créative et constructive.
  

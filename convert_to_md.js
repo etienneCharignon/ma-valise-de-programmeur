@@ -51,12 +51,11 @@ function asString(string) {
 }
 
 function urlToHtml(string) {
-  return string.replace(/\[([^-]*)->([^\]]*)\]/g, "<a src=\"$2\">$1</a>")
-    .replace(/src=\"(\d+)\"/g, "src=\"post/article_$1\"")
-    .replace(/src=\"breve(\d+)\"/g, "src=\"breve/breve_$1\"")
+  return string.replace(/\[([^\]]*)->([^\]]*)\]/g, '<a href="$2">$1</a>')
+    .replace(/\((\d+)\)/g, "(../article_$1)")
+    .replace(/\(breve(\d+)\)/, "(../../breve/breve_$1)")
   ;
 }
-
 function urlToMd(string) {
   return string.replace(/\[([^\]]*)->([^\]]*)\]/g, "[$1]($2)")
     .replace(/\((\d+)\)/g, "(../article_$1)")
@@ -139,7 +138,7 @@ articles.forEach(function(article) {
   }
   content.push("+++");
   content.push("");
-  content.push('<div class="chapo">' + urlToMd(article.chapo) +'</div>\n');
+  content.push('<div class="chapo">' + urlToHtml(article.chapo) +'</div>\n');
   content.push(spipToMd(article.texte));
 
   var fileName = "content/post/article_" + article.id_article+ ".md";

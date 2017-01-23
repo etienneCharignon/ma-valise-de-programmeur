@@ -8,7 +8,7 @@ description = "La réponse est \"Oui\"... le moins possible !"
 comments = true
 +++
 
-<div class="chapo">Voici quelques remarques générales sur les commentaires de programme. Cet essai a été écrit suite à la lecture du poste de Christian Faure sur la [litterature de code](http://www.christian-faure.net/2008/01/07/litterature-de-code/). Comme le fait remarquer Christian Faure dans une réponse à ce message, il s'agit ici du point de vue d'un développeur professionnel.</div>
+<div class="chapo">Voici quelques remarques générales sur les commentaires de programme. Cet essai a été écrit suite à la lecture du poste de Christian Faure sur la <a href="http://www.christian-faure.net/2008/01/07/litterature-de-code/">litterature de code</a>. Comme le fait remarquer Christian Faure dans une réponse à ce message, il s'agit ici du point de vue d'un développeur professionnel.</div>
 
 D’une manière générale, je réduis les commentaires au minimum car ils constituent une forme de duplication d’avec le code écrit juste à coté. Et l’on sait pour l’avoir vu très souvent que quand le code devient plus gros, cette duplication dérive beaucoup (quand j’arrive sur un projet, je commence par enlever les commentaires faux et il n’en reste souvent plus beaucoup après).
 
