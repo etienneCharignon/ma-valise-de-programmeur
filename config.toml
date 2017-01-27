@@ -1,4 +1,4 @@
-baseurl = "http://etienne.charignon.github.io/"
+baseURL = "https://etiennecharignon.github.io/ma-valise-de-programmeur/"
 title = "Ma valise de programmeur"
 languageCode = "fr-FR"
 disqusShortName = "ma-valise"
