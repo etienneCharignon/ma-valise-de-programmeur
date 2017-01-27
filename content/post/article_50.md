@@ -51,7 +51,7 @@ Question, comment emmener tout ce qu'il faut dans aussi peu d'espace.
 
 Réponse&nbsp;: faire du descopage&nbsp;? Est-ce que cela veut dire que nous allons manquer de quelque chose&nbsp;? Est-ce que cela veux dire qu'on va laisser un de nos enfants à la maison&nbsp;?
 
-Mais non, t'inquiète pas mon bonhomme, on t'emmène bien sur.
+Mais non, t'inquiète pas mon bonhomme, on t'emmène bien sûr.
 
 Non, la réponse, c'est qu'il faut ajuster nos valises à notre capacité de transport. Ce que nous voulons, c'est un moyen de remplir la voiture au maximum... Ou devrais-je dire au plus juste&nbsp;!
 

@@ -16,7 +16,7 @@ Quand j'étais étudiant (en informatique), nous nous retrouvions par nécessit�
 
 Personnellement, je n'aime pas du tout programmer seul. J'aime travailler en équipe pour réaliser un programme. On discute des solutions, on est plus créatif ensemble. On se motive les uns les autres, on est plus productifs.
 
-Depuis que j'ai découvert les méthodes de programmation agile je me sens bien dans mon travail. Bien sure, avant aussi j'ai eu l'occasion de ressentir le plaisir du travail d'équipe... mais c'était ponctuel... Tous le monde s'en trouvait ému, de l'équipe elle même jusqu'au directeur de département&nbsp;: "Bravo les gars, vous faite de bon boulot". Et le chef de projet de lui répondre&nbsp;: "Tu aurais du les voire vendredi dernier avant la livraison, Eric a demandé à Stephane de libérer le verrou sur quelques fichiers pour qu'il puisse effectuer une modification parallèle pendant que Stéphane terminait le module principale..."
+Depuis que j'ai découvert les méthodes de programmation agile je me sens bien dans mon travail. Bien sûr, avant aussi j'ai eu l'occasion de ressentir le plaisir du travail d'équipe... mais c'était ponctuel... Tous le monde s'en trouvait ému, de l'équipe elle même jusqu'au directeur de département&nbsp;: "Bravo les gars, vous faite de bon boulot". Et le chef de projet de lui répondre&nbsp;: "Tu aurais du les voire vendredi dernier avant la livraison, Eric a demandé à Stephane de libérer le verrou sur quelques fichiers pour qu'il puisse effectuer une modification parallèle pendant que Stéphane terminait le module principale..."
 
 La difference des équipes agiles est qu'elle recherche cette activité sociale. 
 
