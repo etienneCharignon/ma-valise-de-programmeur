@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ma valise de programmeur</title>
+    <link>http://etienne.charignon.github.io/index.xml</link>
+    <description>Recent content on Ma valise de programmeur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Wed, 05 Aug 2015 22:47:22 +0100</lastBuildDate>
+    <atom:link href="http://etienne.charignon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Animer vos rétrospectives avec &#34;le conseil&#34;</title>
+      <link>http://etienne.charignon.github.io/post/article_118/</link>
+      <pubDate>Wed, 05 Aug 2015 22:47:22 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_118/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Vous rappelez-vous de la dernière fois où vous avez dit à vos collègues que vous les aimiez&amp;nbsp;?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Si vos rétrospectives ronronnent, si vous avez l&amp;rsquo;impression que ça n&amp;rsquo;apporte pas grand-chose,&lt;/li&gt;
+&lt;li&gt;si vous pensez que l&amp;rsquo;humain est au coeur du processus agile,&lt;/li&gt;
+&lt;li&gt;si vous trouvez qu&amp;rsquo;il est temps de bousculer vos pratiques agiles,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;alors, cette session à la conférence &lt;a href=&#34;http://2015.conference-agile.fr/&#34;&gt;Agile France 2015&lt;/a&gt;, va vous passionner.&lt;/p&gt;
+
+&lt;p&gt;Notre but sera de vous présenter la pratique du &amp;ldquo;conseil&amp;rdquo; (en anglais &amp;ldquo;Temperature Reading&amp;rdquo;) développé par Virginia Satir, psychothérapeute familiale.&lt;/p&gt;
+
+&lt;p&gt;Pendant un an, nous avons animé nos rétrospectives de cette manière. Nous vous en expliquerons le format et vous parlerons de l&amp;rsquo;apport pour nos rétrospectives.&lt;/p&gt;
+
+&lt;p&gt;Attention, risque de contagion élevé. Quand vous aurez chopé le virus, vous ne pourrez plus revenir en arrière.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vers une gestion de projet distribuée ?</title>
+      <link>http://etienne.charignon.github.io/post/article_117/</link>
+      <pubDate>Sun, 25 Aug 2013 23:00:53 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_117/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Quel est le mode d&amp;rsquo;organisation le plus efficace&amp;nbsp;? Centralisation ou distribution&amp;nbsp;? Face a la complexité du monde dans lequel nous vivons deux comportements sont possibles, quand il s&amp;rsquo;agit de choisir un mode d&amp;rsquo;organisation. Que ce soit pour classer des documents, concevoir une architecture logicielle, organiser une grande quantité de données, organiser un travail collectif, organiser une entreprise, ou que sais-je, on peut choisir de mettre en place un point de référence centrale ou pas.&lt;/p&gt;
+
+&lt;p&gt;Supposez que vous deviez organiser la gestion documentaire d&amp;rsquo;une entreprise. Vous pouvez tout naturellement décider de mettre en place dans votre système d&amp;rsquo;information un serveur central sur lequel tous les documents devront être déposés et où ils pourront facilement être retrouvés. Ainsi vous êtes sûr qu&amp;rsquo;il y a bien une version de référence permettant de s&amp;rsquo;y retrouver parmi les innombrables versions qui ne manqueront pas de se multiplier sur les ordinateurs des différents collaborateurs.
+Une autre solution consiste à garder les documents sur les ordinateurs des collaborateurs, de manière distribuée, et à  mettre en place un système de synchronisation de répertoires entre les différentes machines. Aujourd&amp;rsquo;hui de nombreuses solutions techniques existent pour faire cela comme par exemple le très connu et inventeur du concept DropBox, mais aussi plus récemment Google Drive, Skydrive,&amp;hellip; ou encore plus distribué&amp;nbsp;: BtSync.&lt;/p&gt;
+
+&lt;p&gt;A part le dernier, tous ces outils sont basés sur &amp;ldquo;le Cloud&amp;rdquo; et justement, c&amp;rsquo;est intéressant, est-ce que le cloud n&amp;rsquo;est pas une forme moderne de centralisation qui contredirait ma démonstration que la tendance actuelle est à la distribution&amp;nbsp;?
+Pourquoi les entreprises sont-elles si réticentes à utiliser les services de Google documents&amp;nbsp;? C&amp;rsquo;est qu&amp;rsquo;elles ont l&amp;rsquo;impression de centraliser leur documents &amp;ldquo;chez google&amp;rdquo;&amp;nbsp;!&lt;/p&gt;
+
+&lt;p&gt;Mais ne nous y trompons pas. Le Cloud n&amp;rsquo;existerait pas sans la distribution. C&amp;rsquo;est l&amp;rsquo;émergence des bases de données distribuées (le fameux &amp;ldquo;noSql&amp;rdquo;) qui a rendu possible le Cloud et qui le distingue d&amp;rsquo;une simple architecture client-serveur.&lt;/p&gt;
+
+&lt;p&gt;Le Cloud ne permet pas de savoir exactement où se trouve l&amp;rsquo;information. Elle est répartie (distribuée) en différents points du réseau, elle est recopiée, modifiée, synchronisée… Et pourtant ça fonctionne et les utilisateurs ont une perception très cohérente et fiable.&lt;/p&gt;
+
+&lt;p&gt;Un autre monde, plus proche des développeurs, a connu ces dernières années sa révolution vers la distribution. Il s&amp;rsquo;agit de la gestion de version, les VCS (version control system en anglais). N&amp;rsquo;y a-t-il pas un contexte où la centralisation semblait régner en maître incontesté&amp;nbsp;? C&amp;rsquo;est déjà assez compliqué d&amp;rsquo;avoir à gérer la multitude des versions des fichiers sources de nos programmes sans qu&amp;rsquo;on puisse se permettre de tolérer de voir toutes ses versions se répartir en plus sur une multitude de machines. Non, la seule solution est d&amp;rsquo;avoir un dépôt de référence central. Certains d&amp;rsquo;entre vous utilisent-ils encore clear-case&amp;nbsp;? l&amp;rsquo;outil d&amp;rsquo;IBM initialement développé par Rational. Avec clear case, la centralisation est poussée à son paroxysme, l&amp;rsquo;outil ne laissant le développeur ne garder en local qu&amp;rsquo;uniquement les modifications qu&amp;rsquo;il est en train d&amp;rsquo;apporter. Le mode de fonctionnement par défaut est le mode par verrou pessimiste (c&amp;rsquo;est à dire que l&amp;rsquo;information qu&amp;rsquo;une personne est en train de créer une nouvelle version d&amp;rsquo;un fichier est aussi centralisée). Aujourd&amp;rsquo;hui, Git (un &amp;ldquo;DVCS&amp;rdquo; pour distributed version control system) est à la mode et le passage sur ce nouveau système, s&amp;rsquo;il n&amp;rsquo;est pas déjà fait, fait partir des plans à court ou moyen terme. Si ce n&amp;rsquo;est pas Git, c&amp;rsquo;est un des ses équivalent.
+Le système, plutôt que de chercher la centralisation, offre une grande facilité pour créer de multiples versions locales et une encore plus grande facilité pour s&amp;rsquo;échanger ses versions. Le Cloud qui ne se laisse pas oublier, nous a apporté  GitHub.com, ce réseau social d&amp;rsquo;échange de version de code source communautaire et social, une révolution pour le monde du logiciel libre. Vous l&amp;rsquo;aurez compris GitHub est basé sur Git.&lt;/p&gt;
+
+&lt;p&gt;Bref, la technologie s&amp;rsquo;est emparé des principes de distribution. D&amp;rsquo;ailleurs, je ne l&amp;rsquo;ai pas mentionné, mais on constate aussi cette évolution au niveau de la technologie des micro-processeurs. Aujourd&amp;rsquo;hui, ce n&amp;rsquo;est plus la course à un coeur central le plus puissant possible, comme on a pu le voir dans les années 90, mais la multiplication des coeurs 4, 8, 16 coeurs, et encore bien plus à venir… sur de simples machines de bureau ou encore plus incroyable, sur les téléphones. Je me souviens de mon impression à l&amp;rsquo;arrivée des premières machines à multiple coeurs. Je me demandais ce qu&amp;rsquo;on allait bien pouvoir faire du deuxième coeur pendant que le premier &amp;ldquo;ferait le travail&amp;rdquo;&amp;nbsp;!&lt;/p&gt;
+
+&lt;p&gt;Tiens&amp;nbsp;!… Mais ça me fait penser aux critiques communes à propos du travail de programmation en binôme…&lt;/p&gt;
+
+&lt;p&gt;En fait, pour être tout à fait honnête nous sommes là où je voulais en venir. Cette &amp;ldquo;folie&amp;rdquo; des systèmes distribués à bien évidement atteint aussi l&amp;rsquo;organisation des projets. L&amp;rsquo;évolution actuelle vers l&amp;rsquo;agilité est-elle autre chose&amp;nbsp;? L&amp;rsquo;auto-organisation des équipes Scrum c&amp;rsquo;est ça. Pour monter à l&amp;rsquo;échelle des équipes de programmeurs, il faut éliminer le centre de direction, le fameux &amp;ldquo;Chef de projet&amp;rdquo; pour distribuer cette responsabilité et ainsi gagner en performance. Bien évidement, ça ne se fait pas sans difficulté. Il y a toujours un coût de synchronisation à payer, comme pour les coeurs d&amp;rsquo;un micro-processeur. Si on s&amp;rsquo;y prend mal, ce coût peut même devenir fatal au projet.&lt;/p&gt;
+
+&lt;p&gt;Mais les bienfaits de la distribution ne s&amp;rsquo;arrêtent pas à la frontière des projets. Des entreprises se lancent aussi dans l&amp;rsquo;aventure. Il y a l&amp;rsquo;exemple de la société de jeux vidéo Valve &lt;a href=&#34;http://www.qualitystreet.fr/2013/07/02/culture-dentreprise-et-management-agile-lintegration-chez-zappos-valve/&#34;&gt;dont parle mon collègue Jean-Claude sur son blog&lt;/a&gt; qui est entièrement auto-organisé depuis 1996&amp;nbsp;! J&amp;rsquo;ai bon espoir que cette pratique se répande encore bien plus avec la démocratisation de l&amp;rsquo;agilité.&lt;/p&gt;
+
+&lt;p&gt;Je voudrais aussi mentionner cette initiative française de l&amp;rsquo;entreprise /ut7 qui nous a fait un retour de leur expérience aux &lt;a href=&#34;http://agenda2013.scrumday.fr/event/85&#34;&gt;Scrum days en avril dernier&lt;/a&gt;, expérience qui dure déjà depuis 5 ans.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dans cette station de ski, les pistes rouges sont trop faciles !</title>
+      <link>http://etienne.charignon.github.io/post/article_115/</link>
+      <pubDate>Mon, 20 May 2013 22:55:10 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_115/</guid>
+      <description>
+
+&lt;div class=&#34;chapo&#34;&gt;Des User stories estimées en point de complexité ? Qui n&#39;y comprend rien ?&lt;/div&gt;
+
+&lt;h2 id=&#34;qu-est-ce-qu-une-user-story&#34;&gt;Qu&amp;rsquo;est ce qu&amp;rsquo;une User Story&lt;/h2&gt;
+
+&lt;p&gt;Dans nos projets agiles, nous découpons nos besoins en petites fonctionnalités. Cette liste de fonctionnalités est appelée le Product Backlog (ou &amp;ldquo;carnet de produit&amp;rdquo; comme disent les Quebecois).&lt;/p&gt;
+
+&lt;p&gt;Chaque fonctionnalité est appelée &amp;ldquo;User Story&amp;rdquo;. En francais, on entend parfois &amp;ldquo;Histoire Utilisateur&amp;rdquo;, mais comme tout le monde dit User Story, je vais rester là dessus. Une User Story est courte, elle peut être écrite sur une carte en utilisant le formalisme suivant.
+En tant que&amp;hellip; J&amp;rsquo;ai besoin de&amp;hellip; dans le but de&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Par exemple&amp;nbsp;:
+En tant que client, j&amp;rsquo;ai besoin d&amp;rsquo;un reçu dans le but de tenir mes comptes.&lt;/p&gt;
+
+&lt;h2 id=&#34;et-la-complexité-alors-nbsp&#34;&gt;Et la complexité alors&amp;nbsp;?&lt;/h2&gt;
+
+&lt;p&gt;Dans le but de permettre la planification de notre projet, nous avons besoin d&amp;rsquo;estimer la taille du travail à faire. En agile, on introduit une distinction importante. Nous faisons la différence entre la complexité et l&amp;rsquo;effort. C&amp;rsquo;est souvent là que la compréhension coince un peu. Quelle est cette nuance et pourquoi en a-t-on besoin&amp;nbsp;?&lt;/p&gt;
+
+&lt;p&gt;Pourquoi est-ce si important que ces points soient &amp;ldquo;abstraits&amp;rdquo;, personne n&amp;rsquo;est à l&amp;rsquo;aise avec les abstractions&amp;hellip; Pourtant, je peux vous donner plusieurs exemples dans la vie de tous les jours où nous utilisons une échelle de mesure abstraite. C&amp;rsquo;est le cas de la pointure de vos chaussures qui s&amp;rsquo;exprime en point. Mais rentrons dans le détail avec une autre analogie&amp;nbsp;:&lt;/p&gt;
+
+&lt;p&gt;Quand vous allez aux sports d&amp;rsquo;hiver, la difficulté des pistes est exprimée avec des couleurs. Vous avez les pistes vertes qui sont faciles, les pistes bleues, un peu plus difficiles, puis les pistes rouges encore au dessus et enfin les pistes noires qui sont les plus difficiles.&lt;/p&gt;
+
+&lt;p&gt;Comme je viens de le dire, la couleur d&amp;rsquo;une piste est liée à la difficulté, inclinaison des pentes, longueur, présence de champs de bosses&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Au début de votre semaine de vacance au ski, descendre une piste rouge vous demandera sans doute beaucoup d&amp;rsquo;effort. Vous aurez mal aux jambes et aux bras à la fin de la journée, alors que vous n&amp;rsquo;aurez descendu que très peu de pistes. Par contre, en fin de séjour, votre performance aura beaucoup augmenté et vous descendrez 10 fois la piste rouge en question, en ayant l&amp;rsquo;impression de &amp;ldquo;voler&amp;rdquo; (en tout cas, ça se passait comme ça quand j&amp;rsquo;étais jeune).&lt;/p&gt;
+
+&lt;p&gt;Bien que vous soyez plus performant, la piste n&amp;rsquo;a pas changé de couleur. En d&amp;rsquo;autres termes, l&amp;rsquo;effort necessaire pour descendre une piste rouge a diminué.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est exactement la même chose avec la complexité des users story. Nous estimons la complexité des User Story en points. Si deux User Stories sont de difficulté identique, on leur donne le même nombre de point. Pour placer votre échelle, vous partez d&amp;rsquo;une référence, une ou deux User Stories &amp;ldquo;standards&amp;rdquo; auxquelles vous donnerez arbitrairement un nombre de points. Par exemple, US 1: 3 pts et US 2: 8 pts.&lt;/p&gt;
+
+&lt;p&gt;Au cours du déroulement de votre projet, les User Story que vous aviez estimées à 5 points vont vous paraitre de plus en plus faciles. Il est très important de continuer à les estimer toujours avec le même nombre de points (la piste rouge est toujours rouge, même à la fin des vacances).&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;estimation de complexité est une estimation relative, car c&amp;rsquo;est ce qu&amp;rsquo;il y a de plus facile à faire. Notre cerveau est une machine à comparer les choses deux à deux.&lt;/p&gt;
+
+&lt;h2 id=&#34;comment-je-passe-à-la-planification-nbsp&#34;&gt;Comment je passe à la planification&amp;nbsp;?&lt;/h2&gt;
+
+&lt;p&gt;Pour pouvoir procéder à la planification, sur la base de vos estimations de points de complexité, il vous manque un moyen de rapprocher cette complexité de l&amp;rsquo;effort (c&amp;rsquo;est à dire le nombre de jour.homme qu&amp;rsquo;il faut pour faire un point).&lt;/p&gt;
+
+&lt;p&gt;On appelle ce rapport la &amp;ldquo;productivité&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Productivité = nombre de point de complexité / nombre de jour.homme&lt;/p&gt;
+
+&lt;p&gt;Attention, dans un projet agile, on calcule une productivité moyenne d&amp;rsquo;une équipe. Si vous utilisez la méthode Scrum, vous pouvez par exemple diviser la vélocité, (c&amp;rsquo;est à dire, le nombre de points de complexité réalisé dans une itération) par le nombre de jour.homme de l&amp;rsquo;itération&lt;/p&gt;
+
+&lt;p&gt;Il est important de ne pas mesurer de productivité individuelle pour ne pas voir votre planning pollué par un exercice d&amp;rsquo;optimisation de l&amp;rsquo;utilisation des &amp;ldquo;ressources humaines&amp;rdquo;. Cette optimisation se fera par le jeu de l&amp;rsquo;auto-organisation de l&amp;rsquo;équipe. Inutile pour un manager d&amp;rsquo;aller mettre son nez là-dedans. C&amp;rsquo;est une perte de temps et c&amp;rsquo;est extrêmement démotivant pour l&amp;rsquo;équipe.&lt;/p&gt;
+
+&lt;p&gt;A noter que cette productivité est un facteur d&amp;rsquo;ajustement de votre planning.
+Au départ du projet, vous faites une estimation de votre productivité à venir et vous planifiez votre projet sur cette base. Au fur et à mesure du déroulement du projet vous allez avoir un ajustement de cette première estimation. Vous ajusterez votre planification en fonction de la productivité constatée. Il y a de fortes chances que cette productivité augmente avec le temps. Le planning devra à nouveau être mis à jour.&lt;/p&gt;
+
+&lt;p&gt;Dans un projet avec des itérations, il est assez simple de mettre à jour ce planning à chaque fin d&amp;rsquo;itération.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retour d&#39;expérience : Forfait Agile</title>
+      <link>http://etienne.charignon.github.io/post/article_113/</link>
+      <pubDate>Tue, 09 Apr 2013 10:36:57 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_113/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;En 2012, les entreprises Sita et Valtech se sont associées afin de développer une application web de gestion du traitement/valorisation des dechets . Cette association a été contractualisée par un &amp;ldquo;forfait agile&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Nous vous présenterons le contrat et les particularités qui en font un contrat agile, mais aussi comment s&amp;rsquo;est déroulé le projet. Un projet Agile au forfait, ca se passe très bien.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Une image du travail d&#39;équipe</title>
+      <link>http://etienne.charignon.github.io/post/article_109/</link>
+      <pubDate>Tue, 09 Apr 2013 10:33:30 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_109/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Est-ce que vous connaissez cette expérience qui a été mené par IndustrialLogic pour promouvoir la programmation en binôme&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&amp;nbsp;?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://industriallogic.com/games/pairdraw.html&#34;&gt;Pair Drawing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cette expérience consiste à mettre en lumière la différence entre le travail individuel et le travail en pair, par la création d&amp;rsquo;un dessin.&lt;/p&gt;
+
+&lt;p&gt;Voici les deux premiers dessins mis en avant sur le site&amp;nbsp;:&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;pair programming en anglais
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retour d&#39;expérience : Comment on a utilisé FitNesse et comment ça a remplacé nos tests unitaires</title>
+      <link>http://etienne.charignon.github.io/post/article_112/</link>
+      <pubDate>Tue, 26 Feb 2013 13:54:37 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_112/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Le jeudi 28 février à 19:00, je présenterai un retour d&amp;rsquo;expérience sur l&amp;rsquo;utilisation de l&amp;rsquo;outil &lt;a href=&#34;http://www.fitnesse.org&#34;&gt;Fitnesse&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cette soirée sera l&amp;rsquo;occasion de montrer le résultat d&amp;rsquo;une utilisation avancée de FitNesse. Nous présenterons rapidement les concepts du développement piloté par les tests fonctionnels (ATTD&amp;nbsp;: acceptance test driven development) ainsi que l&amp;rsquo;outil Fitnesse, que nous avons mis en place. Enfin, nous vous montrerons du &amp;ldquo;vrai&amp;rdquo;, nos documents d&amp;rsquo;acceptations, et la mécanique qui est derrière.&lt;/p&gt;
+
+&lt;p&gt;Cette soirée aura lieu à La Cantine, rendez vous sur &lt;a href=&#34;http://lacantine.org/events/comment-on-a-utilise-fitnesse-et-comment-ca-a-remplace-nos-tests-unitaires?goback=%2Egde_2055393_member_216996560&#34;&gt;le site&lt;/a&gt; pour vous inscrire.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agile Grenoble 2012</title>
+      <link>http://etienne.charignon.github.io/post/article_111/</link>
+      <pubDate>Wed, 19 Sep 2012 10:56:13 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_111/</guid>
+      <description>
+
+&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Le Jeudi 8 Novembre 2012 aura lieu la grande conférence agile du CARA à Grenoble&amp;nbsp;: &lt;a href=&#34;http://2012.agile-grenoble.org/&#34;&gt;Agile Grenoble 2012&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;y présenterai une session&amp;nbsp;:&lt;/p&gt;
+
+&lt;h2 id=&#34;retour-d-expérience-nbsp-agile-contre-cycle-en-v-nbsp-le-match&#34;&gt;Retour d’expérience&amp;nbsp;: &amp;ldquo;Agile contre Cycle en V&amp;nbsp;: Le match&amp;rdquo;&lt;/h2&gt;
+
+&lt;p&gt;En 2011, nous avons eu l&amp;rsquo;occasion de réaliser le rêve de tout agiliste. Un client a fait réaliser deux fois le même site web, un en mode agile, l&amp;rsquo;autre en mode &amp;ldquo;classique&amp;rdquo;. A votre avis qui a gagné&amp;nbsp;?
+Je vous présenterait le contexte de cette expérience à première vue étonnante et nous regarderons en détail les différences et leurs conséquences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Les projets : pilotage par la planification ou par la qualité ?</title>
+      <link>http://etienne.charignon.github.io/post/article_108/</link>
+      <pubDate>Sat, 17 Sep 2011 22:23:57 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_108/</guid>
+      <description>
+
+&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Je pourrais vous parler de gestion de projet informatique mais j&amp;rsquo;ai eu récemment, pendant une sieste, l&amp;rsquo;envie d&amp;rsquo;utiliser une autre sorte de projet: une pièce de théâtre&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Au départ de notre projet nous commençons par chercher un texte. Nous parcourons les bibliothèques publiques ou les étagères de nos logements, voire internet pour trouver le texte d&amp;rsquo;une pièce qui nous plaise.&lt;/p&gt;
+
+&lt;p&gt;Supposons pour l&amp;rsquo;exemple que l&amp;rsquo;on ait trouvé une pièce en 2 actes de 3 scènes. Pour monter cette pièce, nous sommes une troupe d&amp;rsquo;amateurs qui se réunissent chaque semaine. Nous avons prévu de jouer le 2eme weekend du mois de mai. Nous avons déjà réservé la salle. Il nous reste 10 semaines, c&amp;rsquo;est à dire 10 soirées.&lt;/p&gt;
+
+&lt;h2 id=&#34;pilotage-du-projet-par-la-planification&#34;&gt;Pilotage du projet par la planification&lt;/h2&gt;
+
+&lt;p&gt;Dans ce mode, le texte définit exactement et complètement notre projet.&lt;/p&gt;
+
+&lt;p&gt;Comment s&amp;rsquo;y prend-on pour monter notre pièce? On fait le plan!:&lt;/p&gt;
+
+&lt;p&gt;Nous avons 10 soirées.  Nous prévoyons de travailler une scène par soirée pendant 6 semaines. Nous ferons ensuite la répétition de l&amp;rsquo;acte 1 en entier puis la semaine suivante l&amp;rsquo;acte 2 en entier. Et pour finir la Générale sans les décors puis la Générale avec les décors.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;La vision que je vous présente d&amp;rsquo;un tel projet est très simplifiée dans le but d&amp;rsquo;illustrer mon explication. Je m&amp;rsquo;excuse pour les acteurs qui pourraient me lire et ne pas se reconnaitre. Je ne tiens pas compte, notamment, du travail de création des costumes et des décors
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Référentiel des concepts, pratiques et compétences agiles</title>
+      <link>http://etienne.charignon.github.io/post/article_107/</link>
+      <pubDate>Sun, 12 Jun 2011 23:41:45 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_107/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Ca y est, j&amp;rsquo;ai enfin fait l&amp;rsquo;effort d&amp;rsquo;installer sur mon blog le &lt;a href=&#34;http://referentiel.institut-agile.fr/outils.html&#34;&gt;souligneur de l&amp;rsquo;institut agile&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A partir de maintenant, pour tous les messages écrit et à venir, s&amp;rsquo;ils contiennent un mot au répertoire du référentielle de pratiques, il sera automatiquement souligné et une définition de référence en sera donnée.&lt;/p&gt;
+
+&lt;p&gt;Par exemple&amp;nbsp;: Programmation en binômes&lt;/p&gt;
+
+&lt;p&gt;Pour installer cet outil, rien de plus simple. Il suffit d&amp;rsquo;ajouter le javascript suivant dans toutes les pages de votre site.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;http://referentiel.institut-agile.fr/souligneur.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agile France 2011 - 26 et 27 mai 2011</title>
+      <link>http://etienne.charignon.github.io/post/article_106/</link>
+      <pubDate>Wed, 11 May 2011 23:06:44 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_106/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Youupi&amp;nbsp;! ma session pour Agile France 2011 a été retenue.&lt;/p&gt;
+
+&lt;p&gt;Agile France est la conférence agile parisienne à ne pas manquer. Anciennement nommée XP-France, elle a été renommée pour représenter tous les courants de l&amp;rsquo;agilité.&lt;/p&gt;
+
+&lt;p&gt;Heureusement, vous continuerez d&amp;rsquo;entendre parler d&amp;rsquo;eXtreme Programming.&lt;/p&gt;
+
+&lt;p&gt;Si vous voulez développer votre métier de programmeur, peut-être serez vous intéressé par ma session. Elle s&amp;rsquo;intitule &lt;a href=&#34;http://conf.agile-france.org/sessions/4d8fa5704ff6f752660009f7&#34;&gt;Lire du code&lt;/a&gt;. Après tout, c&amp;rsquo;est vrai quoi, on parle toujours de comment faire pour mieux écrire du code&amp;nbsp;! Pour une fois on ne parlera que d&amp;rsquo;en lire.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Valtech accueille Alistair Cockburn</title>
+      <link>http://etienne.charignon.github.io/post/article_105/</link>
+      <pubDate>Mon, 28 Mar 2011 18:25:55 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_105/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Ce matin, Valtech accueillait Alistair Cockburn de passage à Paris. Nous avons pu discuter différents sujet, de manière très informelle, mais non moins organisée.&lt;/p&gt;
+
+&lt;p&gt;Nous avons abordé les sujets suivants (et j&amp;rsquo;en oublie):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Crystal, qu&amp;rsquo;est-ce que c&amp;rsquo;est&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Que pense Alistrair de l&amp;rsquo;auto-organisation&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://alistair.cockburn.us/Advanced+Agile+class&#34;&gt;Advanced Agile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;10th agile manifesto anniversary&lt;/li&gt;
+&lt;li&gt;Construction incrémentale&lt;/li&gt;
+&lt;li&gt;BDD (Behavior Driven Development)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.icagile.com/&#34;&gt;ICAgile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Scrum&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;J&amp;rsquo;ai été très intéressé par toutes ces discussions qu&amp;rsquo;Alistair Cockburn a conduite dans un anglais très accessible.&lt;/p&gt;
+
+&lt;p&gt;Je retiens en particulier les idées au sujet de la formation (Advanced Agile) qui est, si j&amp;rsquo;ai bien compris, le nouveau défi de l&amp;rsquo;agilité. Le but de la formation n&amp;rsquo;est pas d&amp;rsquo;apposer un tampon certifiant, mais de permettre à chacun de se situer dans son propre parcours professionnel, en terme de compétences acquises, et de pouvoir identifier les formations permettant de le compléter au plus juste, avec des compétences à la fois accessibles et pertinentes (opportunes).&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai noté la description de ce qu&amp;rsquo;est le cœur de Scrum&amp;nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Livraison à chaque itération&lt;/li&gt;
+&lt;li&gt;Auto organisation&lt;/li&gt;
+&lt;li&gt;Amélioration Continue&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Et notamment il n&amp;rsquo;est pas fait mention de user story ou de burndown chart.&lt;/p&gt;
+
+&lt;p&gt;Enfin pour finir, une idée:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modélisation Agile</title>
+      <link>http://etienne.charignon.github.io/post/article_52/</link>
+      <pubDate>Tue, 15 Mar 2011 22:20:03 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_52/</guid>
+      <description>
+
+&lt;div class=&#34;chapo&#34;&gt;En fouillant la page administration de mon blog je viens de tomber sur un brouillon d&#39;article écrit il y a déjà plus de 3 ans. Je me souviens avoir beaucoup hésité à publier cet article, n&#39;étant pas complètement satisfait du contenu. En fin de compte j&#39;ai trouvé ça intéressant. J&#39;espère que vous aurez autant de plaisir que moi à le lire.&lt;/div&gt;
+
+&lt;p&gt;Lors des conférences Valtech Days 2007&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, le sujet de la place de la modélisation dans les processus Agiles est revenu plusieurs fois. Je me permets de vous présenter ici quelques principes et pratiques de l&amp;rsquo;eXtreme Programming à ce sujet.&lt;/p&gt;
+
+&lt;h2 id=&#34;you-ain-t-gonna-need-it&#34;&gt;You Ain&amp;rsquo;t Gonna Need It&lt;/h2&gt;
+
+&lt;p&gt;Un des principes XP à ce sujet, connu sous l&amp;rsquo;acronyme YAGNI (You Ain&amp;rsquo;t Gonna Need It) n&amp;rsquo;est qu&amp;rsquo;une façon d&amp;rsquo;insister sur la pratique de Conception Simple.&lt;/p&gt;
+
+&lt;p&gt;Ici, on recherche la simplicité maximum (extrême). Pourquoi faire payer au client des développements inutiles. A chaque fin d&amp;rsquo;itération, le client reçoit l&amp;rsquo;application qui aura coûté le moins cher pour les scénarios qu&amp;rsquo;il a demandé. Aucune anticipation n&amp;rsquo;est effectuée (non plus au niveau abstraction, bien que malgré tout l&amp;rsquo;abstraction nécessaire est présente dans la solution&amp;hellip; J&amp;rsquo;y reviens).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;rdquo; Mais introduire certaines briques de base comme par exemple un framework de persistance, c&amp;rsquo;est une question de bon sens&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En fait, non, ce n&amp;rsquo;est pas le bon sens qui guide ce choix ici, mais une réflexion pragmatique par rapport au résultat du jeux de la planification.
+Je m&amp;rsquo;explique&amp;nbsp;:
+Au cours du Planning Game, le client et l&amp;rsquo;équipe ont établi une liste de scénarios classés en fonction de leur valeur (priorité client) et de leur complexité (priorité développeur). Faire de l&amp;rsquo;anticipation sur des scénarios à venir, c&amp;rsquo;est ignorer le résultat du travail du Planning Game. C&amp;rsquo;est renoncer à faire de l&amp;rsquo;extreme programming, c&amp;rsquo;est échouer à faire de l&amp;rsquo;Agilité.&lt;/p&gt;
+
+&lt;p&gt;Ensuite, le bon sens auquel on fait référence ici trouve ses racines dans le modèle mental des intervenants. Les Agilistes savent que l&amp;rsquo;ensemble des techniques qu&amp;rsquo;ils appliquent pour faire du développement logiciel leur permet de &lt;strong&gt;ne pas&lt;/strong&gt; avoir un coût du changement exponentiel par rapport au temps. Il ne sera pas vraiment beaucoup plus cher d&amp;rsquo;introduire Hibernate plus tard, quand cela deviendra nécessaire&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;A bon, mais c&amp;rsquo;est un peu difficile à croire&amp;hellip;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Tu te contredis, tu dis que tu ne fais pas d&amp;rsquo;anticipation, mais que ce ne sera pas plus cher de l&amp;rsquo;introduire plus tard&amp;hellip;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Je persiste, le bon sens de l&amp;rsquo;Agiliste le guidera à ne pas faire de YAGNI.
+Mais avant de vous révéler mon secret, je voudrais faire une dernière remarque sur le &amp;ldquo;coup&amp;rdquo; du YAGNI.&lt;/p&gt;
+
+&lt;p&gt;Cette dernière remarque fait partie de tous les bons manuels d&amp;rsquo;eXtreme Programming, mais pourtant peine à pénétrer les esprits. L&amp;rsquo;introduction d&amp;rsquo;une anticipation conceptuelle dans le design de l&amp;rsquo;application a un coût d&amp;rsquo;entretien non négligeable.
+- il faudra écrire les tests unitaires correspondant à ce comportement
+- ce comportement ne sera pas clairement défini (il s&amp;rsquo;agit seulement d&amp;rsquo;un sentiment du développeur, d&amp;rsquo;un feeling, mais il n&amp;rsquo;a pas une vision claire des exigences fonctionnelles puisque ça n&amp;rsquo;a pas été discuté avec le client)
+- ce comportement se retrouvera très probablement en travers du chemin de certains refactorings. Il complexifiera inutilement et surtout au mauvais moment le modèle en train d&amp;rsquo;émerger.
+L&amp;rsquo;idée ici est une sorte de &amp;ldquo;just in time feature&amp;rdquo;. Comme on pourrait le lire dans un manuel Toyota&amp;nbsp;: Pas de stock inutile. Le flux d&amp;rsquo;exigence est tiré, c&amp;rsquo;est comme ça que le processus de développement trouve son équilibre optimum. On commence par choisir une exigence, puis on développe un test qui va mettre en évidence l&amp;rsquo;absence de fonctionnement puis on développe le comportement.&lt;/p&gt;
+
+&lt;h2 id=&#34;le-secret&#34;&gt;Le Secret&lt;/h2&gt;
+
+&lt;p&gt;Le secret de la conception simple de l&amp;rsquo;extreme programming repose sur trois principes&amp;nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;une conception juste nécessaire pour les scénarios choisis en début d&amp;rsquo;itération,&lt;/li&gt;
+&lt;li&gt;l&amp;rsquo;élimination de la duplication&amp;nbsp;: Once and only Once (ou aussi DRY&amp;nbsp;: Don&amp;rsquo;t Repeate Yourself)&lt;/li&gt;
+&lt;li&gt;le code le plus expressif possible.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finalement, la seule chose qu&amp;rsquo;on s&amp;rsquo;autorise à prévoir, c&amp;rsquo;est la capacité à faire des changements.&lt;/p&gt;
+
+&lt;p&gt;Dans l&amp;rsquo;exemple précédent de la problématique de persistance, on pourrait très bien imaginer que ce ne soit pas le sujet principal des premières itérations et qu&amp;rsquo;à ce titre, on décide de l&amp;rsquo;effectuer par un mécanisme simple de sérialisation (en Java c&amp;rsquo;est relativement trivial à faire). A l&amp;rsquo;écriture des premières classes de l&amp;rsquo;application, ce mécanisme va se retrouver en dur dans une classe, puis il va apparaitre dans une autre, et par souci d&amp;rsquo;élimination de la redondance, les développeurs vont introduire un schéma de conception leur permettant d&amp;rsquo;isoler la problématique de persistance à un seul endroit.&lt;/p&gt;
+
+&lt;p&gt;Plus tard, l&amp;rsquo;introduction de Hibernate sera possible à un coût raisonnable, du fait de la simplicité de la conception qui a émergé.&lt;/p&gt;
+
+&lt;p&gt;Un dernier point dont je n&amp;rsquo;ai pas encore parlé et que pourtant le bon sens aurait du me faire citer en premier. Respecter le principe YAGNI est particulièrement efficace quand l&amp;rsquo;anticipation pressentie se révèle finalement inutile.&lt;/p&gt;
+
+&lt;p&gt;Dans un projet récent, et bien que cela ai été pressenti par un architecte en phase amont du projet (avant que j&amp;rsquo;arrive, quoi), nous n&amp;rsquo;avons pas choisi d&amp;rsquo;introduire de base de données en début de projet, mais nous avons utilisé la sérialisation justement. Notre système était tout simplement primaire. Nous ré-écrivions toutes les données à chaque fois qu&amp;rsquo;on devait changer une valeur.
+Et bien, cette solution &lt;strong&gt;est resté jusqu&amp;rsquo;au bout&lt;/strong&gt;. Nous n&amp;rsquo;avons jamais eu besoin de plus. Et nous pouvons nous féliciter de ne pas avoir perdu énormément de temps et d&amp;rsquo;effort à implémenter un module de gestion de base de données. Nous avons fini le projet juste à l&amp;rsquo;heure. Il est absolument évident que nous aurions été en retard sinon.&lt;/p&gt;
+
+&lt;h2 id=&#34;métaphore&#34;&gt;Métaphore&lt;/h2&gt;
+
+&lt;p&gt;En effet, la conception simple a l&amp;rsquo;air de faire l&amp;rsquo;affaire. Mais ne manque-t-on pas d&amp;rsquo;un outil pour traiter de la question de la &amp;ldquo;big picture&amp;rdquo;&amp;nbsp;? Comment s&amp;rsquo;assurer que toutes ces petites actions de conception élémentaires puissent donner un ensemble cohérent. Comment faire pour guider la conception sur le long terme.&lt;/p&gt;
+
+&lt;p&gt;En effet, lorsqu&amp;rsquo;on fait de la conception à longueur de temps, on a tendance à oublier ce qui a été fait jusque là et le risque de prendre des décisions de conception qui viendraient rompre l&amp;rsquo;intégrité conceptuelle de l&amp;rsquo;application est important.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est ici qu&amp;rsquo;intervient la pratique de la métaphore.&lt;/p&gt;
+
+&lt;p&gt;la métaphore &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&amp;nbsp;: Une analogie utilisée comme modèle conceptuel du système en cours de développement&lt;/p&gt;
+
+&lt;p&gt;La métaphore à plusieurs objectifs&amp;nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;effectuer un travail de modélisation du domaine métier à travers la recherche de cette métaphore,&lt;/li&gt;
+&lt;li&gt;donner une &lt;strong&gt;vision&lt;/strong&gt; de l&amp;rsquo;architecture tout en restant suffisamment vague au sujet des détails,&lt;/li&gt;
+&lt;li&gt;fournir un support de communication sympathique de cette vision, qui soit accessible à tous les membres de l&amp;rsquo;équipe, clients, développeurs, testeurs&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Pour rappel, la version 2011 aura lieux dans 2 jours. Inscription gratuite&amp;nbsp;: &lt;a href=&#34;http://www.valtechdays.fr&#34;&gt;http://www.valtechdays.fr&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;Definition issue du wiki &lt;a href=&#34;http://xp-france.net/cgi-bin/wiki.pl?TreizePratiques&#34;&gt;XP-France&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meuhhh !</title>
+      <link>http://etienne.charignon.github.io/post/article_104/</link>
+      <pubDate>Thu, 16 Dec 2010 22:19:00 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_104/</guid>
+      <description>
+
+&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Je viens d&amp;rsquo;intégrer depuis peu une équipe toute jeune qui a bien du mal à conduire ses réunions. En particulier, sous le feu de la passion, les discussions avaient tendance à partir dans toutes les directions.&lt;/p&gt;
+
+&lt;p&gt;En bon consultant agile, j&amp;rsquo;ai proposé d&amp;rsquo;utiliser une boite à meuh&amp;nbsp;!&lt;/p&gt;
+
+&lt;p&gt;Levée de boucliers&amp;nbsp;! Ah non, c&amp;rsquo;est ridicule et ça fait du bruit, on va se faire remarquer.&lt;/p&gt;
+
+&lt;p&gt;Bon! La proposition n&amp;rsquo;a pas été acceptée&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;A la réunion suivante, le sujet n&amp;rsquo;a pas manqué de diverger et nous partions encore dans une digression de la digression quand un membre de l&amp;rsquo;équipe a commencé à faire &amp;ldquo;meuh&amp;rdquo; avec la bouche&amp;nbsp;! Ça a bien plu à tout le monde. Quel soulagement d&amp;rsquo;avoir un moyen de nous recadrer sans être obligés de passer par un tas de justifications et d&amp;rsquo;explications.&lt;/p&gt;
+
+&lt;p&gt;Et voila. Nous avons maintenant un nouvel outil à disposition:&lt;/p&gt;
+
+&lt;h2 id=&#34;le-meuh-avec-la-bouche-nbsp&#34;&gt;Le meuh avec la bouche&amp;nbsp;!&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programmer est une activité sociale</title>
+      <link>http://etienne.charignon.github.io/post/article_88/</link>
+      <pubDate>Wed, 15 Dec 2010 16:48:15 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_88/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Les informaticiens aiment communiquer. Ils n&amp;rsquo;ont pas les lunettes sales comme on l&amp;rsquo;entend dire parfois.&lt;/p&gt;
+
+&lt;p&gt;Quand j&amp;rsquo;étais étudiant (en informatique), nous nous retrouvions par nécessité dans les salles informatique pour travailler. En effet il était difficile à l&amp;rsquo;époque de travailler chez soi car les ordinateurs étaient encore trop chers pour la plus part d&amp;rsquo;entre nous. C&amp;rsquo;était plaisant de partager notre peine (les solutions sont souvent abstraites et difficile à comprendre), nos peurs de l&amp;rsquo;échec et notre passion communes.&lt;/p&gt;
+
+&lt;p&gt;Personnellement, je n&amp;rsquo;aime pas du tout programmer seul. J&amp;rsquo;aime travailler en équipe pour réaliser un programme. On discute des solutions, on est plus créatif ensemble. On se motive les uns les autres, on est plus productifs.&lt;/p&gt;
+
+&lt;p&gt;Depuis que j&amp;rsquo;ai découvert les méthodes de programmation agile je me sens bien dans mon travail. Bien sure, avant aussi j&amp;rsquo;ai eu l&amp;rsquo;occasion de ressentir le plaisir du travail d&amp;rsquo;équipe&amp;hellip; mais c&amp;rsquo;était ponctuel&amp;hellip; Tous le monde s&amp;rsquo;en trouvait ému, de l&amp;rsquo;équipe elle même jusqu&amp;rsquo;au directeur de département&amp;nbsp;: &amp;ldquo;Bravo les gars, vous faite de bon boulot&amp;rdquo;. Et le chef de projet de lui répondre&amp;nbsp;: &amp;ldquo;Tu aurais du les voire vendredi dernier avant la livraison, Eric a demandé à Stephane de libérer le verrou sur quelques fichiers pour qu&amp;rsquo;il puisse effectuer une modification parallèle pendant que Stéphane terminait le module principale&amp;hellip;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;La difference des équipes agiles est qu&amp;rsquo;elle recherche cette activité sociale.&lt;/p&gt;
+
+&lt;p&gt;La première choses est qu&amp;rsquo;il faut des gens qui s&amp;rsquo;entendent. Ce n&amp;rsquo;est pourtant pas si compliqué non&amp;nbsp;?&lt;/p&gt;
+
+&lt;p&gt;Quelques petits trucs qui ont marchés parfois&amp;nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Toute l&amp;rsquo;équipe dans le même bureau&lt;/li&gt;
+&lt;li&gt;Du travail en binôme&lt;/li&gt;
+&lt;li&gt;Pas de pression excessive&lt;/li&gt;
+&lt;li&gt;Un minimum de réussite&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Une équipe agile, une équipe avec du caractère.</title>
+      <link>http://etienne.charignon.github.io/post/article_103/</link>
+      <pubDate>Mon, 01 Nov 2010 22:17:04 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_103/</guid>
+      <description>
+
+&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Voici quelques interrogations que l&amp;rsquo;on entend parfois à propos des équipes agiles.&lt;/p&gt;
+
+&lt;p&gt;&lt;quote&gt;Est-ce qu&amp;rsquo;il n&amp;rsquo;y a pas malgré tout un chef&amp;nbsp;?&lt;/quote&gt;&lt;/p&gt;
+
+&lt;p&gt;Oui&amp;nbsp;! En tout cas, il y a un ou des leaders.&lt;/p&gt;
+
+&lt;p&gt;&lt;quote&gt;Les personnes expérimentées ne sont-elles pas forcément plus influentes&amp;nbsp;?&lt;/quote&gt;&lt;/p&gt;
+
+&lt;p&gt;Oui&amp;nbsp;!&lt;/p&gt;
+
+&lt;p&gt;&lt;quote&gt;Est-ce qu&amp;rsquo;on peut vraiment faire binômer un développeur senior avec un débutant&amp;nbsp;? &lt;/quote&gt;&lt;/p&gt;
+
+&lt;p&gt;Non, sans doute pas très longtemps.&lt;/p&gt;
+
+&lt;p&gt;&lt;quote&gt;En tant qu&amp;rsquo;analyste métier, quelle est ma place&amp;nbsp;?&lt;/quote&gt;&lt;/p&gt;
+
+&lt;p&gt;Et on entend parfois des responsables fonctionnels dire des choses comme:
+&lt;quote&gt; &amp;ldquo;De toute façon, notre référence sera toujours le document de spec&amp;nbsp;!&amp;rdquo;&lt;/quote&gt;&lt;/p&gt;
+
+&lt;p&gt;Il est apparemment assez difficile de comprendre ce qu&amp;rsquo;est une équipe agile pour les praticiens du cycle en V.
+Toutes ces réflexions, toutes ces résistances au changement, viennent de la représentation mentale que nous avons de ce qu&amp;rsquo;est une équipe.&lt;/p&gt;
+
+&lt;p&gt;Dans le cycle en V, les équipes sont cloisonnées. Les personnes sont regroupées par spécialisations&amp;nbsp;: les spécialistes métiers sont ensemble pour former une équipe, les développeurs sont ensemble, les testeurs de même, les architectes (ça c&amp;rsquo;est sans doute le plus dingue)&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Dans le cycle en V, les équipes sont homogènes par construction, suivant le bon vieil adage&amp;nbsp;: &amp;ldquo;qui se ressemble s&amp;rsquo;assemble&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Avec l&amp;rsquo;agilité arrive la fin du cloisonnage et c&amp;rsquo;est pour moi une des révolutions majeures. Un projet de développement logiciel (depuis sa vision jusqu&amp;rsquo;à sa livraison concrète au client), n&amp;rsquo;est réalisé que par une seule équipe&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;une-équipe-cross-fonctionnelle&#34;&gt;Une équipe cross-fonctionnelle&lt;/h2&gt;
+
+&lt;p&gt;Une équipe agile est le rassemblement de l&amp;rsquo;ensemble des compétences nécessaires pour mener à bien le projet. Elle réunit des personnes d&amp;rsquo;horizons différents avec des compétences variées. Une équipe agile est par définition très contrastée. Elle est le rassemblement d&amp;rsquo;individualités fortes plutôt que l&amp;rsquo;alignement d&amp;rsquo;une armée d&amp;rsquo;unités de production interchangeables. C&amp;rsquo;est une équipe qui a du caractère.&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;équipe agile est jugée sur le produit fini. Il n&amp;rsquo;y a pas de livrable intermédiaire. Cela signifie que si des analystes fonctionnels sont présents dans l&amp;rsquo;équipe, ils seront eux aussi jugés sur le produit final et non sur la qualité de leur document de spécification (qui peut, par ailleurs, tout à fait exister dans un projet agile). Cela signifie qu&amp;rsquo;ils sont responsables du contenu fonctionnel de l&amp;rsquo;application, mais aussi de la bonne transmission de ce contenu fonctionnel aux développeurs et de la validation de la présence effective de ce contenu dans l&amp;rsquo;application. Entre parenthèse, on comprend mieux qu&amp;rsquo;ils doivent s&amp;rsquo;intéresser aux tests&amp;nbsp;!&lt;/p&gt;
+
+&lt;h2 id=&#34;scalabilité-nbsp&#34;&gt;Scalabilité&amp;nbsp;?&lt;/h2&gt;
+
+&lt;p&gt;Si l&amp;rsquo;on en croit l&amp;rsquo;article &lt;a href=&#34;http://www.cesames.net/architecture-des-systemes/les-enjeux-de-larchitecture/une-complexite-de-plus-en-plus-envahissante&#34;&gt;suivant&lt;/a&gt;, les grands projets ont encore moins de chance de réussir. Qui plus est, il est sans doute assez hasardeux de généraliser sur le sujet tant les expériences correspondantes sont spécifiques. Les grands projets de ce type trouvent des équilibres de fonctionnement très différents d&amp;rsquo;un cas à l&amp;rsquo;autre.&lt;/p&gt;
+
+&lt;p&gt;Quoi qu&amp;rsquo;il en soit, on peut monter en charge tout en gardant des équipes de caractère. Une telle équipe ne peut être très grande. Une équipe réunissant des compétences aussi variées ne pourrait pas fonctionner si elle était constituée de 50 personnes.&lt;/p&gt;
+
+&lt;p&gt;Une équipe de ce type ne peut dépasser les 7 ou 8 personnes.&lt;/p&gt;
+
+&lt;p&gt;Pour monter en charge et réaliser de gros projets il est possible de multiplier les équipes agiles en distribuant les éléments fonctionnels du projet sur plusieurs équipes. Chaque équipe reste une équipe cross-fonctionelle, et l&amp;rsquo;on ajoute une activité de synchronisation des différentes équipes&amp;nbsp;: ce que l&amp;rsquo;on appelle par exemple le Scrum de Scrum ou méta-Scrum.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;En fait ce n&amp;rsquo;est pas tout à fait exact, il est tout à fait possible de constituer plusieurs équipes, mais pour la simplicité de mon propos, disons pour l&amp;rsquo;instant qu&amp;rsquo;il n&amp;rsquo;y en a qu&amp;rsquo;une
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

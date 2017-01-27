@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ma valise de programmeur</title>
+    <link>http://etienne.charignon.github.io/cat%C3%A9gories/conf%C3%A9rences/index.xml</link>
+    <description>Recent content on Ma valise de programmeur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <atom:link href="http://etienne.charignon.github.io/cat%C3%A9gories/conf%C3%A9rences/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Animer vos rétrospectives avec &#34;le conseil&#34;</title>
+      <link>http://etienne.charignon.github.io/post/article_118/</link>
+      <pubDate>Wed, 05 Aug 2015 22:47:22 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_118/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Vous rappelez-vous de la dernière fois où vous avez dit à vos collègues que vous les aimiez&amp;nbsp;?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Si vos rétrospectives ronronnent, si vous avez l&amp;rsquo;impression que ça n&amp;rsquo;apporte pas grand-chose,&lt;/li&gt;
+&lt;li&gt;si vous pensez que l&amp;rsquo;humain est au coeur du processus agile,&lt;/li&gt;
+&lt;li&gt;si vous trouvez qu&amp;rsquo;il est temps de bousculer vos pratiques agiles,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;alors, cette session à la conférence &lt;a href=&#34;http://2015.conference-agile.fr/&#34;&gt;Agile France 2015&lt;/a&gt;, va vous passionner.&lt;/p&gt;
+
+&lt;p&gt;Notre but sera de vous présenter la pratique du &amp;ldquo;conseil&amp;rdquo; (en anglais &amp;ldquo;Temperature Reading&amp;rdquo;) développé par Virginia Satir, psychothérapeute familiale.&lt;/p&gt;
+
+&lt;p&gt;Pendant un an, nous avons animé nos rétrospectives de cette manière. Nous vous en expliquerons le format et vous parlerons de l&amp;rsquo;apport pour nos rétrospectives.&lt;/p&gt;
+
+&lt;p&gt;Attention, risque de contagion élevé. Quand vous aurez chopé le virus, vous ne pourrez plus revenir en arrière.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retour d&#39;expérience : Forfait Agile</title>
+      <link>http://etienne.charignon.github.io/post/article_113/</link>
+      <pubDate>Tue, 09 Apr 2013 10:36:57 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_113/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;En 2012, les entreprises Sita et Valtech se sont associées afin de développer une application web de gestion du traitement/valorisation des dechets . Cette association a été contractualisée par un &amp;ldquo;forfait agile&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Nous vous présenterons le contrat et les particularités qui en font un contrat agile, mais aussi comment s&amp;rsquo;est déroulé le projet. Un projet Agile au forfait, ca se passe très bien.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retour d&#39;expérience : Comment on a utilisé FitNesse et comment ça a remplacé nos tests unitaires</title>
+      <link>http://etienne.charignon.github.io/post/article_112/</link>
+      <pubDate>Tue, 26 Feb 2013 13:54:37 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_112/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Le jeudi 28 février à 19:00, je présenterai un retour d&amp;rsquo;expérience sur l&amp;rsquo;utilisation de l&amp;rsquo;outil &lt;a href=&#34;http://www.fitnesse.org&#34;&gt;Fitnesse&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cette soirée sera l&amp;rsquo;occasion de montrer le résultat d&amp;rsquo;une utilisation avancée de FitNesse. Nous présenterons rapidement les concepts du développement piloté par les tests fonctionnels (ATTD&amp;nbsp;: acceptance test driven development) ainsi que l&amp;rsquo;outil Fitnesse, que nous avons mis en place. Enfin, nous vous montrerons du &amp;ldquo;vrai&amp;rdquo;, nos documents d&amp;rsquo;acceptations, et la mécanique qui est derrière.&lt;/p&gt;
+
+&lt;p&gt;Cette soirée aura lieu à La Cantine, rendez vous sur &lt;a href=&#34;http://lacantine.org/events/comment-on-a-utilise-fitnesse-et-comment-ca-a-remplace-nos-tests-unitaires?goback=%2Egde_2055393_member_216996560&#34;&gt;le site&lt;/a&gt; pour vous inscrire.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agile Grenoble 2012</title>
+      <link>http://etienne.charignon.github.io/post/article_111/</link>
+      <pubDate>Wed, 19 Sep 2012 10:56:13 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_111/</guid>
+      <description>
+
+&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Le Jeudi 8 Novembre 2012 aura lieu la grande conférence agile du CARA à Grenoble&amp;nbsp;: &lt;a href=&#34;http://2012.agile-grenoble.org/&#34;&gt;Agile Grenoble 2012&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;y présenterai une session&amp;nbsp;:&lt;/p&gt;
+
+&lt;h2 id=&#34;retour-d-expérience-nbsp-agile-contre-cycle-en-v-nbsp-le-match&#34;&gt;Retour d’expérience&amp;nbsp;: &amp;ldquo;Agile contre Cycle en V&amp;nbsp;: Le match&amp;rdquo;&lt;/h2&gt;
+
+&lt;p&gt;En 2011, nous avons eu l&amp;rsquo;occasion de réaliser le rêve de tout agiliste. Un client a fait réaliser deux fois le même site web, un en mode agile, l&amp;rsquo;autre en mode &amp;ldquo;classique&amp;rdquo;. A votre avis qui a gagné&amp;nbsp;?
+Je vous présenterait le contexte de cette expérience à première vue étonnante et nous regarderons en détail les différences et leurs conséquences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agile France 2011 - 26 et 27 mai 2011</title>
+      <link>http://etienne.charignon.github.io/post/article_106/</link>
+      <pubDate>Wed, 11 May 2011 23:06:44 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_106/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Youupi&amp;nbsp;! ma session pour Agile France 2011 a été retenue.&lt;/p&gt;
+
+&lt;p&gt;Agile France est la conférence agile parisienne à ne pas manquer. Anciennement nommée XP-France, elle a été renommée pour représenter tous les courants de l&amp;rsquo;agilité.&lt;/p&gt;
+
+&lt;p&gt;Heureusement, vous continuerez d&amp;rsquo;entendre parler d&amp;rsquo;eXtreme Programming.&lt;/p&gt;
+
+&lt;p&gt;Si vous voulez développer votre métier de programmeur, peut-être serez vous intéressé par ma session. Elle s&amp;rsquo;intitule &lt;a href=&#34;http://conf.agile-france.org/sessions/4d8fa5704ff6f752660009f7&#34;&gt;Lire du code&lt;/a&gt;. Après tout, c&amp;rsquo;est vrai quoi, on parle toujours de comment faire pour mieux écrire du code&amp;nbsp;! Pour une fois on ne parlera que d&amp;rsquo;en lire.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Valtech accueille Alistair Cockburn</title>
+      <link>http://etienne.charignon.github.io/post/article_105/</link>
+      <pubDate>Mon, 28 Mar 2011 18:25:55 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_105/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Ce matin, Valtech accueillait Alistair Cockburn de passage à Paris. Nous avons pu discuter différents sujet, de manière très informelle, mais non moins organisée.&lt;/p&gt;
+
+&lt;p&gt;Nous avons abordé les sujets suivants (et j&amp;rsquo;en oublie):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Crystal, qu&amp;rsquo;est-ce que c&amp;rsquo;est&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Que pense Alistrair de l&amp;rsquo;auto-organisation&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://alistair.cockburn.us/Advanced+Agile+class&#34;&gt;Advanced Agile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;10th agile manifesto anniversary&lt;/li&gt;
+&lt;li&gt;Construction incrémentale&lt;/li&gt;
+&lt;li&gt;BDD (Behavior Driven Development)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.icagile.com/&#34;&gt;ICAgile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Scrum&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;J&amp;rsquo;ai été très intéressé par toutes ces discussions qu&amp;rsquo;Alistair Cockburn a conduite dans un anglais très accessible.&lt;/p&gt;
+
+&lt;p&gt;Je retiens en particulier les idées au sujet de la formation (Advanced Agile) qui est, si j&amp;rsquo;ai bien compris, le nouveau défi de l&amp;rsquo;agilité. Le but de la formation n&amp;rsquo;est pas d&amp;rsquo;apposer un tampon certifiant, mais de permettre à chacun de se situer dans son propre parcours professionnel, en terme de compétences acquises, et de pouvoir identifier les formations permettant de le compléter au plus juste, avec des compétences à la fois accessibles et pertinentes (opportunes).&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai noté la description de ce qu&amp;rsquo;est le cœur de Scrum&amp;nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Livraison à chaque itération&lt;/li&gt;
+&lt;li&gt;Auto organisation&lt;/li&gt;
+&lt;li&gt;Amélioration Continue&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Et notamment il n&amp;rsquo;est pas fait mention de user story ou de burndown chart.&lt;/p&gt;
+
+&lt;p&gt;Enfin pour finir, une idée:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agile France 2010</title>
+      <link>http://etienne.charignon.github.io/post/article_101/</link>
+      <pubDate>Sat, 01 May 2010 11:29:02 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_101/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Les 31 mai et 1 er juin 2010, j&amp;rsquo;assisterai à la nouvelle conférence &lt;a href=&#34;http://conf.agile-france.org/&#34;&gt;Agile France&lt;/a&gt; (qui vient remplacer la conférence annuelle XP-France).&lt;/p&gt;
+
+&lt;p&gt;Cette conférence est vraiment le rendez-vous annuel des agilistes français. Elle se déroulera à Paris (enfin presque), au &lt;a href=&#34;http://conf.agile-france.org/site/&#34;&gt;chalet de la porte jaune&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Au moment où j&amp;rsquo;écris ces lignes, il reste encore 19 places à tarif réduit&amp;nbsp;: &lt;a href=&#34;http://conf.agile-france.org/registration/&#34;&gt;inscription&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Accessoirement, je vous présenterai aussi le sujet &amp;ldquo;Commencer petit pour finir grand&amp;nbsp;: L&amp;rsquo;art de la construction incrémentale&amp;rdquo;, le 31/05/2010 à 11:30&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retour d&#39;Agile Open France 2010</title>
+      <link>http://etienne.charignon.github.io/post/article_97/</link>
+      <pubDate>Mon, 08 Feb 2010 12:00:47 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_97/</guid>
+      <description>
+
+&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Je dois dire que j&amp;rsquo;y ai vraiment trouvé mon compte dans cette édition de Agile Open France 2010. Je suis venu pour trouver des réponses et j&amp;rsquo;en ai eu un grand nombre.
+Quand on travaille sur des projets de développement informatique, on a en général la &amp;ldquo;tête dans le guidon&amp;rdquo;. Il y a bien les rétrospectives pour relever un peu la tête, mais ce n&amp;rsquo;est rien en comparaison d&amp;rsquo;aller passer 3 jours de séminaire dans un hôtel tranquille à une demi-journée de Paris.&lt;/p&gt;
+
+&lt;p&gt;Comme beaucoup d&amp;rsquo;autres sur place je n&amp;rsquo;ai pas l&amp;rsquo;impression d&amp;rsquo;avoir eu plusieurs sessions, mais plutôt une seule et unique grande discussion. Si le premier jour nous avions planifié sagement 3 &lt;a href=&#34;http://www.flickr.com/photos/72587798@N00/4312494058/&#34;&gt;sessions&lt;/a&gt; en parallèle réparties sur 2 créneaux le matin et 3 l&amp;rsquo;après midi, la suite du séminaire s&amp;rsquo;est terminée d&amp;rsquo;une manière beaucoup plus &amp;ldquo;auto organisée&amp;rdquo; avec des sessions à diner, le soir&amp;hellip; et la nuit&amp;hellip; et même hors du temps. Et pour résoudre les frustrations, nous avons fini par faire plusieurs sessions en même temps dans le salon &amp;ldquo;rétro-lounge&amp;rdquo;, de loin la salle la plus agréable&amp;nbsp;:-)&lt;/p&gt;
+
+&lt;h2 id=&#34;estimations-kanban-métriques&#34;&gt;Estimations, kanban, métriques.&lt;/h2&gt;
+
+&lt;p&gt;A quoi servent les estimations&amp;nbsp;? Faut-il faire une estimation détaillée ou &amp;ldquo;à la bignouse&amp;rdquo;&amp;nbsp;?
+N&amp;rsquo;est-il pas vrai que les développeurs Scrum souffrent de leurs estimations &amp;ldquo;à la tache&amp;rdquo;, foireuses&amp;nbsp;? Il semble que Kanban résolve ça puisqu&amp;rsquo;elle arrête simplement d&amp;rsquo;en faire&amp;nbsp;! Nous avons fait un &lt;a href=&#34;http://www.flickr.com/photos/72587798@N00/4311755705/&#34;&gt;comparatif des méthodes agiles&lt;/a&gt;&amp;nbsp;!
+Quelles sont les bonnes métriques&amp;nbsp;? métriques logiciel ou même métriques de projet. La bonne métrique est celle qu&amp;rsquo;on installe pour résoudre un problème. Il faudra ensuite l&amp;rsquo;oublier, une fois le problème résolu (c&amp;rsquo;est difficile).&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;..
+Là je suis dans le RER A et je me demande si je vais vraiment finir par arriver un jour chez moi tellement ça n&amp;rsquo;avance pas&amp;nbsp;!
+&amp;hellip;..&lt;/p&gt;
+
+&lt;h2 id=&#34;construction-incrémentale&#34;&gt;Construction incrémentale&lt;/h2&gt;
+
+&lt;p&gt;C&amp;rsquo;est une discussion que j&amp;rsquo;ai initié dans le but de comprendre un peu mieux ce sujet qui me semble si naturel mais que j&amp;rsquo;ai tant de mal à comprendre&amp;hellip; Je remercie beaucoup Perrick Penet pour son &amp;ldquo;insight&amp;rdquo; sur le sujet. Avec tout ce que j&amp;rsquo;ai collecté, j&amp;rsquo;espère pouvoir faire un sujet intéressant pour la prochaine conférence Agile France (anciennement XP-Days France).&lt;/p&gt;
+
+&lt;h2 id=&#34;la-killer-app-2010-nbsp&#34;&gt;La killer App 2010&amp;nbsp;:-)&lt;/h2&gt;
+
+&lt;p&gt;Avec l&amp;rsquo;open source et wikipedia, nous sommes entrés dans l&amp;rsquo;ère du Capitalisme Collaboratif&amp;nbsp;! Dans cette esprit, quelle serait la killer app de l&amp;rsquo;année&amp;nbsp;?
+Moi, j&amp;rsquo;ai proposé une application de taxi collaboratif sur IPhone, une sorte de super auto-stop booster aux hormones de la mobilité&amp;hellip; Après vérification, il en existe déjà 5 sur AppStore&amp;nbsp;!&lt;/p&gt;
+
+&lt;h2 id=&#34;cadavre-exquis&#34;&gt;Cadavre Exquis&lt;/h2&gt;
+
+&lt;p&gt;Ah&amp;nbsp;! le meilleur pour la fin. A l&amp;rsquo;initiative de Luc Mazardo et avec Pascal Grange nous avons démarré un &lt;a href=&#34;http://xp-france.net/cgi-bin/wiki.pl?CadavreExquis&#34;&gt;Cadavre Exquis&lt;/a&gt; sur du code. Un Cadavre Exquis&amp;nbsp;? Vous savez, ce jeux qui consiste à travailler chacun son tour sur une création en y ajoutant simplement sa touche personnelle (on a fait ça à table, un petit dessin qu&amp;rsquo;on fait tourner qui donne un truc à la fin&amp;hellip;).
+Ici, il s&amp;rsquo;agit de faire un programme.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agile Open France 2010</title>
+      <link>http://etienne.charignon.github.io/post/article_96/</link>
+      <pubDate>Tue, 19 Jan 2010 15:15:22 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_96/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Les 20-21-22 janvier 2010 je serais à la conférence &lt;a href=&#34;http://www.agileopen.net/node/407&#34;&gt;Agile Open France&lt;/a&gt; en Alsace.&lt;/p&gt;
+
+&lt;p&gt;Agile Open est une conférence sur le mode &lt;a href=&#34;http://www.openspaceworld.org/french/index.html&#34;&gt;Open Space&lt;/a&gt; dont le contenu des sessions n&amp;rsquo;est pas définit à l&amp;rsquo;avance mais pendant la conférence, par les participants.&lt;/p&gt;
+
+&lt;p&gt;Cette conférence en français sera une occasion de réunir des personnes intéressées par l&amp;rsquo;agilité pour échanger et réfléchir sur le sujet dans le cadre tranquille d&amp;rsquo;un &lt;a href=&#34;http://www.hotel-arnold.com/&#34;&gt;charmant hôtel alsacien&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agile Tour Paris 2009</title>
+      <link>http://etienne.charignon.github.io/post/article_91/</link>
+      <pubDate>Wed, 14 Oct 2009 22:59:11 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_91/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Le 15 Octobre, j&amp;rsquo;irai assister à la session parisienne de l&amp;rsquo;Agile Tour édition 2009. J&amp;rsquo;ai l&amp;rsquo;impression, à regarder &lt;a href=&#34;http://www.agiletour.org/fr/at2009_paris_programme.html&#34;&gt;le programme&lt;/a&gt;, que l&amp;rsquo;agilité prend une sacrée tournure &amp;ldquo;main stream&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Quelques exemples:
+- Illusions et Désillusions.
+- Rétrospective: l’amélioration continue apprivoisée&amp;nbsp;!
+- Planification Agile par la pratique
+- L’Agilité s’impose dans toute l’entreprise.
+- Organizational transition to Agile to improve development performances.
+- Mise en oeuvre de SCRUM / XP dans un contexte d&amp;rsquo;évaluation CMMI niveau 2
+- etc.&lt;/p&gt;
+
+&lt;p&gt;Merci d&amp;rsquo;avance à tous les orateurs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CITCON Europe 2009 in Paris, France. 18 et 19 septembre.</title>
+      <link>http://etienne.charignon.github.io/post/article_83/</link>
+      <pubDate>Mon, 14 Sep 2009 22:56:35 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_83/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Vendredi soir débutera la conférence CITCON Paris&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;! C&amp;rsquo;est une conférence organisée en forum ouvert (j&amp;rsquo;apprécie beaucoup ce format). Quand on regarde la liste des personnes inscrites, ça promet d&amp;rsquo;être très interessant. Il va falloir que je dérouille un peu mon anglais&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.citconf.com/paris2009/&#34;&gt;http://www.citconf.com/paris2009/&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Continuous Integration and Testing Conference
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XP-Day 2009 Paris</title>
+      <link>http://etienne.charignon.github.io/post/article_84/</link>
+      <pubDate>Sat, 16 May 2009 16:56:55 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_84/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Il reste encore quelques places pour assister à &lt;a href=&#34;http://www.xpday.fr/&#34;&gt;la conférence XP-Day&lt;/a&gt;, la conférence agile sur les méthodes agiles, les 25 et 26 mai prochains à Paris.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;y présenterai un retour d&amp;rsquo;expérience d&amp;rsquo;un projet que nous avons mené en 2008 avec la méthode SCRUM.&lt;/p&gt;
+
+&lt;p&gt;Le titre exact de ma présentation est&amp;nbsp;: &amp;ldquo;&lt;a href=&#34;http://xpday.fr/programme#PourCeuxQuiPensentQueAgileRimeAvecAbsenceDeSpecification&#34;&gt;Pour ceux qui pensent que agile rime avec absence de spécification&lt;/a&gt;.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>French Scrum User Groupe</title>
+      <link>http://etienne.charignon.github.io/post/article_81/</link>
+      <pubDate>Sun, 05 Apr 2009 22:01:45 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_81/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Ce week-end, mon grand fils de 5 ans a voulu sortir son vélo pour aller en faire au parc. Pour nous rendre jusqu&amp;rsquo;au parc, il nous faut environ 15 minutes à pied. C&amp;rsquo;est toujours un peu fatiguant quand il veut sortir son vélo parce que je sais qu&amp;rsquo;au retour il faudra que je le porte. Mon fils n&amp;rsquo;est pas encore très doué pour le vélo. Enfin, j&amp;rsquo;ai eu peur pour rien, car cette fois ci il ne me l&amp;rsquo;a pas fait porter.&lt;/p&gt;
+
+&lt;p&gt;Mais revenons sur ce fameux trajet de 15 minutes. Comme je vous le disais, mon fils n&amp;rsquo;est pas encore très doué. La dernière fois, il est tombé et du coup, cette fois il était excessivement prudent. Nous avons dû mettre au moins 20 minutes.&lt;/p&gt;
+
+&lt;p&gt;Son petit frère de 2 ans s&amp;rsquo;impatientait et courait devant pendant que &amp;ldquo;le grand&amp;rdquo; peinait prudemment sur son vélo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kata Mastermind</title>
+      <link>http://etienne.charignon.github.io/post/article_79/</link>
+      <pubDate>Sat, 28 Feb 2009 17:18:28 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_79/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Emmanuel Gaillot vient de mettre en ligne la feuille de route du kata Mastermind en Ruby que nous avons présenté ensemble aux Valtech Days 2008.&lt;/p&gt;
+
+&lt;p&gt;Merci beaucoup Manu.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un coding dojo aux Valtech Days 2008</title>
+      <link>http://etienne.charignon.github.io/post/article_72/</link>
+      <pubDate>Thu, 18 Sep 2008 08:43:16 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_72/</guid>
+      <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Avez-vous déjà observé un dessinateur en action&amp;nbsp;? Avez-vous déjà ressenti la fascination de voir apparaître quelques traits qui ne semblent avoir aucun sens puis finalement, de voir le dessin surgir comme par magie.&lt;/p&gt;
+
+&lt;p&gt;Étant le fils d&amp;rsquo;une dessinatrice de bandes dessinées, j&amp;rsquo;ai souvent observé ce phénomène. Je l&amp;rsquo;ai remarqué aussi en voyant par exemple Cabu dessiner quelques Grand Duduche en direct à la télévision.&lt;/p&gt;
+
+&lt;p&gt;Quand je regarde un dessinateur, je me rends compte qu&amp;rsquo;il utilise certaines techniques spécifiques pour obtenir son dessin. Il ne choisit pas par hasard l&amp;rsquo;ordre dans lequel il trace les traits (les arrières-plans en premier tout en interrompant son trait là où les premiers plans viendront les recouvrir&amp;hellip; ou quelque chose comme ça). Nous sommes tellement habitués à regarder des dessins terminés que nous en oublions qu&amp;rsquo;ils sont le résultat d&amp;rsquo;une suite d&amp;rsquo;étapes exécutées dans un ordre précis.&lt;/p&gt;
+
+&lt;p&gt;Ecrire un programme ou plus précisément un algorithme relève du même exercice. Quelle sera la ligne de code que je vais écrire en premier&amp;nbsp;? Puis la suivante&amp;nbsp;? Et ainsi de suite jusqu&amp;rsquo;à obtenir l&amp;rsquo;algorithme final.&lt;/p&gt;
+
+&lt;p&gt;Le &lt;sup&gt;21&lt;/sup&gt;&amp;frasl;&lt;sub&gt;22&lt;/sub&gt; octobre, je serai présent au séminaire Valtech Days pour présenter un &lt;strong&gt;&amp;ldquo;kata de programmation&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Avec &lt;a href=&#34;http://emmanuelgaillot.blogspot.com/&#34;&gt;Emmanuel Gaillot&lt;/a&gt; nous réaliserons en binôme, devant les spectateurs, un exercice simple de programmation en suivant la technique du TDD (TDD&amp;nbsp;: Tests Driven Developpement ou en français, Développement Piloté par les Tests).
+Suivant la métaphore du kata en arts martiaux, nous ferons cet exercice dans le but de démontrer la technique plus que dans celui de réaliser quelque chose d&amp;rsquo;utile (quoi que&amp;hellip;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

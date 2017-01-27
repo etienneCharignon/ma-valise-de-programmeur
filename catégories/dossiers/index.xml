@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ma valise de programmeur</title>
+    <link>http://etienne.charignon.github.io/cat%C3%A9gories/dossiers/index.xml</link>
+    <description>Recent content on Ma valise de programmeur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <atom:link href="http://etienne.charignon.github.io/cat%C3%A9gories/dossiers/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modélisation Agile</title>
+      <link>http://etienne.charignon.github.io/post/article_52/</link>
+      <pubDate>Tue, 15 Mar 2011 22:20:03 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_52/</guid>
+      <description>
+
+&lt;div class=&#34;chapo&#34;&gt;En fouillant la page administration de mon blog je viens de tomber sur un brouillon d&#39;article écrit il y a déjà plus de 3 ans. Je me souviens avoir beaucoup hésité à publier cet article, n&#39;étant pas complètement satisfait du contenu. En fin de compte j&#39;ai trouvé ça intéressant. J&#39;espère que vous aurez autant de plaisir que moi à le lire.&lt;/div&gt;
+
+&lt;p&gt;Lors des conférences Valtech Days 2007&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, le sujet de la place de la modélisation dans les processus Agiles est revenu plusieurs fois. Je me permets de vous présenter ici quelques principes et pratiques de l&amp;rsquo;eXtreme Programming à ce sujet.&lt;/p&gt;
+
+&lt;h2 id=&#34;you-ain-t-gonna-need-it&#34;&gt;You Ain&amp;rsquo;t Gonna Need It&lt;/h2&gt;
+
+&lt;p&gt;Un des principes XP à ce sujet, connu sous l&amp;rsquo;acronyme YAGNI (You Ain&amp;rsquo;t Gonna Need It) n&amp;rsquo;est qu&amp;rsquo;une façon d&amp;rsquo;insister sur la pratique de Conception Simple.&lt;/p&gt;
+
+&lt;p&gt;Ici, on recherche la simplicité maximum (extrême). Pourquoi faire payer au client des développements inutiles. A chaque fin d&amp;rsquo;itération, le client reçoit l&amp;rsquo;application qui aura coûté le moins cher pour les scénarios qu&amp;rsquo;il a demandé. Aucune anticipation n&amp;rsquo;est effectuée (non plus au niveau abstraction, bien que malgré tout l&amp;rsquo;abstraction nécessaire est présente dans la solution&amp;hellip; J&amp;rsquo;y reviens).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;rdquo; Mais introduire certaines briques de base comme par exemple un framework de persistance, c&amp;rsquo;est une question de bon sens&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En fait, non, ce n&amp;rsquo;est pas le bon sens qui guide ce choix ici, mais une réflexion pragmatique par rapport au résultat du jeux de la planification.
+Je m&amp;rsquo;explique&amp;nbsp;:
+Au cours du Planning Game, le client et l&amp;rsquo;équipe ont établi une liste de scénarios classés en fonction de leur valeur (priorité client) et de leur complexité (priorité développeur). Faire de l&amp;rsquo;anticipation sur des scénarios à venir, c&amp;rsquo;est ignorer le résultat du travail du Planning Game. C&amp;rsquo;est renoncer à faire de l&amp;rsquo;extreme programming, c&amp;rsquo;est échouer à faire de l&amp;rsquo;Agilité.&lt;/p&gt;
+
+&lt;p&gt;Ensuite, le bon sens auquel on fait référence ici trouve ses racines dans le modèle mental des intervenants. Les Agilistes savent que l&amp;rsquo;ensemble des techniques qu&amp;rsquo;ils appliquent pour faire du développement logiciel leur permet de &lt;strong&gt;ne pas&lt;/strong&gt; avoir un coût du changement exponentiel par rapport au temps. Il ne sera pas vraiment beaucoup plus cher d&amp;rsquo;introduire Hibernate plus tard, quand cela deviendra nécessaire&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;A bon, mais c&amp;rsquo;est un peu difficile à croire&amp;hellip;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Tu te contredis, tu dis que tu ne fais pas d&amp;rsquo;anticipation, mais que ce ne sera pas plus cher de l&amp;rsquo;introduire plus tard&amp;hellip;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Je persiste, le bon sens de l&amp;rsquo;Agiliste le guidera à ne pas faire de YAGNI.
+Mais avant de vous révéler mon secret, je voudrais faire une dernière remarque sur le &amp;ldquo;coup&amp;rdquo; du YAGNI.&lt;/p&gt;
+
+&lt;p&gt;Cette dernière remarque fait partie de tous les bons manuels d&amp;rsquo;eXtreme Programming, mais pourtant peine à pénétrer les esprits. L&amp;rsquo;introduction d&amp;rsquo;une anticipation conceptuelle dans le design de l&amp;rsquo;application a un coût d&amp;rsquo;entretien non négligeable.
+- il faudra écrire les tests unitaires correspondant à ce comportement
+- ce comportement ne sera pas clairement défini (il s&amp;rsquo;agit seulement d&amp;rsquo;un sentiment du développeur, d&amp;rsquo;un feeling, mais il n&amp;rsquo;a pas une vision claire des exigences fonctionnelles puisque ça n&amp;rsquo;a pas été discuté avec le client)
+- ce comportement se retrouvera très probablement en travers du chemin de certains refactorings. Il complexifiera inutilement et surtout au mauvais moment le modèle en train d&amp;rsquo;émerger.
+L&amp;rsquo;idée ici est une sorte de &amp;ldquo;just in time feature&amp;rdquo;. Comme on pourrait le lire dans un manuel Toyota&amp;nbsp;: Pas de stock inutile. Le flux d&amp;rsquo;exigence est tiré, c&amp;rsquo;est comme ça que le processus de développement trouve son équilibre optimum. On commence par choisir une exigence, puis on développe un test qui va mettre en évidence l&amp;rsquo;absence de fonctionnement puis on développe le comportement.&lt;/p&gt;
+
+&lt;h2 id=&#34;le-secret&#34;&gt;Le Secret&lt;/h2&gt;
+
+&lt;p&gt;Le secret de la conception simple de l&amp;rsquo;extreme programming repose sur trois principes&amp;nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;une conception juste nécessaire pour les scénarios choisis en début d&amp;rsquo;itération,&lt;/li&gt;
+&lt;li&gt;l&amp;rsquo;élimination de la duplication&amp;nbsp;: Once and only Once (ou aussi DRY&amp;nbsp;: Don&amp;rsquo;t Repeate Yourself)&lt;/li&gt;
+&lt;li&gt;le code le plus expressif possible.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finalement, la seule chose qu&amp;rsquo;on s&amp;rsquo;autorise à prévoir, c&amp;rsquo;est la capacité à faire des changements.&lt;/p&gt;
+
+&lt;p&gt;Dans l&amp;rsquo;exemple précédent de la problématique de persistance, on pourrait très bien imaginer que ce ne soit pas le sujet principal des premières itérations et qu&amp;rsquo;à ce titre, on décide de l&amp;rsquo;effectuer par un mécanisme simple de sérialisation (en Java c&amp;rsquo;est relativement trivial à faire). A l&amp;rsquo;écriture des premières classes de l&amp;rsquo;application, ce mécanisme va se retrouver en dur dans une classe, puis il va apparaitre dans une autre, et par souci d&amp;rsquo;élimination de la redondance, les développeurs vont introduire un schéma de conception leur permettant d&amp;rsquo;isoler la problématique de persistance à un seul endroit.&lt;/p&gt;
+
+&lt;p&gt;Plus tard, l&amp;rsquo;introduction de Hibernate sera possible à un coût raisonnable, du fait de la simplicité de la conception qui a émergé.&lt;/p&gt;
+
+&lt;p&gt;Un dernier point dont je n&amp;rsquo;ai pas encore parlé et que pourtant le bon sens aurait du me faire citer en premier. Respecter le principe YAGNI est particulièrement efficace quand l&amp;rsquo;anticipation pressentie se révèle finalement inutile.&lt;/p&gt;
+
+&lt;p&gt;Dans un projet récent, et bien que cela ai été pressenti par un architecte en phase amont du projet (avant que j&amp;rsquo;arrive, quoi), nous n&amp;rsquo;avons pas choisi d&amp;rsquo;introduire de base de données en début de projet, mais nous avons utilisé la sérialisation justement. Notre système était tout simplement primaire. Nous ré-écrivions toutes les données à chaque fois qu&amp;rsquo;on devait changer une valeur.
+Et bien, cette solution &lt;strong&gt;est resté jusqu&amp;rsquo;au bout&lt;/strong&gt;. Nous n&amp;rsquo;avons jamais eu besoin de plus. Et nous pouvons nous féliciter de ne pas avoir perdu énormément de temps et d&amp;rsquo;effort à implémenter un module de gestion de base de données. Nous avons fini le projet juste à l&amp;rsquo;heure. Il est absolument évident que nous aurions été en retard sinon.&lt;/p&gt;
+
+&lt;h2 id=&#34;métaphore&#34;&gt;Métaphore&lt;/h2&gt;
+
+&lt;p&gt;En effet, la conception simple a l&amp;rsquo;air de faire l&amp;rsquo;affaire. Mais ne manque-t-on pas d&amp;rsquo;un outil pour traiter de la question de la &amp;ldquo;big picture&amp;rdquo;&amp;nbsp;? Comment s&amp;rsquo;assurer que toutes ces petites actions de conception élémentaires puissent donner un ensemble cohérent. Comment faire pour guider la conception sur le long terme.&lt;/p&gt;
+
+&lt;p&gt;En effet, lorsqu&amp;rsquo;on fait de la conception à longueur de temps, on a tendance à oublier ce qui a été fait jusque là et le risque de prendre des décisions de conception qui viendraient rompre l&amp;rsquo;intégrité conceptuelle de l&amp;rsquo;application est important.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est ici qu&amp;rsquo;intervient la pratique de la métaphore.&lt;/p&gt;
+
+&lt;p&gt;la métaphore &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&amp;nbsp;: Une analogie utilisée comme modèle conceptuel du système en cours de développement&lt;/p&gt;
+
+&lt;p&gt;La métaphore à plusieurs objectifs&amp;nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;effectuer un travail de modélisation du domaine métier à travers la recherche de cette métaphore,&lt;/li&gt;
+&lt;li&gt;donner une &lt;strong&gt;vision&lt;/strong&gt; de l&amp;rsquo;architecture tout en restant suffisamment vague au sujet des détails,&lt;/li&gt;
+&lt;li&gt;fournir un support de communication sympathique de cette vision, qui soit accessible à tous les membres de l&amp;rsquo;équipe, clients, développeurs, testeurs&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Pour rappel, la version 2011 aura lieux dans 2 jours. Inscription gratuite&amp;nbsp;: &lt;a href=&#34;http://www.valtechdays.fr&#34;&gt;http://www.valtechdays.fr&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;Definition issue du wiki &lt;a href=&#34;http://xp-france.net/cgi-bin/wiki.pl?TreizePratiques&#34;&gt;XP-France&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pourquoi faut-il faire des tests de recette automatiques ?</title>
+      <link>http://etienne.charignon.github.io/post/article_32/</link>
+      <pubDate>Mon, 10 Jan 2005 14:57:00 +0100</pubDate>
+      
+      <guid>http://etienne.charignon.github.io/post/article_32/</guid>
+      <description>
+
+&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;1-quel-est-l-objectif-de-la-documentation-nbsp&#34;&gt;1. Quel est l&amp;rsquo;objectif de la documentation&amp;nbsp;?&lt;/h2&gt;
+
+&lt;p&gt;Quand on travaille dans un labo de R&amp;amp;D, on ne côtoie que des cervelles en ébullition. Notre métier est de penser. Comme le dit Tom Demarco&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; nous sommes des « Knowledge Worker ». A ce titre, nous pouvons prendre l&amp;rsquo;habitude de réfléchir sur la forme et l&amp;rsquo;utilité des différentes pratiques qui constituent notre « process » de travail.&lt;/p&gt;
+
+&lt;p&gt;Pourquoi faisons-nous de la documentation&amp;nbsp;? Pour échanger des informations évidemment. Tout est une histoire de communication. Il peut être par exemple question pour la Moa de faire passer les informations suivantes à l&amp;rsquo;équipe de développement&amp;nbsp;:&lt;/p&gt;
+
+&lt;p&gt;-La logique métier.
+-Les besoins du client.&lt;/p&gt;
+
+&lt;p&gt;Dans la définition que je viens de donner, on remarquera que j&amp;rsquo;ai parlé d&amp;rsquo;échange&amp;nbsp;! En effet, la communication doit passer dans les deux sens. L&amp;rsquo;équipe de développement a besoin de retourner des informations vers la Moa&amp;nbsp;:&lt;/p&gt;
+
+&lt;p&gt;-Des questions quant au travail à réaliser (« feedback » sur la communication venant de la Moa).
+-L&amp;rsquo;avancement du travail en cours (quels sont les besoins déjà réalisés).&lt;/p&gt;
+
+&lt;p&gt;On remarquera tout de suite que le mode de documentation actuel utilisant un logiciel de traitement de texte ne permet pas un retour aisé de l&amp;rsquo;information depuis l&amp;rsquo;équipe de développement vers la Moa.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-quel-est-le-contenu-d-une-documentation-de-spécification-nbsp&#34;&gt;2. Quel est le contenu d&amp;rsquo;une documentation de spécification&amp;nbsp;?&lt;/h2&gt;
+
+&lt;p&gt;L&amp;rsquo;information à transmettre est de deux types&amp;nbsp;:&lt;/p&gt;
+
+&lt;p&gt;-la vue d&amp;rsquo;ensemble
+-les détails&lt;/p&gt;
+
+&lt;p&gt;On ne peut pas se passer de ces deux parties et il n&amp;rsquo;est pas judicieux de les grouper sous une seule forme car ces deux types d&amp;rsquo;information ne répondent pas aux mêmes exigences.&lt;/p&gt;
+
+&lt;p&gt;En particulier, documenter les détails est un travail difficile très propice aux erreurs et nécessite une phase de mise au point alors que la documentation de la vue d&amp;rsquo;ensemble peut rester un document approximatif (une liste de besoins fonctionnels pourrait par exemple suffire).&lt;/p&gt;
+
+&lt;p&gt;Pour documenter la vue d&amp;rsquo;ensemble, la méthode courante, à l&amp;rsquo;aide d&amp;rsquo;un traitement de texte ou d&amp;rsquo;un logiciel tel que Power-Point, me parait tout à fait adaptée et ne réclame pas beaucoup plus de discussion. Voyons plutôt, ce que l&amp;rsquo;on peut dire des spécifications détaillées.&lt;/p&gt;
+
+&lt;h2 id=&#34;3-quelles-sont-les-qualités-d-une-bonne-spécification-détaillée-nbsp&#34;&gt;3. Quelles sont les qualités d&amp;rsquo;une bonne spécification détaillée&amp;nbsp;?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Lisible&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Une documentation détaillée doit être facilement lisible pour éviter les erreurs d&amp;rsquo;inattention. Il faut qu&amp;rsquo;elle soit rapide à lire.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Évolutive/révisable&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Les détails sont par définition des informations difficiles à capturer. Le rédacteur sera amené à hésiter beaucoup, à se tromper, à changer d&amp;rsquo;avis. Il faut que le document soit facile à modifier et à corriger. C&amp;rsquo;est une des raisons qui nous font traquer la duplication jusque dans ses plus secrets retranchements.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vérifiable&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-Il faut qu&amp;rsquo;il soit facile de vérifier que les détails spécifiés sont pertinents (on rejoint ici le besoin de lisibilité).
+-Il faut un moyen de vérifier facilement que le développement réalisé est conforme au détails spécifiés.&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;idéal est que cette vérification de conformitée soit automatique (de type « presse-bouton »).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Complète&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Une bonne documentation détaillée doit couvrir tous les détails. Il n&amp;rsquo;y a pas de demi-mesure possible. Dans le cas contraire, comment pourrions-nous identifier les régressions&amp;nbsp;? Une fonctionnalité de l&amp;rsquo;application qui ne serait pas spécifiée n&amp;rsquo;existe pas&amp;nbsp;: elle peut être amenée à disparaître à tout moment.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-pourquoi-word-est-il-mal-adapté-pour-documenter-les-détails-nbsp&#34;&gt;4. Pourquoi Word est-il mal adapté pour documenter les détails&amp;nbsp;?&lt;/h2&gt;
+
+&lt;p&gt;On remarque qu&amp;rsquo;un document Word, s&amp;rsquo;il rend une assez bonne lisibilité&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; et permet de couvrir tous les détails, ne remplit pas correctement les points deux et trois (évolutions et vérifications).&lt;/p&gt;
+
+&lt;p&gt;Les évolutions sont difficiles à introduire et à exploiter car facilement noyées dans la masse. Il faut parfois reprendre une grande quantité de texte.&lt;/p&gt;
+
+&lt;p&gt;Il est très lourd de réviser ces documents. Il faut se réunir plusieurs fois pour discuter et valider les révisions. C&amp;rsquo;est un procédé lent et au rendement très faible. Beaucoup de temps est passé dans ces réunions, avec un taux de détection des erreurs bas.&lt;/p&gt;
+
+&lt;p&gt;Les informations contenues dans ces documents ne peuvent pas être vérifiées automatiquement car le format de fichier de Word est fermé. Il est très difficile de développer des programmes pour manipuler automatiquement le contenu de tels fichiers.
+Ces remarques concernent les traitements de texte en général. Il faut ajouter qu&amp;rsquo;en plus, Word contient de nombreux bugs et imperfections dans la gestion des références et liens internes qui ne permettent pas une navigation satisfaisante et qui parfois rendent l&amp;rsquo;impression du document impossible&amp;nbsp;!&lt;/p&gt;
+
+&lt;h2 id=&#34;5-pourquoi-la-description-formelle-est-mal-adaptée-pour-documenter-les-détails-nbsp&#34;&gt;5. Pourquoi la description formelle est mal adaptée pour documenter les détails&amp;nbsp;?&lt;/h2&gt;
+
+&lt;p&gt;On peut identifier deux façons de spécifier les détails d&amp;rsquo;une application logiciel&amp;nbsp;:&lt;/p&gt;
+
+&lt;p&gt;-Une description formelle
+-Une description par l&amp;rsquo;exemple (méthode que l&amp;rsquo;on pourrait qualifier d&amp;rsquo;empirique)&lt;/p&gt;
+
+&lt;p&gt;La description formelle consiste à expliquer de manière logique, en donnant des expressions mathématiques ou des séquences d&amp;rsquo;opérations à effectuer, alors que la description par l&amp;rsquo;exemple consiste à donner un ensemble d&amp;rsquo;états représentant le système avant et après certaines opérations.&lt;/p&gt;
+
+&lt;p&gt;Il est étonnant de voir que la culture française des milieux ingénieur semble pratiquement ignorer l&amp;rsquo;existence de cette deuxième possibilité qui n&amp;rsquo;est pas considérée comme &amp;ldquo;noble&amp;rdquo; alors que les anglo-saxons, qui ont un système scolaire plus pragmatique sont justement plus enclins à la choisir.&lt;/p&gt;
+
+&lt;p&gt;Les français croient souvent à tort qu&amp;rsquo;il n&amp;rsquo;est pas possible de décrire de manière exhaustive un problème en utilisant cette deuxième méthode. Nous verrons plus loin comment il faut s&amp;rsquo;y prendre.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;aime à ajouter que nous écrivons des tests exhaustifs pour notre application (96% des lignes de codes sont couvertes) depuis maintenant plus de deux ans et que cela a donné des résultats époustouflants. De plus, l&amp;rsquo;écriture de ces tests n&amp;rsquo;a été ressentie comme un coût par personne (même les développeurs y trouvent leur compte).&lt;/p&gt;
+
+&lt;p&gt;Mais revenons à notre question. Pourquoi cette méthode formelle, tant appréciée, n&amp;rsquo;est-elle pas efficace pour décrire les détails d&amp;rsquo;une application informatique&amp;nbsp;?
+En tant que développeur, un de mes objectifs est de produire un programme qui marche (avec le moins de bugs possible). Comment faire pour y arriver&amp;nbsp;?&lt;/p&gt;
+
+&lt;p&gt;Tout d&amp;rsquo;abord, une petite définition sur le vocabulaire que je vais utiliser pour la fin de ce chapitre.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;spécification&lt;/strong&gt;&amp;nbsp;: description &amp;ldquo;continue&amp;rdquo; d&amp;rsquo;une fonctionnalité de l&amp;rsquo;application. (méthode formelle)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;test de recette&lt;/strong&gt;&amp;nbsp;: description &amp;ldquo;discrète&amp;rdquo; d&amp;rsquo;une fonctionnalité de l&amp;rsquo;application. (la méthode empirique)&lt;/p&gt;
+
+&lt;p&gt;A supposer que ma fonctionnalité soit une fonction mathématique. La spécifier reviendrait par exemple à donner la formule mathématique (f(x) = x*x), alors que les tests se contenteraient de donner tous les points caractéristiques (f(../article_0) = 0, f(../article_2) = 4&amp;hellip;) et un nom explicite à f, ici, ça pourrait être &amp;ldquo;carré&amp;rdquo;&amp;nbsp;;-).&lt;/p&gt;
+
+&lt;p&gt;A la question, est-ce que je préfère avoir un document de spécifications ou un document de tests, le développeur répond&amp;nbsp;: les tests me suffisent amplement.&lt;/p&gt;
+
+&lt;p&gt;Très souvent, la maîtrise d&amp;rsquo;ouvrage pense que le développeur fera un meilleur travail avec des spécifications. Elle pense qu&amp;rsquo;une suite de cas de fonctionnement ne peut pas garantir qu&amp;rsquo;elle aura bien la fonction qu&amp;rsquo;elle désire au bout du compte (sans bugs).&lt;/p&gt;
+
+&lt;p&gt;La spécification de façon &amp;ldquo;continue&amp;rdquo; n&amp;rsquo;est pour le développeur qu&amp;rsquo;une duplication, une traduction en français de son code, alors que les tests, qui abordent le problème sous un autre axe, apportent une réelle plus-value à son travail.&lt;/p&gt;
+
+&lt;p&gt;Au vu de cette remarque, si l&amp;rsquo;on désire améliorer le rendement du développement, il est très astucieux de cantonner la spécification &amp;ldquo;continue&amp;rdquo; à des discussions orales, et d&amp;rsquo;écrire les tests.&lt;/p&gt;
+
+&lt;p&gt;Et pour répondre à la remarque&amp;nbsp;:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;gt;Mais je pense que je ne sais en général pas donner tous les points caractéristiques.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;En tout cas sur notre projet, c&amp;rsquo;est faisable, puisque c&amp;rsquo;est le cas depuis plus de deux ans.&lt;/p&gt;
+
+&lt;h2 id=&#34;6-les-avantages-des-tests-de-recette-automatiques-pour-la-question-de-la-mise-au-point&#34;&gt;6. Les avantages des tests de recette automatiques pour la question de la mise au point.&lt;/h2&gt;
+
+&lt;p&gt;Une spécification détaillée nécessite une phase de mise au point pour s&amp;rsquo;assurer qu&amp;rsquo;elle est complète et qu&amp;rsquo;elle ne contient pas d&amp;rsquo;erreur. Cette phase est incontournable, il faut l&amp;rsquo;affronter de face, en utilisant toutes les ressources disponibles.&lt;/p&gt;
+
+&lt;p&gt;Avec les documents formels, la mise au point passe par des réunions de revue, qui sont lentes et coûteuses (peu rentables). Il est obligatoire de figer une version avant le début du développement et de traquer les évolutions par des process compliqués (Par exemple, le suivit des fiches d&amp;rsquo;erreurs par un logiciel dédié, avec des personnes affecté à temps plein au suivit de ces fiches d&amp;rsquo;erreurs). Nous avons passé parfois une semaine entière à ne faire que relire des specs pour s&amp;rsquo;assurer que nos développements étaient en phase.&lt;/p&gt;
+
+&lt;p&gt;Avec une spécification sous forme de tests de recette automatiques, cette phase de mise au point pourrait s&amp;rsquo;allonger autant qu&amp;rsquo;il lui est nécessaire (mais pas plus), c&amp;rsquo;est à dire jusqu&amp;rsquo;à ce que les tests passent, donc jusqu&amp;rsquo;à ce que le développement soit fini. Nous serions capable de dire de façon nette, à une date donnée&amp;nbsp;: « Nous avons fini la mise au point, nous pouvons livrer le produit ». Et nous convergerions vers cette date de façon certaine.&lt;/p&gt;
+
+&lt;p&gt;Cette phase de mise au point serait dynamique et interactive entre les développeurs et les testeurs/spécifieurs. Il ne serait plus nécessaire d&amp;rsquo;utiliser le mécanisme des fiches d&amp;rsquo;erreur, puisque le suivi de l&amp;rsquo;avancement ne serait qu&amp;rsquo;une simple pression sur un bouton.&lt;/p&gt;
+
+&lt;p&gt;Formulé autrement, ce que je viens d&amp;rsquo;expliquer revient à dire qu&amp;rsquo;il vaut mieux des tests avec des erreurs que des spécifications avec des erreurs, car les erreurs des tests seront beaucoup plus faciles à trouver, elles seront confrontées au code. Nous gagnons sur le fait que la même erreur a peu de chance de se trouver à la fois dans les tests et dans le code.&lt;/p&gt;
+
+&lt;p&gt;Faire &amp;ldquo;passer les tests&amp;rdquo;, c&amp;rsquo;est confronter le code qui est une description continue de la fonctionnalité avec la description discrète que sont les tests.
+La phase de mise au point des spécifications détaillées n&amp;rsquo;est plus un problème isolé, elle est mêlée à la phase de mise au point de l&amp;rsquo;application, les deux actions se compensant l&amp;rsquo;une l&amp;rsquo;autre.&lt;/p&gt;
+
+&lt;h2 id=&#34;7-les-tests-de-recette-sont-il-des-tests-unitaires-nbsp&#34;&gt;7. Les tests de recette sont-il des tests unitaires&amp;nbsp;?&lt;/h2&gt;
+
+&lt;p&gt;(Traduction du site &lt;a href=&#34;http://www.fitnesse.org/FitNesse.AcceptanceTests&#34;&gt;www.fitnesse.org&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tests unitaires&amp;nbsp;: produire un code bon&lt;/strong&gt;
+Les tests unitaires automatiques (ou « tests programmeurs », comme on le dit de plus en plus), sont des tests en « boite-blanches » qui décrivent et vérifient les comportement de très bas niveaux. En particulier, quand ils travaillent en « test-first », les programmeurs se reposent beaucoup sur ces tests pour s&amp;rsquo;assurer que leur conception est pertinente, et qu&amp;rsquo;il n&amp;rsquo;y a pas de défaut. De tels tests sont construits et largement utilisés par les programmeurs, et peuvent être indépendants des fonctionnalités.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tests de recette&amp;nbsp;: produire le bon code&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Avec les tests de recette il est tout d&amp;rsquo;abord question de produire le bon code&amp;nbsp;: le code avec le plus de valeur métier. Bien que des programmeurs puissent être impliqués dans l&amp;rsquo;écriture de ce type de tests, ces derniers ne sont pas seulement pour eux. Les tests automatiques de recette sont surtout destinés aux clients, analyseurs métiers, testeurs professionnels, équipes de support, à la direction et à tout autre investisseur ayant besoin de savoir que le projet est bien en train produire un solide retour sur investissement.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;« Running, Tested Features »&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ron Jeffries a défini la métrique ultime pour les projets logiciel, celle qui est la plus proche du ROI, le RTF (&lt;a href=&#34;http://www.xprogramming.com/xpmag/jatRtsMetric.htm&#34;&gt;RunningTestedFeatures&lt;/a&gt;). Combien de RTF ont été livrés lors de la dernière itération, lors du dernier mois ou lors de la dernière livraison&amp;nbsp;? &lt;strong&gt;C&amp;rsquo;est aux tests de recette automatique de le dire&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Il m&amp;rsquo;ai arrivé de travailler pour une société qui mesurait à partir des tests unitaires le nombre de tests par features, mais ce que Ron Jeffries propose plutôt, c&amp;rsquo;est de mesurer le nombre de features produites qui fonctionnent, par unité de temps. De plus, il est important que cette mesure connaisse une croissance constante et linéaire tout au long du projet (depuis les premières semaines jusqu&amp;rsquo;à la fin). L&amp;rsquo;introduction de la pratique des tests de recette automatiques pourrait permettre de mettre en place correctement cette métrique.&lt;/p&gt;
+
+&lt;h2 id=&#34;8-oui-mais-tout-ceci-est-il-vraiment-réalisable-nbsp&#34;&gt;8. Oui, mais tout ceci est-il vraiment réalisable&amp;nbsp;?&lt;/h2&gt;
+
+&lt;p&gt;Comme je l&amp;rsquo;ai dit plus haut, quoi qu&amp;rsquo;il en soit, la spécification d&amp;rsquo;un logiciel doit contenir deux documents distincts&amp;nbsp;: un pour la vue d&amp;rsquo;ensemble au format word par exemple et un autre pour la spécification des détails, que je propose de faire sous la forme de tests de recette.&lt;/p&gt;
+
+&lt;p&gt;Il existe deux obstacles à la réalisation d&amp;rsquo;une telle solution.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;La faisabilité technique.&lt;/li&gt;
+&lt;li&gt;La faisabilité humaine.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En ce qui concerne la faisabilité technique, nous avons actuellement quelques pistes, avec l&amp;rsquo;utilisation du framework de test Fitnesse, qui demandent à être validées.&lt;/p&gt;
+
+&lt;p&gt;En ce qui concerne la faisabilité humaine, elle concerne les résistances humaines au changement. La hiérarchie a son rôle à jouer ici, en apportant son soutien, sa compréhension et en imposant la métrique RTF dont j&amp;rsquo;ai parlé plus haut.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency, by Tom Demarco
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;Nous avons déjà identifié un certain nombre de limitations à la lisibilité, notamment le fait qu&amp;rsquo;il ne soit pas facile de naviguer dans le document, ou encore, que la largeur des pages ne soit jamais suffisante pour pouvoir mettre en forme correctement des extraits d&amp;rsquo;algorithme.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
