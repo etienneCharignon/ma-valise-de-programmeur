@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="theme-color" content="#263238">
+
+<meta name="generator" content="Hugo 0.18.1" />
+
+<link rel="apple-touch-icon" href="https://etiennecharignon.github.io/ma-valise-de-programmeur/images/logo.png">
+
+
+<link rel="canonical" href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_79/">
+
+
+    
+    <link href="//fonts.googleapis.com/css?family=Noto+Sans:400,700|Montserrat" rel="stylesheet">
+    
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+    <title>Kata Mastermind - Ma valise de programmeur</title>
+    
+<meta name="description" content="Emmanuel Gaillot vient de mettre en ligne la feuille de route du kata Mastermind en Ruby que nous avons présenté ensemble aux Valtech Days 2008.Merci beaucoup Manu. Kata Mastermind (licence) N&amp;rsquo;hésitez pas à la télécharger pour vous entraîner à le faire, c&amp;rsquo;est un bon exercice pour apprendre le TDD[[Tests Driven Development&amp;nbsp;: développement piloté par les tests]]&amp;nbsp;;-)">
+
+<meta property="og:title" content="Kata Mastermind - Ma valise de programmeur">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_79/">
+<meta property="og:image" content="https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton79.gif">
+<meta property="og:site_name" content="Ma valise de programmeur">
+<meta property="og:description" content="Emmanuel Gaillot vient de mettre en ligne la feuille de route du kata Mastermind en Ruby que nous avons présenté ensemble aux Valtech Days 2008.Merci beaucoup Manu. Kata Mastermind (licence) N&amp;rsquo;hésitez pas à la télécharger pour vous entraîner à le faire, c&amp;rsquo;est un bon exercice pour apprendre le TDD[[Tests Driven Development&amp;nbsp;: développement piloté par les tests]]&amp;nbsp;;-)">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="Ma valise de programmeur">
+<meta name="twitter:url" content="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_79/">
+<meta name="twitter:title" content="Kata Mastermind - Ma valise de programmeur">
+<meta name="twitter:description" content="Emmanuel Gaillot vient de mettre en ligne la feuille de route du kata Mastermind en Ruby que nous avons présenté ensemble aux Valtech Days 2008.Merci beaucoup Manu. Kata Mastermind (licence) N&amp;rsquo;hésitez pas à la télécharger pour vous entraîner à le faire, c&amp;rsquo;est un bon exercice pour apprendre le TDD[[Tests Driven Development&amp;nbsp;: développement piloté par les tests]]&amp;nbsp;;-)">
+<meta name="twitter:image" content="https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton79.gif">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id":"https:\/\/etiennecharignon.github.io\/ma-valise-de-programmeur\/"
+    },
+    "headline": "Kata Mastermind - Ma valise de programmeur",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https:\/\/etiennecharignon.github.io\/ma-valise-de-programmeur\/\/images\/arton79.gif",
+      "height": 800,
+      "width": 800
+    },
+    "datePublished": "2009-02-28T17:18:28JST",
+    "dateModified": "2009-02-28T17:18:28JST",
+    "author": {
+      "@type": "Person",
+      "name": "Ma valise de programmeur"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Ma valise de programmeur",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https:\/\/etiennecharignon.github.io\/ma-valise-de-programmeur\/images/logo.png",
+        "width": 600,
+        "height": 60
+      }
+    },
+    "description": "Emmanuel Gaillot vient de mettre en ligne la feuille de route du kata Mastermind en Ruby que nous avons présenté ensemble aux Valtech Days 2008.\nMerci beaucoup Manu.\n Kata Mastermind (licence) N\x26rsquo;hésitez pas à la télécharger pour vous entraîner à le faire, c\x26rsquo;est un bon exercice pour apprendre le TDD[[Tests Driven Development\x26nbsp;: développement piloté par les tests]]\x26nbsp;;-)"
+  }
+</script>
+
+
+    <style>
+      html { font-size: 18px;}@media (max-width: 768px) { html { font-size: 15px; }}body { font-family: "Luxi sans", "Lucida Grande", Lucida, "Lucida Sans Unicode", sans-serif; font-size: inherit; font-weight: 300; line-height: 1rem; background-color: #eceff1;}p { margin: 0;}a { color: #4caf50;}a:hover { text-decoration: none; color: #388e3c;}ul,ol { margin: 0; padding: 0;}h1, h2, h3, h4, h5, h6 { margin: 0; font-weight: 700;}h1 { font-size: 1.8rem; line-height: 2rem; margin: 1.5rem 0; }h2 { font-size: 1.4rem; line-height: 2rem; margin: 1.5rem 0; }h3 { font-size: 1.2rem; line-height: 1.5rem; margin: 1.5rem 0; }h4, h5, h6 { font-size: 1rem; line-height: 1.5rem; margin: 1.5rem 0; }main { display: block;}.content-inner { padding: 1rem 2rem;}.content-inner.thin { padding: .5rem 1rem;}@media (max-width: 768px) { .content-inner { padding: 1rem; }}/* Override */.container { position: relative;}.l-header .container { display: inline-block;}/* Parts:layouts */.l-header { background-color: #fff; margin-bottom: 1rem; padding: 1rem 0; text-align: center;}.l-footer { font-size: .8rem; padding: 1.5rem 0;}/* Parts:menu */.p-menu { position: absolute; right: 15px; top: 0;}/* Parts:terms */.p-terms { list-style: none;}.p-terms .terms-title { margin: 0;}.p-terms a { display: inline-block; padding: .25rem 0;}.p-terms.inline li { display: inline-block; font-size: .8rem;}.p-terms.inline li::after { content: ',';}.p-terms.inline li:last-child::after { content: '';}/* Parts:paging */.p-paging { margin-bottom: 1.5rem; text-align: center;}.p-paging a { display: inline-block; padding: 1rem 1.5rem; margin: 0 .5rem; background-color: #cfd8dc; color: #263238;}/* Parts:section */section { margin-bottom: 1.5rem;}section>header { font-size: .8rem; font-weight: 700; margin-bottom: .5rem; text-transform: uppercase;}section>header a { color: #333; text-decoration: underline;}section.article-footer { margin-bottom: 1rem;}section.article-footer>header { margin-bottom: 0;}/* Parts:share */.p-share { min-width: 100%; margin-bottom: 1.5rem;}.p-share .share-inner { display: table; table-layout: fixed; width: 100%; border-spacing: .25rem;}.p-share a { display: table-cell; text-align: center; font-weight: 700; font-size: .7rem; padding: .5rem 0; color: #fff; border-radius: 5px;}.p-share a.ht { background-color: #00a4de; border-bottom: 2px solid #0083b1; }.p-share a.fb { background-color: #3b5998; border-bottom: 2px solid #2f4779; }.p-share a.tw { background-color: #1da1f2; border-bottom: 2px solid #1780c1; }.p-share a.gp { background-color: #dd4b39; border-bottom: 2px solid #b03c2d; }.p-share a.ln { background-color: #00c300; border-bottom: 2px solid #009c00; }.p-share a.ht::before { content: 'Hatena'; }.p-share a.fb::before { content: 'Facebook'; }.p-share a.tw::before { content: 'Twitter'; }.p-share a.gp::before { content: 'Google+'; }.p-share a.ln::before { content: 'LINE'; }/* Parts:logo */.h-logo { font-family: 'Montserrat', sans-serif;}.p-logo { display: inline-block; text-transform: uppercase;}.p-logo a { display: inline-block; font-size: 1.4rem; line-height: 2rem; color: #000;}.p-logo a img { width: 2rem; margin-right: 0.5rem;}/* Parts:crumb */.p-crumb ol { list-style: none; margin-bottom: 1rem;}.p-crumb li { display: inline; margin-right: .25rem; font-size: .8rem; color: #607d8b;}.p-crumb li::after { content: '/'; margin-left: .25rem;}.p-crumb li:last-child::after { content: '';}/* Parts:facts */.p-facts { list-style: none; font-size: .8rem; margin-bottom: 1rem;}.p-facts li { display: inline-block; margin-right: .5rem; color: #90a4ae;}.p-facts li i { margin-right: .5rem; color: #cfd8dc;}/* Parts:article */article { background-color: #fff;}article .title { margin: 0; margin-bottom: .5rem; font-weight: 700;}article .title a { color: #000;}article .thumb { display: none; background-position: center; background-size: contain; background-repeat: no-repeat;}article .summary { margin-bottom: .5rem; max-height: 5rem; overflow: hidden;}article.single .thumb { height: 18rem; margin-bottom: 1rem;}@media (max-width: 768px) { article.single .thumb { height: 12rem; }}article.li { margin-bottom: 1rem;}li { list-style-type: square; line-height: 1.5rem;}article.li .thumb { height: 7.5rem; margin-bottom: .5rem;}article.li.sm { background-color: transparent; margin-bottom: 0;}article.li.sm>header { padding: .5rem 0;}article.li.sm .title { font-size: .7rem; line-height: 1rem; margin-bottom: .25rem;}article.li.sm .p-facts { font-size: .5rem; margin-bottom: 0;}article.li.sm .thumb { float: left; margin-right: .5rem; height: 3rem; width: 3rem;}.article-body h2 { padding: 1rem 0; border-bottom: 2px solid #eceff1;}.article-body h2:first-child { margin-top: 0; }.article-body h3 { color: #428bca;}.article-body h4 { border-left: solid .25rem #428bca; padding: 0 .5rem;}.article-body p { margin: 1.5rem 0; line-height: 1.5rem;}.article-body a { text-decoration: underline;}.article-body ul,.article-body ol { padding-left: 1.5rem;}.article-body code { display: inline-block; font-family: Menlo, consolas, monospace; font-size: .8rem; padding: 0 .5rem; line-height: 1.5rem;}.article-body pre { margin: 1.5rem 0; padding: 0; font-size: .8rem; border: none; border-radius: 0;}.article-body pre code { display: block; line-height: 1rem; padding: 1rem;}.article-body blockquote { margin: 1.5rem 0; padding: .5rem 0; font-size: .8rem; border-top: 1px solid #eceff1; border-bottom: 1px solid #eceff1; color: #607d8b;}.article-body blockquote p { margin: .5rem 0; line-height: 1rem;}.article-body strong { box-shadow: 0 -.5rem 0 0 #90caf9 inset;}.chapo, .chapo a { font-style: normal; font-weight: 700; color: #03a9f4;}.article-body em { font-style: italic; line-height: 1.5rem;}.article-body figure { margin: 1.5rem 0; }.article-body figure img { max-width: 100%; }.article-body figure.center { text-align: center;}.article-body figure.left,.article-body figure.right { margin-top: 0;}.article-body figure.left { float: left; margin-right: 1rem; }.article-body figure.right { float: right; margin-left: 1rem; }@media (max-width: 768px) { .article-body figure.left, .article-body figure.right { float: none; margin: 0; width: auto; height: auto; }}.article-body figcaption { padding: .5rem 0; font-size: .8rem; text-align: center;}.article-body figcaption a { color: #263238;}
+      
+      
+    </style>
+  </head>
+
+  <body>
+    
+    
+    
+
+    <header class="l-header">
+      <div class="container">
+        <div class="p-logo">
+          <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/" class="h-logo">
+            <img src="https://etiennecharignon.github.io/ma-valise-de-programmeur//images/siteon0.png" />
+            Ma valise de programmeur
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="container">
+        
+<div class="row">
+  <div class="col-md-8">
+
+    <nav class="p-crumb">
+      <ol>
+        <li><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+        
+        <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/" itemprop="url"><span itemprop="title">post</span></a></li>
+        
+        <li class="active">Kata Mastermind</li>
+      </ol>
+    </nav>
+
+    <article class="single">
+
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_79/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton79.gif);"></a>
+  <div class="content-inner">
+    <h1 class="title">Kata Mastermind</h1>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2009-02-28T17:18:28JST">28/02/2009</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+      
+    </ul>
+
+    <div class="article-body"><div class="chapo"></div>
+
+<p>Emmanuel Gaillot vient de mettre en ligne la feuille de route du kata Mastermind en Ruby que nous avons présenté ensemble aux Valtech Days 2008.</p>
+
+<p>Merci beaucoup Manu.</p>
+
+<p><figure class="left">
+  <img src="https://etiennecharignon.github.io/ma-valise-de-programmeur/images/gif/icon_pdf.gif" alt="Kata Mastermind images/gif/icon_pdf.gif">
+  
+</figure>
+<a href="http://sites.google.com/site/emmanuelgaillot/katas/">Kata Mastermind</a> (<a href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">licence</a>)<div class="clearfix"></div>
+</p>
+
+<p>N&rsquo;hésitez pas à la télécharger pour vous entraîner à le faire, c&rsquo;est un bon exercice pour apprendre le TDD[[Tests Driven Development&nbsp;: développement piloté par les tests]]&nbsp;;-)</p>
+</div>
+  </div>
+
+  <footer class="article-footer">
+    <div class="content-inner">
+
+      <aside class="p-share">
+  <div class="share-inner">
+    <a href="http://b.hatena.ne.jp/add?mode=confirm&url=https%3a%2f%2fetiennecharignon.github.io%2fma-valise-de-programmeur%2fpost%2farticle_79%2f&title=Kata%20Mastermind" title="はてなブックマーク" class="ht" target="_blank" rel="nofollow"></a>
+    <a href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fetiennecharignon.github.io%2fma-valise-de-programmeur%2fpost%2farticle_79%2f&t=Kata%20Mastermind" title="Facebookでシェア" class="fb" target="_blank" rel="nofollow"></a>
+    <a href="http://twitter.com/intent/tweet?url=https%3a%2f%2fetiennecharignon.github.io%2fma-valise-de-programmeur%2fpost%2farticle_79%2f&text=Kata%20Mastermind&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"></a>
+    <a href="https://plus.google.com/share?url=https%3a%2f%2fetiennecharignon.github.io%2fma-valise-de-programmeur%2fpost%2farticle_79%2f" title="Google Plusでシェア" class="gp" target="_blank" rel="nofollow"></a>
+    <a href="http://line.me/R/msg/text/?Kata%20Mastermind https%3a%2f%2fetiennecharignon.github.io%2fma-valise-de-programmeur%2fpost%2farticle_79%2f" title="LINEでシェア" class="ln" target="_blank" rel="nofollow"></a>
+  </div>
+</aside>
+
+
+      <nav class="p-crumb">
+        <ol>
+          <li><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+          
+          <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/" itemprop="url"><span itemprop="title">post</span></a></li>
+          
+          <li class="active">Kata Mastermind</li>
+        </ol>
+      </nav>
+
+      
+      
+      
+      <section class="article-footer">
+        <header>
+          <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%C3%A9gories/">CATÉGORIES</a>
+        </header>
+        <div>
+          <ul class="p-terms inline">
+            
+            <li><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%C3%A9gories/conf%C3%A9rences/">Conférences</a></li>
+            
+          </ul>
+        </div>
+      </section>
+      
+      
+      
+      
+    </div>
+  </footer>
+
+</article>
+
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'ma-valise';
+    var disqus_identifier = 'https:\/\/etiennecharignon.github.io\/ma-valise-de-programmeur\/post\/article_79\/';
+    var disqus_title = 'Kata Mastermind';
+    var disqus_url = 'https:\/\/etiennecharignon.github.io\/ma-valise-de-programmeur\/post\/article_79\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+
+  <div class="col-md-4">
+    <aside class="site">
+
+  
+  <section>
+    <header>catégories</header>
+    <div>
+      <ul class="p-terms">
+        <li><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%c3%a9gories/essais">essais</a></li><li><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%c3%a9gories/conf%C3%A9rences">conférences</a></li><li><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%c3%a9gories/biblioth%C3%A8que">bibliothèque</a></li><li><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%c3%a9gories/cahier-du-jour">cahier-du-jour</a></li><li><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%c3%a9gories/dossiers">dossiers</a></li>
+      </ul>
+    </div>
+  </section>
+  
+  <section>
+    <header>tags</header>
+    <div>
+      <ul class="p-terms">
+        
+      </ul>
+    </div>
+  </section>
+  
+
+  <section>
+    <header>articles récents</header>
+    <div>
+      <div class="row">
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_118/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton118.png);"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_118/">Animer vos rétrospectives avec &#34;le conseil&#34;</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2015-08-05T22:47:22JST">05/08/2015</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_117/" class="thumb"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_117/">Vers une gestion de projet distribuée ?</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2013-08-25T23:00:53JST">25/08/2013</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        <div class="col-sm-12"></div>
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_115/" class="thumb"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_115/">Dans cette station de ski, les pistes rouges sont trop faciles !</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2013-05-20T22:55:10JST">20/05/2013</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_113/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton113.jpg);"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_113/">Retour d&#39;expérience : Forfait Agile</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2013-04-09T10:36:57JST">09/04/2013</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        <div class="col-sm-12"></div>
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_109/" class="thumb"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_109/">Une image du travail d&#39;équipe</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2013-04-09T10:33:30JST">09/04/2013</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_112/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton112.png);"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_112/">Retour d&#39;expérience : Comment on a utilisé FitNesse et comment ça a remplacé nos tests unitaires</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2013-02-26T13:54:37JST">26/02/2013</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        <div class="col-sm-12"></div>
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_111/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton111.png);"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_111/">Agile Grenoble 2012</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2012-09-19T10:56:13JST">19/09/2012</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_108/" class="thumb"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_108/">Les projets : pilotage par la planification ou par la qualité ?</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2011-09-17T22:23:57JST">17/09/2011</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        <div class="col-sm-12"></div>
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_107/" class="thumb"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_107/">Référentiel des concepts, pratiques et compétences agiles</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2011-06-12T23:41:45JST">12/06/2011</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_106/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton106.png);"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_106/">Agile France 2011 - 26 et 27 mai 2011</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2011-05-11T23:06:44JST">11/05/2011</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        <div class="col-sm-12"></div>
+        
+      </div>
+    </div>
+  </section>
+
+</aside>
+
+  </div>
+</div>
+
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="container">
+        <aside>
+          <p>Powered by <a href="https://gohugo.io/">Hugo</a>.</p>
+          <p><a href="https://github.com/etienneCharignon/hugo_theme_robust">thème</a> inspiré du thème Robust créé par <a href="https://github.com/dim0627/hugo_theme_robust">Daisuke Tsuji</a>.</p>
+        </aside>
+      </div>
+    </footer>
+
+    <script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript" src="//referentiel.institut-agile.fr/souligneur.js"></script>
+  </body>
+</html>
+

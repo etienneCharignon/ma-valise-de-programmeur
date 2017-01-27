@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Ma valise de programmeur</title>
-    <link>http://etienne.charignon.github.io/post/index.xml</link>
-    <description>Recent content in Post-rsses on Ma valise de programmeur</description>
+    <title>Posts on Ma valise de programmeur</title>
+    <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/index.xml</link>
+    <description>Recent content in Posts on Ma valise de programmeur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Wed, 05 Aug 2015 22:47:22 +0100</lastBuildDate>
-    <atom:link href="http://etienne.charignon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Animer vos rétrospectives avec &#34;le conseil&#34;</title>
-      <link>http://etienne.charignon.github.io/post/article_118/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_118/</link>
       <pubDate>Wed, 05 Aug 2015 22:47:22 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_118/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_118/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Vous rappelez-vous de la dernière fois où vous avez dit à vos collègues que vous les aimiez&amp;nbsp;?&lt;/p&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>Vers une gestion de projet distribuée ?</title>
-      <link>http://etienne.charignon.github.io/post/article_117/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_117/</link>
       <pubDate>Sun, 25 Aug 2013 23:00:53 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_117/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_117/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Quel est le mode d&amp;rsquo;organisation le plus efficace&amp;nbsp;? Centralisation ou distribution&amp;nbsp;? Face a la complexité du monde dans lequel nous vivons deux comportements sont possibles, quand il s&amp;rsquo;agit de choisir un mode d&amp;rsquo;organisation. Que ce soit pour classer des documents, concevoir une architecture logicielle, organiser une grande quantité de données, organiser un travail collectif, organiser une entreprise, ou que sais-je, on peut choisir de mettre en place un point de référence centrale ou pas.&lt;/p&gt;
@@ -72,10 +72,10 @@ Le système, plutôt que de chercher la centralisation, offre une grande facilit
     
     <item>
       <title>Dans cette station de ski, les pistes rouges sont trop faciles !</title>
-      <link>http://etienne.charignon.github.io/post/article_115/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_115/</link>
       <pubDate>Mon, 20 May 2013 22:55:10 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_115/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_115/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;Des User stories estimées en point de complexité ? Qui n&#39;y comprend rien ?&lt;/div&gt;
@@ -131,10 +131,10 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
     
     <item>
       <title>Retour d&#39;expérience : Forfait Agile</title>
-      <link>http://etienne.charignon.github.io/post/article_113/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_113/</link>
       <pubDate>Tue, 09 Apr 2013 10:36:57 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_113/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_113/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;En 2012, les entreprises Sita et Valtech se sont associées afin de développer une application web de gestion du traitement/valorisation des dechets . Cette association a été contractualisée par un &amp;ldquo;forfait agile&amp;rdquo;.&lt;/p&gt;
@@ -145,10 +145,10 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
     
     <item>
       <title>Une image du travail d&#39;équipe</title>
-      <link>http://etienne.charignon.github.io/post/article_109/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_109/</link>
       <pubDate>Tue, 09 Apr 2013 10:33:30 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_109/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_109/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Est-ce que vous connaissez cette expérience qui a été mené par IndustrialLogic pour promouvoir la programmation en binôme&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&amp;nbsp;?&lt;/p&gt;
@@ -157,7 +157,80 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
 
 &lt;p&gt;Cette expérience consiste à mettre en lumière la différence entre le travail individuel et le travail en pair, par la création d&amp;rsquo;un dessin.&lt;/p&gt;
 
-&lt;p&gt;Voici les deux premiers dessins mis en avant sur le site&amp;nbsp;:&lt;/p&gt;
+&lt;p&gt;Voici les deux premiers dessins mis en avant sur le site&amp;nbsp;:
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/gif/soloFred.gif&#34; alt=&#34;Une image du travail d&amp;#39;équipe images/gif/soloFred.gif&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    Solo Drawing
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/gif/pairBarb.gif&#34; alt=&#34;Une image du travail d&amp;#39;équipe images/gif/pairBarb.gif&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    Pair Drawing
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Par cette comparaison il apparait clairement qu&amp;rsquo;un travail à deux est beaucoup plus riche qu&amp;rsquo;un travail en solo.&lt;/p&gt;
+
+&lt;p&gt;Pourtant, les dessins suivants m&amp;rsquo;inspirent d&amp;rsquo;autres conclusions:
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/gif/soloChad.gif&#34; alt=&#34;Une image du travail d&amp;#39;équipe images/gif/soloChad.gif&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    Beau dessin en solo
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Nous somme face ici à une personne qui sait dessiner. Si on la laisse faire seule, on obtient un beau résultat. La personne est créative. Le dessin est intègre et cohérent.&lt;/p&gt;
+
+&lt;p&gt;N&amp;rsquo;est-ce pas justement une situation que l&amp;rsquo;on rencontre souvent en informatique&amp;nbsp;? Des gens passionnés qui travaillent le soir pour perfectionner leur connaissances. Qui s&amp;rsquo;entraine seul sur des petits programmes qui les amusent.&lt;/p&gt;
+
+&lt;p&gt;Seulement voilà. Le plus souvent, pour des questions de délai, il n&amp;rsquo;est pas possible de confier la réalisation d&amp;rsquo;un logiciel à une personne seule (quand bien même elle serait extraordinairement productive).&lt;/p&gt;
+
+&lt;p&gt;On en arrive tout naturellement à vouloir constituer des équipes.&lt;/p&gt;
+
+&lt;p&gt;Comment est-il possible que des équipes d&amp;rsquo;informaticiens talentueux, compétent et créatif, conduisent à des logiciels qui ressemble plutôt à ça&amp;nbsp;:
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/gif/pairRalph.gif&#34; alt=&#34;Une image du travail d&amp;#39;équipe images/gif/pairRalph.gif&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    L&amp;#39;image d&amp;#39;un projet informatique réalisé en équipe
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Ce dessin illustre bien les enjeux du travail collectif&amp;nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Garantir l&amp;rsquo;intégrité conceptuelle&lt;/li&gt;
+&lt;li&gt;Créer l’alignement des personnes vers un objectif commun.&lt;/li&gt;
+&lt;li&gt;le travail collectif&amp;nbsp;: cela s&amp;rsquo;apprend (sinon on fera un dessin de débutant)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mais aussi&amp;nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;accepter que la production de l&amp;rsquo;équipe n&amp;rsquo;a rien de commun avec ce qu&amp;rsquo;aurai produit un talent seul avec beaucoup de temps.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Plusieurs personnes doivent accepter cela&amp;nbsp;: les managers évidement, mais aussi les développeurs.&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
@@ -172,10 +245,10 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
     
     <item>
       <title>Retour d&#39;expérience : Comment on a utilisé FitNesse et comment ça a remplacé nos tests unitaires</title>
-      <link>http://etienne.charignon.github.io/post/article_112/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_112/</link>
       <pubDate>Tue, 26 Feb 2013 13:54:37 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_112/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_112/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Le jeudi 28 février à 19:00, je présenterai un retour d&amp;rsquo;expérience sur l&amp;rsquo;utilisation de l&amp;rsquo;outil &lt;a href=&#34;http://www.fitnesse.org&#34;&gt;Fitnesse&lt;/a&gt;.&lt;/p&gt;
@@ -188,10 +261,10 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
     
     <item>
       <title>Agile Grenoble 2012</title>
-      <link>http://etienne.charignon.github.io/post/article_111/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_111/</link>
       <pubDate>Wed, 19 Sep 2012 10:56:13 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_111/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_111/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
@@ -209,10 +282,10 @@ Je vous présenterait le contexte de cette expérience à première vue étonnan
     
     <item>
       <title>Les projets : pilotage par la planification ou par la qualité ?</title>
-      <link>http://etienne.charignon.github.io/post/article_108/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_108/</link>
       <pubDate>Sat, 17 Sep 2011 22:23:57 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_108/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_108/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
@@ -227,9 +300,52 @@ Je vous présenterait le contexte de cette expérience à première vue étonnan
 
 &lt;p&gt;Dans ce mode, le texte définit exactement et complètement notre projet.&lt;/p&gt;
 
-&lt;p&gt;Comment s&amp;rsquo;y prend-on pour monter notre pièce? On fait le plan!:&lt;/p&gt;
+&lt;p&gt;Comment s&amp;rsquo;y prend-on pour monter notre pièce&amp;nbsp;? On fait le plan!:&lt;/p&gt;
 
 &lt;p&gt;Nous avons 10 soirées.  Nous prévoyons de travailler une scène par soirée pendant 6 semaines. Nous ferons ensuite la répétition de l&amp;rsquo;acte 1 en entier puis la semaine suivante l&amp;rsquo;acte 2 en entier. Et pour finir la Générale sans les décors puis la Générale avec les décors.&lt;/p&gt;
+
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/planning_oriente_planning.png&#34; alt=&#34;Les projets : pilotage par la planification ou par la qualité ? images/png/planning_oriente_planning.png&#34;&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;p&gt;L&amp;rsquo;avantage&amp;nbsp;: on est sûr d&amp;rsquo;avoir fini de répéter au moins une fois toutes les scènes. Nous aurons ensuite du temps pour faire &amp;ldquo;l&amp;rsquo;intégration&amp;rdquo;, c&amp;rsquo;est à dire les répétitions enchainant les scènes.&lt;/p&gt;
+
+&lt;p&gt;A la fin de ce projet nous jouerons la pièce exactement telle qu&amp;rsquo;elle est décrite dans le texte que nous avons trouvé.&lt;/p&gt;
+
+&lt;p&gt;Nous avons fait l&amp;rsquo;hypothèse qu&amp;rsquo;il est possible de répéter chaque scène en une soirée. En fait, cette hypothèse n&amp;rsquo;est pas formulée de cette façon. Ce que nous faisons implicitement, c&amp;rsquo;est que nous ajustons la qualité au temps que nous avons. Nous préparerons quelque chose chaque soir. Si la soirée est trop courte la scène sera moins bien préparée, si nous avons trop de temps ce qui n&amp;rsquo;arrive jamais comme chacun sait, ce sera du temps perdu (nous travaillerons plus mollement ces soirées-là). Au final certaines scènes seront mieux préparées que d&amp;rsquo;autres.&lt;/p&gt;
+
+&lt;p&gt;Nous ajusterons la qualité de notre réalisation pour que notre projet aboutisse. Nous sommes une troupe amateur et nous inviterons nos amis à venir &amp;ldquo;subir&amp;rdquo; notre pièce. Après tout, nous sommes là pour nous amuser. Si nous prenons plaisir à faire ce que nous faisons, nos amis seront contents&amp;nbsp;!&lt;/p&gt;
+
+&lt;h2 id=&#34;pilotage-par-la-qualité&#34;&gt;Pilotage par la qualité&lt;/h2&gt;
+
+&lt;p&gt;Ce qui nous intéresse dans ce mode c&amp;rsquo;est avant tout la qualité de notre réalisation. Nous sommes des amateurs, mais nous ne voulons pas être ridicules devant nos amis&amp;nbsp;!&amp;nbsp;:-)&lt;/p&gt;
+
+&lt;p&gt;Après tout, le texte que nous avons trouvé n&amp;rsquo;est peut-être pas le texte original. Et puis quand bien même, ce texte n&amp;rsquo;est peut-être pas le meilleur. On pourrait sans doute l&amp;rsquo;améliorer pour que ce soit plus drôle… y ajouter des références contemporaines&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Voici comment nous allons planifier notre projet… En effet, ce mode de pilotage ne signifie pas que nous ne faisons pas de plan.&lt;/p&gt;
+
+&lt;p&gt;Parmi les 6 scènes, nous en avons identifié 3 qui sont essentielles et qui tiennent à elles seules l&amp;rsquo;intrigue principale. Nous allons travailler en priorité ces 3 scènes. Le premier soir nous travaillerons la première de ces 3 scènes. La deuxième semaine, nous travaillerons la 2eme de ces scènes, mais en l&amp;rsquo;enchaînant à la première. A la fin de cette deuxième soirée, nous devrons être capables de jouer les 2 premières scènes, comme une sorte de mini pièce. Si tout va bien, nous travaillerons les 3 scènes lors de la troisième semaine, mais si c&amp;rsquo;est nécessaire nous travaillerons encore la scène 1 et 2 ensemble pendant une soirée…&lt;/p&gt;
+
+&lt;p&gt;Viendront ensuite s&amp;rsquo;ajouter les scènes supplémentaires pouvant ajouter de la valeur à notre pièce sans pour autant faire partie du cœur de notre projet.
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/planning_oriente_qualite.png&#34; alt=&#34;Les projets : pilotage par la planification ou par la qualité ? images/png/planning_oriente_qualite.png&#34;&gt;
+  
+&lt;/figure&gt;
+
+Cette organisation de notre projet devrait nous permettre de montrer une pièce bien préparée et dont la qualité nous satisferait.&lt;/p&gt;
+
+&lt;p&gt;A noter qu&amp;rsquo;avec ce mode de fonctionnement nous avons très rapidement une pièce prête à être présentée, bien avant la date de la représentation. Il y a par contre un travail de création bien plus important puisqu&amp;rsquo;il s&amp;rsquo;agit d&amp;rsquo;adapter les scènes déjà répétées pour leur permettre d&amp;rsquo;intégrer au fur et à mesure les nouvelles scènes.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Le pilotage par la qualité semblent faire plus de compromis au départ, mais comme il est plus efficace, on se retrouve au final avec un meilleur résultat.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Il faut lâcher prise pour obtenir plus&amp;nbsp;!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Avertissement:
+Mon analogie avec le théâtre n&amp;rsquo;est pas une preuve en soi. Ce pilotage par la qualité que je décris est parfaitement adapté pour le développement logiciel &amp;ndash;je le sais pour l&amp;rsquo;avoir expérimenté déjà plusieurs fois&amp;ndash; mais, je ne sais absolument pas si cela fonctionnerait vraiment pour préparer une pièce de théâtre.&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
@@ -244,10 +360,10 @@ Je vous présenterait le contexte de cette expérience à première vue étonnan
     
     <item>
       <title>Référentiel des concepts, pratiques et compétences agiles</title>
-      <link>http://etienne.charignon.github.io/post/article_107/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_107/</link>
       <pubDate>Sun, 12 Jun 2011 23:41:45 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_107/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_107/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Ca y est, j&amp;rsquo;ai enfin fait l&amp;rsquo;effort d&amp;rsquo;installer sur mon blog le &lt;a href=&#34;http://referentiel.institut-agile.fr/outils.html&#34;&gt;souligneur de l&amp;rsquo;institut agile&lt;/a&gt;.&lt;/p&gt;
@@ -264,10 +380,10 @@ Je vous présenterait le contexte de cette expérience à première vue étonnan
     
     <item>
       <title>Agile France 2011 - 26 et 27 mai 2011</title>
-      <link>http://etienne.charignon.github.io/post/article_106/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_106/</link>
       <pubDate>Wed, 11 May 2011 23:06:44 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_106/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_106/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Youupi&amp;nbsp;! ma session pour Agile France 2011 a été retenue.&lt;/p&gt;
@@ -282,10 +398,10 @@ Je vous présenterait le contexte de cette expérience à première vue étonnan
     
     <item>
       <title>Valtech accueille Alistair Cockburn</title>
-      <link>http://etienne.charignon.github.io/post/article_105/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_105/</link>
       <pubDate>Mon, 28 Mar 2011 18:25:55 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_105/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_105/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Ce matin, Valtech accueillait Alistair Cockburn de passage à Paris. Nous avons pu discuter différents sujet, de manière très informelle, mais non moins organisée.&lt;/p&gt;
@@ -317,16 +433,22 @@ Je vous présenterait le contexte de cette expérience à première vue étonnan
 
 &lt;p&gt;Et notamment il n&amp;rsquo;est pas fait mention de user story ou de burndown chart.&lt;/p&gt;
 
-&lt;p&gt;Enfin pour finir, une idée:&lt;/p&gt;
+&lt;p&gt;Enfin pour finir, une idée:
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/ConnaissanceAcquise.png&#34; alt=&#34;Valtech accueille Alistair Cockburn images/png/ConnaissanceAcquise.png&#34;&gt;
+  
+&lt;/figure&gt;
+
+Plutôt que d&amp;rsquo;utiliser le graphique classique &amp;ldquo;évolution de la valeur ajoutée par rapport au temps&amp;rdquo;, utiliser l&amp;rsquo;&amp;ldquo;évolution de la connaissance acquise par rapport au temps&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modélisation Agile</title>
-      <link>http://etienne.charignon.github.io/post/article_52/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_52/</link>
       <pubDate>Tue, 15 Mar 2011 22:20:03 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_52/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_52/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;En fouillant la page administration de mon blog je viens de tomber sur un brouillon d&#39;article écrit il y a déjà plus de 3 ans. Je me souviens avoir beaucoup hésité à publier cet article, n&#39;étant pas complètement satisfait du contenu. En fin de compte j&#39;ai trouvé ça intéressant. J&#39;espère que vous aurez autant de plaisir que moi à le lire.&lt;/div&gt;
@@ -416,10 +538,10 @@ Et bien, cette solution &lt;strong&gt;est resté jusqu&amp;rsquo;au bout&lt;/str
     
     <item>
       <title>Meuhhh !</title>
-      <link>http://etienne.charignon.github.io/post/article_104/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_104/</link>
       <pubDate>Thu, 16 Dec 2010 22:19:00 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_104/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_104/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
@@ -437,15 +559,27 @@ Et bien, cette solution &lt;strong&gt;est resté jusqu&amp;rsquo;au bout&lt;/str
 &lt;p&gt;Et voila. Nous avons maintenant un nouvel outil à disposition:&lt;/p&gt;
 
 &lt;h2 id=&#34;le-meuh-avec-la-bouche-nbsp&#34;&gt;Le meuh avec la bouche&amp;nbsp;!&lt;/h2&gt;
+
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/jpg/racheumeuneu-meuh.jpg&#34; alt=&#34;Meuhhh ! images/jpg/racheumeuneu-meuh.jpg&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    Le meuh avec la bouche !
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
 </description>
     </item>
     
     <item>
       <title>Programmer est une activité sociale</title>
-      <link>http://etienne.charignon.github.io/post/article_88/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_88/</link>
       <pubDate>Wed, 15 Dec 2010 16:48:15 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_88/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_88/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Les informaticiens aiment communiquer. Ils n&amp;rsquo;ont pas les lunettes sales comme on l&amp;rsquo;entend dire parfois.&lt;/p&gt;
@@ -454,7 +588,7 @@ Et bien, cette solution &lt;strong&gt;est resté jusqu&amp;rsquo;au bout&lt;/str
 
 &lt;p&gt;Personnellement, je n&amp;rsquo;aime pas du tout programmer seul. J&amp;rsquo;aime travailler en équipe pour réaliser un programme. On discute des solutions, on est plus créatif ensemble. On se motive les uns les autres, on est plus productifs.&lt;/p&gt;
 
-&lt;p&gt;Depuis que j&amp;rsquo;ai découvert les méthodes de programmation agile je me sens bien dans mon travail. Bien sure, avant aussi j&amp;rsquo;ai eu l&amp;rsquo;occasion de ressentir le plaisir du travail d&amp;rsquo;équipe&amp;hellip; mais c&amp;rsquo;était ponctuel&amp;hellip; Tous le monde s&amp;rsquo;en trouvait ému, de l&amp;rsquo;équipe elle même jusqu&amp;rsquo;au directeur de département&amp;nbsp;: &amp;ldquo;Bravo les gars, vous faite de bon boulot&amp;rdquo;. Et le chef de projet de lui répondre&amp;nbsp;: &amp;ldquo;Tu aurais du les voire vendredi dernier avant la livraison, Eric a demandé à Stephane de libérer le verrou sur quelques fichiers pour qu&amp;rsquo;il puisse effectuer une modification parallèle pendant que Stéphane terminait le module principale&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Depuis que j&amp;rsquo;ai découvert les méthodes de programmation agile je me sens bien dans mon travail. Bien sûr, avant aussi j&amp;rsquo;ai eu l&amp;rsquo;occasion de ressentir le plaisir du travail d&amp;rsquo;équipe&amp;hellip; mais c&amp;rsquo;était ponctuel&amp;hellip; Tous le monde s&amp;rsquo;en trouvait ému, de l&amp;rsquo;équipe elle même jusqu&amp;rsquo;au directeur de département&amp;nbsp;: &amp;ldquo;Bravo les gars, vous faite de bon boulot&amp;rdquo;. Et le chef de projet de lui répondre&amp;nbsp;: &amp;ldquo;Tu aurais du les voire vendredi dernier avant la livraison, Eric a demandé à Stephane de libérer le verrou sur quelques fichiers pour qu&amp;rsquo;il puisse effectuer une modification parallèle pendant que Stéphane terminait le module principale&amp;hellip;&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;La difference des équipes agiles est qu&amp;rsquo;elle recherche cette activité sociale.&lt;/p&gt;
 
@@ -473,10 +607,10 @@ Et bien, cette solution &lt;strong&gt;est resté jusqu&amp;rsquo;au bout&lt;/str
     
     <item>
       <title>Une équipe agile, une équipe avec du caractère.</title>
-      <link>http://etienne.charignon.github.io/post/article_103/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_103/</link>
       <pubDate>Mon, 01 Nov 2010 22:17:04 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_103/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_103/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;

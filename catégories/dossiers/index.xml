@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ma valise de programmeur</title>
-    <link>http://etienne.charignon.github.io/cat%C3%A9gories/dossiers/index.xml</link>
-    <description>Recent content on Ma valise de programmeur</description>
+    <title>Dossiers on Ma valise de programmeur</title>
+    <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%C3%A9gories/dossiers/index.xml</link>
+    <description>Recent content in Dossiers on Ma valise de programmeur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <atom:link href="http://etienne.charignon.github.io/cat%C3%A9gories/dossiers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%C3%A9gories/dossiers/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Modélisation Agile</title>
-      <link>http://etienne.charignon.github.io/post/article_52/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_52/</link>
       <pubDate>Tue, 15 Mar 2011 22:20:03 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_52/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_52/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;En fouillant la page administration de mon blog je viens de tomber sur un brouillon d&#39;article écrit il y a déjà plus de 3 ans. Je me souviens avoir beaucoup hésité à publier cet article, n&#39;étant pas complètement satisfait du contenu. En fin de compte j&#39;ai trouvé ça intéressant. J&#39;espère que vous aurez autant de plaisir que moi à le lire.&lt;/div&gt;
@@ -103,10 +103,10 @@ Et bien, cette solution &lt;strong&gt;est resté jusqu&amp;rsquo;au bout&lt;/str
     
     <item>
       <title>Pourquoi faut-il faire des tests de recette automatiques ?</title>
-      <link>http://etienne.charignon.github.io/post/article_32/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_32/</link>
       <pubDate>Mon, 10 Jan 2005 14:57:00 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_32/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_32/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ma valise de programmeur</title>
-    <link>http://etienne.charignon.github.io/cat%C3%A9gories/essais/index.xml</link>
-    <description>Recent content on Ma valise de programmeur</description>
+    <title>Essais on Ma valise de programmeur</title>
+    <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%C3%A9gories/essais/index.xml</link>
+    <description>Recent content in Essais on Ma valise de programmeur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <atom:link href="http://etienne.charignon.github.io/cat%C3%A9gories/essais/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%C3%A9gories/essais/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vers une gestion de projet distribuée ?</title>
-      <link>http://etienne.charignon.github.io/post/article_117/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_117/</link>
       <pubDate>Sun, 25 Aug 2013 23:00:53 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_117/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_117/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Quel est le mode d&amp;rsquo;organisation le plus efficace&amp;nbsp;? Centralisation ou distribution&amp;nbsp;? Face a la complexité du monde dans lequel nous vivons deux comportements sont possibles, quand il s&amp;rsquo;agit de choisir un mode d&amp;rsquo;organisation. Que ce soit pour classer des documents, concevoir une architecture logicielle, organiser une grande quantité de données, organiser un travail collectif, organiser une entreprise, ou que sais-je, on peut choisir de mettre en place un point de référence centrale ou pas.&lt;/p&gt;
@@ -45,10 +45,10 @@ Le système, plutôt que de chercher la centralisation, offre une grande facilit
     
     <item>
       <title>Dans cette station de ski, les pistes rouges sont trop faciles !</title>
-      <link>http://etienne.charignon.github.io/post/article_115/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_115/</link>
       <pubDate>Mon, 20 May 2013 22:55:10 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_115/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_115/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;Des User stories estimées en point de complexité ? Qui n&#39;y comprend rien ?&lt;/div&gt;
@@ -104,10 +104,10 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
     
     <item>
       <title>Une image du travail d&#39;équipe</title>
-      <link>http://etienne.charignon.github.io/post/article_109/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_109/</link>
       <pubDate>Tue, 09 Apr 2013 10:33:30 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_109/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_109/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Est-ce que vous connaissez cette expérience qui a été mené par IndustrialLogic pour promouvoir la programmation en binôme&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&amp;nbsp;?&lt;/p&gt;
@@ -116,7 +116,80 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
 
 &lt;p&gt;Cette expérience consiste à mettre en lumière la différence entre le travail individuel et le travail en pair, par la création d&amp;rsquo;un dessin.&lt;/p&gt;
 
-&lt;p&gt;Voici les deux premiers dessins mis en avant sur le site&amp;nbsp;:&lt;/p&gt;
+&lt;p&gt;Voici les deux premiers dessins mis en avant sur le site&amp;nbsp;:
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/gif/soloFred.gif&#34; alt=&#34;Une image du travail d&amp;#39;équipe images/gif/soloFred.gif&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    Solo Drawing
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/gif/pairBarb.gif&#34; alt=&#34;Une image du travail d&amp;#39;équipe images/gif/pairBarb.gif&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    Pair Drawing
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Par cette comparaison il apparait clairement qu&amp;rsquo;un travail à deux est beaucoup plus riche qu&amp;rsquo;un travail en solo.&lt;/p&gt;
+
+&lt;p&gt;Pourtant, les dessins suivants m&amp;rsquo;inspirent d&amp;rsquo;autres conclusions:
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/gif/soloChad.gif&#34; alt=&#34;Une image du travail d&amp;#39;équipe images/gif/soloChad.gif&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    Beau dessin en solo
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Nous somme face ici à une personne qui sait dessiner. Si on la laisse faire seule, on obtient un beau résultat. La personne est créative. Le dessin est intègre et cohérent.&lt;/p&gt;
+
+&lt;p&gt;N&amp;rsquo;est-ce pas justement une situation que l&amp;rsquo;on rencontre souvent en informatique&amp;nbsp;? Des gens passionnés qui travaillent le soir pour perfectionner leur connaissances. Qui s&amp;rsquo;entraine seul sur des petits programmes qui les amusent.&lt;/p&gt;
+
+&lt;p&gt;Seulement voilà. Le plus souvent, pour des questions de délai, il n&amp;rsquo;est pas possible de confier la réalisation d&amp;rsquo;un logiciel à une personne seule (quand bien même elle serait extraordinairement productive).&lt;/p&gt;
+
+&lt;p&gt;On en arrive tout naturellement à vouloir constituer des équipes.&lt;/p&gt;
+
+&lt;p&gt;Comment est-il possible que des équipes d&amp;rsquo;informaticiens talentueux, compétent et créatif, conduisent à des logiciels qui ressemble plutôt à ça&amp;nbsp;:
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/gif/pairRalph.gif&#34; alt=&#34;Une image du travail d&amp;#39;équipe images/gif/pairRalph.gif&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    L&amp;#39;image d&amp;#39;un projet informatique réalisé en équipe
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Ce dessin illustre bien les enjeux du travail collectif&amp;nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Garantir l&amp;rsquo;intégrité conceptuelle&lt;/li&gt;
+&lt;li&gt;Créer l’alignement des personnes vers un objectif commun.&lt;/li&gt;
+&lt;li&gt;le travail collectif&amp;nbsp;: cela s&amp;rsquo;apprend (sinon on fera un dessin de débutant)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mais aussi&amp;nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;accepter que la production de l&amp;rsquo;équipe n&amp;rsquo;a rien de commun avec ce qu&amp;rsquo;aurai produit un talent seul avec beaucoup de temps.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Plusieurs personnes doivent accepter cela&amp;nbsp;: les managers évidement, mais aussi les développeurs.&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
@@ -131,10 +204,10 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
     
     <item>
       <title>Les projets : pilotage par la planification ou par la qualité ?</title>
-      <link>http://etienne.charignon.github.io/post/article_108/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_108/</link>
       <pubDate>Sat, 17 Sep 2011 22:23:57 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_108/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_108/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
@@ -149,9 +222,52 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
 
 &lt;p&gt;Dans ce mode, le texte définit exactement et complètement notre projet.&lt;/p&gt;
 
-&lt;p&gt;Comment s&amp;rsquo;y prend-on pour monter notre pièce? On fait le plan!:&lt;/p&gt;
+&lt;p&gt;Comment s&amp;rsquo;y prend-on pour monter notre pièce&amp;nbsp;? On fait le plan!:&lt;/p&gt;
 
 &lt;p&gt;Nous avons 10 soirées.  Nous prévoyons de travailler une scène par soirée pendant 6 semaines. Nous ferons ensuite la répétition de l&amp;rsquo;acte 1 en entier puis la semaine suivante l&amp;rsquo;acte 2 en entier. Et pour finir la Générale sans les décors puis la Générale avec les décors.&lt;/p&gt;
+
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/planning_oriente_planning.png&#34; alt=&#34;Les projets : pilotage par la planification ou par la qualité ? images/png/planning_oriente_planning.png&#34;&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;p&gt;L&amp;rsquo;avantage&amp;nbsp;: on est sûr d&amp;rsquo;avoir fini de répéter au moins une fois toutes les scènes. Nous aurons ensuite du temps pour faire &amp;ldquo;l&amp;rsquo;intégration&amp;rdquo;, c&amp;rsquo;est à dire les répétitions enchainant les scènes.&lt;/p&gt;
+
+&lt;p&gt;A la fin de ce projet nous jouerons la pièce exactement telle qu&amp;rsquo;elle est décrite dans le texte que nous avons trouvé.&lt;/p&gt;
+
+&lt;p&gt;Nous avons fait l&amp;rsquo;hypothèse qu&amp;rsquo;il est possible de répéter chaque scène en une soirée. En fait, cette hypothèse n&amp;rsquo;est pas formulée de cette façon. Ce que nous faisons implicitement, c&amp;rsquo;est que nous ajustons la qualité au temps que nous avons. Nous préparerons quelque chose chaque soir. Si la soirée est trop courte la scène sera moins bien préparée, si nous avons trop de temps ce qui n&amp;rsquo;arrive jamais comme chacun sait, ce sera du temps perdu (nous travaillerons plus mollement ces soirées-là). Au final certaines scènes seront mieux préparées que d&amp;rsquo;autres.&lt;/p&gt;
+
+&lt;p&gt;Nous ajusterons la qualité de notre réalisation pour que notre projet aboutisse. Nous sommes une troupe amateur et nous inviterons nos amis à venir &amp;ldquo;subir&amp;rdquo; notre pièce. Après tout, nous sommes là pour nous amuser. Si nous prenons plaisir à faire ce que nous faisons, nos amis seront contents&amp;nbsp;!&lt;/p&gt;
+
+&lt;h2 id=&#34;pilotage-par-la-qualité&#34;&gt;Pilotage par la qualité&lt;/h2&gt;
+
+&lt;p&gt;Ce qui nous intéresse dans ce mode c&amp;rsquo;est avant tout la qualité de notre réalisation. Nous sommes des amateurs, mais nous ne voulons pas être ridicules devant nos amis&amp;nbsp;!&amp;nbsp;:-)&lt;/p&gt;
+
+&lt;p&gt;Après tout, le texte que nous avons trouvé n&amp;rsquo;est peut-être pas le texte original. Et puis quand bien même, ce texte n&amp;rsquo;est peut-être pas le meilleur. On pourrait sans doute l&amp;rsquo;améliorer pour que ce soit plus drôle… y ajouter des références contemporaines&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Voici comment nous allons planifier notre projet… En effet, ce mode de pilotage ne signifie pas que nous ne faisons pas de plan.&lt;/p&gt;
+
+&lt;p&gt;Parmi les 6 scènes, nous en avons identifié 3 qui sont essentielles et qui tiennent à elles seules l&amp;rsquo;intrigue principale. Nous allons travailler en priorité ces 3 scènes. Le premier soir nous travaillerons la première de ces 3 scènes. La deuxième semaine, nous travaillerons la 2eme de ces scènes, mais en l&amp;rsquo;enchaînant à la première. A la fin de cette deuxième soirée, nous devrons être capables de jouer les 2 premières scènes, comme une sorte de mini pièce. Si tout va bien, nous travaillerons les 3 scènes lors de la troisième semaine, mais si c&amp;rsquo;est nécessaire nous travaillerons encore la scène 1 et 2 ensemble pendant une soirée…&lt;/p&gt;
+
+&lt;p&gt;Viendront ensuite s&amp;rsquo;ajouter les scènes supplémentaires pouvant ajouter de la valeur à notre pièce sans pour autant faire partie du cœur de notre projet.
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/planning_oriente_qualite.png&#34; alt=&#34;Les projets : pilotage par la planification ou par la qualité ? images/png/planning_oriente_qualite.png&#34;&gt;
+  
+&lt;/figure&gt;
+
+Cette organisation de notre projet devrait nous permettre de montrer une pièce bien préparée et dont la qualité nous satisferait.&lt;/p&gt;
+
+&lt;p&gt;A noter qu&amp;rsquo;avec ce mode de fonctionnement nous avons très rapidement une pièce prête à être présentée, bien avant la date de la représentation. Il y a par contre un travail de création bien plus important puisqu&amp;rsquo;il s&amp;rsquo;agit d&amp;rsquo;adapter les scènes déjà répétées pour leur permettre d&amp;rsquo;intégrer au fur et à mesure les nouvelles scènes.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Le pilotage par la qualité semblent faire plus de compromis au départ, mais comme il est plus efficace, on se retrouve au final avec un meilleur résultat.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Il faut lâcher prise pour obtenir plus&amp;nbsp;!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Avertissement:
+Mon analogie avec le théâtre n&amp;rsquo;est pas une preuve en soi. Ce pilotage par la qualité que je décris est parfaitement adapté pour le développement logiciel &amp;ndash;je le sais pour l&amp;rsquo;avoir expérimenté déjà plusieurs fois&amp;ndash; mais, je ne sais absolument pas si cela fonctionnerait vraiment pour préparer une pièce de théâtre.&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
@@ -166,10 +282,10 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
     
     <item>
       <title>Référentiel des concepts, pratiques et compétences agiles</title>
-      <link>http://etienne.charignon.github.io/post/article_107/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_107/</link>
       <pubDate>Sun, 12 Jun 2011 23:41:45 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_107/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_107/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Ca y est, j&amp;rsquo;ai enfin fait l&amp;rsquo;effort d&amp;rsquo;installer sur mon blog le &lt;a href=&#34;http://referentiel.institut-agile.fr/outils.html&#34;&gt;souligneur de l&amp;rsquo;institut agile&lt;/a&gt;.&lt;/p&gt;
@@ -186,10 +302,10 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
     
     <item>
       <title>Meuhhh !</title>
-      <link>http://etienne.charignon.github.io/post/article_104/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_104/</link>
       <pubDate>Thu, 16 Dec 2010 22:19:00 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_104/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_104/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
@@ -207,15 +323,27 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
 &lt;p&gt;Et voila. Nous avons maintenant un nouvel outil à disposition:&lt;/p&gt;
 
 &lt;h2 id=&#34;le-meuh-avec-la-bouche-nbsp&#34;&gt;Le meuh avec la bouche&amp;nbsp;!&lt;/h2&gt;
+
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/jpg/racheumeuneu-meuh.jpg&#34; alt=&#34;Meuhhh ! images/jpg/racheumeuneu-meuh.jpg&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    Le meuh avec la bouche !
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
 </description>
     </item>
     
     <item>
       <title>Programmer est une activité sociale</title>
-      <link>http://etienne.charignon.github.io/post/article_88/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_88/</link>
       <pubDate>Wed, 15 Dec 2010 16:48:15 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_88/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_88/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Les informaticiens aiment communiquer. Ils n&amp;rsquo;ont pas les lunettes sales comme on l&amp;rsquo;entend dire parfois.&lt;/p&gt;
@@ -224,7 +352,7 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
 
 &lt;p&gt;Personnellement, je n&amp;rsquo;aime pas du tout programmer seul. J&amp;rsquo;aime travailler en équipe pour réaliser un programme. On discute des solutions, on est plus créatif ensemble. On se motive les uns les autres, on est plus productifs.&lt;/p&gt;
 
-&lt;p&gt;Depuis que j&amp;rsquo;ai découvert les méthodes de programmation agile je me sens bien dans mon travail. Bien sure, avant aussi j&amp;rsquo;ai eu l&amp;rsquo;occasion de ressentir le plaisir du travail d&amp;rsquo;équipe&amp;hellip; mais c&amp;rsquo;était ponctuel&amp;hellip; Tous le monde s&amp;rsquo;en trouvait ému, de l&amp;rsquo;équipe elle même jusqu&amp;rsquo;au directeur de département&amp;nbsp;: &amp;ldquo;Bravo les gars, vous faite de bon boulot&amp;rdquo;. Et le chef de projet de lui répondre&amp;nbsp;: &amp;ldquo;Tu aurais du les voire vendredi dernier avant la livraison, Eric a demandé à Stephane de libérer le verrou sur quelques fichiers pour qu&amp;rsquo;il puisse effectuer une modification parallèle pendant que Stéphane terminait le module principale&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Depuis que j&amp;rsquo;ai découvert les méthodes de programmation agile je me sens bien dans mon travail. Bien sûr, avant aussi j&amp;rsquo;ai eu l&amp;rsquo;occasion de ressentir le plaisir du travail d&amp;rsquo;équipe&amp;hellip; mais c&amp;rsquo;était ponctuel&amp;hellip; Tous le monde s&amp;rsquo;en trouvait ému, de l&amp;rsquo;équipe elle même jusqu&amp;rsquo;au directeur de département&amp;nbsp;: &amp;ldquo;Bravo les gars, vous faite de bon boulot&amp;rdquo;. Et le chef de projet de lui répondre&amp;nbsp;: &amp;ldquo;Tu aurais du les voire vendredi dernier avant la livraison, Eric a demandé à Stephane de libérer le verrou sur quelques fichiers pour qu&amp;rsquo;il puisse effectuer une modification parallèle pendant que Stéphane terminait le module principale&amp;hellip;&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;La difference des équipes agiles est qu&amp;rsquo;elle recherche cette activité sociale.&lt;/p&gt;
 
@@ -243,10 +371,10 @@ Au départ du projet, vous faites une estimation de votre productivité à venir
     
     <item>
       <title>Une équipe agile, une équipe avec du caractère.</title>
-      <link>http://etienne.charignon.github.io/post/article_103/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_103/</link>
       <pubDate>Mon, 01 Nov 2010 22:17:04 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_103/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_103/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
@@ -308,10 +436,10 @@ Toutes ces réflexions, toutes ces résistances au changement, viennent de la re
     
     <item>
       <title>RT @Galilée la terre tourne autour du soleil</title>
-      <link>http://etienne.charignon.github.io/post/article_102/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_102/</link>
       <pubDate>Tue, 14 Sep 2010 21:50:45 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_102/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_102/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
@@ -420,6 +548,31 @@ contexte}&amp;hellip;&amp;rdquo;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnr
 &lt;p&gt;La coordination opérationnelle des équipes peut être prise en charge par un projet de plus haut niveau appelé meta-scrum ou scrum-de-scrum dans la méthode scrum.&lt;/p&gt;
 
 &lt;p&gt;L&amp;rsquo;exemple type d&amp;rsquo;une architecture orientée composants est une organisation qui constituerait des équipes par couche technique: une équipe IHM, une équipe &amp;ldquo;service métier&amp;rdquo; et une équipe &amp;ldquo;accès base de donnée&amp;rdquo;.&lt;/p&gt;
+
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/jpg/architecture_orientee_composants.jpg&#34; alt=&#34;RT @Galilée la terre tourne autour du soleil images/jpg/architecture_orientee_composants.jpg&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    Architecture orientée composants
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;p&gt;Le même exemple organisé en feature teams:
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/jpg/Feature_Teams.jpg&#34; alt=&#34;RT @Galilée la terre tourne autour du soleil images/jpg/Feature_Teams.jpg&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    Feature Teams
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
@@ -440,10 +593,10 @@ contexte}&amp;hellip;&amp;rdquo;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnr
     
     <item>
       <title>Intégration Continue</title>
-      <link>http://etienne.charignon.github.io/post/article_100/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_100/</link>
       <pubDate>Tue, 06 Apr 2010 16:19:11 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_100/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_100/</guid>
       <description>
 
 &lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
@@ -460,15 +613,118 @@ La réalisation d&amp;rsquo;un logiciel rentre dans cette catégorie, mais c&amp
 &lt;p&gt;En effet, première constatation, nous n&amp;rsquo;avons aucun contrôle direct sur la phase d&amp;rsquo;intégration. En effet, une fois que celle-ci est démarrée, il faut aller jusqu&amp;rsquo;au bout avant d&amp;rsquo;avoir quelque chose. Il n&amp;rsquo;est pas possible de s&amp;rsquo;arrêter à mi-chemin et espérer avoir un tout cohérent.&lt;/p&gt;
 
 &lt;p&gt;Voici le schéma que propose l&amp;rsquo;intégration continue&amp;nbsp;:&lt;/p&gt;
+
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/Image_2.png&#34; alt=&#34;Intégration Continue images/png/Image_2.png&#34;&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;p&gt;L&amp;rsquo;argument que l&amp;rsquo;on entend parfois est&amp;nbsp;: &amp;ldquo;on n&amp;rsquo;a pas le temps&amp;rdquo;. L&amp;rsquo;idée est simple, pour optimiser le travail d&amp;rsquo;intégration, on propose alors de le reporter à la fin. En faisant une phase spécialisée, on peut optimiser cette phase.&lt;/p&gt;
+
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/lateIntegration1.png&#34; alt=&#34;Intégration Continue images/png/lateIntegration1.png&#34;&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;p&gt;Mais justement, c&amp;rsquo;est ce que je viens de dire, c&amp;rsquo;est une illusion. Cette phase n&amp;rsquo;est pas sous contrôle. Une fois le travail d&amp;rsquo;intégration commencé, il faudra aller jusqu&amp;rsquo;au bout. Ce qui donne en pratique le schéma suivant&amp;nbsp;:&lt;/p&gt;
+
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/Image_3.png&#34; alt=&#34;Intégration Continue images/png/Image_3.png&#34;&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;p&gt;La seule façon de réduire la durée de la phase d&amp;rsquo;intégration est de réduire la quantité de travail à intégrer et donc de réduire la taille de la phase de réalisation. Mais comment savoir à l&amp;rsquo;avance quelle est la bonne longueur de cette phase de réalisation&amp;nbsp;? Je vous le donne Émile&amp;nbsp;: il faut faire de l&amp;rsquo;intégration continue (voir premier schéma).
+Plus la fréquence d&amp;rsquo;intégration est élevée moins la quantité de développement non intégrée sera faible le jour de l&amp;rsquo;échéance.&lt;/p&gt;
+
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/Image_2-2.png&#34; alt=&#34;Intégration Continue images/png/Image_2-2.png&#34;&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;les-diagrammes-d-effet-1&#34;&gt;Les diagrammes d&amp;rsquo;effet&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+
+&lt;p&gt;Un peu de théorie de modélisation. Les diagrammes d&amp;rsquo;effet permettent de représenter dans un système, la dynamique de variation d&amp;rsquo;une grandeur par rapport à une autre.&lt;/p&gt;
+
+&lt;p&gt;Soit par exemple un système à deux variable, X et Y.&lt;/p&gt;
+
+&lt;p&gt;On représente X et Y dans des nuages si ce sont des grandeurs non mesurables, ou dans un ovale si elles sont mesurables:
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/Capture_d_ecran_2010-04-04_a_01.56.50.png&#34; alt=&#34;Intégration Continue images/png/Capture_d_ecran_2010-04-04_a_01.56.50.png&#34;&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Si on veut représenter que Y augmente quand X augmente, on le fait tout simple avec une flèche:
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/Capture_d_ecran_2010-04-04_a_01.25.25.png&#34; alt=&#34;Intégration Continue images/png/Capture_d_ecran_2010-04-04_a_01.25.25.png&#34;&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Si par contre Y diminue quand X augmente, on ajoute un rond sur la flèche:
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/Capture_d_ecran_2010-04-04_a_01.26.22.png&#34; alt=&#34;Intégration Continue images/png/Capture_d_ecran_2010-04-04_a_01.26.22.png&#34;&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;un-cercle-vicieux-nbsp-l-intégration&#34;&gt;Un cercle vicieux&amp;nbsp;: l&amp;rsquo;intégration&lt;/h2&gt;
+
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/Capture_d_ecran_2010-04-04_a_01.53.19.png&#34; alt=&#34;Intégration Continue images/png/Capture_d_ecran_2010-04-04_a_01.53.19.png&#34;&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;p&gt;Les diagrammes d&amp;rsquo;effet sont très pratiques pour modéliser les cercles vicieux. Ils permettent aussi de modéliser la solution.&lt;/p&gt;
+
+&lt;p&gt;Il existe deux types de relation entre X et Y.
+- Des relations dictées par la nature. Par exemple, dans le schéma ci-dessus. Quand le temps entre deux intégrations augmente, la complexité du travail d&amp;rsquo;intégration augmente de manière inexorable. Le monde est comme ça. Personne n&amp;rsquo;y peut rien. C&amp;rsquo;est une loi de la nature.
+- Des relations non dictées par la nature. Ces dernières sont représentés par un carré. Il est possible de choisir si Y va augmenter ou diminuer quand on va augmenter X. C&amp;rsquo;est à nous de prendre la décision.
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/Capture_d_ecran_2010-04-04_a_02.05.02.png&#34; alt=&#34;Intégration Continue images/png/Capture_d_ecran_2010-04-04_a_02.05.02.png&#34;&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Et voilà ce que devient le schéma de notre système:
+&lt;figure class=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://etiennecharignon.github.io/ma-valise-de-programmeur/images/png/Capture_d_ecran_2010-04-04_a_02.07.40.png&#34; alt=&#34;Intégration Continue images/png/Capture_d_ecran_2010-04-04_a_02.07.40.png&#34;&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Si vous décidez d&amp;rsquo;espacer encore plus les intégrations, vous alimentez le cercle vicieux. Si vous décidez de les rapprocher&amp;hellip; vous cassez le cercle infernal.&lt;/p&gt;
+
+&lt;p&gt;La conclusion&amp;nbsp;: Si vous avez des difficultés à faire quelque chose, faite le plus souvent&amp;nbsp;! Faites de l&amp;rsquo;intégration continue.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai rencontré des entreprises qui mettent plus de 6 mois entre la livraison des composants logiciel et la mise en production. Je ne dis pas que prendre la décision de rapprocher les intégrations est facile. Mais c&amp;rsquo;est la seule issue. C&amp;rsquo;est le problème avec les cercles vicieux. C&amp;rsquo;est très difficile d&amp;rsquo;en sortir quand on est très engagé dedans. C&amp;rsquo;est beaucoup plus facile au début. Il vaut mieux agir au début et par petit changement que trop tard et par grands à-coups.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;voir le volume 1 de la série d&amp;rsquo;ouvrage de Gerald Weinberg: &lt;a href=&#34;../article_51&#34;&gt;Quality Software Management:Systems Thinking&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Le code est la documentation</title>
-      <link>http://etienne.charignon.github.io/post/article_99/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_99/</link>
       <pubDate>Thu, 18 Feb 2010 22:53:25 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_99/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_99/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Encore hier, j&amp;rsquo;ai passé un temps fou pour trouver la solution à un problème de configuration du mapping de ma base de données avec Hibernate&amp;nbsp;!&lt;/p&gt;
@@ -492,10 +748,10 @@ You could make the OneToMany-side the owning side by removing the &amp;ldquo;map
     
     <item>
       <title>Un logiciel se construit par le toit</title>
-      <link>http://etienne.charignon.github.io/post/article_95/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_95/</link>
       <pubDate>Sun, 20 Dec 2009 23:19:21 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_95/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_95/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;&amp;ndash; &amp;ldquo;Allons, un peu de bon sens&amp;nbsp;! Pour fabriquer une maison, il faut commencer par les fondations, puis faire les murs et ensuite seulement vous pouvez poser le toit. On ne peut pas commencer par le toit&amp;nbsp;!&amp;rdquo;&lt;/p&gt;
@@ -520,10 +776,10 @@ You could make the OneToMany-side the owning side by removing the &amp;ldquo;map
     
     <item>
       <title>Scrum &#43; XP ?</title>
-      <link>http://etienne.charignon.github.io/post/article_92/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_92/</link>
       <pubDate>Thu, 22 Oct 2009 22:30:22 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_92/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_92/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Connaissez-vous la problématique théologique suivante:
@@ -533,20 +789,20 @@ Dieu reconnaît-il les hommes sur leurs actes ou les aime-t-il pour ce qu&amp;rs
 
 &lt;p&gt;Je me rend compte qu&amp;rsquo;il existe un parallelle en ce qui concerne les méthodes de travail. On retrouve le même modèle, et pour filer la métaphore, on pourrait se poser la question suivante:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;les méthodes agiles Scrum et XP ont-elles une âme?&amp;nbsp;:-)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;les méthodes agiles Scrum et XP ont-elles une âme&amp;nbsp;?&amp;nbsp;:-)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Doit-on juger de la qualité d&amp;rsquo;une méthode sur ses pratiques, est-ce que l&amp;rsquo;ensemble des pratiques &amp;ldquo;représentent&amp;rdquo; la méthode ou y a-t-il quelque chose de plus &amp;ldquo;derrière&amp;rdquo;?&lt;/p&gt;
+&lt;p&gt;Doit-on juger de la qualité d&amp;rsquo;une méthode sur ses pratiques, est-ce que l&amp;rsquo;ensemble des pratiques &amp;ldquo;représentent&amp;rdquo; la méthode ou y a-t-il quelque chose de plus &amp;ldquo;derrière&amp;rdquo;&amp;nbsp;?&lt;/p&gt;
 
-&lt;p&gt;N&amp;rsquo;entend-on pas parfois parler de &amp;ldquo;l&amp;rsquo;esprit de la méthode&amp;rdquo;? Est-ce que les valeurs agiles seraient cette âme?&lt;/p&gt;
+&lt;p&gt;N&amp;rsquo;entend-on pas parfois parler de &amp;ldquo;l&amp;rsquo;esprit de la méthode&amp;rdquo;&amp;nbsp;? Est-ce que les valeurs agiles seraient cette âme&amp;nbsp;?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;XP et Scrum sont-elles complémentaires?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;XP et Scrum sont-elles complémentaires&amp;nbsp;?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;De plus en plus, on entend parler d&amp;rsquo;entreprises pratiquant &amp;ldquo;Scrum+XP&amp;rdquo; avec la définition suivante&amp;nbsp;: &amp;ldquo;Scrum complémentée des pratiques d&amp;rsquo;ingénierie d&amp;rsquo;XP&amp;rdquo;.
 En effet, contrairement à Scrum, XP propose des pratiques spécifiques au développement logiciel tel que le binomage ou le TDD&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; par exemple.&lt;/p&gt;
 
 &lt;p&gt;Pourquoi pas. Ayant découvert XP en premier, cette méthode garde une place particulière dans mon coeur et je dirais qu&amp;rsquo;elle se suffit à elle même du point de vue des pratiques puisqu&amp;rsquo;elle contient toutes celles de scrum (cycle court, client sur site, coach agile, &amp;hellip;).&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;XP pourrait-elle s&amp;rsquo;appliquer à un projet non informatique?&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;XP pourrait-elle s&amp;rsquo;appliquer à un projet non informatique&amp;nbsp;?&lt;/strong&gt;
 Aussi étonnant que cela puisse paraître, et c&amp;rsquo;est une découverte récente pour moi, la réponse est oui.&lt;/p&gt;
 
 &lt;p&gt;XP est une méthode formalisée au travers de l&amp;rsquo;expression de &amp;ldquo;pattern&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&amp;rdquo; de gestion de projet, au même sens que l&amp;rsquo;on parle de pattern de conception en programmation.&lt;/p&gt;
@@ -556,7 +812,7 @@ Aussi étonnant que cela puisse paraître, et c&amp;rsquo;est une découverte r�
 &lt;p&gt;Prenons un exemple&amp;nbsp;:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&amp;ldquo;&lt;a href=&#34;http://www.extremeprogramming.org/rules/standards.html&#34;&gt;Coding standards&lt;/a&gt;&amp;ldquo;&amp;nbsp;: &lt;em&gt;Code must be formatted to &lt;strong&gt;agreed&lt;/strong&gt; coding standards. Coding standards keep the code consistent and easy for the entire team to read and refactor. Code that looks the same encourages collective ownership.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;a href=&#34;http://www.extremeprogramming.org/rules/standards.html&#34;&gt;Coding standards&lt;/a&gt;&amp;rdquo; &amp;nbsp;: &lt;em&gt;Code must be formatted to &lt;strong&gt;agreed&lt;/strong&gt; coding standards. Coding standards keep the code consistent and easy for the entire team to read and refactor. Code that looks the same encourages collective ownership.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Sur un projet non informatique cette pratique n&amp;rsquo;a pas de sens direct&amp;hellip;
@@ -585,10 +841,10 @@ Mais quelle est l&amp;rsquo;âme qui se cache derrière la pratique&amp;nbsp;? I
     
     <item>
       <title>Elle booste ma suite de tests ?</title>
-      <link>http://etienne.charignon.github.io/post/article_86/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_86/</link>
       <pubDate>Wed, 24 Jun 2009 22:55:34 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_86/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_86/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;Il m&amp;rsquo;est souvent arrivé de parler sur ce blog d&amp;rsquo;automatisation des tests. Ces tests qui finissent par se rassembler par centaines constituent ce que l&amp;rsquo;on appelle la &amp;ldquo;suite de test&amp;rdquo;.&lt;/p&gt;
@@ -612,19 +868,19 @@ Tous les membres de l&amp;rsquo;équipe respectent cette règle&amp;hellip; pers
     
     <item>
       <title>L&#39;agilité ? Est-ce vraiment si efficace qu&#39;on le dit ?</title>
-      <link>http://etienne.charignon.github.io/post/article_85/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_85/</link>
       <pubDate>Thu, 04 Jun 2009 23:06:37 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/post/article_85/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_85/</guid>
       <description>&lt;div class=&#34;chapo&#34;&gt;&lt;/div&gt;
 
-&lt;p&gt;&amp;ndash; Tiens salut Eric
-&amp;ndash; Eh&amp;nbsp;! salut Stéphane, comment vas-tu&amp;nbsp;?
-&amp;ndash; Ah&amp;nbsp;! je suis un peu déprimé en ce moment&amp;nbsp;!
-&amp;ndash; Ah bon&amp;nbsp;? C&amp;rsquo;est à cause de la crise&amp;nbsp;?
-&amp;ndash; La crise&amp;nbsp;? non&amp;nbsp;! Du travail j&amp;rsquo;en ai, et j&amp;rsquo;en suis même très content. En fait je viens de terminer une expérience passionnante. Nous avons expérimenté les méthodes agiles dans mon entreprise. C&amp;rsquo;est &lt;strong&gt;extraordinaire&lt;/strong&gt;! J&amp;rsquo;aime à nouveau mon métier de programmeur. J&amp;rsquo;ai enfin un cadre valorisant pour faire le métier que j&amp;rsquo;aime. Je me sens efficace et le client est content du produit.
-Ce que je trouve particulièrement motivant&amp;nbsp;? Enfin, j&amp;rsquo;ai pu rencontrer mon client et lui montrer ce que je sais faire. Ca n&amp;rsquo;a pas été toujours facile. Nous avons dû apprendre à nous connaître, mais le jeu en a valu la chandelle. Maintenant je comprends facilement ses enjeux et je sais qu&amp;rsquo;il connaît mes contraintes. Notre relation de travail est une relation d&amp;rsquo;adultes qui cherchent ensemble à réaliser une belle chose, un beau programme, utile et pratique.
-&amp;ndash; Mais pourquoi es-tu déprimé&amp;nbsp;!
+&lt;p&gt;&amp;ndash; Tiens salut Eric&lt;br /&gt;
+&amp;ndash; Eh&amp;nbsp;! salut Stéphane, comment vas-tu&amp;nbsp;?&lt;br /&gt;
+&amp;ndash; Ah&amp;nbsp;! je suis un peu déprimé en ce moment&amp;nbsp;!&lt;br /&gt;
+&amp;ndash; Ah bon&amp;nbsp;? C&amp;rsquo;est à cause de la crise&amp;nbsp;?&lt;br /&gt;
+&amp;ndash; La crise&amp;nbsp;? non&amp;nbsp;! Du travail j&amp;rsquo;en ai, et j&amp;rsquo;en suis même très content. En fait je viens de terminer une expérience passionnante. Nous avons expérimenté les méthodes agiles dans mon entreprise. C&amp;rsquo;est &lt;strong&gt;extraordinaire&lt;/strong&gt;&amp;nbsp;! J&amp;rsquo;aime à nouveau mon métier de programmeur. J&amp;rsquo;ai enfin un cadre valorisant pour faire le métier que j&amp;rsquo;aime. Je me sens efficace et le client est content du produit.
+Ce que je trouve particulièrement motivant&amp;nbsp;! Enfin, j&amp;rsquo;ai pu rencontrer mon client et lui montrer ce que je sais faire. Ca n&amp;rsquo;a pas été toujours facile. Nous avons dû apprendre à nous connaître, mais le jeu en a valu la chandelle. Maintenant je comprends facilement ses enjeux et je sais qu&amp;rsquo;il connaît mes contraintes. Notre relation de travail est une relation d&amp;rsquo;adultes qui cherchent ensemble à réaliser une belle chose, un beau programme, utile et pratique.&lt;br /&gt;
+&amp;ndash; Mais pourquoi es-tu déprimé&amp;nbsp;?&lt;br /&gt;
 &amp;ndash; &amp;hellip; Oh&amp;hellip; après tant d&amp;rsquo;enthousiasme, je me sens vraiment con. La direction a décidé que notre projet était un échec&amp;nbsp;!&lt;/p&gt;
 
 &lt;hr /&gt;

@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="theme-color" content="#263238">
+
+<meta name="generator" content="Hugo 0.18.1" />
+
+<link rel="apple-touch-icon" href="https://etiennecharignon.github.io/ma-valise-de-programmeur/images/logo.png">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/index.xml">
+
+<link rel="canonical" href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">
+
+
+    
+    <link href="//fonts.googleapis.com/css?family=Noto+Sans:400,700|Montserrat" rel="stylesheet">
+    
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+    <title>Posts - Ma valise de programmeur</title>
+    
+    <style>
+      html { font-size: 18px;}@media (max-width: 768px) { html { font-size: 15px; }}body { font-family: "Luxi sans", "Lucida Grande", Lucida, "Lucida Sans Unicode", sans-serif; font-size: inherit; font-weight: 300; line-height: 1rem; background-color: #eceff1;}p { margin: 0;}a { color: #4caf50;}a:hover { text-decoration: none; color: #388e3c;}ul,ol { margin: 0; padding: 0;}h1, h2, h3, h4, h5, h6 { margin: 0; font-weight: 700;}h1 { font-size: 1.8rem; line-height: 2rem; margin: 1.5rem 0; }h2 { font-size: 1.4rem; line-height: 2rem; margin: 1.5rem 0; }h3 { font-size: 1.2rem; line-height: 1.5rem; margin: 1.5rem 0; }h4, h5, h6 { font-size: 1rem; line-height: 1.5rem; margin: 1.5rem 0; }main { display: block;}.content-inner { padding: 1rem 2rem;}.content-inner.thin { padding: .5rem 1rem;}@media (max-width: 768px) { .content-inner { padding: 1rem; }}/* Override */.container { position: relative;}.l-header .container { display: inline-block;}/* Parts:layouts */.l-header { background-color: #fff; margin-bottom: 1rem; padding: 1rem 0; text-align: center;}.l-footer { font-size: .8rem; padding: 1.5rem 0;}/* Parts:menu */.p-menu { position: absolute; right: 15px; top: 0;}/* Parts:terms */.p-terms { list-style: none;}.p-terms .terms-title { margin: 0;}.p-terms a { display: inline-block; padding: .25rem 0;}.p-terms.inline li { display: inline-block; font-size: .8rem;}.p-terms.inline li::after { content: ',';}.p-terms.inline li:last-child::after { content: '';}/* Parts:paging */.p-paging { margin-bottom: 1.5rem; text-align: center;}.p-paging a { display: inline-block; padding: 1rem 1.5rem; margin: 0 .5rem; background-color: #cfd8dc; color: #263238;}/* Parts:section */section { margin-bottom: 1.5rem;}section>header { font-size: .8rem; font-weight: 700; margin-bottom: .5rem; text-transform: uppercase;}section>header a { color: #333; text-decoration: underline;}section.article-footer { margin-bottom: 1rem;}section.article-footer>header { margin-bottom: 0;}/* Parts:share */.p-share { min-width: 100%; margin-bottom: 1.5rem;}.p-share .share-inner { display: table; table-layout: fixed; width: 100%; border-spacing: .25rem;}.p-share a { display: table-cell; text-align: center; font-weight: 700; font-size: .7rem; padding: .5rem 0; color: #fff; border-radius: 5px;}.p-share a.ht { background-color: #00a4de; border-bottom: 2px solid #0083b1; }.p-share a.fb { background-color: #3b5998; border-bottom: 2px solid #2f4779; }.p-share a.tw { background-color: #1da1f2; border-bottom: 2px solid #1780c1; }.p-share a.gp { background-color: #dd4b39; border-bottom: 2px solid #b03c2d; }.p-share a.ln { background-color: #00c300; border-bottom: 2px solid #009c00; }.p-share a.ht::before { content: 'Hatena'; }.p-share a.fb::before { content: 'Facebook'; }.p-share a.tw::before { content: 'Twitter'; }.p-share a.gp::before { content: 'Google+'; }.p-share a.ln::before { content: 'LINE'; }/* Parts:logo */.h-logo { font-family: 'Montserrat', sans-serif;}.p-logo { display: inline-block; text-transform: uppercase;}.p-logo a { display: inline-block; font-size: 1.4rem; line-height: 2rem; color: #000;}.p-logo a img { width: 2rem; margin-right: 0.5rem;}/* Parts:crumb */.p-crumb ol { list-style: none; margin-bottom: 1rem;}.p-crumb li { display: inline; margin-right: .25rem; font-size: .8rem; color: #607d8b;}.p-crumb li::after { content: '/'; margin-left: .25rem;}.p-crumb li:last-child::after { content: '';}/* Parts:facts */.p-facts { list-style: none; font-size: .8rem; margin-bottom: 1rem;}.p-facts li { display: inline-block; margin-right: .5rem; color: #90a4ae;}.p-facts li i { margin-right: .5rem; color: #cfd8dc;}/* Parts:article */article { background-color: #fff;}article .title { margin: 0; margin-bottom: .5rem; font-weight: 700;}article .title a { color: #000;}article .thumb { display: none; background-position: center; background-size: contain; background-repeat: no-repeat;}article .summary { margin-bottom: .5rem; max-height: 5rem; overflow: hidden;}article.single .thumb { height: 18rem; margin-bottom: 1rem;}@media (max-width: 768px) { article.single .thumb { height: 12rem; }}article.li { margin-bottom: 1rem;}li { list-style-type: square; line-height: 1.5rem;}article.li .thumb { height: 7.5rem; margin-bottom: .5rem;}article.li.sm { background-color: transparent; margin-bottom: 0;}article.li.sm>header { padding: .5rem 0;}article.li.sm .title { font-size: .7rem; line-height: 1rem; margin-bottom: .25rem;}article.li.sm .p-facts { font-size: .5rem; margin-bottom: 0;}article.li.sm .thumb { float: left; margin-right: .5rem; height: 3rem; width: 3rem;}.article-body h2 { padding: 1rem 0; border-bottom: 2px solid #eceff1;}.article-body h2:first-child { margin-top: 0; }.article-body h3 { color: #428bca;}.article-body h4 { border-left: solid .25rem #428bca; padding: 0 .5rem;}.article-body p { margin: 1.5rem 0; line-height: 1.5rem;}.article-body a { text-decoration: underline;}.article-body ul,.article-body ol { padding-left: 1.5rem;}.article-body code { display: inline-block; font-family: Menlo, consolas, monospace; font-size: .8rem; padding: 0 .5rem; line-height: 1.5rem;}.article-body pre { margin: 1.5rem 0; padding: 0; font-size: .8rem; border: none; border-radius: 0;}.article-body pre code { display: block; line-height: 1rem; padding: 1rem;}.article-body blockquote { margin: 1.5rem 0; padding: .5rem 0; font-size: .8rem; border-top: 1px solid #eceff1; border-bottom: 1px solid #eceff1; color: #607d8b;}.article-body blockquote p { margin: .5rem 0; line-height: 1rem;}.article-body strong { box-shadow: 0 -.5rem 0 0 #90caf9 inset;}.chapo, .chapo a { font-style: normal; font-weight: 700; color: #03a9f4;}.article-body em { font-style: italic; line-height: 1.5rem;}.article-body figure { margin: 1.5rem 0; }.article-body figure img { max-width: 100%; }.article-body figure.center { text-align: center;}.article-body figure.left,.article-body figure.right { margin-top: 0;}.article-body figure.left { float: left; margin-right: 1rem; }.article-body figure.right { float: right; margin-left: 1rem; }@media (max-width: 768px) { .article-body figure.left, .article-body figure.right { float: none; margin: 0; width: auto; height: auto; }}.article-body figcaption { padding: .5rem 0; font-size: .8rem; text-align: center;}.article-body figcaption a { color: #263238;}
+      
+      
+    </style>
+  </head>
+
+  <body>
+    
+    
+    
+
+    <header class="l-header">
+      <div class="container">
+        <div class="p-logo">
+          <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/" class="h-logo">
+            <img src="https://etiennecharignon.github.io/ma-valise-de-programmeur//images/siteon0.png" />
+            Ma valise de programmeur
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="container">
+        
+<div class="row">
+  <div class="col-md-8">
+
+    
+    <header class="p-page-title">
+      <h1 class="title">Posts</h1>
+    </header>
+    
+
+    <div class="row">
+      
+      <div class="col-sm-6 col-xs-12"><article class="li">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_96/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton96.jpg);"></a>
+  <div class="content-inner thin">
+    <h2 class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_96/">Agile Open France 2010</a></h2>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2010-01-19T15:15:22JST">19/01/2010</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+      
+    </ul>
+
+    <div class="summary">Les 20-21-22 janvier 2010 je serais à la conférence Agile Open France en Alsace.
+Agile Open est une conférence sur le mode Open Space dont le contenu des sessions n&rsquo;est pas définit à l&rsquo;avance mais pendant la conférence, par les participants.
+Cette conférence en français sera une occasion de réunir des personnes intéressées par l&rsquo;agilité pour échanger et réfléchir sur le sujet dans le cadre tranquille d&rsquo;un charmant hôtel alsacien.</div>
+  </div>
+</article>
+</div>
+      
+      
+      <div class="col-sm-6 col-xs-12"><article class="li">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_95/" class="thumb"></a>
+  <div class="content-inner thin">
+    <h2 class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_95/">Un logiciel se construit par le toit</a></h2>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2009-12-20T23:19:21JST">20/12/2009</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+      
+    </ul>
+
+    <div class="summary">&ndash; &ldquo;Allons, un peu de bon sens&nbsp;! Pour fabriquer une maison, il faut commencer par les fondations, puis faire les murs et ensuite seulement vous pouvez poser le toit. On ne peut pas commencer par le toit&nbsp;!&rdquo;
+En effet, la force d&rsquo;attraction gravitationnelle nous oblige à commencer par les fondations. Et il faut qu&rsquo;elles soient bonnes puisque le reste de la maison va ensuite tenir en équilibre dessus.
+Le problème, c&rsquo;est que quand on applique cette métaphore au développement logiciel, il n&rsquo;y a pas de force d&rsquo;attraction gravitationnelle&nbsp;!</div>
+  </div>
+</article>
+</div>
+      <div class="col-sm-12"></div>
+      
+      <div class="col-sm-6 col-xs-12"><article class="li">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_93/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton93.jpg);"></a>
+  <div class="content-inner thin">
+    <h2 class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_93/">Becoming a Technical Leader: An Organic Problem-Solving Approach</a></h2>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2009-11-08T22:49:02JST">08/11/2009</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+      
+    </ul>
+
+    <div class="summary">par Gerald M. Weinberg, edition Dorset House Qu&rsquo;est-ce qui distingue un leader technique &ldquo;naturel&rdquo; d&rsquo;un leader technique &ldquo;designé&rdquo;. Comment devenir un bon leader technique. Ce livre ne vous donnera pas une recette toute faite évidement, mais il contient de nombreux modèles (MOI, Myers-Briggs, &hellip;), un certain nombre de pistes de reflexions ainsi que des exercices.</div>
+  </div>
+</article>
+</div>
+      
+      
+      <div class="col-sm-6 col-xs-12"><article class="li">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_92/" class="thumb"></a>
+  <div class="content-inner thin">
+    <h2 class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_92/">Scrum &#43; XP ?</a></h2>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2009-10-22T22:30:22JST">22/10/2009</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+      
+    </ul>
+
+    <div class="summary">Connaissez-vous la problématique théologique suivante: Dieu reconnaît-il les hommes sur leurs actes ou les aime-t-il pour ce qu&rsquo;ils sont&nbsp;? En d&rsquo;autres termes, les hommes ont-ils une âme&nbsp;?
+En fait, je ne suis pas sûr que même les prêtres puissent répondre. Il me semble que cela dépend des religions, certaines ayant choisi de ne juger que sur les actes, d&rsquo;autres défendant au contraire l&rsquo;existence de l&rsquo;âme.
+Je me rend compte qu&rsquo;il existe un parallelle en ce qui concerne les méthodes de travail.</div>
+  </div>
+</article>
+</div>
+      <div class="col-sm-12"></div>
+      
+      <div class="col-sm-6 col-xs-12"><article class="li">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_91/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton91.jpg);"></a>
+  <div class="content-inner thin">
+    <h2 class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_91/">Agile Tour Paris 2009</a></h2>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2009-10-14T22:59:11JST">14/10/2009</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+      
+    </ul>
+
+    <div class="summary">Le 15 Octobre, j&rsquo;irai assister à la session parisienne de l&rsquo;Agile Tour édition 2009. J&rsquo;ai l&rsquo;impression, à regarder le programme, que l&rsquo;agilité prend une sacrée tournure &ldquo;main stream&rdquo;.
+Quelques exemples: - Illusions et Désillusions. - Rétrospective: l’amélioration continue apprivoisée&nbsp;! - Planification Agile par la pratique - L’Agilité s’impose dans toute l’entreprise. - Organizational transition to Agile to improve development performances. - Mise en oeuvre de SCRUM / XP dans un contexte d&rsquo;évaluation CMMI niveau 2 - etc.</div>
+  </div>
+</article>
+</div>
+      
+      
+      <div class="col-sm-6 col-xs-12"><article class="li">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_90/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton90.jpg);"></a>
+  <div class="content-inner thin">
+    <h2 class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_90/">Comment se faire des amis</a></h2>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2009-10-14T22:31:58JST">14/10/2009</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+      
+    </ul>
+
+    <div class="summary">par Dale Carnegie Ce livre est un des premiers, sinon le premier livre sur l&rsquo;amélioration personnelle. Ne vous fiez pas trop au titre à la consonance un peu ringarde, ce livre est truffé d&rsquo;idées simples pour mieux se comporter et devenir quelqu&rsquo;un de &ldquo;social&rdquo;.</div>
+  </div>
+</article>
+</div>
+      <div class="col-sm-12"></div>
+      
+      <div class="col-sm-6 col-xs-12"><article class="li">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_83/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton83.jpg);"></a>
+  <div class="content-inner thin">
+    <h2 class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_83/">CITCON Europe 2009 in Paris, France. 18 et 19 septembre.</a></h2>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2009-09-14T22:56:35JST">14/09/2009</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+      
+    </ul>
+
+    <div class="summary"> Vendredi soir débutera la conférence CITCON Paris1! C&rsquo;est une conférence organisée en forum ouvert (j&rsquo;apprécie beaucoup ce format). Quand on regarde la liste des personnes inscrites, ça promet d&rsquo;être très interessant. Il va falloir que je dérouille un peu mon anglais&hellip;
+http://www.citconf.com/paris2009/
+ Continuous Integration and Testing Conference [return]   </div>
+  </div>
+</article>
+</div>
+      
+      
+      <div class="col-sm-6 col-xs-12"><article class="li">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_86/" class="thumb"></a>
+  <div class="content-inner thin">
+    <h2 class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_86/">Elle booste ma suite de tests ?</a></h2>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2009-06-24T22:55:34JST">24/06/2009</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+      
+    </ul>
+
+    <div class="summary">Il m&rsquo;est souvent arrivé de parler sur ce blog d&rsquo;automatisation des tests. Ces tests qui finissent par se rassembler par centaines constituent ce que l&rsquo;on appelle la &ldquo;suite de test&rdquo;.
+Au fur et à mesure que le projet grandit, cette suite devient de plus en plus longue à exécuter&hellip; En fait si on n&rsquo;y prend pas garde, elle dépassera même rapidement les 10 minutes puis&hellip; 20&hellip; Mais en fait, des choses bien plus embêtantes seront apparues avant d&rsquo;en arriver là.</div>
+  </div>
+</article>
+</div>
+      <div class="col-sm-12"></div>
+      
+      <div class="col-sm-6 col-xs-12"><article class="li">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_85/" class="thumb"></a>
+  <div class="content-inner thin">
+    <h2 class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_85/">L&#39;agilité ? Est-ce vraiment si efficace qu&#39;on le dit ?</a></h2>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2009-06-04T23:06:37JST">04/06/2009</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+      
+    </ul>
+
+    <div class="summary">&ndash; Tiens salut Eric
+&ndash; Eh&nbsp;! salut Stéphane, comment vas-tu&nbsp;?
+&ndash; Ah&nbsp;! je suis un peu déprimé en ce moment&nbsp;!
+&ndash; Ah bon&nbsp;? C&rsquo;est à cause de la crise&nbsp;?
+&ndash; La crise&nbsp;? non&nbsp;! Du travail j&rsquo;en ai, et j&rsquo;en suis même très content. En fait je viens de terminer une expérience passionnante. Nous avons expérimenté les méthodes agiles dans mon entreprise. C&rsquo;est extraordinaire&nbsp;! J&rsquo;aime à nouveau mon métier de programmeur.</div>
+  </div>
+</article>
+</div>
+      
+      
+      <div class="col-sm-6 col-xs-12"><article class="li">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_84/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton84.png);"></a>
+  <div class="content-inner thin">
+    <h2 class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_84/">XP-Day 2009 Paris</a></h2>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2009-05-16T16:56:55JST">16/05/2009</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+      
+    </ul>
+
+    <div class="summary">Il reste encore quelques places pour assister à la conférence XP-Day, la conférence agile sur les méthodes agiles, les 25 et 26 mai prochains à Paris.
+J&rsquo;y présenterai un retour d&rsquo;expérience d&rsquo;un projet que nous avons mené en 2008 avec la méthode SCRUM.
+Le titre exact de ma présentation est&nbsp;: &ldquo;Pour ceux qui pensent que agile rime avec absence de spécification.&rdquo;</div>
+  </div>
+</article>
+</div>
+      <div class="col-sm-12"></div>
+      
+    </div>
+
+    
+<nav class="p-paging">
+  
+  <a href="/ma-valise-de-programmeur/post/page/2/" rel="prev" class="prev">Précedent</a>
+  
+
+  
+  <a href="/ma-valise-de-programmeur/post/page/4/" rel="next" class="next">Suivant</a>
+  
+</nav>
+
+
+  </div>
+  <div class="col-md-4">
+    <aside class="site">
+
+  
+  <section>
+    <header>catégories</header>
+    <div>
+      <ul class="p-terms">
+        <li><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%c3%a9gories/essais">essais</a></li><li><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%c3%a9gories/conf%C3%A9rences">conférences</a></li><li><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%c3%a9gories/biblioth%C3%A8que">bibliothèque</a></li><li><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%c3%a9gories/cahier-du-jour">cahier-du-jour</a></li><li><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%c3%a9gories/dossiers">dossiers</a></li>
+      </ul>
+    </div>
+  </section>
+  
+  <section>
+    <header>tags</header>
+    <div>
+      <ul class="p-terms">
+        
+      </ul>
+    </div>
+  </section>
+  
+
+  <section>
+    <header>articles récents</header>
+    <div>
+      <div class="row">
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_118/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton118.png);"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_118/">Animer vos rétrospectives avec &#34;le conseil&#34;</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2015-08-05T22:47:22JST">05/08/2015</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_117/" class="thumb"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_117/">Vers une gestion de projet distribuée ?</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2013-08-25T23:00:53JST">25/08/2013</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        <div class="col-sm-12"></div>
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_115/" class="thumb"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_115/">Dans cette station de ski, les pistes rouges sont trop faciles !</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2013-05-20T22:55:10JST">20/05/2013</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_113/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton113.jpg);"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_113/">Retour d&#39;expérience : Forfait Agile</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2013-04-09T10:36:57JST">09/04/2013</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        <div class="col-sm-12"></div>
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_109/" class="thumb"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_109/">Une image du travail d&#39;équipe</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2013-04-09T10:33:30JST">09/04/2013</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_112/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton112.png);"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_112/">Retour d&#39;expérience : Comment on a utilisé FitNesse et comment ça a remplacé nos tests unitaires</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2013-02-26T13:54:37JST">26/02/2013</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        <div class="col-sm-12"></div>
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_111/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton111.png);"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_111/">Agile Grenoble 2012</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2012-09-19T10:56:13JST">19/09/2012</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_108/" class="thumb"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_108/">Les projets : pilotage par la planification ou par la qualité ?</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2011-09-17T22:23:57JST">17/09/2011</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        <div class="col-sm-12"></div>
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_107/" class="thumb"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_107/">Référentiel des concepts, pratiques et compétences agiles</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2011-06-12T23:41:45JST">12/06/2011</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        
+        
+        <div class="col-md-12 col-sm-6 col-xs-12"><article class="li sm">
+  <a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_106/" class="thumb" style="display: block; background-image: url(https://etiennecharignon.github.io/ma-valise-de-programmeur//images/arton106.png);"></a>
+  <header>
+    <div class="title"><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_106/">Agile France 2011 - 26 et 27 mai 2011</a></div>
+
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2011-05-11T23:06:44JST">11/05/2011</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://etiennecharignon.github.io/ma-valise-de-programmeur/post/">post</a></li>
+    </ul>
+  </header>
+</article>
+</div>
+        <div class="col-sm-12"></div>
+        
+      </div>
+    </div>
+  </section>
+
+</aside>
+
+  </div>
+</div>
+
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="container">
+        <aside>
+          <p>Powered by <a href="https://gohugo.io/">Hugo</a>.</p>
+          <p><a href="https://github.com/etienneCharignon/hugo_theme_robust">thème</a> inspiré du thème Robust créé par <a href="https://github.com/dim0627/hugo_theme_robust">Daisuke Tsuji</a>.</p>
+        </aside>
+      </div>
+    </footer>
+
+    <script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript" src="//referentiel.institut-agile.fr/souligneur.js"></script>
+  </body>
+</html>
+

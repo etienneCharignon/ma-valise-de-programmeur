@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Breve-rsses on Ma valise de programmeur</title>
-    <link>http://etienne.charignon.github.io/breve/index.xml</link>
-    <description>Recent content in Breve-rsses on Ma valise de programmeur</description>
+    <title>Breves on Ma valise de programmeur</title>
+    <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/index.xml</link>
+    <description>Recent content in Breves on Ma valise de programmeur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Tue, 20 Oct 2009 17:46:13 +0100</lastBuildDate>
-    <atom:link href="http://etienne.charignon.github.io/breve/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Share rather than enforce practices</title>
-      <link>http://etienne.charignon.github.io/breve/breve_9/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_9/</link>
       <pubDate>Tue, 20 Oct 2009 17:46:13 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/breve/breve_9/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_9/</guid>
       <description>&lt;p&gt;Une citation de Toyota extraite du document &lt;a href=&#34;http://www.leanprimer.com/wiki/index.php?title=Main_Page&#34;&gt;lean primer by Larman and Vodde&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;rdquo;{If we try to simply get everyone to the current standard you are missing opportunities to get better. You are not taking into account how times are changing. There has to be lots of flexibility in allowing creativity along the way… Standards are not developed and then communicated from headquarters to all the plants. Rigid standards will only kill kaizen… It is yokoten every time—share best practices.
@@ -24,10 +24,10 @@
     
     <item>
       <title>Fluidifier le trafic</title>
-      <link>http://etienne.charignon.github.io/breve/breve_8/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_8/</link>
       <pubDate>Thu, 07 May 2009 23:03:26 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/breve/breve_8/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_8/</guid>
       <description>&lt;p&gt;L&amp;rsquo;agilité est à la méthode classique ce que les ronds-points sont aux carrefours.&lt;/p&gt;
 
 &lt;p&gt;Si on y croit très fort, on peut imaginer qu&amp;rsquo;en réglant soigneusement la synchronisation des feux d&amp;rsquo;un carrefour on arrive à y faire passer le trafic d&amp;rsquo;un rond point, mais ce n&amp;rsquo;est pas le cas.&lt;/p&gt;
@@ -36,10 +36,10 @@
     
     <item>
       <title>L&#39;effet des commentaires sur l&#39;interprétation d&#39;un code contenant des erreurs</title>
-      <link>http://etienne.charignon.github.io/breve/breve_6/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_6/</link>
       <pubDate>Thu, 14 Feb 2008 22:27:07 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/breve/breve_6/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_6/</guid>
       <description>
 
 &lt;h2 id=&#34;l-effet-des-commentaires-sur-l-interprétation-d-un-code-contenant-des-erreurs&#34;&gt;L&amp;rsquo;effet des commentaires sur l&amp;rsquo;interprétation d&amp;rsquo;un code contenant des erreurs&lt;/h2&gt;
@@ -58,10 +58,10 @@
     
     <item>
       <title>Produire un logiciel est un apprentissage</title>
-      <link>http://etienne.charignon.github.io/breve/breve_5/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_5/</link>
       <pubDate>Wed, 13 Feb 2008 16:39:30 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/breve/breve_5/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_5/</guid>
       <description>&lt;p&gt;Mettre en place un projet de développement logiciel, c&amp;rsquo;est réunir d&amp;rsquo;une part des gens qui ne savent pas ce qu&amp;rsquo;ils veulent (experts fonctionnels) et d&amp;rsquo;autre part des gens qui ne savent pas comment faire (experts techniques).&lt;/p&gt;
 
 &lt;p&gt;A la fin du projet, chacun en aura appris un peu plus sur son métier.&lt;/p&gt;
@@ -70,10 +70,10 @@
     
     <item>
       <title>Château de cartes</title>
-      <link>http://etienne.charignon.github.io/breve/breve_4/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_4/</link>
       <pubDate>Tue, 15 Jan 2008 17:05:56 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/breve/breve_4/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_4/</guid>
       <description>&lt;p&gt;Un programmeur qui travaille sans tests automatisés est comme un aveugle qui construit un château de cartes.&lt;/p&gt;
 
 &lt;p&gt;C&amp;rsquo;est pour ça qu&amp;rsquo;il devient tout blanc quand le client vient le voir pour une modification tardive des exigences fonctionnelles.&lt;/p&gt;
@@ -82,10 +82,10 @@
     
     <item>
       <title>Spaghetti Bolognaise</title>
-      <link>http://etienne.charignon.github.io/breve/breve_3/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_3/</link>
       <pubDate>Thu, 10 Jan 2008 15:03:39 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/breve/breve_3/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_3/</guid>
       <description>&lt;p&gt;From &lt;a href=&#34;../article_51&#34;&gt;Quality Software Management: congruent action&lt;/a&gt; (p125), by Gerald Weinberg, about the variety-reducing style of management:&lt;/p&gt;
 
 &lt;p&gt;&amp;hellip;As we used to say, developers were treated like &amp;lsquo;coding cattle&amp;rsquo;. If you weren&amp;rsquo;t a good producer, they would get rid of you.&lt;/p&gt;
@@ -96,10 +96,10 @@
     
     <item>
       <title>Comme c&#39;est long d&#39;écrire la spécification !</title>
-      <link>http://etienne.charignon.github.io/breve/breve_2/</link>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_2/</link>
       <pubDate>Fri, 04 Jan 2008 16:18:29 +0100</pubDate>
       
-      <guid>http://etienne.charignon.github.io/breve/breve_2/</guid>
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/breve/breve_2/</guid>
       <description>&lt;p&gt;A partir du moment où la méthode de travail embrasse le changement, il n&amp;rsquo;est plus la peine de se préparer autant avant de commencer. Que de temps gagné sur la longue phase d&amp;rsquo;écriture des spécifications.&lt;/p&gt;
 </description>
     </item>
