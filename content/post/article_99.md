@@ -15,11 +15,11 @@ Encore hier, j'ai passé un temps fou pour trouver la solution à un problème d
 Dans les forums on trouve des tas de solutions toutes plus erronées ou inutiles les unes que les autres.
 
 Voici un petit exemple pour illuster&nbsp;:
-{```
-You could make the OneToMany-side the owning side by removing the "mappedBy" element and setting the @JoinColumn on the ManyToOne-side as "insertable=false" and "updateable=false". You must also add the @JoinColumn on the OneToMany-side. 
 
-This way you don't have to handle the index or the collection by hand and it is equivalent to setting ManyToOne-side to "inverse=false" in .hbm.xml 
-```}
+>You could make the OneToMany-side the owning side by removing the "mappedBy" element and setting the @JoinColumn on the ManyToOne-side as "insertable=false" and "updateable=false". You must also add the @JoinColumn on the OneToMany-side. 
+
+> This way you don't have to handle the index or the collection by hand and it is equivalent to setting ManyToOne-side to "inverse=false" in .hbm.xml 
+
 
 Et je me faisais la réflexion que, en informatique, une bonne documentation, c'est avant tout "des exemples qui marchent".
 

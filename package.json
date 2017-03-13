@@ -1,0 +1,14 @@
+{
+  "name": "ma_valise_de_programmeur",
+  "version": "1.0.0",
+  "main": "convert_to_md.js",
+  "repository": "https://github.com/etienneCharignon/ma-valise-de-programmeur.git",
+  "author": "Étienne Charignon <etienne.charignon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}

@@ -1,11 +1,17 @@
-var maValise = require('./Ma_Valise.json');
 var fs = require('fs');
+var utils = require('./lib/utils.js')
 
-
+var maValise = require('./Ma_Valise.json');
 var articles = maValise.SPIP.spip_articles;
 var breves = maValise.SPIP.spip_breves;
-var docs = maValise.SPIP.spip_documents;
 var rubriques = maValise.SPIP.spip_rubriques;
+
+function getRubrique(id) {
+  return rubriques.find(function (rubrique){
+    return rubrique.id_rubrique == id;
+  });
+}
+
 var extensions = {
   "arton1" : "jpg",
   "arton101" : "png",
@@ -46,77 +52,6 @@ var extensions = {
   "arton97" : "jpg"
 };
 
-function asString(string) {
-  return string.replace(/["]/g, '\\"');
-}
-
-function urlToHtml(string) {
-  return string.replace(/\[([^\]]*)->([^\]]*)\]/g, '<a href="$2">$1</a>')
-    .replace(/\((\d+)\)/g, "(../article_$1)")
-    .replace(/\(breve(\d+)\)/, "(../../breve/breve_$1)")
-  ;
-}
-function urlToMd(string) {
-  return string.replace(/\[([^\]]*)->([^\]]*)\]/g, "[$1]($2)")
-    .replace(/\((\d+)\)/g, "(../article_$1)")
-    .replace(/\(breve(\d+)\)/, "(../../breve/breve_$1)")
-  ;
-}
-
-function getDoc(id) {
-  return docs.find(function (doc){
-    return doc.id_document == id;
-  });
-}
-
-function getRubrique(id) {
-  return rubriques.find(function (rubrique){
-    return rubrique.id_rubrique == id;
-  });
-}
-
-function spipNoteToMdNote(text) {
-  var noteRegexp = /\[\[(.*)\]\]([^\n]*\n)/;
-  var match;
-  var indexNote = 1;
-  while(match = text.match(noteRegexp)) {
-    text = text.replace(noteRegexp, "[^" + indexNote + "]$2\n[^" + indexNote + "]: $1\n");
-    indexNote += 1;
-  }
-  return text;
-}
-
-function spipToMd(string) {
-  var md =  urlToMd(string).replace(/\{\{\{(.+)\}\}\}/g, "## $1")
-    .replace(/\{\{(.+)\}\}/g, "**$1**")
-    .replace(/\{(.+)\}/g, "_$1_")
-    .replace(/##CLEAR##/, "{{% clear %}}")
-    .replace(/ ([?!:;])/g, "&nbsp;$1")
-    .replace(/<\/?code>/g, "```")
-    ;
-  var imageRegexp = /<(img|doc)(\d+)\|?(center|left)?>/;
-  var match;
-  while(match = md.match(imageRegexp)) {
-    var docId = match[2];
-    var doc= getDoc(docId);
-    var attrs ="";
-    if(match[3]) {
-      attrs = ' class="' + match[3] + '"';
-    }
-    if(doc.titre) {
-      attrs += ' caption="' + doc.titre + '"';
-    }
-    md = md.replace(imageRegexp, '{{% img src="images/' + doc.fichier + '"' + attrs + ' %}}')
-  }
-
-  md = spipNoteToMdNote(md);
-  return md;
-}
-
-function removeUrl(string) {
-  return string.replace(/\[([^-]*)->([^\]]*)\]/g, "$1")
-  ;
-}
 
 articles.forEach(function(article) {
   if (article.statut != "publie") {
@@ -125,11 +60,11 @@ articles.forEach(function(article) {
   var content = [];
   content.push("+++");
   content.push('id = ' + article.id_article);
-  content.push('title = "' + asString(article.titre)+'"');
-  content.push('soustitre = "' + asString(article.soustitre) +'"');
+  content.push('title = "' + utils.asString(article.titre)+'"');
+  content.push('soustitre = "' + utils.asString(article.soustitre) +'"');
   content.push('date = "' + article.date.replace(/ /, "T") + "+01:00" +'"');
   content.push('catégories = [ "' +getRubrique(article.id_rubrique).titre+ '" ]');
-  content.push('description = "' + asString(removeUrl(article.descriptif)).replace(/\n/, "")  +'"');
+  content.push('description = "' + utils.asString(utils.removeUrl(article.descriptif)).replace(/\n/, "")  +'"');
   content.push('comments = true');
   var nomImage = 'arton' + article.id_article;
 
@@ -138,8 +73,8 @@ articles.forEach(function(article) {
   }
   content.push("+++");
   content.push("");
-  content.push('<div class="chapo">' + urlToHtml(article.chapo) +'</div>\n');
-  content.push(spipToMd(article.texte));
+  content.push('<div class="chapo">' + utils.urlToHtml(article.chapo) +'</div>\n');
+  content.push(utils.spipToMd(article.texte));
 
   var fileName = "content/post/article_" + article.id_article+ ".md";
   fs.writeFile(fileName,
@@ -161,12 +96,12 @@ breves.forEach(function(breve) {
   var content = [];
   content.push("+++");
   content.push('id = ' + breve.id_breve);
-  content.push('title = "' + asString(breve.titre)+'"');
+  content.push('title = "' + utils.asString(breve.titre)+'"');
   content.push('date = "' + breve.date_heure.replace(/ /, "T") + "+01:00" +'"');
   content.push('catégories = [ "' +getRubrique(breve.id_rubrique).titre+ '" ]');
   content.push("+++");
   content.push("");
-  content.push(spipToMd(breve.texte));
+  content.push(utils.spipToMd(breve.texte));
 
   var fileName = "content/breve/breve_" + breve.id_breve+ ".md";
   fs.writeFile(fileName,

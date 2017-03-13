@@ -14,8 +14,7 @@ Bonjour la liste[^1],
 
 [^1]: http://fr.groups.yahoo.com/group/xp-france/message/8909
 
-"...{Le découpage en plusieurs équipes me semble avant tout une affaire de
-contexte}..."[^2]
+"..._Le découpage en plusieurs équipes me semble avant tout une affaire de contexte_..."[^2]
 
 [^2]: Olivier, si tu lis ce message, pardonne moi d'avoir repris ta phrase pour illustrer mon propos. Il ne s'agit pas d'un message personnel. Cette idée de contexte a fait nettement consensus sur la liste
 
