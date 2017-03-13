@@ -134,12 +134,13 @@
 
 <p>Dans les forums on trouve des tas de solutions toutes plus erronées ou inutiles les unes que les autres.</p>
 
-<p>Voici un petit exemple pour illuster&nbsp;:
-{```
-You could make the OneToMany-side the owning side by removing the &ldquo;mappedBy&rdquo; element and setting the @JoinColumn on the ManyToOne-side as &ldquo;insertable=false&rdquo; and &ldquo;updateable=false&rdquo;. You must also add the @JoinColumn on the OneToMany-side.</p>
+<p>Voici un petit exemple pour illuster&nbsp;:</p>
 
-<p>This way you don&rsquo;t have to handle the index or the collection by hand and it is equivalent to setting ManyToOne-side to &ldquo;inverse=false&rdquo; in .hbm.xml
-```}</p>
+<blockquote>
+<p>You could make the OneToMany-side the owning side by removing the &ldquo;mappedBy&rdquo; element and setting the @JoinColumn on the ManyToOne-side as &ldquo;insertable=false&rdquo; and &ldquo;updateable=false&rdquo;. You must also add the @JoinColumn on the OneToMany-side.</p>
+
+<p>This way you don&rsquo;t have to handle the index or the collection by hand and it is equivalent to setting ManyToOne-side to &ldquo;inverse=false&rdquo; in .hbm.xml</p>
+</blockquote>
 
 <p>Et je me faisais la réflexion que, en informatique, une bonne documentation, c&rsquo;est avant tout &ldquo;des exemples qui marchent&rdquo;.</p>
 
