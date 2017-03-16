@@ -1,0 +1,10 @@
+.highlighted {
+	border-bottom: 1px dotted;
+}
+.highlighted a {
+        text-decoration: none;
+}
+#desc h2 {
+        font-size: 0.8rem;
+        margin: 0;
+}
