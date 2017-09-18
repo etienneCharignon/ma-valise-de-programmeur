@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essais on Ma valise de programmeur</title>
+    <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/categories/essais/</link>
+    <description>Recent content in Essais on Ma valise de programmeur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 25 Aug 2013 23:00:53 +0100</lastBuildDate>
+    
+	<atom:link href="https://etiennecharignon.github.io/ma-valise-de-programmeur/categories/essais/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vers une gestion de projet distribuée ?</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_117/</link>
+      <pubDate>Sun, 25 Aug 2013 23:00:53 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_117/</guid>
+      <description>Quel est le mode d&amp;rsquo;organisation le plus efficace&amp;nbsp;? Centralisation ou distribution&amp;nbsp;? Face a la complexité du monde dans lequel nous vivons deux comportements sont possibles, quand il s&amp;rsquo;agit de choisir un mode d&amp;rsquo;organisation. Que ce soit pour classer des documents, concevoir une architecture logicielle, organiser une grande quantité de données, organiser un travail collectif, organiser une entreprise, ou que sais-je, on peut choisir de mettre en place un point de référence centrale ou pas.</description>
+    </item>
+    
+    <item>
+      <title>Dans cette station de ski, les pistes rouges sont trop faciles !</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_115/</link>
+      <pubDate>Mon, 20 May 2013 22:55:10 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_115/</guid>
+      <description>Des User stories estimées en point de complexité ? Qui n&#39;y comprend rien ? Qu&amp;rsquo;est ce qu&amp;rsquo;une User Story Dans nos projets agiles, nous découpons nos besoins en petites fonctionnalités. Cette liste de fonctionnalités est appelée le Product Backlog (ou &amp;ldquo;carnet de produit&amp;rdquo; comme disent les Quebecois).
+Chaque fonctionnalité est appelée &amp;ldquo;User Story&amp;rdquo;. En francais, on entend parfois &amp;ldquo;Histoire Utilisateur&amp;rdquo;, mais comme tout le monde dit User Story, je vais rester là dessus.</description>
+    </item>
+    
+    <item>
+      <title>Une image du travail d&#39;équipe</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_109/</link>
+      <pubDate>Tue, 09 Apr 2013 10:33:30 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_109/</guid>
+      <description>Est-ce que vous connaissez cette expérience qui a été mené par IndustrialLogic pour promouvoir la programmation en binôme1&amp;nbsp;?
+Pair Drawing
+Cette expérience consiste à mettre en lumière la différence entre le travail individuel et le travail en pair, par la création d&amp;rsquo;un dessin.
+Voici les deux premiers dessins mis en avant sur le site&amp;nbsp;:  Solo Drawing    Pair Drawing   Par cette comparaison il apparait clairement qu&amp;rsquo;un travail à deux est beaucoup plus riche qu&amp;rsquo;un travail en solo.</description>
+    </item>
+    
+    <item>
+      <title>Les projets : pilotage par la planification ou par la qualité ?</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_108/</link>
+      <pubDate>Sat, 17 Sep 2011 22:23:57 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_108/</guid>
+      <description>Je pourrais vous parler de gestion de projet informatique mais j&amp;rsquo;ai eu récemment, pendant une sieste, l&amp;rsquo;envie d&amp;rsquo;utiliser une autre sorte de projet: une pièce de théâtre1.
+Au départ de notre projet nous commençons par chercher un texte. Nous parcourons les bibliothèques publiques ou les étagères de nos logements, voire internet pour trouver le texte d&amp;rsquo;une pièce qui nous plaise.
+Supposons pour l&amp;rsquo;exemple que l&amp;rsquo;on ait trouvé une pièce en 2 actes de 3 scènes.</description>
+    </item>
+    
+    <item>
+      <title>Référentiel des concepts, pratiques et compétences agiles</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_107/</link>
+      <pubDate>Sun, 12 Jun 2011 23:41:45 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_107/</guid>
+      <description>Ca y est, j&amp;rsquo;ai enfin fait l&amp;rsquo;effort d&amp;rsquo;installer sur mon blog le souligneur de l&amp;rsquo;institut agile.
+A partir de maintenant, pour tous les messages écrit et à venir, s&amp;rsquo;ils contiennent un mot au répertoire du référentielle de pratiques, il sera automatiquement souligné et une définition de référence en sera donnée.
+Par exemple&amp;nbsp;: Programmation en binômes
+Pour installer cet outil, rien de plus simple. Il suffit d&amp;rsquo;ajouter le javascript suivant dans toutes les pages de votre site.</description>
+    </item>
+    
+    <item>
+      <title>Meuhhh !</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_104/</link>
+      <pubDate>Thu, 16 Dec 2010 22:19:00 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_104/</guid>
+      <description>Je viens d&amp;rsquo;intégrer depuis peu une équipe toute jeune qui a bien du mal à conduire ses réunions. En particulier, sous le feu de la passion, les discussions avaient tendance à partir dans toutes les directions.
+En bon consultant agile, j&amp;rsquo;ai proposé d&amp;rsquo;utiliser une boite à meuh&amp;nbsp;!
+Levée de boucliers&amp;nbsp;! Ah non, c&amp;rsquo;est ridicule et ça fait du bruit, on va se faire remarquer.
+Bon! La proposition n&amp;rsquo;a pas été acceptée&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Programmer est une activité sociale</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_88/</link>
+      <pubDate>Wed, 15 Dec 2010 16:48:15 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_88/</guid>
+      <description>Les informaticiens aiment communiquer. Ils n&amp;rsquo;ont pas les lunettes sales comme on l&amp;rsquo;entend dire parfois.
+Quand j&amp;rsquo;étais étudiant (en informatique), nous nous retrouvions par nécessité dans les salles informatique pour travailler. En effet il était difficile à l&amp;rsquo;époque de travailler chez soi car les ordinateurs étaient encore trop chers pour la plus part d&amp;rsquo;entre nous. C&amp;rsquo;était plaisant de partager notre peine (les solutions sont souvent abstraites et difficile à comprendre), nos peurs de l&amp;rsquo;échec et notre passion communes.</description>
+    </item>
+    
+    <item>
+      <title>Une équipe agile, une équipe avec du caractère.</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_103/</link>
+      <pubDate>Mon, 01 Nov 2010 22:17:04 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_103/</guid>
+      <description>Voici quelques interrogations que l&amp;rsquo;on entend parfois à propos des équipes agiles.
+Est-ce qu&amp;rsquo;il n&amp;rsquo;y a pas malgré tout un chef&amp;nbsp;?
+Oui&amp;nbsp;! En tout cas, il y a un ou des leaders.
+Les personnes expérimentées ne sont-elles pas forcément plus influentes&amp;nbsp;?
+Oui&amp;nbsp;!
+Est-ce qu&amp;rsquo;on peut vraiment faire binômer un développeur senior avec un débutant&amp;nbsp;? 
+Non, sans doute pas très longtemps.
+En tant qu&amp;rsquo;analyste métier, quelle est ma place&amp;nbsp;?</description>
+    </item>
+    
+    <item>
+      <title>RT @Galilée la terre tourne autour du soleil</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_102/</link>
+      <pubDate>Tue, 14 Sep 2010 21:50:45 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_102/</guid>
+      <description>Bonjour la liste1,
+&amp;rdquo;&amp;hellip;Le découpage en plusieurs équipes me semble avant tout une affaire de contexte&amp;hellip;&amp;rdquo;2
+Si Galilée avait posté sur cette liste que la terre tourne autour du soleil, nous lui aurions sans doute répondu&amp;nbsp;: &amp;ldquo;ça dépend du contexte mon cher Galilée&amp;rdquo; (enfin on aurait parlé italien évidement).
+Et ce n&amp;rsquo;est pas faux, tout est relatif et dans un système composé uniquement d&amp;rsquo;une terre et d&amp;rsquo;un soleil, bien malin celui qui pourra dire qui tourne autour de qui.</description>
+    </item>
+    
+    <item>
+      <title>Intégration Continue</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_100/</link>
+      <pubDate>Tue, 06 Apr 2010 16:19:11 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_100/</guid>
+      <description>En voyant ce titre, je suis sûr que certains vont s&amp;rsquo;attendre à ce que j&amp;rsquo;explique lequel d&amp;rsquo;Hudson ou d&amp;rsquo;un autre outil est le meilleur&amp;nbsp;! je vous le dis tout de suite, ces personnes peuvent passer à autre chose et augmenter le taux de rebond dans mes statistiques google analytics.
+Ce que je voudrais expliquer ici, c&amp;rsquo;est pourquoi il faut faire de l&amp;rsquo;intégration continue. A noter que l&amp;rsquo;intégration continue dont je parle ici n&amp;rsquo;est pas simplement une question informatique.</description>
+    </item>
+    
+    <item>
+      <title>Le code est la documentation</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_99/</link>
+      <pubDate>Thu, 18 Feb 2010 22:53:25 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_99/</guid>
+      <description>Encore hier, j&amp;rsquo;ai passé un temps fou pour trouver la solution à un problème de configuration du mapping de ma base de données avec Hibernate&amp;nbsp;!
+Dans les forums on trouve des tas de solutions toutes plus erronées ou inutiles les unes que les autres.
+Voici un petit exemple pour illuster&amp;nbsp;:
+ You could make the OneToMany-side the owning side by removing the &amp;ldquo;mappedBy&amp;rdquo; element and setting the @JoinColumn on the ManyToOne-side as &amp;ldquo;insertable=false&amp;rdquo; and &amp;ldquo;updateable=false&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Un logiciel se construit par le toit</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_95/</link>
+      <pubDate>Sun, 20 Dec 2009 23:19:21 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_95/</guid>
+      <description>&amp;ndash; &amp;ldquo;Allons, un peu de bon sens&amp;nbsp;! Pour fabriquer une maison, il faut commencer par les fondations, puis faire les murs et ensuite seulement vous pouvez poser le toit. On ne peut pas commencer par le toit&amp;nbsp;!&amp;rdquo;
+En effet, la force d&amp;rsquo;attraction gravitationnelle nous oblige à commencer par les fondations. Et il faut qu&amp;rsquo;elles soient bonnes puisque le reste de la maison va ensuite tenir en équilibre dessus.
+Le problème, c&amp;rsquo;est que quand on applique cette métaphore au développement logiciel, il n&amp;rsquo;y a pas de force d&amp;rsquo;attraction gravitationnelle&amp;nbsp;!</description>
+    </item>
+    
+    <item>
+      <title>Scrum &#43; XP ?</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_92/</link>
+      <pubDate>Thu, 22 Oct 2009 22:30:22 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_92/</guid>
+      <description>Connaissez-vous la problématique théologique suivante: Dieu reconnaît-il les hommes sur leurs actes ou les aime-t-il pour ce qu&amp;rsquo;ils sont&amp;nbsp;? En d&amp;rsquo;autres termes, les hommes ont-ils une âme&amp;nbsp;?
+En fait, je ne suis pas sûr que même les prêtres puissent répondre. Il me semble que cela dépend des religions, certaines ayant choisi de ne juger que sur les actes, d&amp;rsquo;autres défendant au contraire l&amp;rsquo;existence de l&amp;rsquo;âme.
+Je me rend compte qu&amp;rsquo;il existe un parallelle en ce qui concerne les méthodes de travail.</description>
+    </item>
+    
+    <item>
+      <title>Elle booste ma suite de tests ?</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_86/</link>
+      <pubDate>Wed, 24 Jun 2009 22:55:34 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_86/</guid>
+      <description>Il m&amp;rsquo;est souvent arrivé de parler sur ce blog d&amp;rsquo;automatisation des tests. Ces tests qui finissent par se rassembler par centaines constituent ce que l&amp;rsquo;on appelle la &amp;ldquo;suite de test&amp;rdquo;.
+Au fur et à mesure que le projet grandit, cette suite devient de plus en plus longue à exécuter&amp;hellip; En fait si on n&amp;rsquo;y prend pas garde, elle dépassera même rapidement les 10 minutes puis&amp;hellip; 20&amp;hellip; Mais en fait, des choses bien plus embêtantes seront apparues avant d&amp;rsquo;en arriver là.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;agilité ? Est-ce vraiment si efficace qu&#39;on le dit ?</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_85/</link>
+      <pubDate>Thu, 04 Jun 2009 23:06:37 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_85/</guid>
+      <description>&amp;ndash; Tiens salut Eric
+&amp;ndash; Eh&amp;nbsp;! salut Stéphane, comment vas-tu&amp;nbsp;?
+&amp;ndash; Ah&amp;nbsp;! je suis un peu déprimé en ce moment&amp;nbsp;!
+&amp;ndash; Ah bon&amp;nbsp;? C&amp;rsquo;est à cause de la crise&amp;nbsp;?
+&amp;ndash; La crise&amp;nbsp;? non&amp;nbsp;! Du travail j&amp;rsquo;en ai, et j&amp;rsquo;en suis même très content. En fait je viens de terminer une expérience passionnante. Nous avons expérimenté les méthodes agiles dans mon entreprise. C&amp;rsquo;est extraordinaire&amp;nbsp;! J&amp;rsquo;aime à nouveau mon métier de programmeur.</description>
+    </item>
+    
+    <item>
+      <title>Le binômage par l&#39;illustration</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_82/</link>
+      <pubDate>Thu, 16 Apr 2009 23:09:55 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_82/</guid>
+      <description>EQUIPE VERSUS GROUPE   
+Est-il nécessaire d&amp;rsquo;ajouter quelque chose&amp;nbsp;?
+Ce dessin d&amp;rsquo;Emmanuel Chenu était sans doute destiné à en dire bien plus, mais je l&amp;rsquo;ai trouvé parfait pour illustrer une fois de plus la question du binômage. Celui-ci est une façon de souder une équipe. Il crée l&amp;rsquo;alignement des personnes pour qu&amp;rsquo;elles travaillent de manière unifiée vers un même but.
+Si votre binômage se passe mal, que les membres de l&amp;rsquo;équipe détestent ça, pensez à leur rappeler cet objectif et à mettre en lumière ce qu&amp;rsquo;a apporté cette pratique sur la connaissance des uns et des autres.</description>
+    </item>
+    
+    <item>
+      <title>Grenouille ou blaireau ?</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_78/</link>
+      <pubDate>Sat, 21 Mar 2009 21:34:22 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_78/</guid>
+      <description>J&amp;rsquo;ai discuté récemment avec quelques collègues de Valtech du modèle de préférence psychologique de Myers-Briggs MBTI. Les 4 axes proposés qui conduisent à 16 profils différents donnent une palette subtile et riche de possibilités.
+Suite à une discussion avec mon cousin Laurent le week-end dernier, je me suis fait la réflexion suivante au sujet du premier axe&amp;nbsp;: Orientation de l&amp;rsquo;énergie&amp;nbsp;: Extraversion E / Introversion I
+Extraversion et introversion sont des mots très usés dont le sens qui est utilisé ici de manière précise me donne beaucoup de difficulté.</description>
+    </item>
+    
+    <item>
+      <title>Software Craftsmanship</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_80/</link>
+      <pubDate>Tue, 10 Mar 2009 23:23:28 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_80/</guid>
+      <description>  Quelques liens au sujet d&amp;rsquo;un nouveau manifeste pour étendre le manifeste agile&amp;nbsp;:
+Manifeste pour l&amp;rsquo;artisanat logiciel Quality is dead (James Bach)
+ http://www.satisfice.com/blog/archives/224  Réponse de Robert Martin&amp;nbsp;: Quality is alive
+ http://blog.objectmentor.com/articles/2009/03/07/quality-its-alive-its-alive  </description>
+    </item>
+    
+    <item>
+      <title>&#34;Je n’ai rien compris, désolé&#34;</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_75/</link>
+      <pubDate>Sun, 08 Mar 2009 23:18:55 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_75/</guid>
+      <description>J&amp;rsquo;écris ce message pour répondre à l&amp;rsquo;inconnu qui a commenté mon cahier du jour
+Ce que j’écris dans mon cahier du jour n’est pas vraiment à destination du public. C&amp;rsquo;est plutôt une réflexion personnelle. C&amp;rsquo;est pourquoi les messages peuvent être assez succins.
+Je trouve amusant que cette personne m&amp;rsquo;ait laissé un message lui-même très (trop) court&amp;nbsp;: &amp;ldquo;Je n&amp;rsquo;ai rien compris, désolé&amp;rdquo;. Rien, vraiment&amp;nbsp;? Il doit bien y avoir quelque chose, j&amp;rsquo;écris en français tout de même&amp;hellip; enfin je m&amp;rsquo;y efforce.</description>
+    </item>
+    
+    <item>
+      <title>Databases overkill !</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_69/</link>
+      <pubDate>Mon, 01 Dec 2008 23:29:48 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_69/</guid>
+      <description>Beaucoup d&#39;applications développées de nos jours souffrent d&#39;avoir été basées à priori sur une architecture avec une base de données. Cette décision systématique est la cause de grand maux. Cela faisait un moment que cette réflexion me démangeait, mais je n&amp;rsquo;arrivais pas à en sortir quelque chose. C&amp;rsquo;est parfois comme ça quand l&amp;rsquo;émotion occupe trop le champ. Comme cela m&amp;rsquo;énerve que les bases de données aient une telle &amp;ldquo;légitimité&amp;rdquo;.
+Et voila que je viens de lire le dernier poste de Martin Fowler.</description>
+    </item>
+    
+    <item>
+      <title>Comment traduire &#34;user story&#34; en français ?</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_74/</link>
+      <pubDate>Mon, 10 Nov 2008 21:58:48 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_74/</guid>
+      <description>Qu&amp;rsquo;est-ce que c&amp;rsquo;est qu&amp;rsquo;une &amp;ldquo;user story&amp;rdquo;&amp;nbsp;? Dans les projets agiles, on ne commence pas par écrire un document de spécification dans une phase initiale qui serait ensuite suivie par une phase de réalisation et enfin de validation. Non. A la place, on initialise une liste de &amp;ldquo;user story&amp;rdquo;, ou &amp;ldquo;histoires utilisateur&amp;rdquo;. Dans la stratégie SCRUM, cette liste s&amp;rsquo;appelle un &amp;ldquo;product backlog&amp;rdquo;. Ces &amp;ldquo;histoires utilisateur&amp;rdquo; sont de petites descriptions très courtes d&amp;rsquo;un besoin utilisateur.</description>
+    </item>
+    
+    <item>
+      <title>Lire du code</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_73/</link>
+      <pubDate>Thu, 02 Oct 2008 21:54:47 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_73/</guid>
+      <description>Qu&amp;rsquo;est-ce qu&amp;rsquo;on apprend en lisant du code&amp;nbsp;?
+Il existe 5 raisons qui font que le code est ce qu&amp;rsquo;il est&amp;nbsp;: - limitation de la machine - limitation du langage - limitation du programmeur - historique - specification (at last!)
+«There are many reasons why programs are built the way they are, although we may fail to recognize the multiplicity of reasons because we usually look at the code from the outside rather than by reading it.</description>
+    </item>
+    
+    <item>
+      <title>Developpement Web en Java !</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_70/</link>
+      <pubDate>Sun, 24 Aug 2008 23:14:26 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_70/</guid>
+      <description>Java bean Spring bean Hibernate bean web bean service bean backing bean &amp;hellip;  Ça y est, j&amp;rsquo;ai une métaphore pour mon application&amp;nbsp;: c&amp;rsquo;est un cassoulet&amp;nbsp;!</description>
+    </item>
+    
+    <item>
+      <title>La programmation defensive n&#39;est pas agile</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_68/</link>
+      <pubDate>Sun, 29 Jun 2008 17:24:19 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_68/</guid>
+      <description>A votre avis, qui est le plus agile&amp;nbsp;? Le chevalier avec ses 90 kg d&amp;rsquo;armure ou le paladin en tunique avec sa hache&amp;nbsp;?
+Supposons qu&amp;rsquo;au cours de l&amp;rsquo;écriture de mon programme je rencontre soudainement le besoin d&amp;rsquo;une fonction d&amp;rsquo;affichage.
+def affiche (a, b)
+Supposons, dans un premier temps, que je sois sûr que cette fonction n&amp;rsquo;est jamais appelée avec des paramètres nuls.
+Deux tactiques sont possibles ici:
+-* Programmation défensive: -** J&amp;rsquo;écris un test unitaire pour vérifier que ma méthode affiche bien a et b dans le cas où ils sont tous les deux non nuls -** J&amp;rsquo;ajoute immédiatement dans le corps de ma fonction, au début, quelques lignes de code pour retourner une exception si l&amp;rsquo;un des deux paramètres est nul1.</description>
+    </item>
+    
+    <item>
+      <title>Dans la vie, on peut parler de ce qu&#39;on ressent.</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_66/</link>
+      <pubDate>Tue, 06 May 2008 23:14:34 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_66/</guid>
+      <description>Ce soir, je lisais un livre très intéressant à mon petit bonhomme&amp;nbsp;: &amp;ldquo;Tous différents&amp;rdquo; par Todd Parr. Je me suis en particulier arrêté sur la page suivante:  On peut parler de ce qu&amp;#39;on ressent   Voila quelque chose qu&amp;rsquo;on oublie trop facilement dans les projets professionnels. Par exemple, que penser d&amp;rsquo;un chef de projet qui insisterait pour être vouvoyé&amp;nbsp;? Ne serait-ce pas le meilleur moyen de fermer ce type de communication&amp;nbsp;?</description>
+    </item>
+    
+    <item>
+      <title>Ne pas tapper sur le cycle en V! Ça fonctionne.</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_65/</link>
+      <pubDate>Thu, 10 Apr 2008 11:21:32 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_65/</guid>
+      <description>L&#39;agilité à ses balbutiements, avant même que le manifeste agile ne soit écrit, c&#39;est à dire avant que le terme &#34;agile&#34; ne soit inventé, était identifiée par l&#39;intitulé &#34;processus légers&#34; (lightweight processes) par opposition aux processus classiques de type cascade ou cycle en V qui se trouvaient de fait qualifié de &#34;lourd&#34; the founding of the agile alliance. Connaissez vous l&amp;rsquo;histoire de Galilée telle qu&amp;rsquo;on la raconte aux élèves de collège&amp;nbsp;?</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m not an agile zealot</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_62/</link>
+      <pubDate>Mon, 03 Mar 2008 10:13:56 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_62/</guid>
+      <description>Quand on se fait agent du changement vers des pratiques de développement agiles, on se fait rapidement traiter de fanatique et c&amp;rsquo;est effectivement ce que l&amp;rsquo;on a l&amp;rsquo;air d&amp;rsquo;être.
+Je ne sais pas comment font les autres, mais personnellement j&amp;rsquo;utilise l&amp;rsquo;idéal comme une référence et une vision de l&amp;rsquo;objectif à atteindre. Il n&amp;rsquo;est pas si facile de garder le cap quand on est plongé dans la réalité.
+Voici ce qu&amp;rsquo;un client a pu dire de moi dernièrement&amp;nbsp;:</description>
+    </item>
+    
+    <item>
+      <title>Faut-il commenter son code ?</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_61/</link>
+      <pubDate>Thu, 14 Feb 2008 21:54:34 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_61/</guid>
+      <description>Voici quelques remarques générales sur les commentaires de programme. Cet essai a été écrit suite à la lecture du poste de Christian Faure sur la litterature de code. Comme le fait remarquer Christian Faure dans une réponse à ce message, il s&#39;agit ici du point de vue d&#39;un développeur professionnel. D’une manière générale, je réduis les commentaires au minimum car ils constituent une forme de duplication d’avec le code écrit juste à coté.</description>
+    </item>
+    
+    <item>
+      <title>A part XP qui est extrême...</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_60/</link>
+      <pubDate>Thu, 17 Jan 2008 13:19:10 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_60/</guid>
+      <description>Non&amp;nbsp;! Encore cette étiquette d’extrémistes&amp;nbsp;!
+Comment Schumacher aurait-il pu gagner un championnat de formule 1 s’il n’appuyait pas au maximum sur l’accélérateur&amp;nbsp;? Voila l’idée de l’eXtreme Programming. Il ne s’agit pas d’aller trop loin, mais de rechercher la performance optimum des pratiques qui la constituent.
+Il ne faut pas croire que eXtreme Programming signifie extrême effort, ou horaires extrêmes. Il s&amp;rsquo;agit en fait d&amp;rsquo;optimiser la méthode de travail. Quel effort y-a-t&amp;rsquo;il à pousser sur l&amp;rsquo;accélérateur jusqu&amp;rsquo;à sa position idéale&amp;nbsp;?</description>
+    </item>
+    
+    <item>
+      <title>Descopage !</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_50/</link>
+      <pubDate>Tue, 18 Sep 2007 09:38:23 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_50/</guid>
+      <description>J&amp;rsquo;ai eu l&amp;rsquo;occasion, il y a déjà quelque temps, de participer à une réunion avec un client. Il s&amp;rsquo;agissait de nous présenter le projet pour nous permettre de bâtir notre réponse à appel d&amp;rsquo;offre.
+Le client avait eu une expérience de projet réussi ayant utilisé la méthode Extreme Programming, et nous espérions pouvoir vendre notre capacité à monter ce nouveau projet en utilisant cette méthode.
+L&amp;rsquo;ordre du jour de la réunion était en partie de déterminer si nous présenterions un projet &amp;ldquo;Full XP&amp;rdquo;, &amp;ldquo;partiellement XP&amp;rdquo; ou simplement &amp;ldquo;standard&amp;rdquo; (Cycle en V).</description>
+    </item>
+    
+    <item>
+      <title>Les métiers du bâtiment</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_47/</link>
+      <pubDate>Tue, 17 Apr 2007 22:18:04 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_47/</guid>
+      <description>Il est amusant de constater qu&amp;rsquo;on peut faire correspondre différents profils de développeurs aux corps de métier du bâtiment. Des maçons, des plombiers et des peintres, voici des profils tout à fait distincts. Chacun peut être un jour l&amp;rsquo;un un jour l&amp;rsquo;autre, ou plusieurs corps en même temps.
+Ce qui me fait toujours peur personnellement, c&amp;rsquo;est de me voir coller une étiquette et de ne plus pouvoir m&amp;rsquo;en défaire.</description>
+    </item>
+    
+    <item>
+      <title>Un courrier</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_45/</link>
+      <pubDate>Thu, 16 Nov 2006 23:16:17 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_45/</guid>
+      <description>­­­­­­­­­­­­– Tu fais quoi, Papa&amp;nbsp;?
+– Ecoute Marc, je suis fatigué ce soir, joue avec ton train&amp;hellip;
+– Quoi&amp;nbsp;?
+– Je suis fatigué, joue avec ton train.
+– Tu fais quoi, papa&amp;nbsp;?
+– &amp;hellip;
+– Tu fais quoi, papa&amp;nbsp;? tu fais du dessin&amp;nbsp;?
+– Non, je suis en train d&amp;rsquo;écrire une lettre à mamie.
+– C&amp;rsquo;est quoi une lettre&amp;nbsp;?
+– &amp;hellip;
+– C&amp;rsquo;est quoi une lettre, papa&amp;nbsp;?
+– C&amp;rsquo;est comme un mail sauf que je vais la donner à quelqu&amp;rsquo;un qui la portera jusqu&amp;rsquo;à la maison de mamie&amp;nbsp;!</description>
+    </item>
+    
+    <item>
+      <title>Les 6 chapeaux de la pensée</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_46/</link>
+      <pubDate>Thu, 16 Nov 2006 23:03:36 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_46/</guid>
+      <description>Une bonne partie de cet article est issu du site caplbm.typepad.com/personnelgestion.pdf Master en médecine, psychologie et philosophie, Edward de Bono est parti du constat que la pensée occidentale traditionnelle est entièrement basée sur l&amp;rsquo;analyse et l&amp;rsquo;argumentation. Or, l&amp;rsquo;analyse, si fine soit-elle, ne suscite pas l&amp;rsquo;apparition de nouveaux concepts au contraire des pensées créative et constructive.
+Edward de Bono distingue trois formes de pensée
+ la pensée constructive la pensée créative la pensée critique.</description>
+    </item>
+    
+    <item>
+      <title>Binômer ? on est pas là pour s&#39;amuser !</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_44/</link>
+      <pubDate>Sun, 10 Sep 2006 21:57:31 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_44/</guid>
+      <description>De plus en plus d&amp;rsquo;entreprises éditrices de logiciels organisent leurs équipes de travail en binôme, c&amp;rsquo;est à dire que les développeurs écrivent des programmes informatiques en se mettant à deux par clavier. Qu&amp;rsquo;est-ce qui a pu motiver ces entreprises à changer&amp;nbsp;? Cette pratique est-elle le fait d&amp;rsquo;illuminés rêvant d&amp;rsquo;un monde meilleur où la moitié des employés se tournerait les pouces&amp;nbsp;?
+Ce qui est étonnant, c&amp;rsquo;est que le binômage existe depuis plus de 20 ans, mais l&amp;rsquo;engouement pour ce mode de fonctionnement semble récent.</description>
+    </item>
+    
+    <item>
+      <title>Laissez la modélisation venir à vous...</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_43/</link>
+      <pubDate>Mon, 29 May 2006 22:19:44 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_43/</guid>
+      <description>Lors de mes cours d&amp;rsquo;informatique, j&amp;rsquo;ai très tôt appris qu&amp;rsquo;il était indispensable de réfléchir avant de se lancer dans l&amp;rsquo;écriture d&amp;rsquo;un programme. Certains ont poussé ce principe à l&amp;rsquo;extrême et on inventé le MDA (Model Driven Architecture). Cette approche propose d&amp;rsquo;écrire en UML l&amp;rsquo;intégralité du modèle de l&amp;rsquo;application avant de commencer à travailler. Je n&amp;rsquo;ai personnellement jamais rencontré de projet informatique ayant réussi en appliquant cette méthode.
+Le problème de cette approche est qu&amp;rsquo;elle essaie de manger un mammouth en une seule bouchée.</description>
+    </item>
+    
+    <item>
+      <title>Cuisine et Programmation</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_42/</link>
+      <pubDate>Sun, 15 Jan 2006 18:29:57 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_42/</guid>
+      <description>Musique et Programmation Les spécifications sont à la programmation ce qu&amp;rsquo;une partition est à la musique. La véritable performance ne se réalise qu&amp;rsquo;à partir du moment où l&amp;rsquo;on arrive à s&amp;rsquo;en détacher.
+Avez-vous déjà demandé à un ordinateur de jouer une partition de musique&amp;nbsp;? J&amp;rsquo;ai essayé, ça ne fonctionne pas. Avec du bon matériel, on obtient un air juste, mais sans âme, sans émotion. Un logiciel informatique n&amp;rsquo;est pas seulement le produit d&amp;rsquo;une activité rationnelle, c&amp;rsquo;est pour cette raison que la génération automatique d&amp;rsquo;un logiciel à partir d&amp;rsquo;un modèle UML ne fonctionne pas.</description>
+    </item>
+    
+    <item>
+      <title>Programmation délibérée</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_36/</link>
+      <pubDate>Fri, 11 Nov 2005 17:11:00 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_36/</guid>
+      <description>Avez-vous déjà vu un code où toutes les fonctions commenceraient par tester tous les paramètres reçus et qui retourneraient null si l&amp;rsquo;un des paramètres est null&amp;nbsp;? Ce type de code existe sûrement (Il est étonnant de constater que tout ce que l&amp;rsquo;on peut imaginer de plus horrible existe déjà), mais je ne l&amp;rsquo;ai jamais rencontré. J&amp;rsquo;ai par contre souvent lu du code où cette intention était présente. Cette pratique s&amp;rsquo;appelle de la programmation défensive.</description>
+    </item>
+    
+    <item>
+      <title>Boucle &#34;for&#34; ou Boucle &#34;while&#34;, laquelle est la plus rapide ?</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_37/</link>
+      <pubDate>Fri, 04 Nov 2005 23:00:39 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_37/</guid>
+      <description>Aujourd&amp;rsquo;hui, on m&amp;rsquo;a affirmé que les boucles While étaient plus rapides que les boucles For&amp;nbsp;! Cette affirmation m&amp;rsquo;a paru pour le moins étrange, et j&amp;rsquo;ai décidé de vérifier rapidement ce qu&amp;rsquo;il en était.
+J&amp;rsquo;ai fait ma petite expérience en Java.
+Expérience Voici le code source de l&amp;rsquo;expérience:
+public class LoopSpeedTest extends TestCase { private static final int VERY_BIG_NUMBER = 10000000; private static final int NOMBRE_ITERATION_EXPERIENCE = 1000; public void testForLoopSpeed() throws Exception { mesureTempsExperience(&amp;quot;for&amp;quot;, new Experience() { public void run() { for (int i = 0; i &amp;lt; VERY_BIG_NUMBER; i++) { } } }); } public void testWhileLoopSpeed() throws Exception { mesureTempsExperience(&amp;quot;while&amp;quot;, new Experience() { public void run() { int i = 0; while (i &amp;lt; VERY_BIG_NUMBER) { i++; } } }); } private void mesureTempsExperience(String nom, Experience experience) { List&amp;lt;Integer&amp;gt; resultats = new ArrayList&amp;lt;Integer&amp;gt;(NOMBRE_ITERATION_EXPERIENCE); int somme = 0; for (int indexExperience = 0; indexExperience &amp;lt; NOMBRE_ITERATION_EXPERIENCE; indexExperience++) { Chronometer.</description>
+    </item>
+    
+    <item>
+      <title>Client sur site</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_31/</link>
+      <pubDate>Mon, 05 Sep 2005 14:35:04 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_31/</guid>
+      <description>Suite à la lecture du livre &#34;Software Craftsmanship&#34;, je me suis fait quelques réflexions sur la pratique de &#34;client sur site&#34; proposé par XP. Le cycle en V connaît un défaut majeur&amp;nbsp;: l&amp;rsquo;effet &amp;ldquo;téléphone arabe&amp;rdquo;. L&amp;rsquo;idée de diviser le travail de développement logiciel par spécialisation spec/dev/test en donnant la responsabilité de chaque spécialité à des &amp;ldquo;chefs&amp;rdquo; distincts produit un effet de téléphone arabe.
+En effet la première équipe, chargée des spécification, explore l&amp;rsquo;&amp;ldquo;idée&amp;rdquo; du logiciel et imagine une solution permettant de répondre à tous les besoins du client.</description>
+    </item>
+    
+    <item>
+      <title>Une métaphore du binômage</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_29/</link>
+      <pubDate>Sat, 09 Jul 2005 15:51:00 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_29/</guid>
+      <description>Dans la littérature sur l’eXtreme Programming, on parle du rôle des membres d’un binôme en tant que “Pilote” et “Copilote”. Après trois ans de pratique je viens seulement de réaliser que ces termes font sans doute référence à une équipe de pilote de rallye. Dans la voiture, un des deux équipiers a le rôle du pilote et son travail est de “manipuler” la voiture le plus rapidement possible. Pour améliorer ses performances, il se décharge complètement de la gestion de l’itinéraire sur son coéquipier.</description>
+    </item>
+    
+    <item>
+      <title>Le développeur fonctionnaire</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_28/</link>
+      <pubDate>Mon, 27 Jun 2005 15:43:00 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_28/</guid>
+      <description>Ce matin en arrivant à sont travail à 09h00 pile, Paul s’est assis devant son poste de travail et a commencé à regarder ses mails. 30 minutes plus tard, il s’est levé pour aller prendre son café et discuter un peu avec ces collègues des résultats de Roland-Garros. A 10H, il revient à son poste et trouve Éric, son binôme, en train de lire une portion de code. Il s’assoie à coté de lui et commence à trier un peu ses papiers.</description>
+    </item>
+    
+    <item>
+      <title>La culture des Design Patterns</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_27/</link>
+      <pubDate>Sun, 19 Jun 2005 15:38:00 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_27/</guid>
+      <description>Jean-Pierre&amp;nbsp;: Dans quel arrondissement de Paris se trouve le Parthenon&amp;nbsp;? Joueur&amp;nbsp;: 5 ème Jean-Pierre&amp;nbsp;: C’est votre dernier mot&amp;nbsp;?  La culture, c’est comme ça, quand on ne connaît pas la réponse, la question parait très difficile, alors que si l’on sait, elle parait évidente. C’est ce qu’on pourrait appeler l’”effet contraste”. Mais avant de continuer, voyons un peu les différentes réponses que le joueur aurait pu donner&amp;nbsp;: - comme ici, il a pu choisir un arrondissement au hasard (mais il doit pour cela connaître le nombre d’arrondissements parisiens, pour ne pas répondre 32 ème&amp;nbsp;!</description>
+    </item>
+    
+    <item>
+      <title>La peur au ventre</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_26/</link>
+      <pubDate>Thu, 02 Jun 2005 15:33:00 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_26/</guid>
+      <description>Je voudrais ajouter quelque chose d’autre au sujet de ma première remarque, sur le fait qu’il est difficile de faire comprendre la méthode Extreme Programming aux développeurs. Je crois que le frein principal est la peur. La peur de ne pas y arriver. Les développeurs d’un projet ont très souvent peur de ne pas savoir faire ce qu’on leur demande. Peur de ne pas finir à temps. C’est aussi cette peur qui fait qu’on bâcle le travail ou qu’on prend des raccourcis comme de copier-coller une section de code plutôt que de se poser la question du design.</description>
+    </item>
+    
+    <item>
+      <title>Le solide dos de l’informatique</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_30/</link>
+      <pubDate>Thu, 02 Jun 2005 11:53:00 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_30/</guid>
+      <description>Anne&amp;nbsp;: Ho non, l’ordinateur ne marche plus.
+Etienne (depuis la salle de bain)&amp;nbsp;: qu’est ce qui ce passe&amp;nbsp;?
+Anne&amp;nbsp;: y plus rien qui marche.
+Etienne (depuis la salle de bain)&amp;nbsp;: qu’est ce qui ce passe, vraaaiment&amp;nbsp;?
+Anne&amp;nbsp;: Can’t reach P.O.P.3 server, contact your administrator…
+Etienne (Depuis la salle de bain, rassuré de savoir que l’ordinateur démarre en fait)&amp;nbsp;: J’arrive, mais apparemment, ce n’est pas de ma faute pour une fois.</description>
+    </item>
+    
+  </channel>
+</rss>

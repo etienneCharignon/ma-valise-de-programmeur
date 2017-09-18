@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_118/</loc>
@@ -467,7 +468,7 @@
   </url>
   
   <url>
-    <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%C3%A9gories/biblioth%C3%A8que/</loc>
+    <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/categories/biblioth%C3%A8que/</loc>
     <lastmod>2009-11-08T22:49:02+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -479,30 +480,31 @@
   </url>
   
   <url>
-    <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%C3%A9gories/cahier-du-jour/</loc>
+    <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/categories/cahier-du-jour/</loc>
     <lastmod>2009-10-20T17:46:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%C3%A9gories/</loc>
+    <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/categories/</loc>
+    <lastmod>2009-11-08T22:49:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%C3%A9gories/conf%C3%A9rences/</loc>
+    <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/categories/conf%C3%A9rences/</loc>
     <lastmod>2015-08-05T22:47:22+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%C3%A9gories/dossiers/</loc>
+    <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/categories/dossiers/</loc>
     <lastmod>2011-03-15T22:20:03+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/cat%C3%A9gories/essais/</loc>
+    <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/categories/essais/</loc>
     <lastmod>2013-08-25T23:00:53+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -516,6 +518,11 @@
   <url>
     <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/</loc>
     <lastmod>2015-08-05T22:47:22+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://etiennecharignon.github.io/ma-valise-de-programmeur/tags/</loc>
     <priority>0</priority>
   </url>
   

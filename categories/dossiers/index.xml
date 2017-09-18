@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dossiers on Ma valise de programmeur</title>
+    <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/categories/dossiers/</link>
+    <description>Recent content in Dossiers on Ma valise de programmeur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 15 Mar 2011 22:20:03 +0100</lastBuildDate>
+    
+	<atom:link href="https://etiennecharignon.github.io/ma-valise-de-programmeur/categories/dossiers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modélisation Agile</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_52/</link>
+      <pubDate>Tue, 15 Mar 2011 22:20:03 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_52/</guid>
+      <description>En fouillant la page administration de mon blog je viens de tomber sur un brouillon d&#39;article écrit il y a déjà plus de 3 ans. Je me souviens avoir beaucoup hésité à publier cet article, n&#39;étant pas complètement satisfait du contenu. En fin de compte j&#39;ai trouvé ça intéressant. J&#39;espère que vous aurez autant de plaisir que moi à le lire. Lors des conférences Valtech Days 20071, le sujet de la place de la modélisation dans les processus Agiles est revenu plusieurs fois.</description>
+    </item>
+    
+    <item>
+      <title>Pourquoi faut-il faire des tests de recette automatiques ?</title>
+      <link>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_32/</link>
+      <pubDate>Mon, 10 Jan 2005 14:57:00 +0100</pubDate>
+      
+      <guid>https://etiennecharignon.github.io/ma-valise-de-programmeur/post/article_32/</guid>
+      <description>1. Quel est l&amp;rsquo;objectif de la documentation&amp;nbsp;? Quand on travaille dans un labo de R&amp;amp;D, on ne côtoie que des cervelles en ébullition. Notre métier est de penser. Comme le dit Tom Demarco1 nous sommes des « Knowledge Worker ». A ce titre, nous pouvons prendre l&amp;rsquo;habitude de réfléchir sur la forme et l&amp;rsquo;utilité des différentes pratiques qui constituent notre « process » de travail.
+Pourquoi faisons-nous de la documentation&amp;nbsp;?</description>
+    </item>
+    
+  </channel>
+</rss>
