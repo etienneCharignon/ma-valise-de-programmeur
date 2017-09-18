@@ -2,7 +2,7 @@
 id = 4
 title = "Château de cartes"
 date = "2008-01-15T17:05:56+01:00"
-catégories = [ "Cahier du jour" ]
+categories = [ "Cahier du jour" ]
 +++
 
 Un programmeur qui travaille sans tests automatisés est comme un aveugle qui construit un château de cartes. 

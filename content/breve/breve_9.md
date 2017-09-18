@@ -2,7 +2,7 @@
 id = 9
 title = "Share rather than enforce practices"
 date = "2009-10-20T17:46:13+01:00"
-catégories = [ "Cahier du jour" ]
+categories = [ "Cahier du jour" ]
 +++
 
 Une citation de Toyota extraite du document [lean primer by Larman and Vodde](http://www.leanprimer.com/wiki/index.php?title=Main_Page)

@@ -2,6 +2,7 @@ baseURL = "https://etiennecharignon.github.io/ma-valise-de-programmeur/"
 title = "Ma valise de programmeur"
 languageCode = "fr-FR"
 disqusShortName = "ma-valise"
+theme = "hugo_theme_robust"
 
 [Params]
   dateformat = "02/01/2006"
@@ -10,4 +11,4 @@ disqusShortName = "ma-valise"
 
 [taxonomies]
   tag = "tags"
-  category = "catégories"
+  category = "categories"

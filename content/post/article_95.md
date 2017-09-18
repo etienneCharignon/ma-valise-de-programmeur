@@ -3,7 +3,7 @@ id = 95
 title = "Un logiciel se construit par le toit"
 soustitre = ""
 date = "2009-12-20T23:19:21+01:00"
-catégories = [ "Essais" ]
+categories = [ "Essais" ]
 description = ""
 comments = true
 +++

@@ -3,7 +3,7 @@ id = 42
 title = "Cuisine et Programmation"
 soustitre = ""
 date = "2006-01-15T18:29:57+01:00"
-catégories = [ "Essais" ]
+categories = [ "Essais" ]
 description = ""
 comments = true
 +++

@@ -3,7 +3,7 @@ id = 86
 title = "Elle booste ma suite de tests ?"
 soustitre = ""
 date = "2009-06-24T22:55:34+01:00"
-catégories = [ "Essais" ]
+categories = [ "Essais" ]
 description = ""
 comments = true
 +++

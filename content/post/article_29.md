@@ -3,7 +3,7 @@ id = 29
 title = "Une métaphore du binômage"
 soustitre = ""
 date = "2005-07-09T15:51:00+01:00"
-catégories = [ "Essais" ]
+categories = [ "Essais" ]
 description = ""
 comments = true
 +++

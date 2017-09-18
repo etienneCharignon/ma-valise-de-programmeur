@@ -2,7 +2,7 @@
 id = 3
 title = "Spaghetti Bolognaise"
 date = "2008-01-10T15:03:39+01:00"
-catégories = [ "Cahier du jour" ]
+categories = [ "Cahier du jour" ]
 +++
 
 From [Quality Software Management: congruent action](../article_51) (p125), by Gerald Weinberg, about the variety-reducing style of management:

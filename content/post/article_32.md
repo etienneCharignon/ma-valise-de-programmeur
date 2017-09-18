@@ -3,7 +3,7 @@ id = 32
 title = "Pourquoi faut-il faire des tests de recette automatiques ?"
 soustitre = ""
 date = "2005-01-10T14:57:00+01:00"
-catégories = [ "Dossiers" ]
+categories = [ "Dossiers" ]
 description = "Les documents de spécifications détaillés gagnent à être remplacés par des tests de recette automatisé."
 comments = true
 +++

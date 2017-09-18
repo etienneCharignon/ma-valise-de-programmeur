@@ -3,7 +3,7 @@ id = 82
 title = "Le binômage par l'illustration"
 soustitre = ""
 date = "2009-04-16T23:09:55+01:00"
-catégories = [ "Essais" ]
+categories = [ "Essais" ]
 description = ""
 comments = true
 +++

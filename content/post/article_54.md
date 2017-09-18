@@ -3,7 +3,7 @@ id = 54
 title = "XP Days 2006 France"
 soustitre = ""
 date = "2006-05-02T10:05:00+01:00"
-catégories = [ "Conférences" ]
+categories = [ "Conférences" ]
 description = "Retour sur les conférences dédiées à l'extreme programming et à l'Agilité qui ont eu lieu à Paris les 23 & 24 mars 2006."
 comments = true
 +++

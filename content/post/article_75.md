@@ -3,7 +3,7 @@ id = 75
 title = "\"Je n’ai rien compris, désolé\""
 soustitre = ""
 date = "2009-03-08T23:18:55+01:00"
-catégories = [ "Essais" ]
+categories = [ "Essais" ]
 description = ""
 comments = true
 +++

@@ -3,7 +3,7 @@ id = 108
 title = "Les projets : pilotage par la planification ou par la qualité ?"
 soustitre = ""
 date = "2011-09-17T22:23:57+01:00"
-catégories = [ "Essais" ]
+categories = [ "Essais" ]
 description = "Au départ de notre projet nous commençons par chercher un texte. Nous parcourons les bibliothèques publiques ou les étagères de notre logement, voire internet pour trouver le texte d'une pièce qui nous plaise..."
 comments = true
 +++

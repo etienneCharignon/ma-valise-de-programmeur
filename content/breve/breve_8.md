@@ -2,7 +2,7 @@
 id = 8
 title = "Fluidifier le trafic"
 date = "2009-05-07T23:03:26+01:00"
-catégories = [ "Cahier du jour" ]
+categories = [ "Cahier du jour" ]
 +++
 
 L'agilité est à la méthode classique ce que les ronds-points sont aux carrefours.

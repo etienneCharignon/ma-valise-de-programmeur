@@ -3,7 +3,7 @@ id = 31
 title = "Client sur site"
 soustitre = ""
 date = "2005-09-05T14:35:04+01:00"
-catégories = [ "Essais" ]
+categories = [ "Essais" ]
 description = "\"Une seule équipe pour un seul produit\". Voici la réalité qui se cache derrière la pratique de client sur site d'XP."
 comments = true
 +++

@@ -3,7 +3,7 @@ id = 46
 title = "Les 6 chapeaux de la pensée"
 soustitre = ""
 date = "2006-11-16T23:03:36+01:00"
-catégories = [ "Essais" ]
+categories = [ "Essais" ]
 description = ""
 comments = true
 +++
